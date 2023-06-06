@@ -10,29 +10,35 @@
      <title>Document</title>
 </head>
 
-<body>
+<body class="bg-dark">
 
      <div id="app">
 
           {{ message }}
 
-          <div class="card" style="width: 18rem;" v-for="movie of movies">
-               <img :src="movie.cover ? movie.cover : '' " class="card-img-top" alt="...">
-               <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                         card's content.</p>
+          <section class="d-flex flex-wrap gap-3">
+
+               <div class="card" style="width: 18rem;" v-for="movie of movies">
+                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
+                    <div class="card-body">
+                         <h5 class="card-title">{{movie.title}}</h5>
+                         <h6 class="fw-lighter fst-italic">( {{movie.optional_title}} )</h6>
+                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
+                              card's content.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                         <li class="list-group-item">Year: {{movie.year ? movie.year : "unknown"}}</li>
+                         <li class="list-group-item">Web calification: {{ movie.web_calification ? movie.web_calification :unknown}}</li>
+                         <li class="list-group-item">{{movie.clasification ? movie.clasification : "unknown"}}</li>
+                    </ul>
+                    <div class="card-body">
+                         <a :href="movie.sinopsis" class="card-link">Card link</a>
+                         <a href="#" class="card-link">Another link</a>
+                    </div>
                </div>
-               <ul class="list-group list-group-flush">
-                    <li class="list-group-item">An item</li>
-                    <li class="list-group-item">A second item</li>
-                    <li class="list-group-item">A third item</li>
-               </ul>
-               <div class="card-body">
-                    <a href="#" class="card-link">Card link</a>
-                    <a href="#" class="card-link">Another link</a>
-               </div>
-          </div>
+
+          </section>
+
 
      </div>
 
