@@ -11,6 +11,7 @@ createApp({
      created(){
           this.movies = data.movies
           console.log(this.movies);
+
      },
      computed:{
           filter(){
