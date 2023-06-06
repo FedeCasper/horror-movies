@@ -1959,7 +1959,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=8080",
        "year": 2008,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8080.jpg"
+       "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg"
       },
       {
        "title": "Quarentine 2:Terminal",
@@ -1968,7 +1968,7 @@ const data = {
        "year": 2011,
        "trailer": "https:\/\/www.youtube.com\/watch?v=yWeTSB17IW8",
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12039.jpg"
+       "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/41\/Quarantine2Poster.jpg"
       },
       {
        "title": "Realms",
@@ -1998,7 +1998,7 @@ const data = {
        "year": 2009,
        "trailer": "https:\/\/www.youtube.com\/watch?v=55NP2_ZD4dY&amp;feature=emb_logo",
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9914.jpg"
+       "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg"
       },
       {
        "title": "Resident Evil",
@@ -2006,7 +2006,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=266",
        "year": 2002,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/residentevil.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/residentevil\/images\/f\/f3\/Resident_evil_movie.jpg\/revision\/latest?cb=20120331195656&amp;path-prefix=es"
       },
       {
        "title": "Resident Evil: Afterlife",
@@ -2015,7 +2015,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=11233",
        "year": 2010,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11233.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/residentevil\/images\/5\/55\/Resident-evil-after-life-poster.jpg\/revision\/latest?cb=20121101015153&amp;path-prefix=es"
       },
       {
        "title": "Resident Evil: Apocalipsis",
@@ -2024,7 +2024,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=267",
        "year": 2004,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/2.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/residentevil\/images\/4\/4c\/Residentevil2poster.jpg\/revision\/latest?cb=20110103203204&amp;path-prefix=es"
       },
       {
        "title": "Resident Evil: Extinction",
@@ -2033,7 +2033,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4286",
        "year": 2007,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/residentevil3.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/residentevil\/images\/a\/ac\/Ree.jpg\/revision\/latest?cb=20110625073702&amp;path-prefix=es"
       },
       {
        "title": "Revelaciones",
@@ -2042,7 +2042,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2383 ",
        "year": 2000,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/Lo_Que_La_Verdad_Esconde.jpg"
+       "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg"
       },
       {
        "title": "Sam Was Here",
@@ -2060,7 +2060,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=98",
        "year": 1996,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/Scream.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/screaam\/images\/d\/d2\/Scream_de_1996.jpg\/revision\/latest?cb=20220301195645&amp;path-prefix=es"
       },
       {
        "title": "Scream 2",
@@ -2068,7 +2068,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=99",
        "year": 1997,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/Scream%202.jpg"
+       "cover": "https:\/\/m.media-amazon.com\/images\/I\/41bIWViNrKL._AC_UF894,1000_QL80_.jpg"
       },
       {
        "title": "Scream 3",
@@ -2076,7 +2076,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=100",
        "year": 2000,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/Scream%203.jpg"
+       "cover": "https:\/\/pics.filmaffinity.com\/Scream_3-716015756-large.jpg"
       },
       {
        "title": "Scream 4",
@@ -2093,7 +2093,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=104",
        "year": 1997,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/se.jpg"
+       "cover": "https:\/\/2.bp.blogspot.com\/-dbXJOsiSD3g\/V6gBwCGXRRI\/AAAAAAAABmM\/7Ykxq2XbZRQwd0B6zDD9vOHdb_68nnN3gCLcB\/s1600\/Se%2BLo%2BQue%2BHicieron%2BEl%2BVerano%2BPasado.jpg"
       },
       {
        "title": "Señales",
@@ -2102,7 +2102,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=148 ",
        "year": 2002,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/senales.jpg"
+       "cover": "https:\/\/pics.filmaffinity.com\/Seanales-997351418-large.jpg"
       },
       {
        "title": "Sexto Sentido",
@@ -2111,7 +2111,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=46",
        "year": 1999,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/elsexto.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/doblaje\/images\/c\/c0\/SEXTO_SENTIDO_POSTER.jpg\/revision\/latest?cb=20210402201156&amp;path-prefix=es"
       },
       {
        "title": "Silent Hill",
@@ -2121,7 +2121,7 @@ const data = {
        "year": 2006,
        "trailer": "https:\/\/www.youtube.com\/watch?v=ixWjtoYSUMM",
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/silenthill.jpg"
+       "cover": "https:\/\/www.sonypictures.com\/sites\/default\/files\/styles\/max_560x840\/public\/chameleon\/title-movie\/238840_SILENT%20HILL_1400x2100_Eng.jpg?itok=cV5B_OHO"
       },
       {
        "title": "Silent Hill 2: Revelations",
@@ -2131,7 +2131,7 @@ const data = {
        "year": 2012,
        "trailer": "https:\/\/www.youtube.com\/watch?v=9b4iOhWswYM",
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_308.jpg"
+       "cover": "https:\/\/static.wikia.nocookie.net\/silenthill\/images\/e\/e1\/RevelationsPoster.jpg\/revision\/latest?cb=20120907210602&amp;path-prefix=es"
       },
       {
        "title": "Silent House",
@@ -2140,7 +2140,7 @@ const data = {
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=16001",
        "year": 2012,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_silenth.jpg"
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg"
       },
       {
        "title": "Sinister",
@@ -2148,7 +2148,8 @@ const data = {
        "web_calification": 7.48,
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18552 ",
        "year": 2012,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg"
       },
       {
        "title": "Sleepy Hollow",
@@ -2157,7 +2158,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=181",
        "year": 1999,
        "trailer": "https:\/\/www.youtube.com\/watch?v=R6O4Himch7g",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/Sleepy_Hollow-450030233-large.jpg"
       },
       {
        "title": "Slender Man",
@@ -2165,7 +2167,8 @@ const data = {
        "web_calification": 4.65,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32423",
        "year": 2018,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg"
       },
       {
        "title": "Solstice",
@@ -2173,7 +2176,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5770",
        "year": 2008,
        "trailer": "https:\/\/www.youtube.com\/watch?time_continue=134&amp;v=0WUxlIg8tSc",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMGQwYjhmZWItYTVkOC00NzgxLWE4NGMtYzFkYzk1YmViYjA0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_FMjpg_UX1000_.jpg"
       },
       {
        "title": "Stigmata",
@@ -2182,7 +2186,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=467",
        "year": 1999,
        "trailer": "https:\/\/www.youtube.com\/watch?v=rwsTYQ26QDQ",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/Stigmata-565498823-large.jpg"
       },
       {
        "title": "Stir Of Echoes",
@@ -2190,22 +2195,25 @@ const data = {
        "web_calification": 7.08,
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1039",
        "year": 1999,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2NTEwZWYtYzcxYi00MzZhLTg0NDMtNTBhMTM3MjEyMmU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg"
       },
       {
        "title": "Stir Of Echoes 2",
        "optional_title": "Ecos Mortales 2 \/ El último Escalón 2",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6346",
        "year": 2007,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/3.bp.blogspot.com\/-JVrTZuVGCXk\/WOlBvM67-VI\/AAAAAAAAEjo\/g9cp6ssHiNU7WktNF5UH8YphV5pPJL8ngCLcB\/s1600\/stir%2Bof%2Bechoes%2B2.jpg"
       },
       {
-       "title": "Stranger Things (Serie)",
+       "title": "Stranger Things",
        "optional_title": "Montauk",
        "web_calification": 8.12,
        "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=2614",
        "year": 2016,
-       "clasification": "serie"
+       "clasification": "serie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg"
       },
       {
        "title": "Temple",
@@ -2214,14 +2222,16 @@ const data = {
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30886",
        "year": 2017,
        "trailer": "https:\/\/www.youtube.com\/watch?v=w6bQji-tJrQ&amp;feature=emb_logo",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/17\/07\/20\/17\/05\/597209.jpg"
       },
       {
        "title": "Terrifier",
        "web_calification": 7.08,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30330",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg"
       },
       {
        "title": "The Amityville Horror: Remake",
@@ -2230,7 +2240,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2270",
        "year": 2005,
        "trailer": "https:\/\/www.youtube.com\/watch?v=HEujNGCGM-0",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/4D246dpe7yy2GvHI2IbpeqkUXry.jpg"
       },
       {
        "title": "The Boy",
@@ -2238,7 +2249,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25683",
        "year": 2016,
        "trailer": "https:\/\/www.youtube.com\/watch?v=juYvhcgleRI",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg"
       },
       {
        "title": "The Boy II: Brahms",
@@ -2246,7 +2258,8 @@ const data = {
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38136",
        "year": 2020,
        "trailer": "https:\/\/www.youtube.com\/watch?v=GmEudoOozUc&amp;t=1s",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/brahms-the-boy-ii-poster-1578477710.jpeg"
       },
       {
        "title": "The Cabin in the Woods",
@@ -2254,7 +2267,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11235",
        "year": 2011,
        "trailer": "https:\/\/www.youtube.com\/watch?v=EdRoP4fj5-g#action=share",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/horrornews.net\/wp-content\/uploads\/2018\/12\/The-Cabin-in-the-Woods-2012-movie-Joss-Whedon-Drew-Goddard-5.jpg"
       },
       {
        "title": "The Cell",
@@ -2263,7 +2277,8 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=2385",
        "year": 2000,
        "trailer": "https:\/\/www.youtube.com\/watch?v=-eCD5Nuoyi4",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMDY1NmVmOTItYWU0NC00OGU2LWIyNTctYTU3NTY3ZjJkOWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
       },
       {
        "title": "The Conjuring",
@@ -2271,7 +2286,8 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18122",
        "year": 2013,
        "trailer": "https:\/\/youtu.be\/smaM2qG7Sl4",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.gbhbl.com\/wp-content\/uploads\/2014\/01\/Conjur.jpg"
       },
       {
        "title": "The Conjuring II",
@@ -2279,7 +2295,8 @@ const data = {
        "web_calification": 7.86,
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27381",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg"
       },
       {
        "title": "The Conjuring III: The Devil Made me Do it",
@@ -2287,14 +2304,16 @@ const data = {
        "web_calification": 6.44,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32043 ",
        "year": 2021,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/images.moviesanywhere.com\/a4d68b895ddea9e52e345e2f0c6838ab\/423fc271-7a33-4155-92db-3c926d8c1af3.jpg"
       },
       {
        "title": "The Darkness",
        "optional_title": "6 Miranda Drive \/ Maldicion Ancestral",
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18390",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2016\/5\/w1280\/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg"
       },
       {
        "title": "The Descent",
@@ -2302,43 +2321,49 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2302",
        "year": 2005,
        "trailer": "https:\/\/www.youtube.com\/watch?v=4mujk825LXk",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Descent-631321870-large.jpg"
       },
       {
        "title": "The Devi's Tomb",
        "optional_title": "La Tumba del Diablo",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=11288",
        "year": 2009,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/4bbabce4fe53b96c9ef7d49829ca9ef2935683846cdf759f4dbc52b3c0f669f4._RI_TTW_.png"
       },
       {
        "title": "The Devil Inside",
        "optional_title": "Con el Diablo Dentro",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19061 ",
        "year": 2012,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg"
       },
       {
        "title": "The Disappoinments Room",
        "optional_title": "La Casa del Pánico \/ El Ático ",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22088",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1_.jpg"
       },
       {
        "title": "The Echo: Remake",
        "optional_title": "El eco",
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2543",
        "year": 2008,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749"
       },
       {
-       "title": "The Exorcist (Serie)",
+       "title": "The Exorcist ",
        "optional_title": "El Exorcista",
        "web_calification": 7.74,
        "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=929",
        "year": "2016 - 2018",
-       "clasification": "serie"
+       "clasification": "serie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg"
       },
       {
        "title": "The Eye",
@@ -2346,14 +2371,16 @@ const data = {
        "web_calification": 7.39,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=203",
        "year": 2008,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Eye_Visiones-534849986-large.jpg"
       },
       {
        "title": "The Fog",
        "optional_title": "Terror en la Niebla",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=2595",
        "year": 2005,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/Terror_en_la_niebla-262588847-large.jpg"
       },
       {
        "title": "The Forgotten Ones",
@@ -2361,14 +2388,16 @@ const data = {
        "web_calification": 5.45,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11555",
        "year": 2009,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYWUyNWI5ODMtNDJlZS00ZjVjLWIxMDUtMWNhMjEyZGMwOTdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg"
       },
       {
        "title": "The Fourth Kind (The 4th Kind)",
        "optional_title": "Contactos de Cuarto Tipo \/ El Cuarto Contacto",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=10292",
        "year": 2009,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg"
       },
       {
        "title": "The Haunting ",
@@ -2376,36 +2405,41 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1629",
        "year": 1999,
        "trailer": "https:\/\/www.youtube.com\/watch?v=xsOVtbsMKtA",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ihCDU8FulNvHQFqs01cEc7CE3zq.jpg"
       },
       {
        "title": "The Haunting in Connecticut",
        "optional_title": "Exorcismo en Connecticut",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=8290",
        "year": 2008,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/content.numetro.co.za\/image_resized_files\/927-1-1-3-1559220714.jpg"
       },
       {
-       "title": "The Haunting of Bly Manor (Serie)",
+       "title": "The Haunting of Bly Manor ",
        "optional_title": "La Maldición de Bly Manor",
        "web_calification": 7.72,
        "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=4017",
        "year": 2020,
-       "clasification": "serie"
+       "clasification": "serie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
       },
       {
-       "title": "The Haunting of Hill House (Serie)",
+       "title": "The Haunting of Hill House ",
        "optional_title": "La Maldición de Hill House",
        "web_calification": 8.12,
        "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3220",
        "year": 2018,
-       "clasification": "serie"
+       "clasification": "serie",
+       "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg"
       },
       {
        "title": "The Houses That October Built",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29173",
        "year": 2014,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/play-lh.googleusercontent.com\/EIsRiHD7D6JEochVh_uPXV0AD0cLfccGkJxram8TA1xTz5p_TqdV8MM7r421kkyn6xj5"
       },
       {
        "title": "The Invisible Man",
@@ -2413,7 +2447,8 @@ const data = {
        "web_calification": 6.81,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10983",
        "year": 2020,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e02ce8fbe14ca5d06039aca\/1585685659999-JFLB7AKUH62263FQ4EWJ\/5e6634ea355fb.image.jpg?format=1000w"
       },
       {
        "title": "The Invitation",
@@ -2422,14 +2457,16 @@ const data = {
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22366",
        "year": 2015,
        "trailer": "https:\/\/www.youtube.com\/watch?v=6AoDnFGrWxM&amp;feature=emb_logo",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/La_invitaciaon-305606357-large.jpg"
       },
       {
        "title": "The Last Exorcism",
        "optional_title": "El ultimo exoscirmo",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=12933",
        "year": 2010,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg"
       },
       {
        "title": "The Manor",
@@ -2437,7 +2474,8 @@ const data = {
        "web_calification": 6.04,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41424",
        "year": 2021,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Manor-117745982-large.jpg"
       },
       {
        "title": "The Maus",
@@ -2446,7 +2484,8 @@ const data = {
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=33108",
        "year": 2017,
        "trailer": "https:\/\/www.youtube.com\/watch?v=MYDjNe0JJdI&amp;feature=emb_logo",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BY2E4ZTZjMTEtYTU3Ni00NDQ1LTlmOTctNjNjYTEzYWM3NzEyXkEyXkFqcGdeQXVyMjUxOTUyOTI@._V1_FMjpg_UX1000_.jpg"
       },
       {
        "title": "The Medium",
@@ -2454,14 +2493,16 @@ const data = {
        "web_calification": 6.2,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41903",
        "year": 2021,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Medium-772869068-large.jpg"
       },
       {
        "title": "The Monster",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30072",
        "year": 2016,
        "trailer": "https:\/\/www.youtube.com\/watch?v=tbyCUdzR87Y",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg"
       },
       {
        "title": "The Neon Demon",
@@ -2469,7 +2510,8 @@ const data = {
        "web_calification": 5.93,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30053",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/pics.filmaffinity.com\/The_Neon_Demon-386448800-large.jpg"
       },
       {
        "title": "The Nun",
@@ -2477,7 +2519,8 @@ const data = {
        "web_calification": 6.02,
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32569",
        "year": 2018,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg"
       },
       {
        "title": "The Orphan",
@@ -2485,14 +2528,16 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9304 ",
        "year": 2009,
        "trailer": "https:\/\/www.youtube.com\/watch?v=gsHuk7EARdA",
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg"
       },
       {
        "title": "The Other Side of the Door ",
        "optional_title": "El Otro Lado de la Puerta ",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29162",
        "year": 2016,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg"
       },
       {
        "title": "The Posession",
@@ -2500,34 +2545,39 @@ const data = {
        "web_calification": 6.44,
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11511 ",
        "year": 2012,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg"
       },
       {
        "title": "The Quiet Ones",
        "optional_title": "It's Always the Quiet Ones (Hush)",
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10437",
        "year": 2010,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg"
       },
       {
        "title": "The Relic",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=1185",
        "year": 1995,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
       },
       {
        "title": "The Rite",
        "optional_title": "El Rito",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=13888",
        "year": 2011,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg"
       },
       {
        "title": "The Ruins",
        "optional_title": "Las Ruinas",
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6834",
        "year": 2008,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg"
       },
       {
        "title": "The Sphere",
@@ -2535,14 +2585,16 @@ const data = {
        "web_calification": 6.45,
        "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1052",
        "year": 1998,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/m.media-amazon.com\/images\/I\/71sKDn3FxnL._AC_UF894,1000_QL80_.jpg"
       },
       {
        "title": "The Strangers",
        "optional_title": "Los Extraños",
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=5717",
        "year": 2008,
-       "clasification": "movie"
+       "clasification": "movie",
+       "cover": "https:\/\/images.moviesanywhere.com\/a544181711012dd5be26376c63257f91\/2b1e126f-fcb2-4241-b645-08c4c7286692.jpg"
       },
       {
        "title": "The Tag-Along",
