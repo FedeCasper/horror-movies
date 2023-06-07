@@ -10,7 +10,7 @@
           integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
      <link rel="stylesheet" href="style.css">
-     <title>Casper's Horror Movies</title>
+     <title>Movies</title>
 </head>
 
 <body class="bg-dark">
@@ -29,16 +29,16 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                               <li class="nav-item">
-                                   <a class="nav-link active text-danger" aria-current="page" href="#">Home</a>
+                                   <a class="nav-link" aria-current="page" href="#">Home</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link" href="#">Full Catalog</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="./movies.html">Movies</a>
+                                   <a class="nav-link active text-danger" href="#">Movies</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">Series</a>
+                                   <a class="nav-link" href="./series.html">Series</a>
                               </li>
                               <li class="nav-item dropdown">
                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -63,18 +63,9 @@
                </div>
           </nav>
 
-          <section v-if="initializer === true" class="d-flex flex-column justify-content-center align-items-center w-75 mx-auto">
-               <h4 class="d-flex mb-4 text-light text-center">What scary movie are you looking for?</h4>
-               <form class="d-flex w-100" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
-                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="initializer = false"></i></button>
-               </form>
-               <h6 class="d-flex text-light pt-3">Now counting <span class="text-danger px-2">{{movies.length}}</span> movies</h6>
-          </section>
+          <section class="d-flex flex-wrap gap-3 justify-content-center py-5">
 
-          <section v-if="initializer === false" class="d-flex flex-wrap gap-3 justify-content-center py-5">
-
-               <div class="card" style="width: 18rem;" v-for="movie of filteredMovies">
+               <div class="card" style="width: 18rem;" v-for="movie of filteredOnlyMovies">
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{movie.title}}</h5>
@@ -112,7 +103,7 @@
           crossorigin="anonymous"></script>
      <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
      <script src="data.js"></script>
-     <script src="./main.js"></script>
+     <script src="./movies.js"></script>
 </body>
 
 </html>
