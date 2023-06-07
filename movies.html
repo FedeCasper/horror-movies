@@ -32,7 +32,7 @@
                                    <a class="nav-link" aria-current="page" href="#">Home</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="#">Full Catalog</a>
+                                   <a class="nav-link" href="./fullCatalog.html">Full Catalog</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link active text-danger" href="#">Movies</a>
@@ -63,7 +63,7 @@
                </div>
           </nav>
 
-          <section class="d-flex flex-wrap gap-3 justify-content-center py-5">
+          <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
 
                <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredOnlyMovies">
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
