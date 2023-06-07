@@ -491,7 +491,8 @@ const data = [
       "web_calification": 7.98,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=52",
       "year": 2004,
-      "clasification": "movie"
+      "clasification": "movie",
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg"
      },
      {
       "title": "Dead Silence",
@@ -595,7 +596,8 @@ const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30680",
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/watch?time_continue=10&amp;v=bEq8Xv4WGwo&amp;feature=emb_logo",
-      "clasification": "movie"
+      "clasification": "movie",
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg"
      },
      {
       "title": "Devil´s Island",
@@ -1615,7 +1617,7 @@ const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/watch?v=nbLk_gI5Vdw",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11766.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/3900\/3917\/002_m.jpg"
      },
      {
       "title": "Los Otros",
@@ -1624,7 +1626,7 @@ const data = [
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=141",
       "year": 2001,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/LosOtros.jpg"
+      "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png"
      },
      {
       "title": "Los Renegados del Diablo",
@@ -1632,7 +1634,7 @@ const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2436",
       "year": 2005,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/dedevilpro.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
      },
      {
       "title": "Los Testigos",
@@ -1640,7 +1642,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3428 ",
       "year": 2002,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/visitantes2222.jpg"
+      "cover": "https:\/\/static.wikia.nocookie.net\/doblaje\/images\/6\/6d\/Gathering_dvd_us.jpg\/revision\/latest?cb=20111102154740&amp;path-prefix=es"
      },
      {
       "title": "Madhouse",
@@ -1664,7 +1666,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11962 ",
       "year": 2013,
       "clasification": "movie",
-      "cover": "https://img.moviesrankings.com/t/p/w1280/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg"
+      "cover": "https:\/\/img.moviesrankings.com\/t\/p\/w1280\/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg"
      },
      {
       "title": "Marianne",
@@ -1690,7 +1692,7 @@ const data = [
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=7187",
       "year": 2008,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7187_2.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/2300\/2330\/001_m.jpg"
      },
      {
       "title": "Mothman, The Prophecy",
@@ -2877,6 +2879,7 @@ const data = [
       "optional_title": "28 Semanas Después \/ Exterminio 2",
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4420",
       "year": 2007,
+      "trailer": "https:\/\/youtu.be\/ljqY7qrnycw",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg"
      },
@@ -2885,6 +2888,7 @@ const data = [
       "optional_title": "30 Días de Noche",
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3980",
       "year": 2007,
+      "trailer": "https:\/\/youtu.be\/LDZepeBxWFc",
       "clasification": "movie",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1"
      },
@@ -2893,6 +2897,7 @@ const data = [
       "optional_title": "La Profecía del 11 – 11 – 11",
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=15638",
       "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg"
      },
@@ -2900,6 +2905,7 @@ const data = [
       "title": "23:59",
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19022",
       "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
       "clasification": "movie",
       "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg"
      }

@@ -29,10 +29,10 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                               <li class="nav-item">
-                                   <a class="nav-link active text-danger" aria-current="page" href="#">Home</a>
+                                   <a class="nav-link" aria-current="page" href="#">Home</a>
                               </li>
                               <li class="nav-item text-danger">
-                                   <a class="nav-link" href="#">Full Catalog</a>
+                                   <a class="nav-link active text-danger" href="#">Full Catalog</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link" href="./movies.html">Movies</a>
@@ -63,12 +63,12 @@
                </div>
           </nav>
 
-          <section class="d-flex flex-wrap gap-3 justify-content-center py-5">
+          <section class="row gap-3 justify-content-center py-5 px-4 w-100 mx-0">
 
-               <div class="card" style="width: 18rem;" v-for="movie of filteredMovies">
+               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
                     <div class="card-body">
-                         <h5 class="card-title">{{movie.title}}</h5>
+                         <h5 class="card-title border-bottom ">{{movie.title}}</h5>
                          <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"
                               }} </h6>
                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -82,14 +82,17 @@
                          <li class="list-group-item">{{movie.clasification ? movie.clasification : "unknown"}}</li>
                     </ul>
                     <div class="card-body d-flex gap-3">
+                         <!-- Sinopsis button -->
                          <a role="button" :href="movie.details ? movie.details : '' "
                               :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'"
                               target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details
                               ? "Sinopsis" : "Unavailable"}}</a>
+                         <!-- Trailer button -->
                          <a role="button" :href="movie.trailer ? movie.trailer : '' "
-                              class="btn btn-sm btn-danger text-dark fw-bold" target="_blank"><i
+                              class="btn btn-sm btn-danger text-dark fw-bold"><i
                                    class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" :
                               "Unavailable"}}</a>
+
                     </div>
                </div>
 
