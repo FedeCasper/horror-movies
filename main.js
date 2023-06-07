@@ -10,7 +10,7 @@ createApp({
           }
      },
      created(){
-          this.movies = data.movies
+          this.movies = data
           console.log(this.movies);
 
      },
