@@ -10,3 +10,13 @@ section{
 .cover{
      object-fit: cover;
 }
+.returnArrow{
+     position: fixed;
+     bottom: 10px;
+     right: 10px;
+     z-index: 3;
+     transition: all 0.2s ease-in-out;
+}
+.returnArrow:hover{
+     transform: scale(1.07);
+}
