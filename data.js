@@ -778,7 +778,7 @@ const data = {
        "details": "http:\/\/www.aullidos.com\/pelicula.asp?id_pelicula=4960",
        "year": 2009,
        "clasification": "movie",
-       "cover": "https:\/\/th.bing.com\/th\/id\/R.60df5b67cf7c9266d36b02e9b1db9d9a?rik=rKS3EO%2fWzIPL%2fQ&amp;riu=http%3a%2f%2f3.bp.blogspot.com%2f_fUhxxoBhouI%2fSxSVsA3obHI%2fAAAAAAAAFxI%2fdwFEQzVtNew%2fs1600%2fthe%2bgrudge%2bla%2bvija%2bdama%2bde%2bblanco.jpg&amp;ehk=ls7N4Q6u3KIv6vP7lUFtYjqpz%2bhueWZed2af6pHYB0M%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
+       "cover": "https://th.bing.com/th/id/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1"
       },
       {
        "title": "El Hoyo",
@@ -1387,7 +1387,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=201",
        "year": 1998,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/vampires.jpg"
+       "cover": "https://www.ecartelera.com/carteles/9500/9551/001_m.jpg"
       },
       {
        "title": "Juego Siniestro",
@@ -1429,7 +1429,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=13271 ",
        "year": 2011,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_13271.jpg"
+       "cover": "https://th.bing.com/th/id/OIP.SyYovuKrndfeOL9EcPU6ZgHaK-?pid=ImgDet&rs=1"
       },
       {
        "title": "La Dama en el Agua",
@@ -1437,7 +1437,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3819 ",
        "year": 2006,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/ladyinthewater.jpg"
+       "cover": "https://2.bp.blogspot.com/-c1OvHsPCIuk/TsMXOQyFJGI/AAAAAAAACPM/rT43xTwFkdc/s1600/dama.jpg"
       },
       {
        "title": "La Horca",
@@ -1454,7 +1454,7 @@ const data = {
        "year": 1996,
        "trailer": "https:\/\/www.youtube.com\/watch?v=ukpB6MtLdLA",
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/isladrmoreau.jpg"
+       "cover": "https://th.bing.com/th/id/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1"
       },
       {
        "title": "La Llamada",
@@ -1462,7 +1462,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=163",
        "year": 2002,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/the_ring_1.jpg"
+       "cover": "https://www.themoviedb.org/t/p/original/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg"
       },
       {
        "title": "La Llamada 2",
@@ -1478,7 +1478,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=2271",
        "year": 2005,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/llave.jpg"
+       "cover": "https://i.pinimg.com/originals/b4/69/2f/b4692f8a962b7348455750084f298fb5.jpg"
       },
       {
        "title": "La Maldición ",
@@ -1486,7 +1486,7 @@ const data = {
        "details": "www.abandomoviez.net\/db\/pelicula.php?film=2280",
        "year": 2004,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/malcraven.jpg"
+       "cover": "https://th.bing.com/th/id/OIP.OsysUFvV9V2btjaBeDEEJAHaK_?pid=ImgDet&rs=1"
       },
       {
        "title": "La Masacre de Texas 3D",
@@ -1505,7 +1505,7 @@ const data = {
        "year": 2006,
        "clasification": "movie",
        "gender": "slasher",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/lamataznaelcom.jpg"
+       "cover": "https://th.bing.com/th/id/OIP.ee7fX1Y1ozozUJfvDKG1-QHaKk?pid=ImgDet&rs=1"
       },
       {
        "title": "La Masacre de Texas: Remake",
@@ -1665,7 +1665,7 @@ const data = {
        "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11962 ",
        "year": 2013,
        "clasification": "movie",
-       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11962.jpg"
+       "cover": "https://i.pinimg.com/originals/18/cc/f8/18ccf88583d80fd85fc7fdffe53bd679.jpg"
       },
       {
        "title": "Marianne",
