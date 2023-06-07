@@ -66,7 +66,7 @@
           <section class="row gap-3 justify-content-center py-5 px-4 w-100 mx-0">
 
                <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
-                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
+                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
                     <div class="card-body">
                          <h5 class="card-title border-bottom ">{{movie.title}}</h5>
                          <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"

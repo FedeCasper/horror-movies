@@ -7,3 +7,7 @@ nav{
 section{
      min-height: 90vh;
 }
+.cover{
+     object-fit: cover;
+     height: 27rem;
+}

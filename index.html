@@ -74,8 +74,8 @@
 
           <section v-if="initializer === false" class="d-flex flex-wrap gap-3 justify-content-center py-5">
 
-               <div class="card" style="width: 18rem;" v-for="movie of filteredMovies">
-                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
+               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
+                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{movie.title}}</h5>
                          <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"
