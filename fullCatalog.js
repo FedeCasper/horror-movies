@@ -6,12 +6,13 @@ createApp({
                inputValue: "",
                movies: [],
                filteredMovies: [],
+               alphabet: []
           }
      },
      created(){
           this.movies = data
           console.log(this.movies);
-
+          this.alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
      },
      computed:{
           filter(){
