@@ -1,9 +1,9 @@
 #app{
-     height: 100vh;
+     min-height: 100vh;
 }
 nav{
      min-height: 10vh;
 }
 section{
-     height: 90vh;
+     min-height: 90vh;
 }

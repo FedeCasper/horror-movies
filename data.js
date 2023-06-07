@@ -1664,7 +1664,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11962 ",
       "year": 2013,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11962.jpg"
+      "cover": "https://img.moviesrankings.com/t/p/w1280/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg"
      },
      {
       "title": "Marianne",
