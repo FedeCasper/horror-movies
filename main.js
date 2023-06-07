@@ -5,7 +5,8 @@ createApp({
           return {
                inputValue: "",
                movies: [],
-               filteredMovies: []
+               filteredMovies: [],
+               initializer: true
           }
      },
      created(){

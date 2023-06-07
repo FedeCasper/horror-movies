@@ -59,9 +59,16 @@
                     </div>
                </div>
           </nav>
-          <h1 class="text-light">{{inputValue}}</h1>
 
-          <section class="d-flex flex-wrap gap-3 justify-content-center py-5">
+          <section v-if="initializer === true" class="d-flex flex-column justify-content-center w-75 mx-auto">
+               <h2 class="mb-3 d-flex justify-content-center text-light">What movie are you looking for?</h2>
+               <form class="d-flex w-100" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="initializer = false"></i></button>
+               </form>
+          </section>
+
+          <section v-if="initializer === false" class="d-flex flex-wrap gap-3 justify-content-center py-5">
 
                <div class="card" style="width: 18rem;" v-for="movie of filteredMovies">
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top" alt="...">
@@ -90,7 +97,6 @@
                               "Unavailable"}}</a>
                     </div>
                </div>
-
 
           </section>
 
