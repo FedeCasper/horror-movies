@@ -7,7 +7,6 @@ createApp({
                movies: [],
                filteredMovies: [],
                topMovies: [],
-               topBest:[]
           }
      },
      created(){
@@ -15,17 +14,15 @@ createApp({
           console.log(this.movies);
           this.topMovies = this.bestMovies()
           console.log(this.topMovies);
-          this.topBest = this.topMovies.slice(0,10)
-          console.log(this.topBest);
      },
      methods:{
           bestMovies(){
                let newObjectArray = this.movies.map(movie => { 
-                    return {
-                         title: movie.title,
-                         optional_title: movie.optional_title,
-                         rate: movie.web_calification,
-                    }
+                         return {
+                              title: movie.title,
+                              optional_title: movie.optional_title,
+                              rate: movie.web_calification ==  undefined ? "no-rated" : movie.web_calification,
+                         }
                })
                return newObjectArray.sort((a,b) => b.rate - a.rate)
           }

@@ -37,20 +37,19 @@
                               <li class="nav-item">
                                    <a class="nav-link" href="./series.html">Series</a>
                               </li>
-                              <!-- <li class="nav-item dropdown">
-                                   <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                              <li class="nav-item dropdown">
+                                   <a class="nav-link active text-danger dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                         aria-expanded="false">
-                                        Dropdown
+                                        Top Best/Worst
                                    </a>
                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="#">Action</a></li>
-                                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                                        <li><a class="dropdown-item" href="#">Top Best</a></li>
                                         <li>
                                              <hr class="dropdown-divider">
                                         </li>
-                                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="#">Top Worst</a></li>
                                    </ul>
-                              </li> -->
+                              </li>>
                          </ul>
                          <div class="d-flex" role="search">
                               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
@@ -65,21 +64,21 @@
                <table class="table table-dark table-hover">
                     <thead>
                          <tr>
-                              <th colspan="4">Top 10 Scariest Movies</th>
+                              <th colspan="4">Top 25 Scariest Movies</th>
                          </tr>
                          <tr>
                               <th>#</th>
                               <th>Title</th>
-                              <th>Optional Title</th>
+                              <th>Alternative</th>
                               <th>Rate</th>
                          </tr>
                     </thead>
                     <tbody>
-                         <tr v-for="(movie, index) of topMovies.slice(0,10)">
-                              <td>{{index+1}}</td>
-                              <td>{{movie.title}}</td>
-                              <td>{{movie.optional_title}}</td>
-                              <td>{{movie.rate}}</td>
+                         <tr v-for="(movie, index) of topMovies.slice(0,25)">
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{index+1}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.title}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.optional_title}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
@@ -87,7 +86,7 @@
                <table class="table table-dark table-hover">
                     <thead>
                          <tr>
-                              <th colspan="4">Top 10 Worst Scary Movies</th>
+                              <th colspan="4">Top 25 Worst Scary Movies</th>
                          </tr>
                          <tr>
                               <th>#</th>
@@ -97,11 +96,11 @@
                          </tr>
                     </thead>
                     <tbody>
-                         <tr v-for="(movie, index) of (topMovies.slice(topMovies.length - 10, topMovies.length)).reverse()">
-                              <td>{{index+1}}</td>
-                              <td>{{movie.title}}</td>
-                              <td>{{movie.optional_title}}</td>
-                              <td>{{movie.rate}}</td>
+                         <tr v-for="(movie, index) of (topMovies.slice(topMovies.length - 25, topMovies.length)).reverse()">
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{index+1}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.title}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.optional_title}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
