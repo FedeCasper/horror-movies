@@ -5,6 +5,7 @@ const data = [
       "web_calification": 5.51,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41870",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/PHqyFhrb3uU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg"
      },
@@ -25,6 +26,7 @@ const data = [
       "web_calification": 7.33,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=36640",
       "year": 2020,
+      "trailer": "https:\/\/youtu.be\/oTkl2wz-TnQ",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg"
@@ -35,6 +37,7 @@ const data = [
       "web_calification": 5.5,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42042",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/17Nc08TiVQo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg"
      },
@@ -194,6 +197,7 @@ const data = [
       "web_calification": 6.32,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=4555",
       "year": 2022,
+      "trailer": "https:\/\/youtu.be\/ibxKEqxARkE",
       "clasification": "serie",
       "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp"
      },
@@ -226,7 +230,12 @@ const data = [
      },
      {
       "title": "Bell Witch Hunt",
-      "clasification": "movie"
+      "web_calification": 4.71,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27858",
+      "year": 2013,
+      "trailer": "https:\/\/youtu.be\/FTQ9ENU97WU",
+      "clasification": "movie",
+      "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg"
      },
      {
       "title": "Bird Box",
@@ -287,22 +296,27 @@ const data = [
      {
       "title": "Cementerio de Animales ",
       "optional_title": "Pet Cementery ",
+      "web_calification": 7.61,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=221",
       "year": 1989,
+      "trailer": "https:\/\/youtu.be\/vf7jiH3SFe8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg"
      },
      {
       "title": "Cementerio de Animales 2",
       "optional_title": "Pet Cementery 2",
+      "web_calification": 6.14,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=263",
       "year": 1992,
+      "trailer": "https:\/\/youtu.be\/cp4VC6zVQsg",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Children of the Corn: Remake",
       "optional_title": "Los Niños del Maíz: Remake",
+      "web_calification": 5.54,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10507",
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/watch?v=sv9lOK0kc9I",
@@ -415,6 +429,7 @@ const data = [
       "web_calification": 6.29,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39237",
       "year": 2019,
+      "trailer": "https:\/\/youtu.be\/D-BwFr3luqg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg"
      },
@@ -454,6 +469,7 @@ const data = [
       "web_calification": 6.72,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=168",
       "year": 1988,
+      "trailer": "https:\/\/youtu.be\/nkZR_KknAqY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&amp;rs=1"
      },
@@ -463,6 +479,7 @@ const data = [
       "web_calification": 5.7,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=169",
       "year": 1991,
+      "trailer": "https:\/\/youtu.be\/-rAXqSLSCn4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&amp;riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&amp;ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
      },
@@ -491,6 +508,7 @@ const data = [
       "web_calification": 7.98,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=52",
       "year": 2004,
+      "trailer": "https:\/\/youtu.be\/naWkpWL3CoU",
       "clasification": "movie",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg"
      },
@@ -586,6 +604,7 @@ const data = [
       "optional_title": "El Heredero del Diablo",
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25860",
       "year": 2014,
+      "trailer": "https:\/\/youtu.be\/oJe1KnptjZQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25860_53.jpg"
      },
@@ -605,14 +624,17 @@ const data = [
       "web_calification": 4.97,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41935",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/7biVTgR3n0Y",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41935.jpg"
      },
      {
       "title": "Diabolica Tentación",
       "optional_title": "Jennifer’s body",
-      "details": "www.cinebutaca.com\/diabolica-tentacion\/",
+      "web_calification": 5.72,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9397",
       "year": 2009,
+      "trailer": "https:\/\/youtu.be\/hUA688q72Sg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg"
      },
@@ -622,6 +644,7 @@ const data = [
       "web_calification": 7.55,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20221",
       "year": 2019,
+      "trailer": "https:\/\/youtu.be\/M1JL4xhF_k8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg"
      },
@@ -631,6 +654,7 @@ const data = [
       "web_calification": 5.97,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2856",
       "year": 1992,
+      "trailer": "https:\/\/youtu.be\/x0RgGZthUig",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg"
      },
@@ -648,14 +672,17 @@ const data = [
       "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2340",
       "year": 2005,
+      "trailer": "https:\/\/youtu.be\/uTCasFeRNQY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&amp;pid=ImgRaw&amp;r=0"
      },
      {
       "title": "Drag Me To Hell",
       "optional_title": "Arrástrame al Infierno",
+      "web_calification": 7.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1711",
       "year": 2009,
+      "trailer": "https:\/\/youtu.be\/LmoaMTSO1g8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&amp;rs=1"
      },
@@ -665,6 +692,7 @@ const data = [
       "web_calification": 6.21,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=13605",
       "year": 2011,
+      "trailer": "https:\/\/youtu.be\/wG-nmnbTASo",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.bd88c7dd8003a3f583b9b82782569b39?rik=SvJD27Nw71iekg&amp;riu=http%3a%2f%2fmedia.liveauctiongroup.net%2fi%2f18485%2f20788381_3.jpg%3fv%3d8D1B5F9C541F970&amp;ehk=px1AQyrnH69%2bZwRNtN8TTM2MkXo7rDyRtsXHh1a%2f9k0%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
      },
@@ -700,40 +728,46 @@ const data = [
      {
       "title": "El Exorcismo de Emily Rose",
       "optional_title": "The Exorcism of Emily Rose",
-      "web_calification": 6.88,
+      "web_calification": 6.91,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2334",
       "year": 2005,
+      "trailer": "https:\/\/youtu.be\/021-tHmxjEY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "El Exorcista",
       "optional_title": "The Exorcist",
+      "web_calification": 8.64,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=271",
       "year": 1973,
+      "trailer": "https:\/\/youtu.be\/E6YHqQXOHzg",
       "clasification": "movie",
       "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450"
      },
      {
       "title": "El Exorcista 2: El Hereje",
       "optional_title": "Exsorcist 2: The Heretic",
+      "web_calification": 4.77,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=272",
       "year": 1977,
+      "trailer": "https:\/\/youtu.be\/ZEnaYHPDxyg",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg"
      },
      {
       "title": "El Exorcista 3",
       "optional_title": "The Exorcist 3",
+      "web_calification": 6.23,
       "details": "Http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=273",
       "year": 1990,
+      "trailer": "https:\/\/youtu.be\/OUdcl5vwO7A",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg"
      },
      {
       "title": "El Exorcista Montaje del Director",
       "optional_title": "The Exsorcist Director's Cut",
-      "details": "www.labutaca.net\/films\/1\/elexorci.htm",
       "year": 2000,
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&amp;riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&amp;ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
@@ -741,8 +775,10 @@ const data = [
      {
       "title": "El Exorcista: El Comienzo (versión prohibida)",
       "optional_title": "Dominion: Prequel To The Exorcist ",
+      "web_calification": 5.58,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2343",
       "year": 2005,
+      "trailer": "https:\/\/youtu.be\/eHJEMIYNFFY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&amp;riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&amp;ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
      },
@@ -752,14 +788,17 @@ const data = [
       "web_calification": 6.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=781",
       "year": 1999,
+      "trailer": "https:\/\/youtu.be\/SzkwtbyiaME",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg"
      },
      {
       "title": "El Grito ",
       "optional_title": "The Grudge",
-      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3834",
+      "web_calification": 6.95,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1819",
       "year": 2004,
+      "trailer": "https:\/\/youtu.be\/IITyDuprZYQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg"
      },
@@ -767,8 +806,9 @@ const data = [
       "title": "El Grito 2",
       "optional_title": "The Grudge 2",
       "web_calification": 6.49,
-      "details": "www.abandomoviez.net\/db\/pelicula.php?film=3834",
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3834",
       "year": 2006,
+      "trailer": "https:\/\/youtu.be\/7fcJZqJfdfw",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg"
      },
@@ -776,7 +816,7 @@ const data = [
       "title": "El Grito 4: La Vieja Mujer de Blanco",
       "optional_title": "The Grudge 4: The Old White Lady",
       "web_calification": 6.43,
-      "details": "http:\/\/www.aullidos.com\/pelicula.asp?id_pelicula=4960",
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12445",
       "year": 2009,
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&amp;w=762&amp;h=1063&amp;rs=1"
@@ -786,6 +826,7 @@ const data = [
       "web_calification": 6.86,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35068",
       "year": 2019,
+      "trailer": "https:\/\/youtu.be\/Ez0rXJfjnsc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg"
      },
@@ -795,6 +836,7 @@ const data = [
       "web_calification": 8.13,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2337",
       "year": 2004,
+      "trailer": "https:\/\/youtu.be\/iNSN6QhIWeA",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg"
      },
@@ -804,6 +846,7 @@ const data = [
       "web_calification": 7.58,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2338",
       "year": 2005,
+      "trailer": "https:\/\/youtu.be\/nac1avJp3UE",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gGIbEacuiSmsvvNX5RrHLeH0UdS.jpg"
      },
@@ -813,6 +856,7 @@ const data = [
       "web_calification": 7.38,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3882",
       "year": 2006,
+      "trailer": "https:\/\/youtu.be\/4Ng-59zOAy8",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/736x\/d5\/8b\/1a\/d58b1ab2dca0d3f186fc5d8a72cedb3e.jpg"
      },
@@ -822,6 +866,7 @@ const data = [
       "web_calification": 7.04,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5243",
       "year": 2007,
+      "trailer": "https:\/\/youtu.be\/0YRCXAPDEQM",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.BJwrLycbhWuokG98IbfL9AHaLO?pid=ImgDet&amp;rs=1"
      },
@@ -831,6 +876,7 @@ const data = [
       "web_calification": 6.99,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=7820",
       "year": 2008,
+      "trailer": "https:\/\/youtu.be\/vQ87nw56Gy0",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7820_54.jpg"
      },
@@ -849,6 +895,7 @@ const data = [
       "web_calification": 5.27,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41210",
       "year": 2022,
+      "trailer": "https:\/\/youtu.be\/kxZb5GsqVSo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg"
      },
@@ -858,12 +905,14 @@ const data = [
       "web_calification": 6.91,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=164",
       "year": 1999,
+      "trailer": "https:\/\/youtu.be\/BrDomaqytuQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg"
      },
      {
       "title": "El Proyecto de la Bruja de Blair 2: El Libro de las Sombras",
       "optional_title": "Blair's Witch Proyect: The Book of Shadows",
+      "web_calification": 4.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=166",
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/watch?v=5U-xXjy8Xfw",
@@ -873,8 +922,10 @@ const data = [
      {
       "title": "El Resplandor",
       "optional_title": "The Shining",
+      "web_calification": 8.45,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=225",
       "year": 1980,
+      "trailer": "https:\/\/youtu.be\/-Nbez_uIpwA",
       "clasification": "movie",
       "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg"
      },
@@ -899,29 +950,36 @@ const data = [
      {
       "title": "Event Horizon",
       "optional_title": "La Nave de la Muerte",
+      "web_calification": 7.22,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1480",
       "year": 1997,
+      "trailer": "https:\/\/youtu.be\/yy6fQReZNIk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&amp;pid=ImgRaw&amp;r=0"
      },
      {
       "title": "Evil Dead (Remake)",
       "optional_title": "Posesión Infernal (Remake)",
+      "web_calification": 7.71,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=8078 ",
       "year": 2013,
+      "trailer": "https:\/\/youtu.be\/pW-PXPpgt0Y",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg"
      },
      {
       "title": "Exorcismus",
       "optional_title": "La Posesión de Ema Evans",
+      "web_calification": 5.78,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11558",
       "year": 2010,
+      "trailer": "https:\/\/youtu.be\/1H19QzPfdqA",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&amp;riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&amp;ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"
      },
      {
       "title": "Extraterrestrial",
+      "web_calification": 5.64,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27144",
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/watch?v=ZfoFdlI8dtw",
@@ -934,6 +992,7 @@ const data = [
       "web_calification": 6.03,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35763",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/YTiGeU-dRAY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg"
      },
@@ -943,22 +1002,27 @@ const data = [
       "web_calification": 6.42,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39348",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/K65rzy_AApU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39348_25.jpg"
      },
      {
       "title": "Fertile Ground",
       "optional_title": "La Mansión Poseída",
+      "web_calification": 5.3,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=14532",
       "year": 2010,
+      "trailer": "https:\/\/youtu.be\/fyvwHp-7TRc",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.aR5ohrck4CUgD8i9m7-0GQHaK9?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Fingerprints",
       "optional_title": "Huella Dactilar",
+      "web_calification": 5.93,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=7440",
       "year": 2006,
+      "trailer": "https:\/\/youtu.be\/mW2PlyNHzrY",
       "clasification": "movie",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/lbOLGR2wCnljP6FXnzonpjInm94.jpg"
      },
@@ -967,12 +1031,14 @@ const data = [
       "web_calification": 6.86,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=81",
       "year": 2003,
+      "trailer": "https:\/\/youtu.be\/-4BqBW8i78Q",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_81_59.jpg"
      },
      {
       "title": "Gallows Hill",
       "optional_title": "Encerrada \/ La cabaña del diablo",
+      "web_calification": 5.81,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=24836",
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/watch?v=WDoGsxNyjUM",
@@ -1012,6 +1078,7 @@ const data = [
      {
       "title": "Gin Gwai",
       "optional_title": "El ojo",
+      "web_calification": 7.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=203",
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/watch?v=rxxxzC-bgCs",
@@ -1031,6 +1098,7 @@ const data = [
      {
       "title": "Gothica ",
       "optional_title": "En compañia del miedo",
+      "web_calification": 6.24,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1606",
       "year": 2003,
       "trailer": "https:\/\/www.youtube.com\/watch?v=RsY-DLztNkg",
@@ -1070,8 +1138,10 @@ const data = [
      {
       "title": "Gremlins 2: La Nueva Generación",
       "optional_title": "Gremlins 2: The New Batch",
+      "web_calification": 7.22,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=647",
       "year": 1990,
+      "trailer": "https:\/\/youtu.be\/uyKVnEt4eS4",
       "clasification": "movie",
       "cover": "https:\/\/2.bp.blogspot.com\/-9YXw1EN1BLU\/XtakKzhg-fI\/AAAAAAAA3_c\/dBeo74FCF8oQxtOgAYnznUJnZK_sKgzFgCPcBGAsYHg\/w500\/wLpckmLTOh6qsESAikxN1rX6dq7.jpg"
      },
