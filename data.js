@@ -55,6 +55,7 @@ const data = [
      {
       "title": "Alien 2: El Regreso",
       "optional_title": "Alien 2",
+      "web_calification": 8.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=18",
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/watch?v=bb2LX01k-fQ",
@@ -64,6 +65,7 @@ const data = [
      },
      {
       "title": "Alien 3",
+      "web_calification": 6.65,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=19",
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/watch?v=mYh7tYHQvZo",
@@ -204,6 +206,7 @@ const data = [
      {
       "title": "As Above So Below",
       "optional_title": "Asi en la tierra como en el infierno",
+      "web_calification": 6.59,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=26533",
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/watch?v=FxeobnU2Hls",
@@ -250,6 +253,7 @@ const data = [
      {
       "title": "Blade",
       "optional_title": "Blade: Cazavampiros",
+      "web_calification": 7.44,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=186",
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/watch?v=kaU2A7KyOu4",
@@ -259,6 +263,7 @@ const data = [
      {
       "title": "Bones",
       "optional_title": "Mansión Diabólica",
+      "web_calification": 4.54,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=674",
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/watch?v=tmnAVbpbLIA",
@@ -268,6 +273,7 @@ const data = [
      {
       "title": "Boogeyman 2",
       "optional_title": "El Hombre de la Bolsa 2",
+      "web_calification": 6.19,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2219",
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/watch?v=PrAI51ca9cU",
@@ -277,7 +283,6 @@ const data = [
      {
       "title": "Boogeyman: La Puerta del Miedo",
       "optional_title": "El Hombre de la Bolsa : La Puerta del Miedo",
-      "details": "www.labutaca.net\/films\/24\/boogeyman.htm",
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/watch?v=Goi2q7VEFGo",
       "clasification": "movie",
@@ -515,6 +520,7 @@ const data = [
      {
       "title": "Dead Silence",
       "optional_title": "El Títere \/ Silencio Mortal",
+      "web_calification": 7.49,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4463",
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/watch?v=8b_HVtHmK30",
@@ -524,6 +530,7 @@ const data = [
      {
       "title": "Death Note",
       "optional_title": "Nota Mortal",
+      "web_calification": 5.35,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11857",
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/watch?v=u2GX_z65k-s",
@@ -533,6 +540,7 @@ const data = [
      {
       "title": "Deliver Us From Evil",
       "optional_title": "Libranos del Mal",
+      "web_calification": 6.87,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=23708",
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/watch?v=j1SDtKoTkzc",
@@ -602,6 +610,7 @@ const data = [
      {
       "title": "Devil's Due",
       "optional_title": "El Heredero del Diablo",
+      "web_calification": 5.15,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25860",
       "year": 2014,
       "trailer": "https:\/\/youtu.be\/oJe1KnptjZQ",
@@ -1892,86 +1901,106 @@ const data = [
      {
       "title": "Pay the Ghost",
       "optional_title": "La Maldición de Charlie",
+      "web_calification": 5.91,
       "details": "http:\/\/www.abandomoviez.net\/db\/criticas.php?film=14657",
       "year": 2015,
+      "trailer": "https:\/\/youtu.be\/gwjzmY-YVrk",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_14657_53.jpg"
      },
      {
       "title": "Pesadilla 7 La Ultima Pesadilla ",
       "optional_title": "Wes Craven's New Nightmare",
+      "web_calification": 6.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=13",
       "year": 1994,
+      "trailer": "https:\/\/youtu.be\/mhkK4GOW92M",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/nuevapesadillawx3.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno",
       "optional_title": "A Nightmare on Elm Street ",
-      "web_calification": 8.27,
+      "web_calification": 8.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=7",
       "year": 1984,
+      "trailer": "https:\/\/youtu.be\/lNa_xB20YhA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/pesadilla1.jpg"
      },
      {
       "title": "Pesadilla en la Calle del Infierno (Remake)",
       "optional_title": "A Nightmare on Elm Street (Remake)",
+      "web_calification": 6.62,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=6713",
       "year": 2010,
+      "trailer": "https:\/\/youtu.be\/v1iXrlFV4Ls",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/anightmareonelmstreet.jpg"
      },
      {
       "title": "Pesadilla en la Calle del Infierno 2: La venganza de Freddy",
       "optional_title": "A Nightmare On Elm Street 2: Freddy's Revenge",
+      "web_calification": 6.6,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8",
       "year": 1985,
+      "trailer": "https:\/\/youtu.be\/0Sxkp1yqSmw",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8_35.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno 3: Guerreros de Sueños",
       "optional_title": "A Nightmare On Elm Street 3: Dream Warriors",
+      "web_calification": 7.73,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=9",
       "year": 1987,
+      "trailer": "https:\/\/youtu.be\/8KK3E1CiHQQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno 4: El Maestro de los Sueños",
       "optional_title": "A Nightmare On Elm Street 4: The Dream Master",
+      "web_calification": 7.25,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10",
       "year": 1988,
+      "trailer": "https:\/\/youtu.be\/QaMf3J0IU0U",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno 5: El Niño del Sueño",
       "optional_title": "A Nightmare On Elm Street 5: The Dream Child",
+      "web_calification": 6.48,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=11",
       "year": 1989,
+      "trailer": "https:\/\/youtu.be\/nSIg5QgU4wQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/pesadilla5.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno 6: La Muerte de Freddy",
       "optional_title": "Freddy's Dead: The Final Nightmare",
+      "web_calification": 6.03,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=12",
       "year": 1991,
+      "trailer": "https:\/\/youtu.be\/gEhipllOnEE",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg"
      },
      {
       "title": "Playback",
       "optional_title": "Posesiones",
+      "web_calification": 4.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=16798",
       "year": 2012,
+      "trailer": "https:\/\/youtu.be\/LRdw3dXU-Ys",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.hluhTvNDQRUvXe8NK4QuCAHaK1?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "POD",
+      "web_calification": 5.12,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28896",
       "year": 2015,
       "clasification": "movie",
@@ -1979,8 +2008,10 @@ const data = [
      },
      {
       "title": "Poltergeist (Remake)",
+      "web_calification": 5.02,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=8482",
       "year": 2015,
+      "trailer": "https:\/\/youtu.be\/vJnvdIkreT4",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8482_32.jpg"
      },
@@ -2448,6 +2479,7 @@ const data = [
      {
       "title": "The Fog",
       "optional_title": "Terror en la Niebla",
+      "web_calification": 4.74,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2595",
       "year": 2005,
       "clasification": "movie",
@@ -2459,20 +2491,24 @@ const data = [
       "web_calification": 5.45,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11555",
       "year": 2009,
+      "trailer": "https:\/\/youtu.be\/8sW71K149xI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYWUyNWI5ODMtNDJlZS00ZjVjLWIxMDUtMWNhMjEyZGMwOTdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg"
      },
      {
       "title": "The Fourth Kind (The 4th Kind)",
       "optional_title": "Contactos de Cuarto Tipo \/ El Cuarto Contacto",
+      "web_calification": 6.69,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10292",
       "year": 2009,
+      "trailer": "https:\/\/youtu.be\/sej-CAp6ckU",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg"
      },
      {
       "title": "The Haunting ",
       "optional_title": "La Maldición \/ La Guarida",
+      "web_calification": 6.23,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1629",
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/watch?v=xsOVtbsMKtA",
@@ -2482,8 +2518,10 @@ const data = [
      {
       "title": "The Haunting in Connecticut",
       "optional_title": "Exorcismo en Connecticut",
+      "web_calification": 6.72,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8290",
       "year": 2008,
+      "trailer": "https:\/\/youtu.be\/JkZdcjB3ls8",
       "clasification": "movie",
       "cover": "https:\/\/content.numetro.co.za\/image_resized_files\/927-1-1-3-1559220714.jpg"
      },
@@ -2569,6 +2607,7 @@ const data = [
      },
      {
       "title": "The Monster",
+      "web_calification": 5.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30072",
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/watch?v=tbyCUdzR87Y",
@@ -2590,12 +2629,14 @@ const data = [
       "web_calification": 6.02,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32569",
       "year": 2018,
+      "trailer": "https:\/\/youtu.be\/UZ_7__0rBAU",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg"
      },
      {
       "title": "The Orphan",
       "optional_title": "La Huérfana",
+      "web_calification": 7.57,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9304 ",
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/watch?v=gsHuk7EARdA",
@@ -2605,8 +2646,10 @@ const data = [
      {
       "title": "The Other Side of the Door ",
       "optional_title": "El Otro Lado de la Puerta ",
+      "web_calification": 5.64,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29162",
       "year": 2016,
+      "trailer": "https:\/\/youtu.be\/_y2R8deSAl0",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg"
      },
@@ -2624,29 +2667,36 @@ const data = [
       "optional_title": "It's Always the Quiet Ones (Hush)",
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10437",
       "year": 2010,
+      "trailer": "https:\/\/youtu.be\/1GNyQusclgw",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg"
      },
      {
       "title": "The Relic",
+      "web_calification": 6.34,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1185",
       "year": 1995,
+      "trailer": "https:\/\/youtu.be\/wWOvGPP3itc",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
      },
      {
       "title": "The Rite",
       "optional_title": "El Rito",
+      "web_calification": 6.43,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=13888",
       "year": 2011,
+      "trailer": "https:\/\/youtu.be\/iUUk0UxajAU",
       "clasification": "movie",
       "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg"
      },
      {
       "title": "The Ruins",
       "optional_title": "Las Ruinas",
+      "web_calification": 6.67,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6834",
       "year": 2008,
+      "trailer": "https:\/\/youtu.be\/BpuHvtZjOBM",
       "clasification": "movie",
       "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg"
      },
@@ -2662,15 +2712,19 @@ const data = [
      {
       "title": "The Strangers",
       "optional_title": "Los Extraños",
+      "web_calification": 6.49,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=5717",
       "year": 2008,
+      "trailer": "https:\/\/youtu.be\/VWFxJzsfKX8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "The Tag-Along",
+      "web_calification": 5.49,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=31970",
       "year": 2015,
+      "trailer": "https:\/\/youtu.be\/jKKTgYrCOHM",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg"
      },
@@ -2686,6 +2740,7 @@ const data = [
      {
       "title": "The Uninvited",
       "optional_title": "La Maldición de las Hermanas \/ Presencias Extrañas",
+      "web_calification": 6.86,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1534",
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/watch?v=lnqDcdyI-qQ",
@@ -2713,39 +2768,49 @@ const data = [
      {
       "title": "The Wicker Man (Remake)",
       "optional_title": "Culto Siniestro \/ El Hombre de Mimbre",
+      "web_calification": 5.25,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=3568",
       "year": 2006,
+      "trailer": "https:\/\/youtu.be\/rMUVNtKYOpU",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "The Wishmaster",
+      "web_calification": 6.81,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=60",
       "year": 1997,
+      "trailer": "https:\/\/youtu.be\/aJgl3uoxXc0",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/sNhUI2F0nepQMkCIMu6whVixj6F.jpg"
      },
      {
       "title": "The Wishmaster 2: Evil Never Dies",
       "optional_title": "Wishmaster 2: El Mal Nunca Muere",
+      "web_calification": 5.62,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=119",
       "year": 1998,
+      "trailer": "https:\/\/youtu.be\/9ZbEvMdPh5A",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "The Woman in Black",
       "optional_title": "La Dama de Negro",
+      "web_calification": 6.83,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12928",
       "year": 2012,
+      "trailer": "https:\/\/youtu.be\/k5pw1I95DLk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "The Woman in Black 2: Angels to Death",
       "optional_title": "La Dama de Negro 2: Angel de la Muerte",
+      "web_calification": 4.98,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=21973",
       "year": 2015,
+      "trailer": "https:\/\/youtu.be\/UoSfwAYFWbo",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg"
      },
@@ -2755,38 +2820,47 @@ const data = [
       "web_calification": 5.03,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=36507",
       "year": 2021,
+      "trailer": "https:\/\/youtu.be\/g0zWb60b-W4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&amp;pid=ImgRaw&amp;r=0"
      },
      {
       "title": "Todavia Se lo que Hiciste el Verano Pasado",
       "optional_title": "I Still Know What You Did Last Summer",
+      "web_calification": 6.17,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=105",
       "year": 1998,
+      "trailer": "https:\/\/youtu.be\/99yCJwP97Uo",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P5SOpNcMqULmy9KNvIao2QHaK1?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Tremors",
       "optional_title": "Temblores",
+      "web_calification": 7.49,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1199",
       "year": 1990,
+      "trailer": "https:\/\/youtu.be\/BFX0y6rR2mg",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Una Llamada Perdida (Remake)",
       "optional_title": "One Miss Call (Remake)",
+      "web_calification": 5.62,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6343",
       "year": 2008,
+      "trailer": "https:\/\/youtu.be\/I1F7hJNsi5M",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Unfriended",
       "optional_title": "Eliminado \/ Eliminar Amigo \/ Cybernatural",
+      "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29357",
       "year": 2015,
+      "trailer": "https:\/\/youtu.be\/v6xkax8f6ls",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg"
      },
@@ -2796,12 +2870,14 @@ const data = [
       "web_calification": 4.78,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5448",
       "year": 2006,
+      "trailer": "https:\/\/youtu.be\/VUgL_EF8V2E",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&amp;pid=ImgRaw&amp;r=0"
      },
      {
       "title": "Urban Leyend",
       "optional_title": "Leyendas Urbanas",
+      "web_calification": 6.93,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1186",
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/watch?v=vVLD7BdzxbM",
@@ -2811,32 +2887,40 @@ const data = [
      {
       "title": "Urban Leyend 2",
       "optional_title": "Leyendas Urbanas 2",
+      "web_calification": 5.69,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2381",
       "year": 2000,
+      "trailer": "https:\/\/youtu.be\/uKXUYqKEhxk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "V\/H\/S",
       "optional_title": "Las Crónicas del miedo",
+      "web_calification": 6.27,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20639 ",
       "year": 2012,
+      "trailer": "https:\/\/youtu.be\/M0qXz2YjJKI",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg"
      },
      {
       "title": "V\/H\/S 2",
       "optional_title": "Las Crónicas del miedo 2",
+      "web_calification": 6.82,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=24773",
       "year": 2013,
+      "trailer": "https:\/\/youtu.be\/pDohVEonZ7A",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Valentine",
       "optional_title": "Un San Valentín de muerte",
+      "web_calification": 6.25,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=336 ",
       "year": 2001,
+      "trailer": "https:\/\/youtu.be\/ax6kqQQ7qAk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&amp;rs=1"
      },
@@ -2845,12 +2929,14 @@ const data = [
       "web_calification": 6.68,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=396",
       "year": 2004,
+      "trailer": "https:\/\/youtu.be\/fWSmGESmvOM",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Vanishing on 7th street",
       "optional_title": "La Oscuridad",
+      "web_calification": 5.53,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12543",
       "year": 2010,
       "clasification": "movie",
@@ -2859,16 +2945,20 @@ const data = [
      {
       "title": "Verónica",
       "optional_title": "Verónica",
+      "web_calification": 6.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=31807",
       "year": 2017,
+      "trailer": "https:\/\/youtu.be\/wNlMIvKnjOQ",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&amp;rs=1"
      },
      {
       "title": "Viaje a las Tinieblas",
       "optional_title": "Riding the Bullet",
+      "web_calification": 6.24,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=3883",
       "year": 2004,
+      "trailer": "https:\/\/youtu.be\/RdlCnaz4AAA",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg"
      },
@@ -2883,8 +2973,10 @@ const data = [
      {
       "title": "Viernes 13 Parte 8: Jason toma Manhattan",
       "optional_title": "Friday the 13th Part 8: Jason Takes Manhattan ",
+      "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=471",
       "year": 1989,
+      "trailer": "https:\/\/youtu.be\/1bHDVrDBtRo",
       "clasification": "movie",
       "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg"
      },
@@ -2894,59 +2986,73 @@ const data = [
       "web_calification": 6.06,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1897",
       "year": 2005,
+      "trailer": "https:\/\/youtu.be\/-9Qi9EoMuh8",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg"
      },
      {
       "title": "White Noise 2",
       "optional_title": "Voces del más allá 2",
+      "web_calification": 6.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4872",
       "year": 2007,
+      "trailer": "https:\/\/youtu.be\/jEM9UAFcpLo",
       "clasification": "movie",
       "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE"
      },
      {
       "title": "Winchester: The House that Ghosts Built ",
       "optional_title": "Winchester: La Casa que Construyeron los Espíritus",
+      "web_calification": 5.3,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22206",
       "year": 2018,
+      "trailer": "https:\/\/youtu.be\/29ki8Op2lSQ",
       "clasification": "movie",
       "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg"
      },
      {
       "title": "Wrong Turn 3 - Left for Dead",
       "optional_title": "Camino Sangirneto 3 \/ Camino hacia el Terror 3",
+      "web_calification": 6.21,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10252",
       "year": 2009,
+      "trailer": "https:\/\/youtu.be\/Sqb8rTnysTQ",
       "clasification": "movie",
       "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg"
      },
      {
       "title": 1408,
+      "web_calification": 7,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=5052",
       "year": 2007,
+      "trailer": "https:\/\/youtu.be\/5Z5HZns7uoI",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg"
      },
      {
       "title": "13 Fantasmas",
       "optional_title": "Thirteen Ghosts",
+      "web_calification": 6.72,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=224",
       "year": 2001,
+      "trailer": "https:\/\/youtu.be\/Q9rX3krvo4o",
       "clasification": "movie",
       "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg"
      },
      {
       "title": "28 Days Later",
       "optional_title": "28 Días Después",
+      "web_calification": 7.84,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=339",
       "year": 2002,
+      "trailer": "https:\/\/youtu.be\/TpVDni6D7AA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg"
      },
      {
       "title": "28 Weeks Later",
       "optional_title": "28 Semanas Después \/ Exterminio 2",
+      "web_calification": 7.48,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4420",
       "year": 2007,
       "trailer": "https:\/\/youtu.be\/ljqY7qrnycw",
@@ -2956,6 +3062,7 @@ const data = [
      {
       "title": "30 Days of Nigth",
       "optional_title": "30 Días de Noche",
+      "web_calification": 7.06,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3980",
       "year": 2007,
       "trailer": "https:\/\/youtu.be\/LDZepeBxWFc",
@@ -2965,6 +3072,7 @@ const data = [
      {
       "title": "11 – 11 – 11",
       "optional_title": "La Profecía del 11 – 11 – 11",
+      "web_calification": 4.43,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=15638",
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
@@ -2973,6 +3081,7 @@ const data = [
      },
      {
       "title": "23:59",
+      "web_calification": 4.94,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19022",
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
