@@ -54,7 +54,7 @@
                <table class="table table-dark table-hover">
                     <thead>
                          <tr>
-                              <th colspan="4">Top 25 Scariest Movies</th>
+                              <th colspan="4" class="bg-black text-danger">Top 25 Scariest Movies</th>
                          </tr>
                          <tr>
                               <th>#</th>
@@ -64,7 +64,7 @@
                     </thead>
                     <tbody>
                          <tr v-for="(movie, index) of topMovies.slice(0,25)">
-                              <td :class=" index < 1 ? 'text-danger' : '' ">{{index+1}}</td>
+                              <td :class=" index < 3 ? 'text-danger' : '' ">{{index+1}}</td>
                               <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.title}}</td>
                               <td :class=" index < 3 ? 'text-danger' : '' ">{{movie.rate}}</td>
                          </tr>
@@ -74,7 +74,7 @@
                <table class="table table-dark table-hover">
                     <thead>
                          <tr>
-                              <th colspan="4">Top 25 Worst Scary Movies</th>
+                              <th colspan="4" class="bg-black text-danger">Top 25 Worst Scary Movies</th>
                          </tr>
                          <tr>
                               <th>#</th>
@@ -94,7 +94,7 @@
                <table class="table table-dark table-hover">
                     <thead>
                          <tr>
-                              <th colspan="4">Top 3 Best Scary Series</th>
+                              <th colspan="4" class="bg-black text-danger">Top 3 Best Scary Series</th>
                          </tr>
                          <tr>
                               <th>#</th>
@@ -111,10 +111,10 @@
                     </tbody>
                </table>
 
-               <table class="table table-dark table-hover">
+               <table class="table table-dark table-hover" >
                     <thead>
                          <tr>
-                              <th colspan="4">Top 3 Worst Scary Series</th>
+                              <th colspan="4" class="bg-black text-danger">Top 3 Worst Scary Series</th>
                          </tr>
                          <tr>
                               <th>#</th>

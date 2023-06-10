@@ -52,30 +52,31 @@
 
           <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
 
-               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="serie of filteredOnlySeries">
-                    <img :src="serie.cover ? serie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
+               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredOnlySeries">
+                    <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
                     <div class="card-body">
-                         <h5 class="card-title">{{serie.title}}</h5>
-                         <h6 class="fw-lighter fst-italic"> {{serie.optional_title ? serie.optional_title : "unknown"
+                         <h5 class="card-title">{{movie.title}}</h5>
+                         <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"
                               }} </h6>
-                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                              the
-                              card's content.</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                         <li class="list-group-item">Year: {{serie.year ? serie.year : "unknown"}}</li>
-                         <li class="list-group-item">Web calification: {{ serie.web_calification ?
-                              serie.web_calification :"unknown"}}</li>
-                         <li class="list-group-item">{{serie.clasification ? serie.clasification : "unknown"}}</li>
+                         <li class="list-group-item d-flex justify-content-between">
+                              <span>{{movie.year ? movie.year : "unknown"}}</span>
+                               <span class="text-danger">{{ movie.web_calification ? movie.web_calification :"unknown"}} / 10 
+                                   <img class="ms-2" src="./assets/ghost.png" alt="ghost icon">
+                              </span>
+                         </li>
                     </ul>
-                    <div class="card-body d-flex gap-3">
-                         <a role="button" :href="serie.details ? serie.details : '' "
-                              :class="serie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'"
-                              target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{serie.details
+                    <div class="card-body d-flex justify-content-between gap-3">
+                         <!-- Sinopsis button -->
+                         <a role="button" :href="movie.details ? movie.details : '' "
+                              :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'"
+                              target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details
                               ? "Sinopsis" : "Unavailable"}}</a>
-                         <a role="button" :href="serie.trailer ? serie.trailer : '' "
-                              class="btn btn-sm btn-danger text-dark fw-bold" target="_blank"><i
-                                   class="bi bi-film text-dark me-1"></i>{{ serie.trailer ? "Trailer" :
+                         <!-- Trailer button -->
+                         <a role="button" :href="movie.trailer ? movie.trailer : '' "
+                              class="btn btn-sm btn-danger text-dark fw-bold"><i
+                                   class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" :
                               "Unavailable"}}</a>
                     </div>
                </div>

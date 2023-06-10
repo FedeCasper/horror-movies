@@ -1,5 +1,83 @@
 const data = [
      {
+      "title": "23:59",
+      "web_calification": 4.94,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19022",
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
+      "clasification": "movie",
+      "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg"
+     },
+     {
+      "title": 1408,
+      "web_calification": 7,
+      "details": "www.abandomoviez.net\/db\/pelicula.php?film=5052",
+      "year": 2007,
+      "trailer": "https:\/\/youtu.be\/5Z5HZns7uoI",
+      "clasification": "movie",
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg"
+     },
+     {
+      "title": "¡Nop!",
+      "optional_title": "Nope",
+      "web_calification": 5.72,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42064",
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/watch?v=YrFzzlFqx0g&t=1s",
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg"
+     },
+     {
+      "title": "11 – 11 – 11",
+      "optional_title": "La Profecía del 11 – 11 – 11",
+      "web_calification": 4.43,
+      "details": "www.abandomoviez.net\/db\/pelicula.php?film=15638",
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
+      "clasification": "movie",
+      "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg"
+     },
+     {
+      "title": "13 Fantasmas",
+      "optional_title": "Thirteen Ghosts",
+      "web_calification": 6.72,
+      "details": "www.abandomoviez.net\/db\/pelicula.php?film=224",
+      "year": 2001,
+      "trailer": "https:\/\/youtu.be\/Q9rX3krvo4o",
+      "clasification": "movie",
+      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg"
+     },
+     {
+      "title": "28 Days Later",
+      "optional_title": "28 Días Después",
+      "web_calification": 7.84,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=339",
+      "year": 2002,
+      "trailer": "https:\/\/youtu.be\/TpVDni6D7AA",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg"
+     },
+     {
+      "title": "28 Weeks Later",
+      "optional_title": "28 Semanas Después \/ Exterminio 2",
+      "web_calification": 7.48,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4420",
+      "year": 2007,
+      "trailer": "https:\/\/youtu.be\/ljqY7qrnycw",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg"
+     },
+     {
+      "title": "30 Days of Nigth",
+      "optional_title": "30 Días de Noche",
+      "web_calification": 7.06,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3980",
+      "year": 2007,
+      "trailer": "https:\/\/youtu.be\/LDZepeBxWFc",
+      "clasification": "movie",
+      "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1"
+     },
+     {
       "title": "A Classic Horror Story",
       "optional_title": "La Clásica Historia de Terror",
       "web_calification": 5.51,
@@ -112,6 +190,16 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/watch?v=AVvcNrIlR4c",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg"
+     },
+     {
+      "title": "All Hallows' Eve",
+      "optional_title": "La Víspera de Halloween \/ Terrifier el inicio",
+      "web_calification": 6.18,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28004",
+      "year": 2013,
+      "trailer": "https:\/\/youtu.be\/jsMPc4C5rYQ",
+      "clasification": "movie",
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg"
      },
      {
       "title": "Amityville: The Awakening",
@@ -983,6 +1071,16 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg"
      },
      {
+      "title": "Exists ",
+      "optional_title": "Existe",
+      "web_calification": 6.22,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18608",
+      "year": 2014,
+      "trailer": "https:\/\/youtu.be\/vNKqNBey9MQ",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg"
+     },
+     {
       "title": "Exorcismus",
       "optional_title": "La Posesión de Ema Evans",
       "web_calification": 5.78,
@@ -1111,6 +1209,16 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37971.jpg"
      },
      {
+      "title": "Goodnight Mommy",
+      "optional_title": "Buenas Noches, Mamá",
+      "web_calification": 6.13,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38199",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/gANfrj-G4D8",
+      "clasification": "movie",
+      "cover": "https:\/\/1.bp.blogspot.com\/-ldaXfaOt7Jg\/Vmnrrmp7zWI\/AAAAAAAACE0\/kr5QLhSX_Lo\/s1600\/tumblr_nycubxfdgn1t2kfnqo1_500.jpg"
+     },
+     {
       "title": "Gothica ",
       "optional_title": "En compañia del miedo",
       "web_calification": 6.24,
@@ -1169,6 +1277,16 @@ const data = [
       "year": 2022,
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_43545.jpg"
+     },
+     {
+      "title": "Guillermo Del Toro's Cabinet of Curiosities",
+      "optional_title": "El gabinete de curiosidades ",
+      "web_calification": 7.47,
+      "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3484",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/vBbN899zxJo",
+      "clasification": "serie",
+      "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg"
      },
      {
       "title": "Gwoemul",
@@ -1237,6 +1355,16 @@ const data = [
       "year": 1987,
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_88_3.jpg"
+     },
+     {
+      "title": "Hellraiser ",
+      "optional_title": "Hellraiser: Ella",
+      "web_calification": 7,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=31593",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/lgFo8Rjm7-I",
+      "clasification": "movie",
+      "cover": "https:\/\/pics.filmaffinity.com\/hellraiser-255394413-large.jpg"
      },
      {
       "title": "Hellraiser 2: Hellbound",
@@ -1353,6 +1481,15 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31702_58.jpg"
      },
      {
+      "title": "I see you",
+      "optional_title": "Te veo",
+      "web_calification": 7.81,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35423",
+      "year": 2019,
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg"
+     },
+     {
       "title": "In the Tall Grass",
       "optional_title": "En la Hierba Alta",
       "web_calification": 5.8,
@@ -1361,15 +1498,6 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/watch?v=ucbYBsmmBTk&feature=emb_logo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30672_19.jpg"
-     },
-     {
-      "title": "I see you",
-      "optional_title": "Te veo",
-      "web_calification": 7.81,
-      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35423",
-      "year": 2019,
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg"
      },
      {
       "title": "Incarnate",
@@ -1430,6 +1558,16 @@ const data = [
       "trailer": "https:\/\/youtu.be\/5-8Ht8LQB68",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_255_73.jpg"
+     },
+     {
+      "title": "It: Chapter Two",
+      "optional_title": "It: Capítulo 2",
+      "web_calification": 6.71,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22629",
+      "year": 2019,
+      "trailer": "https:\/\/youtu.be\/nN1CqQgWFCM",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/07\/30\/09\/09\/0763744.jpg"
      },
      {
       "title": "It: Remake",
@@ -1821,6 +1959,26 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_18773_64.jpg"
      },
      {
+      "title": "Malasaña 32",
+      "optional_title": "Malasaña 32",
+      "web_calification": 6.13,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39346",
+      "year": 2020,
+      "trailer": "https:\/\/youtu.be\/oPiPthUHvVs",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/09\/09\/09\/26\/3456681.jpg"
+     },
+     {
+      "title": "Malignant ",
+      "optional_title": "Maligno",
+      "web_calification": 6.85,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39574",
+      "year": 2021,
+      "trailer": "https:\/\/youtu.be\/nKpO33zE6PM",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/21\/07\/21\/10\/02\/4825275.jpg"
+     },
+     {
       "title": "Mama",
       "optional_title": "Mamá",
       "web_calification": 6.65,
@@ -1837,6 +1995,16 @@ const data = [
       "year": 2019,
       "clasification": "serie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg"
+     },
+     {
+      "title": "Mercy Black",
+      "optional_title": "La posesión de Mercy Black",
+      "web_calification": 5.64,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38843",
+      "year": 2019,
+      "trailer": "https:\/\/youtu.be\/u_O9OEC_1gQ",
+      "clasification": "movie",
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/2139c968ef85156d2a6ef5df9c8c39eac61164ee9c3339017a42f103b6da4dd9._RI_TTW_.jpg"
      },
      {
       "title": "Midnight Mass",
@@ -1873,16 +2041,6 @@ const data = [
       "year": 2022,
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_40686_83.jpg"
-     },
-     {
-      "title": "¡Nop!",
-      "optional_title": "Nope",
-      "web_calification": 5.72,
-      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42064",
-      "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=YrFzzlFqx0g&t=1s",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg"
      },
      {
       "title": "Neverlake",
@@ -1923,25 +2081,6 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17042_64.jpg"
      },
      {
-      "title": "Poltergeist ",
-      "web_calification": 8,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25",
-      "year": 1982,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=9eZgEKjYJqA",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg"
-     },
-     {
-      "title": "Perturbados",
-      "optional_title": "Disturbing Behavior \/ Comportamiento Perturbado",
-      "web_calification": 6.22,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2396",
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=a9zfBcp6AxA",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/comp.jpg"
-     },
-     {
       "title": "Paranormal Activity",
       "optional_title": "Actividad Paranormal",
       "web_calification": 6.24,
@@ -1949,7 +2088,7 @@ const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/watch?v=bZiLIldN_NE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9408.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg"
      },
      {
       "title": "Paranormal Activity (Final Alternativo)",
@@ -1964,7 +2103,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12881",
       "year": 2010,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12881.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/7673270068f2d30557cd97936f77d590f746e3b49afdb1a9b3821ddf6f095bcc._RI_TTW_.jpg"
      },
      {
       "title": "Paranormal Activity 3",
@@ -1973,7 +2112,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=15958",
       "year": 2011,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_poster_9639.jpg"
+      "cover": "https:\/\/static.wikia.nocookie.net\/doblaje\/images\/5\/51\/AP3_Cartel.jpg\/revision\/latest?cb=20140708034500&path-prefix=es"
      },
      {
       "title": "Paranormal Activity 4",
@@ -1982,7 +2121,7 @@ const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20150",
       "year": 2012,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20150.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/06\/24\/13\/52\/528288.jpg"
      },
      {
       "title": "Paranormal Activity 5: The Ghost Dimension",
@@ -1994,6 +2133,16 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23650_58.jpg"
      },
      {
+      "title": "Paranormal Activity 7: Next of Kin\"",
+      "optional_title": "Actividad Paranormal: Vínculos Familiares",
+      "web_calification": 5.71,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22017",
+      "year": 2021,
+      "trailer": "https:\/\/youtu.be\/OKQYhfI0j70",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg"
+     },
+     {
       "title": "Pay the Ghost",
       "optional_title": "La Maldición de Charlie",
       "web_calification": 5.91,
@@ -2002,6 +2151,16 @@ const data = [
       "trailer": "https:\/\/youtu.be\/gwjzmY-YVrk",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_14657_53.jpg"
+     },
+     {
+      "title": "Perturbados",
+      "optional_title": "Disturbing Behavior \/ Comportamiento Perturbado",
+      "web_calification": 6.22,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2396",
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/watch?v=a9zfBcp6AxA",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/xwzdR3KecnAUtZSPNCfuRq2q4j5.jpg"
      },
      {
       "title": "Pesadilla 7 La Ultima Pesadilla ",
@@ -2021,7 +2180,7 @@ const data = [
       "year": 1984,
       "trailer": "https:\/\/youtu.be\/lNa_xB20YhA",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/pesadilla1.jpg"
+      "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg"
      },
      {
       "title": "Pesadilla en la Calle del Infierno (Remake)",
@@ -2031,7 +2190,7 @@ const data = [
       "year": 2010,
       "trailer": "https:\/\/youtu.be\/v1iXrlFV4Ls",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/anightmareonelmstreet.jpg"
+      "cover": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSExMVFhUXFRYYFhUYFRgaGBgYFhcXFhgYFxcYHSggGBolGxgXIjEhJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIARIAuAMBIgACEQEDEQH\/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj\/xABCEAABAwIEBAMFBgUCAwkAAAABAAIRAyEEEjFBBSJRYQYTcTKBkaGxQlJiwdHwBxQjcuGSojOC8RUkQ1Nzg7LC0v\/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIEBf\/EADARAAEEAQIDBwQCAwEBAAAAAAEAAgMRIRIxIkFhBBNRcYGR8DKhscHR4SNC8WIU\/9oADAMBAAIRAxEAPwDx3C1RK2P56I3Np\/6rmmuhWqFYkgbzbb57JL47NrbFOKo7rsqFSRfpfp3WJxPirZLaV+ryJHo0H\/5H4brPxmOJHltPL9o\/fP8A+eg957Z2ZUjgrJRJ2jk355fynVHkkkkknUnUrqfAGEFStVds2lp3Lm\/oVy1KmXGAJJXo3g\/hZwtGpUqGHVMojoBMe8k\/JR2x4bEReTsjsUbjKHVgfwsLxFw4BxI7rBeyPVdNxfEBziubxlQSohLiACtfaA1vEoHhSOxcMcxos6JPoZhVC5RrTp8VzTKRYbzU9B8E+kJGqFOlTSoH4AU7fVTUnXsqYcpqVRVITo5Ba0qhkJzGR6pmGqAtj9+5SUyTayQbC6bSDRXbeE60R8\/osz+IdBjsSHTDjSZaNSJGvWAFBwfiQpNk+6+pWTxzHGs4vdqfkskcThMXck+RzXR0Vl1cOdgY6ptKlF0udw3sreH5+h6zJ+S3kkBc5rWOdjBVvh1eZHTVN4zWccrzPMCHT95v1sW\/NW8JSOhHwFkniWmBhmxtV19Wun6BZ2kd4Oq1y2IifDK5iq+ShRIW4YXDcbNlItHCsAo1Kh1ltNvq6S4\/6Wx\/zLOWlheajUZN2ltQDqBLXR6BwPoCqv29laPf0P4WeBK0OH8MfVcGtb++6TBmmINRxIn2QL\/FbVPxLTpCKVH3uP5Jcj37MFrTDHEOKR3otzg\/D6eHuYc7YxuLwFDxHjRuDv8AqucxPies7QNb6D9VnPxr3mXXPXdZm9mcTqeth7ZEBTPwtLG17kz1WLUfKkq1CVXK2MbQWDtE2s0kQhCusyEIQhCE4FNQhCs0K5BVhtadFQCmp1cuio5q0RSkYJwtIVbDWVDVqSq382eib55PRUDCtLu1Mqgr9NjTqhtGLtN+yqeY7\/CcTpdRpKuJGu5fpbGG4vlEVBf70k\/JReJMTy06W96jhuM4AY07g5RmjbOq4eKJD3tDniS2m4WEjle+\/eQ3te2uXWque4ucSXEkknUk3JKGRDVqCV2jtBLdH\/fVQoQhPWBPLVPhMQ6m9r2mC0yP0PUHQjoVJVpQSoC1VDrT3RFpwrGNpD22ew7QfdOpYe426hUVZoV8sjVp9pux\/QjYpa9EDmaZb8COxHVSFRwvIVVOBTmsJ2\/YUalU2T8yYUIQglIhCEKEIQhCEIQhCEJUIQhKlalY0kwNSrmHoN1eeUdN+1vyUEq7W2oqNyABJmwGp7K55zaJkQaw3gFtPUEQfad8hG6r1MVB\/pjJ3HtdNdlQUab3VzIRgKR7iSSSSTck7lRoQrJKUITmoQpAtaWMdc7XWeXKxWcq7gEtgoLXO7OEk2VvAG\/1GoPYjcKkFcwOoUv+lKiy5bTmWbyghoAgWMTpI1tI6+qx8TQbmJbOUm06jsfRbocLd1q0+DNqxa53Fj\/nfVZ2yUtTmBy4ephyBKhLF6FS8LVfM8pjW1A4wM\/LcjqLE9NLlc7xLw\/VovdTqAU3tIGV7mgmdMrpynrqmtkBSXQjcLni1MVzE0S0wR7iq5YmgpDmEFRpU4NRCFSk1CdCt4XB55JexgG7yb+gaCT8Nwi1ICpKRtJxiAbmBbU9B1Kt0cAXGJnXQHbT0n49l6T4Y4LSZRDuVlQU3mrnJJDXFuUyfZ00EDnSpJmsCfF2Zz+i41vhetTpGpXBp3AbTjmdaTm+6ACLaydlmVcKTrYbDp6L1XxHh31PaaA7IwODfZDsozR2mfguMx2ByAzqElszjkrQYWDAXNnCAAlUH6rZrG0LHqap8ZJ3SJ2gAUo0IQmrKnNKE1CFNlTvMpmVSvbGiQP3VR0TnDPEoi0qbDGCo3nqntMEKTkKjOF1rosK3MQu04C5oAI13XB4SroGkTYDout4FhnEgNBJJ0Ek29FhcKW8ZXpHCaQcGuESCCDGsGVxv8TqBbVLnA5KvLBFs7JNjsYIPvPS\/Y4GsMPSLqzoyCS0XPXQbrlPF\/E2Ymk1xa5tOtTNUSIJ8t+RxbNiWyHSNROqW02bCY1jm5Oy8n4jhyw29km0\/Q94IWeXLuzwzzsG8wA6g1r5iM9PPAeD3ZUHrkXDVWwSOhIW+N1rD2huk2FcxDHMazMxoJmNZgwRN1f8N4M1qoGVsNBJ2mNr6kkhU8djTWYyfaYA0jqBMH5wr3hXHjDufWdOVo9mfbd9lvxuT0HdQ69J8VDa1jwScSwGJY4MeSGFhe2ZgtAN+x2WSCQMxuZtN+83W74g8UPxWUZYAa4RqefLLRvHL8ysV7HCBB1O2sWCluquJS7TfDn5+lHhqpDpGs6916f4PyGi6hWeM1Sm+pUfmEsAEgQdAA3Sw5yvOGABpMCTZvaNT3\/yvRPAvgt+Lw9dxqmk4shnLm9pwLs+8HJEC8JM41LRBwA38tdfxCoypTbUpmWumD1XEcfpSnnF4rAZKNekH025swaZEWgsIAc066zqZUrHUsbAw1X+oZ\/pVOV3oHDlP1WcYF79Vrkizwe3NcTjmRPUWWE\/VdBx2m+m806jHMeNWuEH1HUd1gvC2RbZXO7RyCiQnQmpyyIQhCEK21smEtSllTwz9+q1uDeGMVi3f0qTiLy+IbaftG02hJLwMk0Ft09MrDZTn6\/qtfhnAK1Yg06T3C3siddJ6e9eicG\/h3Qw48zGVwSbeWHBrZ1jPvYbbLWPirDUmZMI0BoBMNGVkNgvLjvAMdyVmf2vViMX15K7IK3WDwH+HEZXYqoGAwTTZd\/tWBd7LZt1W9xfi1HAgUqDGtlrjIyl7hMRmc7N8j7lz1TxA41HOec33ae1wHiQbGCAO5lcF4i4jVrVXF+gmADIAknXcm5J6qrI3yO4ynh7Yhqq\/Bd1juMnEYeqGBzZBGZzgXuDRPQMpsiLxfTusXDcXqY\/DuwtU\/1KDGvw0ACG02ZKlP0c3KfUd1y2ArlnPJgT6TFvVWsJiTRcagAiox9N4jRrwAY73F\/VPEWmwPRTJN3jWv8AfyPP38PNdl4F41mo4jC1QIGFqNLnaxTzvA0mBmcNfsjuvP8AimDNKo6mQ4ERIcIIkA3G2v0W9heJ5C3FNAc4TTrj70g5Xmd3NkTuWk6lHi7Cvcf5h2pLWG4OfIwNFUQbAho13E7qzOF56rHKNTK5rlgChwKcG90sDckp9rPpx\/a2PD2EBzExpYXzDoQdBve+mij4hhnPe3eRoBYNEAR2+qkbXhpyjoH9OzY1vFzsPVXTWNRpAEQMszFyJN9IEfmkEm7WtrG6dPwrV8McFaQKtQHke2BaNTEg9JJ9QvauCVGYd1WWhrA4AnQQRMnoNvcV51wLDUnMafMGVwe5roIDgxzQSAegmB+S2MH4hp1WYihiKjTTvSD5ExkAIJG4PznosT5Ha9XgtTmBzaR49oZWmrmbbmZ+xYrz3w5g2PxgeCACQ4DQTMk9rjruouN8YqMaKHmebRAyhzHE2acpudJtOyq4Y+WWupOu4Sxx9l0G7Z2MD1+avHEWtPVa4XN1C92198fdem+J\/wCVrQ3EANkWcWTcieWq32TF4OvvXHcU\/hdiMnm4WozENMmAcrgIkATZ3xWXU4055yguouzWnmpwZsRFmgaRYX6ruODeKxTBp5mOqMAblEg5nOGfKNCALwPuqOOKqVO0RxvZgjHzz9wF47jMI+m4sqMcxw1a4EEe4quQvfeK8Y4fjaUYpjCCKZaZ5xngAtcL7u\/0lcdxb+GILnHB4gP0LadSzogEjPodRFloZ2th+rC5T+zO5BeZQkW3xrw3icKf61MtvEgEg2BkOAgjX4FC1AgiwsxYWmiF6bwbwrg8EGvruFatIkT\/AE2yCdIvoe6zuL\/xCLeSiMrSPZaA0DS3vMrG41xWpULiXMII0Eahp6DWJ9zh1XKYp0ku3N9Ov7PwXNi7PrOqU2V1pJAwUxbmO8T1qwh7y7mzDsbN6a21Wc7GRbQzrqYIJMev5rIe5IHFbWxtGyyOnK1ziJ5iSYAAGlpNu0KQY1zQ7LHObkta49bSLLG8w6fvVT03Ezce9BarNk1YpFWo7QkmIgbDpZNZXjMHfai3pe6TEmDZV3ukq4ApLkeWu3z8C0MPiRTz7ktgaQdJzAi9p+K1MdxgVsG2n9qm64JMhsWLZMEfZO9mdFzTwQbpso0A5SzMRYpSZkgTJRKslarWphi0MBvmBP0EW+KMbjZaKNP2ZJc77xMf7RA+CzjVJETbontxDgCBYHWLKunNpplBGn55Lo8J4ldSIpgB9NgysnlgaE951jqoMTi2xUguyvcTBi0uJ1HRxHulYeY73CmaY1u069kvu2haI5zvXr4X+lZOIIplrohwAB6QZ23soWOIbljM0mQOh\/VKIYY9pp0+sJrKg0AiR177K3krEkkWc1XifK9iDfykGsRYOM79p\/NS4F1Y1WPbLnUyC0kbAyNVXc4S4Ge3xvPzV3A8QFOJaCJM9XA6Qdo\/ModYB0hKsOcNTsDwO3zdPqPe1zqpNyTnaLNbOmWLQF03hri9QkukS24zH7RcLzsfrp0XH47iJe7l5WkRlHrurWBxNi2TeD8I3F9YMTslvjLmcSdG9veVHt+V6zgfE4cMj8rpDhBkgwbWINon0QvMX1XCHNJmXHT89Z0SLEeyX9JWsy6cOas\/FY+dB8h1\/wAKnUqkhLUYoaq6TQFzppHm7KC5NlMQr0suopxKeKijQhQCQnlyakQhF2llNQhSqpEJUIQnM1T2PAPZRJwCgqzSRsnCoUrXfvugH6oJsOt0K3qlfU6Wv9EjT6zKeyMp6i6GVNLDf9\/vqoU1kElTnHOPtNadLlo0AgbKvlT3s0AcCCfSD3SuBtO+9vTZRjkm24\/Vn2\/SgIhSUql02p0TGBTulWQ7C0WVpt8UKHD3QlmgugwucL3SvfmVetZK2qo6j5V2iisksgc3qo0IQrrMhCVIhCEspEIRaEISIUJwCCEApSUKcUhEoASuaoRRSKTIYnZRypmVrEXugpjdN8SawwbDUEfJLRFwm9I6fNWAJt8Le79VBKlgs5TsSQ7LFiLHvpH5qEDZDZ2\/eyYSoATHPs6uZTXulIEZkkqyQTat4UXA7oUNIoSy3K2xSNDchQlIlToTLWCk1CUhIEKapIhCWFKikiE6E1CCEIV3C4FzyJLWD7zzHwGp9wW3R4fhaYk08TiXdmGnT+UuPxCqXAbqwYSuaaJsLnYK3guGVqri2nSe9waXFrWknKIBMepHxXQh2Lj+nhBRZ0ZTDXFukFzud1idSouB+JcRw5xFNhph0Zg9nM6NJLhpc2FlUPsY\/IVjHpOfwQslvBawGZ9M02zGer\/TbPQZ4zHsJKtv8L4iM1MMxDetCo2qR6sYc497VX49xX+YquqxlzAEtkkZhrlknKOwsqFN7mwRIi4I\/Iq2VGLSOYQSCIIMEGxB0IITFvUfFlYgNr5cQ0aCuxtUj0e7nb\/yuCa2tg6vtUqmHd96k7zGevlVTm+FRRatXhlYc3lS06nff6LWd4eLr4etSr\/hzeXU6\/8ADqxmPZhcsqvh303ZKjHMdu1zS0\/A3U4KjLTnCRpvHuTXfL9hNJ+aQ6KUWmEpEiFKUrVATAjUoWjwnDANNV3sNnNb7s2+bdOqEpz6NBdGGMaAXEBY4TolMldLwzhNNuHOJxAOWTkaHR5hiwsJAmTP\/VWe8NFlZoYnSnS3lkk7AdVzzwpaeCqG4Y6ImYgfE2V7hVHz8TTpt\/p5qjQHNJlt7EHr0PVdJxarQo1HUxh3VACP6kuqRYZol0Z5vPoFUvIwFPdhxJvC4w4RwMHKPVzfyKlp4VmrqgHoCf0V7E8Xpmww7Rbf9Iv\/AJKz62IaRAYBpEfOeqsC47ilFRjnfupMlIXzFw72kxsBNverHD8dQp8xpZ3BvKCeXN1dufSwWOVNQwz3+wxzvRpP0UloO6WJCNgtN\/iKubNcGDpTaGD\/AGhUa\/EKrzLqjye7ifzTm8LrH7BHrA+qkHDCPaexvvk\/p81UCMZFK\/8Amd4\/hQ0sfUaIDj8fyWpQ8V4hoAkOERDrg+oNlU\/7Ppf+ePWBHwmUyphKI0rz\/wC2f1UERu3H2Ujvm8\/uFrv8Q4Z7YqYGkXblhNOf9MFXuC8J4fiwWMrVsPVJ5WvLalOToLNDvn8Vy7qFEf8AjE+lM\/mQuu8GcHwdWswjEva8EECA24S3gMbYJHv+1dmp5pwHpV\/Zc\/xvw5icI7\/vFJwbNni7HCdWu0v0MFZQeL8vzIIX0Njg5rfLqNLmb8stcCNRHsx1iF4d4ow7G4p7aZDm9Wtyj0jYxGiIZ9ZohRJDoGoG1QpVWjQkdj+o\/RdLwrjLyzy3htWmNGOaKjR6NM5fUQVz+KwVgWySBBH0KoNcQZEgjfdM0h2UOc+I6XhdwzgOExA\/pk4d\/YmpSPYtcc7fXM70WFxvw3iMMQajJYTaqzmpmfxag9nAFR8P49UYYcBUH4pDvc8X+Mhem+DvElMlradQybHD1i2HdmuPK4fApb3vjychWaxkn0ryB+GIEwq4C9k\/iB4eZiefDMFOsLuoxAf\/AGdHdt9uh8mw+GJqhhBBzQQbEEG4PRXilDwSlSxU4AblXMbXyUadIWzDM+N5Jyj4X+CFW4u+az40Byj0aMv5JExgwqzO1PPTA9Plq1wzBg88ZiGlzad+aD6aala\/HHnEUqYY7lpN5gGwwXuQYuQSR7llUM1EF5Bu3LtBzSC2ZtYaCVfp4iKJY1rmsMDXYEumd7uj\/okPu9Xsuh2cNruzixne+h9fasUszgeKFKsx5AOV030keyTa4DoMdl1dPxEarMkMHMHOqZ4kkA5TrclpI9npc3PFVuVxPw\/VVy0phYHZKyd4Y+HzXQ8WoYd1Qhrso7FrjIiSCDBbM77Fc85sbpiRXa2hSTJJrN0p6VQDYTseinPEakQHEDoLKin5D0UkA7qGvcMBTvxtQ2L3Ef3FQSVIynOpAVii2m3WHepsosDZXDHP3PufhVSnTJMAEnoBKnOAqjWlU\/0O\/RWDxCJyAN\/tt9IUlHjlVohp95mVBLuQ91Ijj5u9gs3ynfdPwK0uDU67KjXsYbEG4gH3myhqcWrH7ZHoohi3TLnF2mt\/qg6iKofPZDe7Drs\/YfyvUj4te1oc9wGVnsZg4axoLgWNwV5tUxpq4g1XAcxvGg2nTRR4vFuq2EwNlTktNjHolRQht+JTZZjYI2BXQPLcxyuA5jIm2p+0dDHSQbKLH8PzGQMrobM2uZiRFjbax2Kz8BicgeD7L25TAE6g2n3\/ALgi7Tr52k7TB3LBqbTzN\/D6m21i0g4VmzNeNLvb5sso0XN1CXz4XSYek2qA115mYNxm0eJ9pvzHRc\/j8A+k4tcNDr1GxClrw40d0TQOhaHMNg\/ZbfCfGNenDKv9akLBrjzt\/sqaj0Mjst+t5ONcMRRdmrtEwQBUfAsyq3RzhtUFjoYtHEVqDfLa8SDmIg72nMP0vqEuHe6nTL2ktcXAAgkEb2IVHRNOW4O3\/UQve1\/FkAavHbIr15KOlTEl1SYk23Lp0SqLFYp9Rxe8y4mSep623QnFpOUls4YKa0HqRZK3MVVD2NYWwGGXPLibv\/D7IMWt0vNor8SrtyiI6QLQ0E29Tqo6lQNlhi0e7qTOp\/fQqlicTmi1hMJQZkLXJKGtcOZ9\/gTq+JDmhsaE3321+CrZyJE66\/VMcklOApc97y42d0iFo4CvTDS2oyZNiAJAcC1xk7ixA6hPqVqLhoGksOjdH+YHbDTJI\/RSqLMBTpWp51DMTALczS0ZL+XJzMN\/aiIPbUSlpVcNyy10jJmkSDDXAx6ktOn2UKVkSlBV7C1qQzZ2yM7SIF8snMAbRaOnuT6damHsloLcpbUhusl3M0bENLelx8RQs7MkWqa9E6tuR92MrjTeHE9RnLXCNAPcWYmtRNOGth+aZjbSNff7kKVnAJVsfzdAzyRr9nl9khpG4vEjS07wKmJrUiwZGEPhsnbQZova7f8AcUIwoKeIjQfv0SOqZjzH99lo1MThyHckHm0Ag8pDSN2mYkaWneANr4fNJaS2RAyxA8wGO5ySD16qKCsXuOCsl7tB0T6NYtMtMFX216EDM37JFhBzZyQZ\/tDW\/wDMTqntrYYOnKSA55iNWuDsovplIZ8ShVUdLGw4GSRc9w43Nx3lXcbixWp8xAI0A63t6LNxZplrcmoDp5Yk5zGunKRudPearHwqGMXa0M7QQ3SdlrVWmo1jBENmG6QCTO97xeyTF4FwpkNgtZzOvzXIEkdBOqzW13A6\/Ndj4LY3EPq03nmfRewdbtjft+SXI4xt1chn590+KpSWjc4+ewXDoV\/G8LqUiczTAMZhBHvjQ9ihPBB2KwljhghR4qtmcYBDdhvHfqVUKCkUgUhzi42UJ0bpFaq4iWBkaez2P2p9fyQgAEGzy+fPGvMWsZgQGZ2GQAzON2FwF+7STZQ4em00qriLtyZTJ3MFWcViH0a+YcpyU7HQjy2SD1EKStSYaVWrSs12QFm7DmG+7SlAkAXzpdWSGN0shYAC3vNTT0a4Bzb9CW\/6nI4do3YIOZhxTbD6uaTfZ5H0uq9SpSaSGsDwPtOLhm7gNIyhaVOv5TcFUIMN82e4LyDHucs\/HcOfTcYGdk8r23BHqN0NOc9fyf6UTRERh8bRfBq4boGNhBqiOJxdZrcAWLogNNxZFOJMObmcRciI367pnFKbW1ajGiAHkC\/QxuruIpx\/LckOIJdDYLucx\/thR8XxdVteqA+o0Z3QJItKGmzjwPM+PqiaFrYHGTB1MyGjnHdVgDr1zSTEtY1tBxZOZri4ZzzEOLRvyiyKbaZovqeU2WvYAMz4ObNP2uyOLyaeHLsxOV8k7850Kbhmn+Urf+pS\/wDugfSD1\/asQ0docwNFd2XZa3fuQ68g1nPn5p+Aw9OrUjL5bch3J5tGm+2YhZr6ZBLSLgwR30VzAtPlV3DTy2g++o39FfqVGua3FkDMBlc371UWa6OmWHe4oLtJ6bev9qg7OyaFvJ2Xk0K0ai00AAODSCBzt3NUeK4MUvLAkks5\/wC4OcC33ae5LhsBmoud9uC5rfwMs8\/P\/Y5T4nDOfQomLg1BfUlz5H1KmfW8mq0eW2GCJ5pcy7XmCYMku23UajVA5z9j+0\/\/AOWPvjJIzTGQzxxrYLN5y3i3xqrmqHBqLX1A1wkFrzqR7LHO29ElGi19J7gMrqeU6mCCcu+hV\/A4N1LGZMpgebHcGm8g\/AqDDRWZ5QAZUmWgWFTsZ3F49SguG42wfylR9mqPu3ga7lbVZJDWUAa5OJI8duahoU2eQ+oWyWvYNSPaDjt6KpWeCZaMo6TN4vr3WphW1G4epAcD51Pa\/sv2VHHNqF2Z4MkC5EacoMbaKzTk55\/oJPaYdMMZA\/1BPCB\/s4WXb3gCqrqqS6bwHiS3F0x1kfELmFseFq2TFUnX9sC2t0TC43DoVn7G7TOw9R911HFMJU8t+Ja3mbUyVWkEhw2OX4A\/HdIncC4011erRqQaVVxDs2kXHqDp8ELAZDHhzb\/j+l0HjU4lrsZ\/K8+QlQumuMkTgU1CEKSo8nUkqenhyY2zTAnWP89VUVlmJIA0toYuJ6KFdpaTx\/Pg+9crUlai8AybCN5Bm1ldxjDTEsa8AspnOHOiXNaTPxcFnOxJII2JmO\/borOOrMecwc7\/AIbGxGpY1rdZ05ZVc2LWtj4xG8t+rFWRY+oGj4fTdUUcS5KnLPs03STJ5mNcb+9HFMNlDHAyHNE9nQC5p73B96MZVpvObO72WCMu7GNb10spzxFuapYlhIcwdHMHKSNxEgqBeCnyCF75Q5wALuE3dfUdgdjgHzB5KvjaRaGSSZBzDo5pPL7hCkotApZ4zcxDhmIyiBlMDrzX7KB9YOpNBJzNc\/3h0HXrMp+DqMa5j5Mg3Zlme09wjNJQezvcUAQNyOGwLObsjNjnmqO0uEDHCocrgGMzRn1Jc1txHdR0mMLajsp5QyBmOpIBumYKq0CpNszIEDfM0\/CyMLiA1lVskFwZBHZ0mVObNdP0o7xjms1V9L7w3fj08h\/5ryBV1t69JgqPyP8ALkZrtzRae0qGhRzVaTHte2XAXJmCYtOibSxjPNp1TILXNLoGuXcdyoMLUaHsJc7KD9kXjtfVVo0fL+VoM8bntsggyXvjTwb3ZA+rwrO6mfWyjmY8axzkdOyMaxjHZQ0zlYQ7Nu5rXfmqlYNgZXE67RCl4jVa58tNsrBcR7LQ38lashZDL\/icDV22vpOKddECt6TaeKINy4j+4odiXGRmMbSSVUQrUFn759VaFc4aD5tOJnOIjXXZU1JS1HqEEWCFEZ0uB8CPyrrcQ+niC4Eh7Xm+8glIouIOmq89TKFTQ1wBITjIY3OaDzP5VVIhCYsycwSQFa\/k\/wAY\/fvU+JoNpOGV7XS3fb\/SoxiT+G\/qoUp9BobLZad5PfZTCPwbBVX4wx9nXvspP5jqWz8tEITjTafuJAQ2Jy3t9f1UP84QTZpv7rCPgn0cUN4BPa2289kIU+YfhufzA\/ymeS38H7Cc14gc7LD97pPN0GZmn021QhJRqAj7M+nonkj8Oh\/RBqD77Nen+Uhqg3zM1+luqEJHvDbnLdK0ASCW3Jv6pr64H2mm+w7a69vmkc8OA52t30HfuhCktb2P2N0xu\/s9Nv2E7zBcZ26x9DOvc\/BVm4lxEWHfe3vQhWC4X9n9yiq+1g0mewUDarhq4H1j9U52IOvL+\/ehCWqzPE5W6qMYIffH796VuKJMw0H3pRiT+H5oRhUnC6atKiGVCS8gQLQYG86hUKkSY0m3opUJ9Z0mewQo5QhWJs2moQhCqhCEIQhCEIQhCEIQrWDa01GioYaXDMe03K0KuHoiq1rnNY3LLwHF7Q6\/KHtzaiL3jMeixUKpFrRHO1jaLAcg56cvLHiOd3ir2LogPqZSC1ryBzaiTETciBqtGvh6Pm0wMgBpuLmh8jzA1+UF+YwC4N3FjeFgIRp6qWTsaSSwGyD5UboY2Iwei0cdRaHuyEZQGH2gbkCQ0\/aAJPuCt06FE1QOWPKDgw1CGmpA5S8m153Giw0I09UNnaHF2gGzdepNDpmtiMZB2VvHNaKjgwy3Mcp6j81UQhSAkOOok1XRCEIUqqEIQhCEIQhCEIQhCVCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQv\/Z"
      },
      {
       "title": "Pesadilla en la Calle del Infierno 2: La venganza de Freddy",
@@ -2071,7 +2230,7 @@ const data = [
       "year": 1989,
       "trailer": "https:\/\/youtu.be\/nSIg5QgU4wQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/pesadilla5.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/86\/19\/81\/20420796.jpg"
      },
      {
       "title": "Pesadilla en la calle del Infierno 6: La Muerte de Freddy",
@@ -2082,6 +2241,15 @@ const data = [
       "trailer": "https:\/\/youtu.be\/gEhipllOnEE",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg"
+     },
+     {
+      "title": "Pet Sematary",
+      "optional_title": "Cementerio de Animales",
+      "web_calification": 6.16,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10009",
+      "year": 2019,
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg"
      },
      {
       "title": "Playback",
@@ -2100,6 +2268,15 @@ const data = [
       "year": 2015,
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28896_2.jpg"
+     },
+     {
+      "title": "Poltergeist ",
+      "web_calification": 8,
+      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25",
+      "year": 1982,
+      "trailer": "https:\/\/www.youtube.com\/watch?v=9eZgEKjYJqA",
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg"
      },
      {
       "title": "Poltergeist (Remake)",
@@ -2144,15 +2321,6 @@ const data = [
       "year": 2008,
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.sSuAN3PmJF432FUwMIXkqgHaLA?pid=ImgDet&rs=1"
-     },
-     {
-      "title": "Pet Sematary",
-      "optional_title": "Cementerio de Animales",
-      "web_calification": 6.16,
-      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10009",
-      "year": 2019,
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg"
      },
      {
       "title": "Quarentine",
@@ -2246,6 +2414,16 @@ const data = [
       "year": 2000,
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg"
+     },
+     {
+      "title": "Rings",
+      "optional_title": "Rings \/ El aro 3",
+      "web_calification": 5.11,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4962",
+      "year": 2017,
+      "trailer": "https:\/\/youtu.be\/_81MXV6ly40",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/17\/02\/03\/10\/37\/196315.jpg"
      },
      {
       "title": "Sam Was Here",
@@ -2377,6 +2555,16 @@ const data = [
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg"
      },
      {
+      "title": "Smile",
+      "optional_title": "Sonríe",
+      "web_calification": 6.68,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=43255",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/qmzGlPS-o2M",
+      "clasification": "movie",
+      "cover": "https:\/\/pics.filmaffinity.com\/Smile-692937346-large.jpg"
+     },
+     {
       "title": "Solstice",
       "optional_title": "Solticio",
       "web_calification": 6.17,
@@ -2440,6 +2628,16 @@ const data = [
       "year": 2016,
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg"
+     },
+     {
+      "title": "Terrifier 2",
+      "optional_title": "Terrifier 2",
+      "web_calification": 6.91,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38174",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/JtIeafFBhgE",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/22\/12\/27\/12\/24\/4448854.jpg"
      },
      {
       "title": "The Amityville Horror: Remake",
@@ -2557,6 +2755,16 @@ const data = [
       "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg"
      },
      {
+      "title": "The Devil's tail",
+      "optional_title": "La cola del diablo",
+      "web_calification": 5.97,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41949",
+      "year": 2021,
+      "trailer": "https:\/\/youtu.be\/BeU_TQH-bCA",
+      "clasification": "movie",
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg"
+     },
+     {
       "title": "The Disappoinments Room",
       "optional_title": "La Casa del Pánico \/ El Ático ",
       "web_calification": 5.09,
@@ -2573,6 +2781,16 @@ const data = [
       "year": 2008,
       "clasification": "movie",
       "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749"
+     },
+     {
+      "title": "The Empty Man",
+      "optional_title": "The Empty Man: El Mensajero del último Día",
+      "web_calification": 5.87,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32728",
+      "year": 2020,
+      "trailer": "https:\/\/youtu.be\/u0Zq4fuOINI",
+      "clasification": "movie",
+      "cover": "https:\/\/posterspy.com\/wp-content\/uploads\/2022\/10\/TheEmptyMan_Poster.jpg"
      },
      {
       "title": "The Exorcist ",
@@ -2694,6 +2912,16 @@ const data = [
       "year": 2010,
       "clasification": "movie",
       "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg"
+     },
+     {
+      "title": "The last of us",
+      "optional_title": "The last of us",
+      "web_calification": 8.02,
+      "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3946",
+      "year": 2023,
+      "trailer": "https:\/\/youtu.be\/yyGetSp7CIc",
+      "clasification": "serie",
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg"
      },
      {
       "title": "The Manor",
@@ -3141,71 +3369,13 @@ const data = [
       "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg"
      },
      {
-      "title": 1408,
-      "web_calification": 7,
-      "details": "www.abandomoviez.net\/db\/pelicula.php?film=5052",
-      "year": 2007,
-      "trailer": "https:\/\/youtu.be\/5Z5HZns7uoI",
+      "title": "X",
+      "optional_title": "X",
+      "web_calification": 6.66,
+      "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42051",
+      "year": 2022,
+      "trailer": "https:\/\/youtu.be\/Awg3cWuHfoc",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg"
-     },
-     {
-      "title": "13 Fantasmas",
-      "optional_title": "Thirteen Ghosts",
-      "web_calification": 6.72,
-      "details": "www.abandomoviez.net\/db\/pelicula.php?film=224",
-      "year": 2001,
-      "trailer": "https:\/\/youtu.be\/Q9rX3krvo4o",
-      "clasification": "movie",
-      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg"
-     },
-     {
-      "title": "28 Days Later",
-      "optional_title": "28 Días Después",
-      "web_calification": 7.84,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=339",
-      "year": 2002,
-      "trailer": "https:\/\/youtu.be\/TpVDni6D7AA",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg"
-     },
-     {
-      "title": "28 Weeks Later",
-      "optional_title": "28 Semanas Después \/ Exterminio 2",
-      "web_calification": 7.48,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4420",
-      "year": 2007,
-      "trailer": "https:\/\/youtu.be\/ljqY7qrnycw",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg"
-     },
-     {
-      "title": "30 Days of Nigth",
-      "optional_title": "30 Días de Noche",
-      "web_calification": 7.06,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3980",
-      "year": 2007,
-      "trailer": "https:\/\/youtu.be\/LDZepeBxWFc",
-      "clasification": "movie",
-      "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1"
-     },
-     {
-      "title": "11 – 11 – 11",
-      "optional_title": "La Profecía del 11 – 11 – 11",
-      "web_calification": 4.43,
-      "details": "www.abandomoviez.net\/db\/pelicula.php?film=15638",
-      "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
-      "clasification": "movie",
-      "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg"
-     },
-     {
-      "title": "23:59",
-      "web_calification": 4.94,
-      "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19022",
-      "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
-      "clasification": "movie",
-      "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg"
      }
     ]
