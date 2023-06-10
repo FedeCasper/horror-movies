@@ -40,6 +40,9 @@
                               <li class="nav-item">
                                    <a class="nav-link" href="#">Top</a>
                               </li>
+                              <li class="nav-item">
+                                   <a class="nav-link disabled" href="#">Book</a>
+                              </li>
                          </ul>
                          <div class="d-flex" role="search">
                               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
@@ -103,10 +106,10 @@
                          </tr>
                     </thead>
                     <tbody>
-                         <tr v-for="(movie, index) of (topSeries.slice(0,3))">
+                         <tr v-for="(serie, index) of (topSeries.slice(0,3))">
                               <td :class=" index == 0 ? 'text-danger' : '' ">{{index+1}}</td>
-                              <td><a :class=" index == 0 ? 'text-danger' : '' " :href="movie.details">{{movie.title}}</a></td>
-                              <td :class=" index == 0 ? 'text-danger' : '' ">{{movie.rate}}</td>
+                              <td><a :class=" index == 0 ? 'text-danger' : '' " :href="serie.details">{{serie.title}}</a></td>
+                              <td :class=" index == 0 ? 'text-danger' : '' ">{{serie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
@@ -123,10 +126,10 @@
                          </tr>
                     </thead>
                     <tbody>
-                         <tr v-for="(movie, index) of (topSeries.slice(topSeries.length - 3, topMovies.length)).reverse()">
+                         <tr v-for="(serie, index) of (topSeries.slice(topSeries.length - 3, topMovies.length)).reverse()">
                               <td :class=" index == 0 ? 'text-danger' : '' ">{{index+1}}</td>
-                              <td><a :class=" index == 0 ? 'text-danger' : '' " :href="movie.details">{{movie.title}}</a></td>
-                              <td :class=" index == 0 1 ? 'text-danger' : '' ">{{movie.rate}}</td>
+                              <td><a :class=" index == 0 ? 'text-danger' : '' " :href="serie.details">{{serie.title}}</a></td>
+                              <td :class=" index == 0 1 ? 'text-danger' : '' ">{{serie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
