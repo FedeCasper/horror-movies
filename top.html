@@ -105,8 +105,8 @@
                     <tbody>
                          <tr v-for="(movie, index) of (topSeries.slice(0,3))">
                               <td :class=" index == 0 ? 'text-danger' : '' ">{{index+1}}</td>
-                              <td><a :class=" index < 3 ? 'text-danger' : '' " :href="movie.details">{{movie.title}}</a></td>
-                              <td :class=" index == 0 ? 'text-danger' : '' ">{{movie.rate}}</td>
+                              <td><a :href="movie.details">{{movie.title}}</a></td>
+                              <td>{{movie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
@@ -125,8 +125,8 @@
                     <tbody>
                          <tr v-for="(movie, index) of (topSeries.slice(topSeries.length - 3, topMovies.length)).reverse()">
                               <td :class=" index == 0 ? 'text-danger' : '' ">{{index+1}}</td>
-                              <td><a :class=" index < 3 ? 'text-danger' : '' " :href="movie.details">{{movie.title}}</a></td>
-                              <td :class=" index == 0 ? 'text-danger' : '' ">{{movie.rate}}</td>
+                              <td><a :href="movie.details">{{movie.title}}</a></td>
+                              <td>{{movie.rate}}</td>
                          </tr>
                     </tbody>
                </table>
