@@ -7,21 +7,27 @@ createApp({
                movies: [],
                filteredMovies: [],
                topMovies: [],
+               topSeries: [],
           }
      },
      created(){
           this.movies = data
           console.log(this.movies);
-          this.topMovies = this.bestMovies()
+          let onlyMovies = this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification)
+          console.log(onlyMovies);
+          this.topMovies = this.bestOnes(onlyMovies)
+          let onlySeries = this.movies.filter(movie => movie.clasification == "serie" && movie.web_calification)
+          this.topSeries = this.bestOnes(onlySeries)
           console.log(this.topMovies);
      },
      methods:{
-          bestMovies(){
-               let newObjectArray = this.movies.map(movie => { 
+          bestOnes(array){
+               let newObjectArray = array.map(movie => { 
                          return {
                               title: movie.title,
+                              details: movie.details ? movie.details : '',
                               optional_title: movie.optional_title,
-                              rate: movie.web_calification ==  undefined ? "no-rated" : movie.web_calification,
+                              rate: movie.web_calification
                          }
                })
                return newObjectArray.sort((a,b) => b.rate - a.rate)
