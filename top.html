@@ -126,7 +126,7 @@
                          </tr>
                     </thead>
                     <tbody>
-                         <tr v-for="(serie, index) of (topSeries.slice(topSeries.length - 3, topMovies.length)).reverse()">
+                         <tr v-for="(serie, index) of ( topSeries.slice( topSeries.length - 3, topMovies.length ) ).reverse()">
                               <td :class=" index == 0 ? 'text-danger' : '' ">{{index+1}}</td>
                               <td><a :class=" index == 0 ? 'text-danger' : '' " :href="serie.details">{{serie.title}}</a></td>
                               <td :class=" index == 0 1 ? 'text-danger' : '' ">{{serie.rate}}</td>
