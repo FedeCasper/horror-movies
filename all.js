@@ -18,7 +18,7 @@ createApp({
           filter(){
                
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
-               if(this.inputValue.length == 1){
+               if(this.inputValue != "" && this.inputValue.length == 1){
                     this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
 
                movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()
