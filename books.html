@@ -36,7 +36,7 @@
 
            <a href="#computedFunction"><img class="returnArrow" src="./assets/arrow.png" alt="arrow" title="Back to the top"></a> 
 
-           <span id="computedFunction">{{filter}}</span> 
+           <span id="computedFunction"></span> 
 
            <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark"> 
 
@@ -112,17 +112,17 @@
 
   
 
-                <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredOnlySeries"> 
+                <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="book of onlyBooks"> 
 
-                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="..."> 
+                     <img src="..." class="card-img-top cover" alt="..."> 
 
                      <div class="card-body"> 
 
-                          <h5 class="card-title">{{movie.title}}</h5> 
+                          <h5 class="card-title">{{book.title}}</h5> 
 
-                          <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown" 
+                          <h6 class="fw-lighter fst-italic">
 
-                               }} </h6> 
+                               </h6> 
 
                      </div> 
 
@@ -130,9 +130,9 @@
 
                           <li class="list-group-item d-flex justify-content-between"> 
 
-                               <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span> 
+                               <span class="d-flex align-items-center"></span> 
 
-                                <span class="d-flex align-items-center text-danger">{{ movie.web_calification ? movie.web_calification :"unknown"}} / 10  
+                                <span class="d-flex align-items-center text-danger">/ 10  
 
                                     <img class="ms-2" src="./assets/ghost.png" alt="ghost icon"> 
 
@@ -146,23 +146,23 @@
 
                           <!-- Sinopsis button --> 
 
-                          <a role="button" :href="movie.details ? movie.details : '' " 
+                          <a role="button" href="#" 
 
-                               :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'" 
+                               class="" 
 
-                               target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details 
+                               target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>
 
-                               ? "Sinopsis" : "Unavailable"}}</a> 
+                               </a> 
 
                           <!-- Trailer button --> 
 
-                          <a role="button" :href="movie.trailer ? movie.trailer : '' " 
+                          <a role="button" href="#" 
 
                                class="btn btn-sm btn-danger text-dark fw-bold"><i 
 
-                                    class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" : 
+                                    class="bi bi-film text-dark me-1"></i>
 
-                               "Unavailable"}}</a> 
+                               </a> 
 
                      </div> 
 
