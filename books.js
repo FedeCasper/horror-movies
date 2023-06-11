@@ -16,7 +16,7 @@ const { createApp } = Vue
 
                 filteredOnlySeries: [],
              
-             onlynook:[]
+             onlyBooks:[]
 
            } 
 
