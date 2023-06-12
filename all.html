@@ -41,9 +41,6 @@
                               <li class="nav-item">
                                    <a class="nav-link" href="./top.html">Top</a>
                               </li>
-                              <li class="nav-item">
-                                   <a class="nav-link disabled" href="#">Books</a>
-                              </li>
                          </ul>
                          <div class="d-flex" role="search">
                               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
@@ -52,13 +49,14 @@
                     </div>
                </div>
           </nav>
-         <!-- <div class="d-flex gap-1 flex-wrap w-75 pt-3 mx-auto">
+          <!-- <div class="d-flex gap-1 flex-wrap w-75 pt-3 mx-auto">
                <a v-for="character in alphabet" class="btn btn-danger text-dark fw-bold btn-sm flex-grow-1" href="#">{{character}}</a>
           </div> -->
 
           <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
+              <span class="text-light">{{filteredMovies.length}}</span> 
+               <div v-if="filteredMovies.length != 0" class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
 
-               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{movie.title}}</h5>
@@ -85,6 +83,11 @@
                                    class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" :
                               "Unavailable"}}</a>
                     </div>
+               </div>
+               <div v-else-if="filteredMovies.length == 0">
+                    <h1 class="text-light">HOLA</h1>
+
+                    <span class="text-light">{{notFoundText}}</span>
                </div>
 
           </section>
