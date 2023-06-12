@@ -24,8 +24,9 @@ section{
      min-height: 90vh;
 }
 .cover{
+     background-color: black;
      height: 20rem;
-     object-fit: cover;
+     object-fit: contain;
 }
 .returnArrow{
      position: fixed;
