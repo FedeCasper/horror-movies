@@ -53,12 +53,16 @@
           </nav>
 
           <section v-if="initializer === true" class="d-flex flex-column justify-content-center align-items-center w-75 mx-auto">
-               <h4 class="d-flex mb-4 text-light text-center">What scary movie are you looking for?</h4>
+               <h4 class="d-flex mb-4 text-light text-center">What scary story are you looking for?</h4>
                <form class="d-flex w-100" role="search">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
                     <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="initializer = false"></i></button>
                </form>
-               <h6 class="d-flex text-light pt-3">Now counting <span class="text-danger px-2">{{movies.length}}</span> movies</h6>
+               <h6 class="d-flex text-light pt-3">
+                    <span class="text-danger px-2">{{dataObject.movies.length}}</span> movies,
+                    <span class="text-danger px-2">{{dataObject.series.length}}</span> series,
+                    <span class="text-danger px-2">{{dataObject.books.length}}</span> books.
+               </h6>
           </section>
 
           <section v-if="initializer === false" class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">

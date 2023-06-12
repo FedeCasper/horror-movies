@@ -7,13 +7,18 @@ createApp({
                movies: [],
                filteredMovies: [],
                initializer: true,
-               notFoundObject: {}
+               notFoundObject: {},
+               dataObject: {}
           }
      },
      created(){
           this.movies = data
           console.log(this.movies);
-
+          this.dataObject = {
+               movies: this.movies.filter(movie => movie.clasification === "movie"),
+               series: this.movies.filter(movie => movie.clasification === "serie"),
+               books: this.movies.filter(movie => movie.clasification === "book")
+          }
      },
      beforeUpdate(){
           this.notFoundObject = {
