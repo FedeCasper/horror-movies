@@ -6,14 +6,13 @@ createApp({
                inputValue: "",
                movies: [],
                filteredMovies: [],
-               alphabet: [],
                notFoundObject: {}
           }
      },
      created(){
           this.movies = data
           console.log(this.movies);
-          this.alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+          this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
      },
      beforeUpdate(){
           this.notFoundObject = {
@@ -24,14 +23,13 @@ createApp({
      },
      computed:{
           filter(){
-               this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
                if(this.inputValue == "" || this.inputValue.length <= 2){
                     this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
-                    movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
+                         movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
                     )
                }else{
                     this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
-                    movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
+                         movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
                     )
                } 
           }

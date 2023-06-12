@@ -16,15 +16,20 @@
 <body class="bg-dark">
 
      <div id="app">
+
           <a href="#computedFunction"><img class="returnArrow" src="./assets/arrow.png" alt="arrow" title="Back to the top"></a>
+
           <span id="computedFunction">{{filter}}</span>
+
+     <!-- Nav section -->
           <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
                <div class="container-fluid">
-                    <a class="navbar-brand text-light fw-bold" href="#"><img src="./assets/ghost2.png" alt="skull">
-                         Casper's <span class="text-danger">Horror Movies</span></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                         aria-expanded="false" aria-label="Toggle navigation">
+                    <a class="navbar-brand text-light fw-bold" href="#">
+                         <img src="./assets/ghost2.png" alt="skull">
+                         Casper's 
+                         <span class="text-danger">Horror Movies</span>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                          <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -41,28 +46,27 @@
                               <li class="nav-item">
                                    <a class="nav-link" href="./top.html">Top</a>
                               </li>
+                              <li class="nav-item">
+                                   <a class="nav-link" href="./books.html">Books</a>
+                              </li>
                          </ul>
+                         <!-- Input Search -->
                          <div class="d-flex" role="search">
-                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
-                                   v-model="inputValue">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
                          </div>
                     </div>
                </div>
           </nav>
-          <!-- <div class="d-flex gap-1 flex-wrap w-75 pt-3 mx-auto">
-               <a v-for="character in alphabet" class="btn btn-danger text-dark fw-bold btn-sm flex-grow-1" href="#">{{character}}</a>
-          </div> -->
 
+     <!-- Cards container section -->
           <section class="row justify-content-center py-5 px-2 w-100 mx-0">
-
+          <!-- Card individual model -->
                <div v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredMovies">
-
                     <div class="card h-100">
-                         <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
+                         <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-2" alt="...">
                          <div class="card-body">
                               <h5 class="card-title">{{movie.title}}</h5>
-                              <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"
-                                   }} </h6>
+                              <h6 class="fw-lighter fst-italic"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
                          </div>
                          <ul class="list-group list-group-flush">
                               <li class="list-group-item d-flex justify-content-between">
@@ -73,20 +77,15 @@
                          </ul>
                          <div class="card-body d-flex justify-content-between gap-3">
                               <!-- Sinopsis button -->
-                              <a role="button" :href="movie.details ? movie.details : '' "
-                                   :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'"
-                                   target="_blank"><i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details
-                                   ? "Sinopsis" : "Unavailable"}}</a>
+                              <a role="button" :href="movie.details ? movie.details : '' " :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'" target="_blank">
+                                   <i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details ? "Sinopsis" : "Unavailable"}}</a>
                               <!-- Trailer button -->
-                              <a role="button" :href="movie.trailer ? movie.trailer : '' "
-                                   class="btn btn-sm btn-danger text-dark fw-bold"><i
-                                        class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" :
-                                   "Unavailable"}}</a>
+                              <a role="button" :href="movie.trailer ? movie.trailer : '' " class="btn btn-sm btn-danger text-dark fw-bold">
+                                   <i class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" : "Unavailable"}}</a>
                          </div>
                     </div>
-
-
                </div>
+          <!-- Optional div section -->
                <div class="d-flex flex-column justify-content-center h3 text-center gap-3" v-else-if="filteredMovies.length == 0">
                     <span class="text-light fst-italic">{{notFoundObject.text}}</span>
                     <img class="notFoundImg justify-content-center" :src="notFoundObject.img" alt="ghost icon">
