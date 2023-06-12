@@ -58,10 +58,12 @@
                </div>
           </nav>
 
-          <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
+          <section class="row justify-content-center py-5 px-2 w-100 mx-0">
 
-               <div class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="book of onlyBooks">
-                    <img :src="book.cover" class="card-img-top cover" alt="...">
+               <div v-if="onlyBooks.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="book of onlyBooks">
+
+                    <div class="card h-100">
+                    <img :src="book.cover" class="card-img-top cover p-2" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{book.title}}</h5>
                          <h6 class="fw-lighter fst-italic">
@@ -70,15 +72,14 @@
                     <ul class="list-group list-group-flush">
                          <li class="list-group-item d-flex justify-content-between">
                               <span class="d-flex align-items-center">{{book.year}}</span>
-                              <span class="d-flex align-items-center text-danger">{{book.web_calification}}/ 10
-                                   <img class="ms-2" src="./assets/ghost.png" alt="ghost icon">
-                              </span>
+                              <span class="d-flex align-items-center"> <span class=" text-danger fw-bold pe-1">{{ book.web_calification ? book.web_calification :"unknown"}}</span> / 10 
+                         </span>
                          </li>
                     </ul>
 
                     <div class="card-body d-flex justify-content-between gap-3">
                          <!-- Sinopsis button -->
-                         <a role="button" href="#" target="_blank"><i
+                         <a role="button" class="btn btn-sm btn-danger text-dark fw-bold" href="#" target="_blank"><i
                                    class="bi bi-chat-square-quote-fill text-dark me-1"></i>
                          </a>
                          <!-- Trailer button -->
