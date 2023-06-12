@@ -8,7 +8,8 @@ const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
       "clasification": "movie",
-      "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg"
+      "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
+      "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad."
      },
      {
       "id": 2,
@@ -19,7 +20,8 @@ const data = [
       "year": 2007,
       "trailer": "https:\/\/youtu.be\/5Z5HZns7uoI",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
+      "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin."
      },
      {
       "id": 3,
@@ -52,7 +54,8 @@ const data = [
       "year": 2001,
       "trailer": "https:\/\/youtu.be\/Q9rX3krvo4o",
       "clasification": "movie",
-      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg"
+      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
+      "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto."
      },
      {
       "id": 6,
@@ -63,7 +66,8 @@ const data = [
       "year": 2002,
       "trailer": "https:\/\/youtu.be\/TpVDni6D7AA",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg",
+      "sinopsis": "28 días después, todo ha cambiado. Jim despierta en un hospital y la ciudad está completamente desierta, o al menos eso es lo que cree. Un extraño virus liberado recientemente de un laboratorio de investigación ha diezmado todo el planeta y la raza humana se enfrenta a su eminente extinción. Los hombres se han convertido en una extraña especie que sólo ansía matar, o mejor dicho, devorar. Tan sólo unos pocos supervivientes intentarán encontrar el camino hacia la salvación. Un camino, en el que conocerán el terror como nunca antes lo habían imaginado."
      },
      {
       "id": 7,
@@ -167,7 +171,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/watch?v=mYh7tYHQvZo",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19_38.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19_38.jpg",
+      "sinopsis": "Después de su último descubrimiento, Ellen Ripley aterriza en Fiorina 161, una prisión de máxima seguridad. Cuando una serie de sucesos extraños y mortales ocurren poco después de su llegada, Ripley se da cuenta de que ha traído a un visitante no deseado."
      },
      {
       "id": 16,
@@ -179,7 +184,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/watch?v=15g12dGxWX4",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20_50.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20_50.jpg",
+      "sinopsis": "Ellen Ripley murió luchando con el perfecto depredador, el alien de la 3ª entrega de la serie. Doscientos años después y tras 8 espeluznantes experimentos genéticos, Ripley vuelve a la vida gracias a un grupo de científicos que la ha clonado con un objetivo concreto: recuperar a la reina alien que estaba engendrando antes de morir. Pero la clonación de Ripley está llena de sorpresas para sus creadores y pronto el terror se apodera de la nave. Una vez más, ella será la única capaz de hacerle frente, con la ayuda de una banda de contrabandistas que tienen intereses particulares en el experimento."
      },
      {
       "id": 17,
@@ -190,7 +196,8 @@ const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/watch?v=4zLS4lL3JDQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24855_20.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24855_20.jpg",
+      "sinopsis": "Una familia media norteamericana se encuentran en el lugar equivocado en el momento equivocado... Mientras la familia Morris viajaba a un campamento en las montañas de Carolina del Norte, el mal funcionamiento del GPS hace que sean dirigidos a un túnel remoto rodeado por vehículos abandonados. El padre, Peter Morris es secuestrado dejando a su esposa e hijos traumatizados, que durante su huida encuentran refugio en una cabaña cercana. Allí, se horrorizan al saber que extrañas luces en las montañas cercanas se han relacionado con la abducción alienígena y el sacrificio humano durante siglos. Cuando sus intentos para alertar a las autoridades son interceptados por la amenaza extraterrestre, los miembros sobrevivientes de la familia se encuentran entre la espada y la pared. Este ataque brutal y sangriento se desarrolla a través de la lente de la cámara de video de su hijo menor."
      },
      {
       "id": 18,
