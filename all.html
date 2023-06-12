@@ -54,9 +54,8 @@
           </div> -->
 
           <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
-              <span class="text-light">{{filteredMovies.length}}</span> 
+               
                <div v-if="filteredMovies.length != 0" class="card col-12 col-sm-5 col-lg-3 col-xxl-2 px-0" v-for="movie of filteredMovies">
-
                     <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{movie.title}}</h5>
@@ -66,7 +65,7 @@
                     <ul class="list-group list-group-flush">
                          <li class="list-group-item d-flex justify-content-between">
                               <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
-                               <span class="d-flex align-items-center text-danger">{{ movie.web_calification ? movie.web_calification :"unknown"}} / 10 
+                              <span class="d-flex align-items-center text-danger">{{ movie.web_calification ? movie.web_calification :"unknown"}} / 10 
                                    <img class="ms-2" src="./assets/ghost.png" alt="ghost icon">
                               </span>
                          </li>
@@ -84,10 +83,11 @@
                               "Unavailable"}}</a>
                     </div>
                </div>
-               <div v-else-if="filteredMovies.length == 0">
-                    <h1 class="text-light">HOLA</h1>
-
-                    <span class="text-light">{{notFoundText}}</span>
+               <div class="d-flex flex-column justify-content-center h3 text-center gap-3" v-else-if="filteredMovies.length == 0">
+                    <span class="text-light fst-italic">{{notFoundObject.text}}</span>
+                    <img class="notFoundImg justify-content-center" :src="notFoundObject.img" alt="ghost icon">
+                    <span class="text-danger">" {{inputValue}} "</span>
+                    <span class="text-light fst-italic">{{notFoundObject.text2}}</span>
                </div>
 
           </section>
@@ -98,7 +98,7 @@
           integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
           crossorigin="anonymous"></script>
      <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-     <script src="data.js"></script>
+     <script src="./data.js"></script>
      <script src="./all.js"></script>
 </body>
 

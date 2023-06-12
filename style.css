@@ -36,3 +36,7 @@ section{
 .returnArrow:hover{
      transform: scale(1.07);
 }
+.notFoundImg{
+     height: 60px;
+     object-fit: contain;
+}

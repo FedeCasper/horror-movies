@@ -2151,7 +2151,7 @@ const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3428 ",
       "year": 2002,
       "clasification": "movie",
-      "cover": "https:\/\/static.wikia.nocookie.net\/doblaje\/images\/6\/6d\/Gathering_dvd_us.jpg\/revision\/latest?cb=20111102154740&path-prefix=es"
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg"
      },
      {
       "id": 198,
@@ -2402,14 +2402,14 @@ const data = [
      },
      {
       "id": 222,
-      "title": "Pesadilla 7 La Ultima Pesadilla ",
-      "optional_title": "Wes Craven's New Nightmare",
+      "title": "Wes Craven's New Nightmare",
+      "optional_title": "Pesadilla 7 La Ultima Pesadilla ",
       "web_calification": 6.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=13",
       "year": 1994,
       "trailer": "https:\/\/youtu.be\/mhkK4GOW92M",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/nuevapesadillawx3.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg"
      },
      {
       "id": 223,
@@ -3745,57 +3745,102 @@ const data = [
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg"
      },
      {
+      "id": 350,
       "title": "It",
       "optional_title": "Eso",
+      "web_calification": 7.95,
       "details": "It (en español, «Eso») es una novela de terror publicada en 1986 por el escritor estadounidense Stephen King. Cuenta la historia, en un juego de correspondencias con el pasado y el presente, de un grupo de siete amigos que son perseguidos por una entidad sobrenatural, al que llaman «Eso», que es capaz de cambiar de forma y se alimenta principalmente del terror que produce en sus víctimas. La narración orbita en torno a la localidad ficticia de Derry (Maine) y la inexplicable aura de horror y muerte que la rodea.",
       "year": 1986,
-      "clasification": "book"
+      "clasification": "book",
+      "cover": "https:\/\/i1.wp.com\/literariness.org\/wp-content\/uploads\/2018\/12\/71lZgzNE2kL.jpg"
      },
      {
+      "id": 351,
       "title": "Cementerio de Animales",
+      "web_calification": 7.6,
       "details": "Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque su hijita Ellie le había encomendado que cuidara del gato, y Church había muerto atropellado. Louis lo había comprobado: el gato estaba muerto, incluso lo había enterrado más allá del cementerio de animales. Sin embargo, Chruch había regresado, y sus ojos eran más crueles y perversos que antes. Pero volvía a estar allí y Ellie no lo lamentaría. Louis Creed sí lo lamentaría. Porque más allá del cementerio de animales, incluso más allá de la valla de troncos que nadie se atrevía a traspasar y de los cuarenta y cinco escalones, el maligno poder del antiguo cementerio indio lo reclamaba con macabra avidez...",
-      "clasification": "book"
+      "year": 1983,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.HLX8_JaOgVhCx2qcH-08fgHaLb?pid=ImgDet&rs=1"
      },
      {
+      "id": 352,
       "title": "El Instituto",
+      "web_calification": 0,
       "details": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas. En habitaciones parecidas hay más niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como la telequinesia o la telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: \"El que entra no sale\". La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien, te premian. Si no, el castigo es brutal. Luke se da cuenta de que las víctimas van desapareciendo y son trasladadas a la Mitad Trasera, así que se obsesiona con huir y pedir ayuda. Pero nunca nadie ha escapado del Instituto... Deudora de Ojos de fuego y con personajes juveniles (como en It y en Stand By Me) con los que podemos empatizar, El Instituto nos recuerda de inmediato al mejor King, incluso aunque trate temas tan oscuros como los que copan los titulares hoy en día y que nos hacen temer por nuestro futuro",
-      "clasification": "book"
+      "year": 2019,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.422f2cd6eb331e0ed51611a51aff7499?rik=BX%2bhIq1pe8zDfg&riu=http%3a%2f%2fsomoslibros.net%2fwp-content%2fuploads%2f2020%2f05%2fEl_instituto_Stephen_KIng.jpg&ehk=32Xfc7RtCaO87XA1MGAiBVVaa%2frPN2MMT2%2fcwHepbrI%3d&risl=&pid=ImgRaw&r=0"
      },
      {
+      "id": 353,
       "title": "Desesperación",
+      "web_calification": 7.15,
       "year": 1996,
-      "clasification": "book"
+      "clasification": "book",
+      "cover": "https:\/\/i.pinimg.com\/originals\/db\/fa\/f9\/dbfaf9a0351a2a4155d48736c8377135.jpg"
      },
      {
+      "id": 354,
       "title": "La Torre Oscura I: el pistolero",
-      "clasification": "book"
+      "web_calification": 7,
+      "year": 1982,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-7HbCaeZLEJW21rcljZc_gHaLZ?pid=ImgDet&rs=1"
      },
      {
+      "id": 355,
       "title": "La Torre Oscura II: la llegada de los tres",
+      "web_calification": 7.84,
       "year": 1987,
-      "clasification": "book"
+      "clasification": "book",
+      "cover": "https:\/\/imagessl8.casadellibro.com\/a\/l\/t0\/78\/9788401336478.jpg"
      },
      {
+      "id": 356,
       "title": "La torre oscura III: las tierras baldías",
-      "clasification": "book"
+      "web_calification": 7.76,
+      "year": 1991,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9fQDQlqdrWvt8mzhdrYS4AHaLX?pid=ImgDet&rs=1"
      },
      {
+      "id": 357,
       "title": "La Torre Oscura IV: mago y cristal",
-      "clasification": "book"
+      "web_calification": 7.88,
+      "year": 1997,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.O_uihY0D7ESoqzDc6fnXgAHaLb?pid=ImgDet&rs=1"
      },
      {
+      "id": 358,
       "title": "La Torre Oscura V: lobos del Calla",
-      "clasification": "book"
+      "web_calification": 7.75,
+      "year": 2003,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZYRuv7iO834TXFb4DfEn1gAAAA?pid=ImgDet&w=323&h=500&rs=1"
      },
      {
+      "id": 359,
       "title": "La Torre Oscura VI: canción de Susannah",
-      "clasification": "book"
+      "web_calification": 7.33,
+      "year": 2004,
+      "clasification": "book",
+      "cover": "https:\/\/i.pinimg.com\/originals\/ed\/87\/de\/ed87dea7a2f3740bc6e30cea3181d5f6.jpg"
      },
      {
+      "id": 360,
       "title": "Posesión",
-      "clasification": "book"
+      "web_calification": 6.64,
+      "year": 1996,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.uJAcHRveshFZSvG60lBlbQHaLQ?pid=ImgDet&rs=1"
      },
      {
-      "title": "El Bazar de los Malos Sueños"
+      "id": 361,
+      "title": "El Bazar de los Malos Sueños",
+      "web_calification": 6.91,
+      "year": 2015,
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.fSiH0ypenXecH0Pq8BJdKQHaLW?pid=ImgDet&rs=1"
      }
     ]

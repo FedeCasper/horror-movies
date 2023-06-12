@@ -6,7 +6,8 @@ createApp({
                inputValue: "",
                movies: [],
                filteredMovies: [],
-               initializer: true
+               initializer: true,
+               notFoundObject: {}
           }
      },
      created(){
@@ -14,13 +15,25 @@ createApp({
           console.log(this.movies);
 
      },
+     beforeUpdate(){
+          this.notFoundObject = {
+               text: "There is no movie with that name",
+               img: "./assets/not-found-ghost.png",
+               text2: "Please try again..."
+          }
+     },
      computed:{
           filter(){
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
-               this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
-               movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
-               )
-               this.filteredMovies.length == 0 ? this.filteredMovies = this.movies : ""
+               if(this.inputValue == "" || this.inputValue.length <= 2){
+                    this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
+                    movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
+                    )
+               }else{
+                    this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
+                    movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
+                    )
+               } 
           }
      }
 }).mount('#app')

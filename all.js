@@ -7,7 +7,7 @@ createApp({
                movies: [],
                filteredMovies: [],
                alphabet: [],
-               notFoundText: ""
+               notFoundObject: {}
           }
      },
      created(){
@@ -16,7 +16,11 @@ createApp({
           this.alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
      },
      beforeUpdate(){
-          this.filteredMovies.length == 0 ? this.notFoundText = "We couldn't find that movie" : ""
+          this.notFoundObject = {
+               text: "There is no movie with that name",
+               img: "./assets/not-found-ghost.png",
+               text2: "Please try again..."
+          }
      },
      computed:{
           filter(){
