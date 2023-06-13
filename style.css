@@ -42,3 +42,6 @@ section{
      height: 60px;
      object-fit: contain;
 }
+.video{
+     height: 30vh;
+}

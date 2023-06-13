@@ -9,7 +9,7 @@ createApp({
                filteredMovies: [],
                notFoundObject: {},
                movieSelected: {},
-               sortedMovies: [],
+               onlyIdsArray: [],
                globalPosition: 0
           }
      },
@@ -23,10 +23,7 @@ createApp({
           console.log(captureId);
           this.movieSelected = this.movies.find( movie => movie.id == captureId)
           console.log(this.movieSelected);
-          this.sortedMovies = Array.from(this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification)).sort((a,b) => b.web_calification - a.web_calification)
-          let mapeados = this.sortedMovies.map(movie => movie.id)
-          console.log(mapeados);
-          this.globalPosition = mapeados.indexOf(this.movieSelected.id); 
+          this.findGlobalIndex()
      },
      beforeUpdate(){
           // this.notFoundObject = {
@@ -34,6 +31,14 @@ createApp({
           //      img: "./assets/not-found-ghost.png",
           //      text2: "Please try again..."
           // }
+     },
+     methods:{
+          findGlobalIndex(){
+               this.onlyIdsArray = Array.from(this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification))
+                    .sort((a,b) => b.web_calification - a.web_calification)
+                    .map(movie => movie.id)
+               return this.globalPosition = this.onlyIdsArray.indexOf(this.movieSelected.id); 
+          }
      },
      computed:{
           // filter(){

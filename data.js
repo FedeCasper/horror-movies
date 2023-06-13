@@ -32,7 +32,8 @@ const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/YrFzzlFqx0g",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg",
+      "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él."
      },
      {
       "id": 4,
@@ -43,7 +44,8 @@ const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
       "clasification": "movie",
-      "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg"
+      "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg",
+      "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo."
      },
      {
       "id": 5,
@@ -79,7 +81,9 @@ const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/ljqY7qrnycw",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg"
+      "gender": "zombies",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg",
+      "sinopsis": "La película 28 Weeks Later es una secuela de la película 28 Days Later. Fue dirigida por Juan Carlos Fresnadillo y estrenada en el Reino Unido y Estados Unidos el 11 de mayo de 2007. La película comienza cuando Don (Robert Carlyle) y su esposa Alice (Catherine McCormack), que están escondidos en una cabaña en una zona rural de Inglaterra junto con otros supervivientes, son atacados por una nueva ola del virus que ha devastado Gran Bretaña."
      },
      {
       "id": 8,
@@ -90,7 +94,8 @@ const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDZepeBxWFc",
       "clasification": "movie",
-      "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1"
+      "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1",
+      "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston."
      },
      {
       "id": 9,
@@ -101,7 +106,8 @@ const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/PHqyFhrb3uU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg",
+      "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida."
      },
      {
       "id": 10,
@@ -113,7 +119,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/WR7cc5t7tv8",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg",
+      "sinopsis": "Un lugar en silencio es una película de terror y aventura que narra la historia de una familia que debe vivir en silencio para evitar ser cazada por unas criaturas que se guían por el sonido. La película está dirigida por John Krasinski, que también actúa junto a Emily Blunt, su esposa en la vida real. La película fue un éxito de crítica y público, y recibió nominaciones a los premios Oscar, Globos de Oro y BAFTA por su banda sonora y sus efectos sonoros. La película tiene una secuela, Un lugar en silencio 2, que se estrenó en 2021."
      },
      {
       "id": 11,
@@ -125,7 +132,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/oTkl2wz-TnQ",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg",
+      "sinopsis": "Un lugar tranquilo 2 es la secuela de la exitosa película de terror de 2018, dirigida y escrita por John Krasinski, que también actúa en un breve papel. La historia continúa con la familia Abbott, formada por Evelyn (Emily Blunt), Regan (Millicent Simmonds), Marcus (Noah Jupe) y el bebé recién nacido, que deben abandonar su granja y enfrentarse a los horrores del mundo exterior, donde unas criaturas ciegas pero sensibles al sonido cazan a los humanos. En su camino, se encuentran con Emmett (Cillian Murphy), un viejo amigo de Lee (John Krasinski), el padre fallecido de la familia, que les ofrece refugio en una antigua fábrica. Allí, Regan descubre una señal de radio que emite una canción y deduce que se trata de un mensaje que indica un lugar seguro. Decidida a encontrarlo, se escapa con el amplificador que su padre le había fabricado para potenciar el sonido de su implante auditivo, que es capaz de aturdir a las criaturas. Evelyn le pide a Emmett que vaya tras ella y la proteja, mientras ella se queda con Marcus y el bebé. Lo que sigue es una trepidante aventura de supervivencia, donde el silencio es la clave para no morir."
      },
      {
       "id": 12,
@@ -136,7 +144,8 @@ const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/17Nc08TiVQo",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg",
+      "sinopsis": "Mudanza mortal es una película de terror y suspense que se estrenó en Netflix en 2021. La trama sigue a una pareja que se muda a una casa donde ocurrió un crimen pasional. Pronto empiezan a sufrir fenómenos extraños que ponen en peligro su relación y sus vidas. La película está basada en hechos reales y explora temas como la infidelidad, el perdón y el abuso doméstico."
      },
      {
       "id": 13,
@@ -148,7 +157,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LjLamj-b0I8",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3NZBffzXnL5C0HrgfdEDQHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3NZBffzXnL5C0HrgfdEDQHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "Alien es una película de ciencia ficción y terror estrenada en 1979 y dirigida por Ridley Scott. La historia se centra en la tripulación de la nave espacial Nostromo, que recibe una señal de socorro desde un planeta desconocido. Al explorar el lugar, uno de los tripulantes es atacado por una criatura que se adhiere a su rostro. De vuelta a la nave, el resto de la tripulación descubre que el alienígena es un organismo letal que puede cambiar de forma y que amenaza con matarlos a todos."
      },
      {
       "id": 14,
@@ -160,7 +170,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LRQJEcmo4-8",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/i.pinimg.com\/474x\/9e\/f3\/c9\/9ef3c9d4f13448061e926a9c0775e418--movies-for-free-good-movies.jpg"
+      "cover": "https:\/\/i.pinimg.com\/474x\/9e\/f3\/c9\/9ef3c9d4f13448061e926a9c0775e418--movies-for-free-good-movies.jpg",
+      "sinopsis": "Después de sobrevivir al terrorífico encuentro con el alienígena en la nave Nostromo, la oficial Ripley es rescatada del espacio y se entera de que han pasado 57 años. Cuando se entera de que una colonia humana en el planeta LV-426 ha perdido contacto con la Tierra, acepta acompañar a un equipo de marines espaciales a investigar. Allí se enfrentará de nuevo a la amenaza de los aliens, que se han reproducido y han infestado el planeta. Ripley tendrá que luchar por su vida y por la de los pocos supervivientes, mientras intenta proteger a una niña huérfana llamada Newt."
      },
      {
       "id": 15,
@@ -209,7 +220,8 @@ const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/jC1ngKr6QA8",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg",
+      "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?"
      },
      {
       "id": 19,
@@ -220,7 +232,8 @@ const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/AVvcNrIlR4c",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg",
+      "sinopsis": "Alien vs Depredador 2: Requiem continúa la historia de la primera parte, donde una nave espacial que transporta a los alienígenas y al depredador híbrido se estrella en un pequeño pueblo de Colorado. Los habitantes del lugar se ven atrapados en medio de una guerra entre las dos especies mortales, que no se detienen ante nada para eliminar a sus enemigos y a cualquiera que se interponga en su camino. Un grupo de supervivientes humanos intenta escapar del horror, mientras que un depredador solitario llega al planeta para cazar a los alienígenas y al monstruoso híbrido. La película es un thriller de acción y terror, con escenas sangrientas y violentas, que muestra el enfrentamiento definitivo entre los dos iconos del cine de ciencia ficción."
      },
      {
       "id": 20,
@@ -231,7 +244,8 @@ const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/jsMPc4C5rYQ",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg",
+      "sinopsis": "All Hallows' Eve es una película de terror que narra tres historias escalofriantes protagonizadas por un payaso asesino llamado Art. La primera historia trata sobre una joven que es secuestrada y sometida a un ritual satánico. La segunda historia trata sobre una mujer que se muda a una casa de campo y es atacada por extraterrestres. La tercera historia trata sobre una universitaria que es perseguida y mutilada por Art en una carretera solitaria. La película se basa en dos cortometrajes anteriores del director Damien Leone, The 9th Circle y Terrifier, que también cuentan con la presencia de Art el payaso. All Hallows' Eve es una película que combina el gore, el crimen y el horror sobrenatural, ambientada en la noche de Halloween."
      },
      {
       "id": 21,
@@ -243,7 +257,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/pCN3Ouo-Hys",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17627_85.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17627_85.jpg",
+      "sinopsis": "Belle es una joven que se muda con su familia a la casa de Amityville, donde ocurrieron terribles asesinatos en el pasado. Su objetivo es ahorrar dinero para el tratamiento de su hermano James, que está en coma. Sin embargo, pronto descubre que la casa está poseída por una fuerza maligna que afecta a su hermano y a su madre. Belle tendrá que enfrentarse al horror que se esconde en las paredes de la mansión y descubrir la verdad sobre lo que pasó allí."
      },
      {
       "id": 22,
@@ -265,7 +280,8 @@ const data = [
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
+      "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz."
      },
      {
       "id": 24,
@@ -277,7 +293,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/8kmLHwKH31M",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28260_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28260_58.jpg",
+      "sinopsis": "Annabelle es una película de terror sobrenatural estrenada en 2014 y dirigida por John R. Leonetti. Es un spin-off de la película The Conjuring y se centra en el origen de la muñeca poseída que aparece en esa película. La historia sigue a John y Mia Form, una pareja que espera su primer hijo y que recibe como regalo una antigua muñeca de porcelana llamada Annabelle. Sin embargo, su vida se convierte en una pesadilla cuando sufren el ataque de unos cultistas satánicos que invocan a un demonio que se adueña de la muñeca. A partir de entonces, la familia Form tendrá que enfrentarse a una serie de fenómenos paranormales cada vez más terroríficos que pondrán en peligro su vida y la de su bebé."
      },
      {
       "id": 25,
@@ -288,7 +305,8 @@ const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/m-lkallTOe0",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29741_16.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29741_16.jpg",
+      "sinopsis": "Annabelle 2 cuenta la historia de un fabricante de muñecas y su esposa, que pierden a su hija en un trágico accidente. Doce años después, deciden acoger en su casa a una monja y a un grupo de niñas huérfanas. Sin embargo, pronto se darán cuenta de que una de las muñecas de la casa, llamada annabelle, está poseída por un espíritu maligno que quiere atormentar a las niñas. La pelicula es una precuela de la primera entrega de annabelle, y forma parte del universo cinematográfico de El conjuro."
      },
      {
       "id": 26,
@@ -299,7 +317,8 @@ const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/1VTnFrWGD-w",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35169_72.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35169_72.jpg",
+      "sinopsis": "Annabelle 3 narra la historia de los demonólogos Ed y Lorraine Warren, que intentan evitar que la muñeca poseída Annabelle cause más estragos. Para ello, la encierran en una vitrina sagrada en su casa, junto a otros objetos malditos. Sin embargo, una noche, Annabelle despierta a los espíritus malignos de la sala y se fija en nuevos objetivos: la hija de los Warren, Judy, su niñera y una amiga de esta. Las tres tendrán que enfrentarse a una serie de terroríficos fenómenos paranormales provocados por la muñeca diabólica.\r"
      },
      {
       "id": 27,
@@ -311,7 +330,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/VGRaBxmdLbQ",
       "clasification": "movie",
       "gender": "science_ficton",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27205_48.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27205_48.jpg",
+      "sinopsis": "Annihilation es una pelicula de ciencia ficción y terror basada en la novela homónima de Jeff VanderMeer. La protagonista es Lena, una bióloga que se une a una expedición al Área X, una zona misteriosa y peligrosa donde ocurren fenómenos extraños y alienígenas. Su objetivo es averiguar qué le pasó a su esposo, que fue parte de una misión anterior y regresó sin memoria y gravemente enfermo. En el Área X, Lena y sus compañeras se enfrentarán a amenazas desconocidas que pondrán a prueba su cordura y su supervivencia."
      },
      {
       "id": 28,
@@ -322,7 +342,8 @@ const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/4aQ6vg3JB2U",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.yRULzKZxadq9K6fED8mZhAHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.yRULzKZxadq9K6fED8mZhAHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "Arachnophobia es una película de terror y comedia estrenada en 1990, dirigida por Frank Marshall y producida por Steven Spielberg. La trama gira en torno a una especie de araña venenosa que llega desde Venezuela a un pequeño pueblo de Estados Unidos, donde se reproduce y causa varias muertes. El protagonista es un médico que sufre de aracnofobia y que tendrá que enfrentarse a su peor pesadilla con la ayuda de un excéntrico exterminador. La película combina el suspense con el humor y fue un éxito de taquilla en su momento."
      },
      {
       "id": 29,
@@ -333,7 +354,8 @@ const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/ibxKEqxARkE",
       "clasification": "serie",
-      "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp"
+      "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp",
+      "sinopsis": "Archive 81 es una serie de terror sobrenatural basada en el podcast homónimo. La trama sigue a Dan Turner, un archivista de video que acepta un trabajo misterioso para restaurar unas cintas dañadas que documentan un incendio en un edificio de apartamentos en 1994. Mientras trabaja en las cintas, Dan se obsesiona con la historia de Melody Pendras, una joven que vivía en el edificio y que se vio involucrada en una secta oculta. Dan descubre que las cintas contienen secretos oscuros y peligrosos que amenazan su vida y su cordura."
      },
      {
       "id": 30,
@@ -344,7 +366,8 @@ const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/Fq358xHbzN4",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26533_28.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26533_28.jpg",
+      "sinopsis": "Un grupo de exploradores se aventura en las catacumbas de París, donde se encuentran con los secretos ocultos de la ciudad de los muertos. Lo que empieza como una expedición arqueológica se convierte en una pesadilla cuando descubren que el laberinto subterráneo está lleno de trampas, alucinaciones y horrores sobrenaturales. Pronto se dan cuenta de que están atrapados en un infierno personal, donde cada pecado y cada miedo se manifiesta en forma de terror. Para escapar, tendrán que enfrentarse a sus propios demonios y descifrar el misterio de la leyenda alquímica que dice \"como es arriba, es abajo\"."
      },
      {
       "id": 31,
@@ -355,18 +378,20 @@ const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/oUmw0tRytDc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35968.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35968.jpg",
+      "sinopsis": "Aterrados es una película de terror argentina que se estrenó en 2018, dirigida por Demián Rugna. La trama se centra en una serie de fenómenos paranormales que ocurren en un barrio de Buenos Aires, donde varias personas son víctimas de entidades invisibles, voces amenazantes y cadáveres reanimados. Un grupo de investigadores especializados en lo sobrenatural intentará descubrir el origen de estos sucesos y detenerlos antes de que sea demasiado tarde. Aterrados fue elogiada por la crítica y el público por su atmósfera de terror, sus efectos visuales y su guion original."
      },
      {
       "id": 32,
       "title": "Babadook",
-      "optional_title": "Bell Witch Hunt",
+      "optional_title": "Babadook",
       "web_calification": 6.57,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=20261",
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/SGb9APVQ7no",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20261_82.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20261_82.jpg",
+      "sinopsis": "La película Babadook narra la historia de Amelia, una madre viuda que intenta superar la muerte de su esposo Oskar, y de su hijo Samuel, que sufre pesadillas con un monstruo llamado Babadook. Un día, Samuel encuentra un libro de cuentos titulado \"Mister Babadook\" y le pide a su madre que se lo lea. El libro describe a un ser terrorífico que se introduce en la vida de las personas y no se va nunca. Desde entonces, Amelia y Samuel empiezan a sentir la presencia del Babadook en su casa y en sus mentes, y tendrán que enfrentarse a sus propios miedos para sobrevivir."
      },
      {
       "id": 33,
@@ -388,7 +413,8 @@ const data = [
       "year": 2018,
       "trailer": "https:\/\/www.youtube.com\/embed\/4vFsD_1BFLs",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25824_23.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25824_23.jpg",
+      "sinopsis": "En un mundo postapocalíptico, una mujer y sus dos hijos deben atravesar un río con los ojos vendados para llegar a un refugio seguro. La razón es que hay unas criaturas misteriosas que al ser vistas provocan el suicidio de las personas. La mujer tendrá que confiar en su instinto y en el sonido para sobrevivir a este peligroso viaje."
      },
      {
       "id": 35,
@@ -454,7 +480,8 @@ const data = [
       "year": 1989,
       "trailer": "https:\/\/www.youtube.com\/embed\/vf7jiH3SFe8",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
+      "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama."
      },
      {
       "id": 41,
@@ -465,7 +492,8 @@ const data = [
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/embed\/cp4VC6zVQsg",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
+      "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre."
      },
      {
       "id": 42,
@@ -487,7 +515,8 @@ const data = [
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/aOb8i_DE42c",
       "clasification": "movie",
-      "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg"
+      "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
+      "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective."
      },
      {
       "id": 44,
@@ -498,7 +527,8 @@ const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/QQ578YDz-sQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
+      "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?"
      },
      {
       "id": 45,
@@ -1023,7 +1053,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/IITyDuprZYQ",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg",
+      "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde."
      },
      {
       "id": 92,
@@ -1056,7 +1087,8 @@ const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/Ez0rXJfjnsc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg",
+      "sinopsis": "El hoyo es una película española de ciencia ficción y suspense que se estrenó en 2019. Dirigida por Galder Gaztelu-Urrutia, la película narra la historia de Goreng, un hombre que se ofrece voluntario para pasar seis meses en una prisión vertical llamada el Centro de Autogestión Vertical. En esta prisión, los reclusos viven en celdas de dos personas, con un enorme hoyo en el centro por donde baja una plataforma con comida. Los que están en los niveles superiores pueden comer todo lo que quieran, mientras que los que están en los inferiores tienen que conformarse con las sobras o morir de hambre. Cada mes, los reclusos cambian de nivel al azar, lo que les hace enfrentarse a diferentes situaciones de supervivencia, violencia y solidaridad. La película es una crítica a la desigualdad social y al egoísmo humano, así como una reflexión sobre el sentido de la vida y la esperanza."
      },
      {
       "id": 95,
@@ -1068,7 +1100,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/iNSN6QhIWeA",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg",
+      "sinopsis": "Dos hombres se despiertan encadenados en un baño sucio y abandonado. Entre ellos hay un cadáver con una pistola y una grabadora. Pronto descubren que son víctimas de un sádico asesino que los ha puesto en un juego mortal. Para escapar, tendrán que seguir las pistas que les ha dejado y enfrentarse a sus propios pecados. Mientras tanto, un detective intenta atrapar al criminal antes de que sea demasiado tarde."
      },
      {
       "id": 96,
@@ -1128,7 +1161,8 @@ const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9qjHkkffOx8",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/1.bp.blogspot.com\/-9SItSmWUtMo\/XtrEYeLIg0I\/AAAAAAAAB-Q\/3Lwaylq8ySI9rrUoYAcc1CBkKxe1F9ViwCK4BGAsYHg\/s1200\/El%2Borfanato.jpg"
+      "cover": "https:\/\/1.bp.blogspot.com\/-9SItSmWUtMo\/XtrEYeLIg0I\/AAAAAAAAB-Q\/3Lwaylq8ySI9rrUoYAcc1CBkKxe1F9ViwCK4BGAsYHg\/s1200\/El%2Borfanato.jpg",
+      "sinopsis": "Laura es una mujer que regresa al orfanato donde creció con la intención de convertirlo en una residencia para niños discapacitados. Junto con su marido Carlos y su hijo Simón, se instala en la antigua casa, donde empiezan a ocurrir extraños sucesos. Simón dice tener amigos invisibles que le cuentan historias sobre el pasado del orfanato y le hacen un juego de pistas para encontrar un tesoro escondido. Laura sospecha que hay algo oscuro detrás de esos juegos y que tal vez tenga que ver con el origen de Simón, quien fue adoptado. Cuando Simón desaparece misteriosamente, Laura hará todo lo posible por encontrarlo, aunque eso signifique enfrentarse a los fantasmas de su propia infancia."
      },
      {
       "id": 101,
