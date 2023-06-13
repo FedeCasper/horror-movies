@@ -18,7 +18,7 @@ const data = [
       "web_calification": 7,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=5052",
       "year": 2007,
-      "trailer": "https:\/\/youtu.be\/5Z5HZns7uoI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/5Z5HZns7uoI",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
       "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin."
@@ -30,7 +30,7 @@ const data = [
       "web_calification": 5.72,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42064",
       "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=YrFzzlFqx0g&t=1s",
+      "trailer": "https:\/\/www.youtube.com\/embed\/YrFzzlFqx0g",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg"
      },
@@ -52,7 +52,7 @@ const data = [
       "web_calification": 6.72,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=224",
       "year": 2001,
-      "trailer": "https:\/\/youtu.be\/Q9rX3krvo4o",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Q9rX3krvo4o",
       "clasification": "movie",
       "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
       "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto."
@@ -64,8 +64,9 @@ const data = [
       "web_calification": 7.84,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=339",
       "year": 2002,
-      "trailer": "https:\/\/youtu.be\/TpVDni6D7AA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/TpVDni6D7AA",
       "clasification": "movie",
+      "gender": "zombies",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg",
       "sinopsis": "28 días después, todo ha cambiado. Jim despierta en un hospital y la ciudad está completamente desierta, o al menos eso es lo que cree. Un extraño virus liberado recientemente de un laboratorio de investigación ha diezmado todo el planeta y la raza humana se enfrenta a su eminente extinción. Los hombres se han convertido en una extraña especie que sólo ansía matar, o mejor dicho, devorar. Tan sólo unos pocos supervivientes intentarán encontrar el camino hacia la salvación. Un camino, en el que conocerán el terror como nunca antes lo habían imaginado."
      },
@@ -76,7 +77,7 @@ const data = [
       "web_calification": 7.48,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4420",
       "year": 2007,
-      "trailer": "https:\/\/youtu.be\/ljqY7qrnycw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ljqY7qrnycw",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg"
      },
@@ -87,7 +88,7 @@ const data = [
       "web_calification": 7.06,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3980",
       "year": 2007,
-      "trailer": "https:\/\/youtu.be\/LDZepeBxWFc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LDZepeBxWFc",
       "clasification": "movie",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1"
      },
@@ -98,7 +99,7 @@ const data = [
       "web_calification": 5.51,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41870",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/PHqyFhrb3uU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/PHqyFhrb3uU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg"
      },
@@ -109,7 +110,7 @@ const data = [
       "web_calification": 7.29,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=34397",
       "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=WR7cc5t7tv8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/WR7cc5t7tv8",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg"
@@ -121,7 +122,7 @@ const data = [
       "web_calification": 7.33,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=36640",
       "year": 2020,
-      "trailer": "https:\/\/youtu.be\/oTkl2wz-TnQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/oTkl2wz-TnQ",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg"
@@ -133,7 +134,7 @@ const data = [
       "web_calification": 5.5,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42042",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/17Nc08TiVQo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/17Nc08TiVQo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg"
      },
@@ -144,7 +145,7 @@ const data = [
       "web_calification": 8.57,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=17",
       "year": 1979,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=LjLamj-b0I8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LjLamj-b0I8",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3NZBffzXnL5C0HrgfdEDQHaLH?pid=ImgDet&rs=1"
@@ -156,7 +157,7 @@ const data = [
       "web_calification": 8.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=18",
       "year": 1986,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=bb2LX01k-fQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LRQJEcmo4-8",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/i.pinimg.com\/474x\/9e\/f3\/c9\/9ef3c9d4f13448061e926a9c0775e418--movies-for-free-good-movies.jpg"
@@ -168,7 +169,7 @@ const data = [
       "web_calification": 6.65,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=19",
       "year": 1992,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=mYh7tYHQvZo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/mYh7tYHQvZo",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19_38.jpg",
@@ -181,7 +182,7 @@ const data = [
       "web_calification": 6.87,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20",
       "year": 1997,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=15g12dGxWX4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/15g12dGxWX4",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20_50.jpg",
@@ -194,7 +195,7 @@ const data = [
       "web_calification": 5.57,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=24855",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=4zLS4lL3JDQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/4zLS4lL3JDQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24855_20.jpg",
       "sinopsis": "Una familia media norteamericana se encuentran en el lugar equivocado en el momento equivocado... Mientras la familia Morris viajaba a un campamento en las montañas de Carolina del Norte, el mal funcionamiento del GPS hace que sean dirigidos a un túnel remoto rodeado por vehículos abandonados. El padre, Peter Morris es secuestrado dejando a su esposa e hijos traumatizados, que durante su huida encuentran refugio en una cabaña cercana. Allí, se horrorizan al saber que extrañas luces en las montañas cercanas se han relacionado con la abducción alienígena y el sacrificio humano durante siglos. Cuando sus intentos para alertar a las autoridades son interceptados por la amenaza extraterrestre, los miembros sobrevivientes de la familia se encuentran entre la espada y la pared. Este ataque brutal y sangriento se desarrolla a través de la lente de la cámara de video de su hijo menor."
@@ -206,7 +207,7 @@ const data = [
       "web_calification": 6.51,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=274",
       "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=jC1ngKr6QA8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/jC1ngKr6QA8",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg"
      },
@@ -217,7 +218,7 @@ const data = [
       "web_calification": 5.51,
       "details": "www.aullidos.com\/pelicula.asp?id_pelicula=211",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=AVvcNrIlR4c",
+      "trailer": "https:\/\/www.youtube.com\/embed\/AVvcNrIlR4c",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg"
      },
@@ -228,7 +229,7 @@ const data = [
       "web_calification": 6.18,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28004",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/jsMPc4C5rYQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/jsMPc4C5rYQ",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg"
      },
@@ -239,7 +240,7 @@ const data = [
       "web_calification": 5.87,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=17627",
       "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=pCN3Ouo-Hys",
+      "trailer": "https:\/\/www.youtube.com\/embed\/pCN3Ouo-Hys",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17627_85.jpg"
@@ -251,7 +252,7 @@ const data = [
       "web_calification": 6.29,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3321",
       "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=8Mr1wMiihKI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/8Mr1wMiihKI",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg"
      },
@@ -262,7 +263,7 @@ const data = [
       "web_calification": 5.87,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=615",
       "year": 1997,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=zXzL224UKBc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg"
      },
@@ -273,7 +274,7 @@ const data = [
       "web_calification": 5.73,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28260",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=8kmLHwKH31M",
+      "trailer": "https:\/\/www.youtube.com\/embed\/8kmLHwKH31M",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28260_58.jpg"
@@ -285,7 +286,7 @@ const data = [
       "web_calification": 6.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29741",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=m-lkallTOe0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/m-lkallTOe0",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29741_16.jpg"
      },
@@ -296,7 +297,7 @@ const data = [
       "web_calification": 6.19,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35169",
       "year": 2019,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=1VTnFrWGD-w&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/1VTnFrWGD-w",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35169_72.jpg"
      },
@@ -307,7 +308,7 @@ const data = [
       "web_calification": 6.45,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27205",
       "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=VGRaBxmdLbQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/VGRaBxmdLbQ",
       "clasification": "movie",
       "gender": "science_ficton",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27205_48.jpg"
@@ -319,7 +320,7 @@ const data = [
       "web_calification": 6.74,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=666",
       "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=4aQ6vg3JB2U",
+      "trailer": "https:\/\/www.youtube.com\/embed\/4aQ6vg3JB2U",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.yRULzKZxadq9K6fED8mZhAHaLH?pid=ImgDet&rs=1"
      },
@@ -330,7 +331,7 @@ const data = [
       "web_calification": 6.32,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=4555",
       "year": 2022,
-      "trailer": "https:\/\/youtu.be\/ibxKEqxARkE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ibxKEqxARkE",
       "clasification": "serie",
       "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp"
      },
@@ -341,7 +342,7 @@ const data = [
       "web_calification": 6.59,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=26533",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=FxeobnU2Hls",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Fq358xHbzN4",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26533_28.jpg"
      },
@@ -352,7 +353,7 @@ const data = [
       "web_calification": 6.37,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35968",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=oUmw0tRytDc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/oUmw0tRytDc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35968.jpg"
      },
@@ -363,7 +364,7 @@ const data = [
       "web_calification": 6.57,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=20261",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=SGb9APVQ7no",
+      "trailer": "https:\/\/www.youtube.com\/embed\/SGb9APVQ7no",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20261_82.jpg"
      },
@@ -374,7 +375,7 @@ const data = [
       "web_calification": 4.71,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27858",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/FTQ9ENU97WU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
       "clasification": "movie",
       "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg"
      },
@@ -385,7 +386,7 @@ const data = [
       "web_calification": 6.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25824",
       "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=4vFsD_1BFLs&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/4vFsD_1BFLs",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25824_23.jpg"
      },
@@ -396,7 +397,7 @@ const data = [
       "web_calification": 7.44,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=186",
       "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=kaU2A7KyOu4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/kaU2A7KyOu4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1"
      },
@@ -407,7 +408,7 @@ const data = [
       "web_calification": 4.54,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=674",
       "year": 2001,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=tmnAVbpbLIA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/tmnAVbpbLIA",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.7a888e5f6f1260ef6a3de877782a2e4a?rik=ciWUmEwpvGFPcg&riu=http%3a%2f%2fes.web.img3.acsta.net%2fr_1280_720%2fmedias%2fnmedia%2f18%2f90%2f03%2f58%2f20077987.jpg&ehk=DX1fgo%2fuOxR5N73oSogV%2bAv9KCUsWrUjpG0v8aQfVEo%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -418,7 +419,7 @@ const data = [
       "web_calification": 6.19,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2219",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=PrAI51ca9cU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/PrAI51ca9cU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2219_14.jpg"
      },
@@ -429,7 +430,7 @@ const data = [
       "web_calification": 5.22,
       "details": "https:\/\/youtu.be\/rttfauphhnA",
       "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=Goi2q7VEFGo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Goi2q7VEFGo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2364_58.jpg"
      },
@@ -440,7 +441,7 @@ const data = [
       "web_calification": 6.93,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=6833",
       "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=IszIIFj-fIc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/IszIIFj-fIc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_6833_47.jpg"
      },
@@ -451,7 +452,7 @@ const data = [
       "web_calification": 7.61,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=221",
       "year": 1989,
-      "trailer": "https:\/\/youtu.be\/vf7jiH3SFe8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/vf7jiH3SFe8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg"
      },
@@ -462,7 +463,7 @@ const data = [
       "web_calification": 6.14,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=263",
       "year": 1992,
-      "trailer": "https:\/\/youtu.be\/cp4VC6zVQsg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/cp4VC6zVQsg",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1"
      },
@@ -473,7 +474,7 @@ const data = [
       "web_calification": 5.54,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10507",
       "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=sv9lOK0kc9I",
+      "trailer": "https:\/\/www.youtube.com\/embed\/sv9lOK0kc9I",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -484,7 +485,7 @@ const data = [
       "web_calification": 7.85,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=21",
       "year": 1988,
-      "trailer": "https:\/\/www.youtube.com\/watch?time_continue=1&v=aOb8i_DE42c",
+      "trailer": "https:\/\/www.youtube.com\/embed\/aOb8i_DE42c",
       "clasification": "movie",
       "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg"
      },
@@ -495,7 +496,7 @@ const data = [
       "web_calification": 7.37,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22",
       "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=QQ578YDz-sQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/QQ578YDz-sQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg"
      },
@@ -506,7 +507,7 @@ const data = [
       "web_calification": 6.51,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=23",
       "year": 1991,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=o6lfVEKUkCk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/o6lfVEKUkCk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1"
      },
@@ -517,7 +518,7 @@ const data = [
       "web_calification": 6.42,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=24",
       "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=I-WZYQ6nABA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/I-WZYQ6nABA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg"
      },
@@ -528,7 +529,7 @@ const data = [
       "web_calification": 4.94,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=323",
       "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=mVa67mLsPgQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/mVa67mLsPgQ",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0"
      },
@@ -539,7 +540,7 @@ const data = [
       "web_calification": 6.97,
       "details": "Http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22783",
       "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=9mgFjHyjhi8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg"
      },
@@ -550,7 +551,7 @@ const data = [
       "web_calification": 5.59,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28070",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=lWBkV2HoH5w",
+      "trailer": "https:\/\/www.youtube.com\/embed\/lWBkV2HoH5w",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg"
      },
@@ -561,7 +562,7 @@ const data = [
       "web_calification": 5,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=33840",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=5dTuL8clUHs&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/5dTuL8clUHs",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg"
      },
@@ -572,7 +573,7 @@ const data = [
       "web_calification": 6.99,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6400",
       "year": 2008,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=wxqSIsxMlYQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/wxqSIsxMlYQ",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0"
      },
@@ -583,7 +584,7 @@ const data = [
       "web_calification": 6.7,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=16088",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=x_67x2_4Sbk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/PNtZu-3di38",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg"
      },
@@ -594,7 +595,7 @@ const data = [
       "web_calification": 6.29,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39237",
       "year": 2019,
-      "trailer": "https:\/\/youtu.be\/D-BwFr3luqg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/D-BwFr3luqg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg"
      },
@@ -605,7 +606,7 @@ const data = [
       "web_calification": 6.77,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2152",
       "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=ioFvsUtiON8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ioFvsUtiON8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2152_34.jpg"
      },
@@ -616,7 +617,7 @@ const data = [
       "web_calification": 6.72,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25050",
       "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=Ct2O5oyX7FY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Ct2O5oyX7FY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25050_47.jpg"
      },
@@ -627,7 +628,7 @@ const data = [
       "web_calification": 7.3,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=167",
       "year": 1986,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=ndm_g5pyRUQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ndm_g5pyRUQ",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -638,7 +639,7 @@ const data = [
       "web_calification": 6.72,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=168",
       "year": 1988,
-      "trailer": "https:\/\/youtu.be\/nkZR_KknAqY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/nkZR_KknAqY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&rs=1"
      },
@@ -649,7 +650,7 @@ const data = [
       "web_calification": 5.7,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=169",
       "year": 1991,
-      "trailer": "https:\/\/youtu.be\/-rAXqSLSCn4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/-rAXqSLSCn4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -660,7 +661,7 @@ const data = [
       "web_calification": 6.95,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=21991 ",
       "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=K8iLp1xQtPQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/K8iLp1xQtPQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21991_76.jpg"
      },
@@ -671,7 +672,7 @@ const data = [
       "web_calification": 5.75,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2304",
       "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=JcpJVEp047Q",
+      "trailer": "https:\/\/www.youtube.com\/embed\/JcpJVEp047Q",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg"
      },
@@ -682,8 +683,9 @@ const data = [
       "web_calification": 7.98,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=52",
       "year": 2004,
-      "trailer": "https:\/\/youtu.be\/naWkpWL3CoU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/naWkpWL3CoU",
       "clasification": "movie",
+      "gender": "zombies",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg"
      },
      {
@@ -693,7 +695,7 @@ const data = [
       "web_calification": 7.49,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4463",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=8b_HVtHmK30",
+      "trailer": "https:\/\/www.youtube.com\/embed\/8b_HVtHmK30",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg"
      },
@@ -704,7 +706,7 @@ const data = [
       "web_calification": 5.35,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11857",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=u2GX_z65k-s",
+      "trailer": "https:\/\/www.youtube.com\/embed\/u2GX_z65k-s",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11857_78.jpg"
      },
@@ -715,7 +717,7 @@ const data = [
       "web_calification": 6.87,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=23708",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=j1SDtKoTkzc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/j1SDtKoTkzc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg"
      },
@@ -726,8 +728,9 @@ const data = [
       "web_calification": 8.14,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=701",
       "year": 1987,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=_1wDBNHYDv8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/_1wDBNHYDv8",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg"
      },
      {
@@ -737,8 +740,9 @@ const data = [
       "web_calification": 6.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=702",
       "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=pLe_1SheJms",
+      "trailer": "https:\/\/www.youtube.com\/embed\/pLe_1SheJms",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg"
      },
      {
@@ -748,8 +752,9 @@ const data = [
       "web_calification": 6.65,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=11815",
       "year": 2010,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=fQmAGtJC5bk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/fQmAGtJC5bk",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg"
      },
      {
@@ -759,8 +764,9 @@ const data = [
       "web_calification": 5.17,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29399",
       "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=WaG1KZqrLvM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/WaG1KZqrLvM",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg"
      },
      {
@@ -770,8 +776,9 @@ const data = [
       "web_calification": 7.09,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38181",
       "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=2ywf74nW1CM&t=10s",
+      "trailer": "https:\/\/www.youtube.com\/embed\/2ywf74nW1CM",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg"
      },
      {
@@ -781,8 +788,9 @@ const data = [
       "web_calification": 7.57,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=710",
       "year": 2000,
-      "trailer": "https:\/\/youtu.be\/pCiWxIHw7bQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/pCiWxIHw7bQ",
       "clasification": "movie",
+      "gender": "none",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg"
      },
      {
@@ -792,7 +800,7 @@ const data = [
       "web_calification": 5.15,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25860",
       "year": 2014,
-      "trailer": "https:\/\/youtu.be\/oJe1KnptjZQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/oJe1KnptjZQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25860_53.jpg"
      },
@@ -803,7 +811,7 @@ const data = [
       "web_calification": 5.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30680",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?time_continue=10&v=bEq8Xv4WGwo&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/bEq8Xv4WGwo",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg"
      },
@@ -814,7 +822,7 @@ const data = [
       "web_calification": 4.97,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41935",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/7biVTgR3n0Y",
+      "trailer": "https:\/\/www.youtube.com\/embed\/7biVTgR3n0Y",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41935.jpg"
      },
@@ -825,7 +833,7 @@ const data = [
       "web_calification": 5.72,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9397",
       "year": 2009,
-      "trailer": "https:\/\/youtu.be\/hUA688q72Sg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/hUA688q72Sg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg"
      },
@@ -836,7 +844,7 @@ const data = [
       "web_calification": 7.55,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20221",
       "year": 2019,
-      "trailer": "https:\/\/youtu.be\/M1JL4xhF_k8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/M1JL4xhF_k8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg"
      },
@@ -847,7 +855,7 @@ const data = [
       "web_calification": 5.97,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2856",
       "year": 1992,
-      "trailer": "https:\/\/youtu.be\/x0RgGZthUig",
+      "trailer": "https:\/\/www.youtube.com\/embed\/x0RgGZthUig",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg"
      },
@@ -867,7 +875,7 @@ const data = [
       "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2340",
       "year": 2005,
-      "trailer": "https:\/\/youtu.be\/uTCasFeRNQY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/uTCasFeRNQY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0"
      },
@@ -878,7 +886,7 @@ const data = [
       "web_calification": 7.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1711",
       "year": 2009,
-      "trailer": "https:\/\/youtu.be\/LmoaMTSO1g8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LmoaMTSO1g8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&rs=1"
      },
@@ -889,7 +897,7 @@ const data = [
       "web_calification": 6.21,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=13605",
       "year": 2011,
-      "trailer": "https:\/\/youtu.be\/wG-nmnbTASo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/wG-nmnbTASo",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.bd88c7dd8003a3f583b9b82782569b39?rik=SvJD27Nw71iekg&riu=http%3a%2f%2fmedia.liveauctiongroup.net%2fi%2f18485%2f20788381_3.jpg%3fv%3d8D1B5F9C541F970&ehk=px1AQyrnH69%2bZwRNtN8TTM2MkXo7rDyRtsXHh1a%2f9k0%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -900,7 +908,7 @@ const data = [
       "web_calification": 5.29,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=39314",
       "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=GM1RiidjK1U",
+      "trailer": "https:\/\/www.youtube.com\/embed\/GM1RiidjK1U",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39314_98.jpg"
      },
@@ -911,7 +919,7 @@ const data = [
       "web_calification": 6.99,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=14210",
       "year": 2012,
-      "trailer": "https:\/\/youtu.be\/c3GRFq4TdYY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/c3GRFq4TdYY",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/88\/86\/59\/20134508.jpg"
      },
@@ -922,8 +930,9 @@ const data = [
       "web_calification": 7.73,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=5",
       "year": 1992,
-      "trailer": "https:\/\/youtu.be\/Y_51HrX_LB0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Y_51HrX_LB0",
       "clasification": "movie",
+      "gender": "b_serie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1"
      },
      {
@@ -933,8 +942,9 @@ const data = [
       "web_calification": 6.91,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2334",
       "year": 2005,
-      "trailer": "https:\/\/youtu.be\/021-tHmxjEY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/021-tHmxjEY",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1"
      },
      {
@@ -944,8 +954,9 @@ const data = [
       "web_calification": 8.64,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=271",
       "year": 1973,
-      "trailer": "https:\/\/youtu.be\/E6YHqQXOHzg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/E6YHqQXOHzg",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450"
      },
      {
@@ -955,8 +966,9 @@ const data = [
       "web_calification": 4.77,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=272",
       "year": 1977,
-      "trailer": "https:\/\/youtu.be\/ZEnaYHPDxyg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg"
      },
      {
@@ -966,7 +978,7 @@ const data = [
       "web_calification": 6.23,
       "details": "Http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=273",
       "year": 1990,
-      "trailer": "https:\/\/youtu.be\/OUdcl5vwO7A",
+      "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg"
      },
@@ -985,8 +997,9 @@ const data = [
       "web_calification": 5.58,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2343",
       "year": 2005,
-      "trailer": "https:\/\/youtu.be\/eHJEMIYNFFY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0"
      },
      {
@@ -996,7 +1009,7 @@ const data = [
       "web_calification": 6.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=781",
       "year": 1999,
-      "trailer": "https:\/\/youtu.be\/SzkwtbyiaME",
+      "trailer": "https:\/\/www.youtube.com\/embed\/SzkwtbyiaME",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg"
      },
@@ -1007,8 +1020,9 @@ const data = [
       "web_calification": 6.95,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1819",
       "year": 2004,
-      "trailer": "https:\/\/youtu.be\/IITyDuprZYQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/IITyDuprZYQ",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg"
      },
      {
@@ -1018,8 +1032,9 @@ const data = [
       "web_calification": 6.49,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3834",
       "year": 2006,
-      "trailer": "https:\/\/youtu.be\/7fcJZqJfdfw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/7fcJZqJfdfw",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg"
      },
      {
@@ -1039,7 +1054,7 @@ const data = [
       "web_calification": 6.86,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35068",
       "year": 2019,
-      "trailer": "https:\/\/youtu.be\/Ez0rXJfjnsc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Ez0rXJfjnsc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg"
      },
@@ -1050,8 +1065,9 @@ const data = [
       "web_calification": 8.13,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2337",
       "year": 2004,
-      "trailer": "https:\/\/youtu.be\/iNSN6QhIWeA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/iNSN6QhIWeA",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg"
      },
      {
@@ -1061,8 +1077,9 @@ const data = [
       "web_calification": 7.58,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2338",
       "year": 2005,
-      "trailer": "https:\/\/youtu.be\/nac1avJp3UE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/nac1avJp3UE",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gGIbEacuiSmsvvNX5RrHLeH0UdS.jpg"
      },
      {
@@ -1072,8 +1089,9 @@ const data = [
       "web_calification": 7.38,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3882",
       "year": 2006,
-      "trailer": "https:\/\/youtu.be\/4Ng-59zOAy8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/4Ng-59zOAy8",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/i.pinimg.com\/736x\/d5\/8b\/1a\/d58b1ab2dca0d3f186fc5d8a72cedb3e.jpg"
      },
      {
@@ -1083,8 +1101,9 @@ const data = [
       "web_calification": 7.04,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5243",
       "year": 2007,
-      "trailer": "https:\/\/youtu.be\/0YRCXAPDEQM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/0YRCXAPDEQM",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.BJwrLycbhWuokG98IbfL9AHaLO?pid=ImgDet&rs=1"
      },
      {
@@ -1094,8 +1113,9 @@ const data = [
       "web_calification": 6.99,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=7820",
       "year": 2008,
-      "trailer": "https:\/\/youtu.be\/vQ87nw56Gy0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/vQ87nw56Gy0",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7820_54.jpg"
      },
      {
@@ -1105,8 +1125,9 @@ const data = [
       "web_calification": 7.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4447",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=9qjHkkffOx8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9qjHkkffOx8",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/1.bp.blogspot.com\/-9SItSmWUtMo\/XtrEYeLIg0I\/AAAAAAAAB-Q\/3Lwaylq8ySI9rrUoYAcc1CBkKxe1F9ViwCK4BGAsYHg\/s1200\/El%2Borfanato.jpg"
      },
      {
@@ -1116,7 +1137,7 @@ const data = [
       "web_calification": 5.27,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41210",
       "year": 2022,
-      "trailer": "https:\/\/youtu.be\/kxZb5GsqVSo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/kxZb5GsqVSo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg"
      },
@@ -1127,7 +1148,7 @@ const data = [
       "web_calification": 6.91,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=164",
       "year": 1999,
-      "trailer": "https:\/\/youtu.be\/BrDomaqytuQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/BrDomaqytuQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg"
      },
@@ -1138,7 +1159,7 @@ const data = [
       "web_calification": 4.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=166",
       "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=5U-xXjy8Xfw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/5U-xXjy8Xfw",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg"
      },
@@ -1149,7 +1170,7 @@ const data = [
       "web_calification": 8.45,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=225",
       "year": 1980,
-      "trailer": "https:\/\/youtu.be\/-Nbez_uIpwA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/-Nbez_uIpwA",
       "clasification": "movie",
       "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg"
      },
@@ -1160,7 +1181,7 @@ const data = [
       "web_calification": 6.41,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=34472",
       "year": 2019,
-      "trailer": "https:\/\/www.youtube.com\/watch?time_continue=3&v=efJDWQtUhk8&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/efJDWQtUhk8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.fbd74e1dfe2725af858124f4993ff201?rik=GQhGCqqO8QQl0Q&pid=ImgRaw&r=0"
      },
@@ -1171,7 +1192,7 @@ const data = [
       "web_calification": 4.57,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4797",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=YUPVvPlzqbE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/YUPVvPlzqbE",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/buried_alive-925257683-large.jpg"
      },
@@ -1182,7 +1203,7 @@ const data = [
       "web_calification": 7.22,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1480",
       "year": 1997,
-      "trailer": "https:\/\/youtu.be\/yy6fQReZNIk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/yy6fQReZNIk",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0"
      },
@@ -1193,7 +1214,7 @@ const data = [
       "web_calification": 7.71,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=8078 ",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/pW-PXPpgt0Y",
+      "trailer": "https:\/\/www.youtube.com\/embed\/pW-PXPpgt0Y",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg"
      },
@@ -1204,7 +1225,7 @@ const data = [
       "web_calification": 6.22,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18608",
       "year": 2014,
-      "trailer": "https:\/\/youtu.be\/vNKqNBey9MQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/vNKqNBey9MQ",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg"
      },
@@ -1215,7 +1236,7 @@ const data = [
       "web_calification": 5.78,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11558",
       "year": 2010,
-      "trailer": "https:\/\/youtu.be\/1H19QzPfdqA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/1H19QzPfdqA",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0"
      },
@@ -1226,7 +1247,7 @@ const data = [
       "web_calification": 5.64,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27144",
       "year": 2014,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=ZfoFdlI8dtw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ZfoFdlI8dtw",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27144_67.jpg"
      },
@@ -1237,7 +1258,7 @@ const data = [
       "web_calification": 6.03,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35763",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/YTiGeU-dRAY",
+      "trailer": "https:\/\/www.youtube.com\/embed\/YTiGeU-dRAY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg"
      },
@@ -3848,6 +3869,7 @@ const data = [
       "title": "El Bazar de los Malos Sueños",
       "web_calification": 6.91,
       "year": 2015,
+      "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.fSiH0ypenXecH0Pq8BJdKQHaLW?pid=ImgDet&rs=1"
      }
     ]

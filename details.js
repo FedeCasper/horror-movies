@@ -8,7 +8,9 @@ createApp({
                movies: [],
                filteredMovies: [],
                notFoundObject: {},
-               movieSelected: {}
+               movieSelected: {},
+               sortedMovies: [],
+               globalPosition: 0
           }
      },
      created(){
@@ -21,6 +23,10 @@ createApp({
           console.log(captureId);
           this.movieSelected = this.movies.find( movie => movie.id == captureId)
           console.log(this.movieSelected);
+          this.sortedMovies = Array.from(this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification)).sort((a,b) => b.web_calification - a.web_calification)
+          let mapeados = this.sortedMovies.map(movie => movie.id)
+          console.log(mapeados);
+          this.globalPosition = mapeados.indexOf(this.movieSelected.id); 
      },
      beforeUpdate(){
           // this.notFoundObject = {
