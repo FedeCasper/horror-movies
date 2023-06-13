@@ -6,7 +6,7 @@ const data = [
       "web_calification": 4.94,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19022",
       "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Jry9kiNGVEw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/PsmUoK0pHHw",
       "clasification": "movie",
       "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
       "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad."

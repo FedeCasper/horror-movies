@@ -52,17 +52,18 @@
                </div>
           </nav>
 
-          <section >
+          <section class="d-flex justify-content-center py-5">
 
-               <div class="card col-8">
+               <div class="card col-10 col-md-6 col-lg-4">
                     <img :src="movieSelected.cover" class="card-img-top" alt="...">
                     <div class="card-body">
+                         <h5 class="card-title">{{movieSelected.optional_title}}</h5>
                          <h5 class="card-title">{{movieSelected.title}}</h5>
                          <p class="card-text">{{movieSelected.sinopsis}}</p>
                     </div>
                     <ul class="list-group list-group-flush">
                          <li class="list-group-item">{{movieSelected.year}}</li>
-                         <video :src="movieSelected.trailer"></video>
+                         <iframe width="560" height="315" :src="movieSelected.trailer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                          <li class="list-group-item">{{movieSelected.web_calification}}</li>
                          <li class="list-group-item">{{movieSelected.clasification}}</li>
                     </ul>
