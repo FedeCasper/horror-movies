@@ -55,28 +55,33 @@
           <section class="d-flex justify-content-center py-5">
 
                <div class="card col-10 col-md-6 col-lg-4">
-                    <img :src="movieSelected.cover" class="card-img-top" alt="...">
+                    <img :src="storySelected.cover" class="card-img-top" alt="...">
                     <div class="card-body">
-                         <h5 class="card-title">{{movieSelected.title}}</h5>
-                         <h6 class="fw-lighter fst-italic"> {{movieSelected.optional_title ? movieSelected.optional_title : "unknown"}}</h6>
-                         <p class="card-text">{{movieSelected.sinopsis}}</p>
+                         <h5 class="card-title">{{storySelected.title}}</h5>
+                         <h6 class="fw-lighter fst-italic"> {{storySelected.optional_title ? storySelected.optional_title : "unknown"}}</h6>
+                         <p class="card-text">{{storySelected.sinopsis}}</p>
                     </div>
                     <ul class="list-group list-group-flush">
-                         <li class="list-group-item">Release date: {{movieSelected.year}}</li>
-                         <li class="list-group-item">Calification: <span class="text-danger fw-bold px-1">{{movieSelected.web_calification}}</span> / 10</li>
-                         <li class="list-group-item">Overall ranking <span class="text-danger fw-bold px-1">#{{globalPosition}}</span> / {{onlyIdsArray.length}}</li>
-                         <li class="list-group-item">Clasification: {{movieSelected.clasification}}</li>
+                         <li class="list-group-item">Release date: {{storySelected.year}}</li>
+                         <li class="list-group-item">Calification: <span class="text-danger fw-bold px-1">{{storySelected.web_calification}}</span> / 10</li>
+                         <li class="list-group-item">Overall ranking 
+                              <span class="text-danger fw-bold px-1">
+                                   #{{storySelected.clasification == "movie" ? overAllObject.movies+1 : 
+                                   storySelected.clasification == "serie" ? overAllObject.series+1 :
+                                   storySelected.clasification == "book" ? overAllObject.books+1 : "" }}
+                              </span>
+                         </li>
+                         <li class="list-group-item">Clasification: {{storySelected.clasification}}</li>
                          <li class="px-3 card-title h5 mt-4">Trailer</li>
-                         <iframe class="w-100 video py-3" :src="movieSelected.trailer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                         <iframe class="w-100 video py-3" :src="storySelected.trailer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </ul>
                     <div class="card-body">
                          <a href="#" class="card-link text-danger">Card link</a>
-                         <a href="#" class="card-link">Another link</a>
+                         <a href="#" class="card-link text-danger">Another link</a>
                     </div>
                </div>
 
           </section>
-
 
      </div>
 

@@ -8,9 +8,11 @@ createApp({
                movies: [],
                filteredMovies: [],
                notFoundObject: {},
-               movieSelected: {},
+               storySelected: {},
                onlyIdsArray: [],
-               globalPosition: 0
+               globalPosition: 0,
+               overAllObject:{},
+               captureId: 0
           }
      },
      created(){
@@ -19,11 +21,13 @@ createApp({
           this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
           const params = new URLSearchParams (location.search)
           console.log(params);
-          const captureId = params.get("id")
-          console.log(captureId);
-          this.movieSelected = this.movies.find( movie => movie.id == captureId)
-          console.log(this.movieSelected);
-          this.findGlobalIndex()
+          this.captureId = params.get("id")
+          console.log(this.captureId);
+          this.overAllObject = {
+               movies: this.findMovieGlobalIndex("movie"),
+               series: this.findMovieGlobalIndex("serie"),
+               books: this.findMovieGlobalIndex("book")
+          }
      },
      beforeUpdate(){
           // this.notFoundObject = {
@@ -33,11 +37,14 @@ createApp({
           // }
      },
      methods:{
-          findGlobalIndex(){
-               this.onlyIdsArray = Array.from(this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification))
+          findMovieGlobalIndex(clasificationType){
+               console.log(this.captureId);
+               this.onlyIdsArray = Array.from(this.movies.filter(movie => movie.clasification == clasificationType && movie.web_calification))
                     .sort((a,b) => b.web_calification - a.web_calification)
                     .map(movie => movie.id)
-               return this.globalPosition = this.onlyIdsArray.indexOf(this.movieSelected.id); 
+                    console.log(this.onlyIdsArray.length);
+               this.storySelected = this.movies.find( story => story.id == this.captureId)
+               return this.globalPosition = this.onlyIdsArray.indexOf(this.storySelected.id); 
           }
      },
      computed:{
