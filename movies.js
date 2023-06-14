@@ -13,10 +13,7 @@ createApp({
      created(){
           this.movies = data
           this.filteredMovies = this.movies.filter(movie => movie.clasification === "movie")
-          console.log(this.filteredMovies);
           this.filteredOnlyMovies = this.filteredMovies
-
-
      },
      beforeUpdate(){
           this.notFoundObject = {

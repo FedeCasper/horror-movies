@@ -18,6 +18,14 @@
 
      <div id="app">
 
+          <header class="w-100 bg-dark p-3 d-flex align-items-center justify-content-between sticky-top shadow d-sm-none">
+               <div class="d-flex align-items-center">
+                    <img src="./assets/ghost2.png" alt="skull">
+                    <h4 class="m-0 text-danger ps-2">Books</h4>
+               </div>
+               <div class="d-flex justify-content-center text-light">{{onlyBooks.length}} books found!</div>
+          </header>
+
           <span id="computedFunction"></span>
 
           <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark d-none d-sm-flex" data-bs-theme="dark">
@@ -109,7 +117,7 @@
                               <a class="nav-link" href="./series.html">Series</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
-                              <a class="nav-link active fw-bold text-danger" href="#">Books ({{onlyBooks.length}})</a>
+                              <a class="nav-link active fw-bold text-danger" href="#">Books</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./top.html">Top</a>
