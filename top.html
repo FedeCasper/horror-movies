@@ -17,39 +17,42 @@
 
      <div id="app">
           {{filter}}
-          <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
-               <div class="container-fluid">
-                    <a class="navbar-brand text-light fw-bold" href="#"><img src="./assets/ghost2.png" alt="skull">
-                         Casper's <span class="text-danger">Horror Top</span></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                         aria-expanded="false" aria-label="Toggle navigation">
-                         <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                              <li class="nav-item">
-                                   <a class="nav-link" href="./all.html">All</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="./movies.html">Movies</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="./series.html">Series</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="./books.html">Books</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link active text-danger" href="#">Top</a>
-                              </li>
-                         </ul>
-                         <div class="d-flex" role="search">
-                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
-                         </div>
+     <!-- Nav TOP section -->
+     <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark d-none d-sm-flex" data-bs-theme="dark">
+          <div class="container-fluid">
+               <a class="navbar-brand text-light fw-bold" href="./index.html">
+                    <img src="./assets/ghost2.png" alt="skull">
+                    Casper's 
+                    <span class="text-danger">Horror Movies</span>
+               </a>
+               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                         <li class="nav-item text-danger">
+                              <a class="nav-link" href="./all.html">All</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="./movies.html">Movies</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="./series.html">Series</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link" href="./books.html">Books</a>
+                         </li>
+                         <li class="nav-item">
+                              <a class="nav-link active fw-bold text-danger" href="#">Top</a>
+                         </li>
+                    </ul>
+                    <!-- Input Search -->
+                    <div class="d-flex" role="search">
+                         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
                     </div>
                </div>
-          </nav>
+          </div>
+     </nav>
 
           <section class="row gap-3 justify-content-center py-5 px-5 w-100 mx-0">
 
@@ -139,6 +142,40 @@
 
           </section>
 
+          <!-- Nav BOTTOM section -->
+          <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary" data-bs-theme="dark">
+               <div class="container-fluid">
+                    <div class="d-flex justify-content-evenly gap-3 w-100 align-items-center">
+                         <div class="d-flex flex-column align-items-center">
+                              <a class="nav-link active text-danger fw-bold" href="#">All</a>
+                         </div>
+                         <div class="d-flex flex-column align-items-center">
+                              <a class="nav-link" href="./movies.html">Movies</a>
+                         </div>
+                         <div class="d-flex flex-column align-items-center">
+                              <a class="nav-link" href="./series.html">Series</a>
+                         </div>
+                         <div class="d-flex flex-column align-items-center">
+                              <a class="nav-link" href="./books.html">Books</a>
+                         </div>
+                         <div class="d-flex flex-column align-items-center">
+                              <a class="nav-link active w-bold text-danger" href="#">Top</a>
+                         </div>
+                         <div class="d-flex gap-3 align-items-center">
+                              <a href="#computedFunction"><img class="returnArrow" src="./assets/arrow.png" alt="arrow" title="Back to the top"></a>
+                              <button class="navbar-toggler p-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                                   <span class="bi bi-search"></span>
+                              </button>
+                         </div>
+                    </div>
+                    <div class="collapse navbar-collapse mt-4" id="navbarSupportedContent2">
+                         <!-- Input Search -->
+                         <div class="d-flex mt-3" role="search">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                         </div>
+                    </div>
+               </div>
+          </nav>
 
      </div>
 
