@@ -17,6 +17,10 @@
 
      <div id="app">
 
+          <header class="w-100 bg-black p-3">
+               <h4 class="m-0 text-danger">All stories</h4>
+          </header>
+
           
 
           <span id="computedFunction">{{filter}}</span>
@@ -95,7 +99,7 @@
                <div class="container-fluid">
                     <div class="d-flex justify-content-evenly gap-3 w-100 align-items-center">
                          <div class="d-flex flex-column align-items-center">
-                              <a class="nav-link active text-danger fw-bold" href="#">All</a>
+                              <a class="nav-link active text-danger fw-bold" href="#">All ({{filteredMovies.length}})</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./movies.html">Movies</a>

@@ -13,7 +13,9 @@ createApp({
      created(){
           this.movies = data
           this.filteredMovies = this.movies.filter(movie => movie.clasification === "movie")
+          console.log(this.filteredMovies);
           this.filteredOnlyMovies = this.filteredMovies
+
 
      },
      beforeUpdate(){
@@ -27,11 +29,11 @@ createApp({
           filter(){
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
                if(this.inputValue == "" || this.inputValue.length <= 2){
-                    this.filteredOnlyMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
+                    this.filteredOnlyMovies = this.filteredMovies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
                     movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
                     )
                }else{
-                    this.filteredOnlyMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
+                    this.filteredOnlyMovies = this.filteredMovies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
                     movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
                     )
                } 
