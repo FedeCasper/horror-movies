@@ -22,9 +22,9 @@
           <span id="computedFunction">{{filter}}</span>
 
      <!-- Nav section -->
-          <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top" data-bs-theme="dark">
+          <nav class="navbar sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark border-top border-top-dark fixed-bottom" data-bs-theme="dark">
                <div class="container-fluid">
-                    <a class="navbar-brand text-light fw-bold" href="#">
+                    <a class="navbar-brand text-light fw-bold" href="./index.html">
                          <img src="./assets/ghost2.png" alt="skull">
                          Casper's 
                          <span class="text-danger">Horror Movies</span>
@@ -59,7 +59,7 @@
           </nav>
 
      <!-- Cards container section -->
-          <section class="row justify-content-center py-5 px-2 w-100 mx-0">
+          <section class="row justify-content-center py-3 px-2 w-100 mx-0">
           <!-- Card individual model -->
                <div v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredMovies">
                     <div class="card h-100">
@@ -79,10 +79,10 @@
                          <!-- Sinopsis button -->
                          <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold d-flex align-items-center' : 'btn btn-sm btn-warning text-dark fw-bold d-flex align-items-center'" target="_blank">
                               <i class="bi bi-plus-circle-fill text-dark pe-1"></i>{{movie.details
-                              ? "Details" : "Unavailable"}}</a>
+                              ? "Details" : "Broke"}}</a>
                               <!-- Trailer button -->
-                              <a role="button" :href="movie.trailer ? movie.trailer : '' " class="btn btn-sm btn-danger text-dark fw-bold">
-                                   <i class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" : "Unavailable"}}</a>
+                              <a role="button" :href="movie.trailer ? movie.trailer : '' " :class="movie.trailer ? 'btn btn-sm btn-danger text-dark fw-bold d-flex align-items-center' : 'btn btn-sm btn-warning text-dark fw-bold d-flex align-items-center'">
+                                   <i class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" : "Broke"}}</a>
                          </div>
                     </div>
                </div>

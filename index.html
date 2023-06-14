@@ -89,10 +89,8 @@
                                    <i class="bi bi-plus-circle-fill text-dark pe-1"></i>{{movie.details
                                    ? "Details" : "Unavailable"}}</a>
                               <!-- Trailer button -->
-                              <a role="button" :href="movie.trailer ? movie.trailer : '' "
-                                   class="btn btn-sm btn-danger text-dark fw-bold"><i
-                                        class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" :
-                                   "Unavailable"}}</a>
+                              <a role="button" :href="movie.trailer ? movie.trailer : '' " :class="movie.trailer ? 'btn btn-sm btn-danger text-dark fw-bold d-flex align-items-center' : 'btn btn-sm btn-warning text-dark fw-bold d-flex align-items-center'">
+                                   <i class="bi bi-film text-dark me-1"></i>{{ movie.trailer ? "Trailer" : "Broke"}}</a>
                          </div>
                     </div>
                </div>
