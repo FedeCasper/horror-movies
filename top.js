@@ -24,6 +24,7 @@ createApp({
           bestOnes(array){
                let newObjectArray = array.map(movie => { 
                          return {
+                              id: movie.id,
                               title: movie.title,
                               details: movie.details ? movie.details : '',
                               optional_title: movie.optional_title,

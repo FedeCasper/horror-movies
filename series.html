@@ -39,10 +39,10 @@
                                    <a class="nav-link active text-danger" href="#">Series</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="./top.html">Top</a>
+                                   <a class="nav-link" href="./books.html">Books</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link" href="./books.html">Books</a>
+                                   <a class="nav-link" href="./top.html">Top</a>
                               </li>
                          </ul>
                          <div class="d-flex" role="search">
@@ -73,9 +73,9 @@
                     </ul>
                     <div class="card-body d-flex justify-content-between align-items-end gap-3">
                          <!-- Sinopsis button -->
-                         <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold' : 'btn btn-sm btn-warning text-dark fw-bold'" target="_blank">
-                         <i class="bi bi-chat-square-quote-fill text-dark me-1"></i>{{movie.details
-                              ? "Sinopsis" : "Unavailable"}}</a>
+                         <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'btn btn-sm btn-danger text-dark fw-bold d-flex align-items-center' : 'btn btn-sm btn-warning text-dark fw-bold d-flex align-items-center'" target="_blank">
+                              <i class="bi bi-plus-circle-fill text-dark pe-1"></i>{{movie.details
+                              ? "Details" : "Unavailable"}}</a>
                          <!-- Trailer button -->
                          <a role="button" :href="movie.trailer ? movie.trailer : '' "
                               class="btn btn-sm btn-danger text-dark fw-bold"><i
