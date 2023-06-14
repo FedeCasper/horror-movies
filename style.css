@@ -18,10 +18,10 @@ a{
      min-height: 100vh;
 }
 .navTop{
-     min-height: 5vh !important;
+     min-height: 10vh;
 }
 .navBottom{
-     min-height: 10vh;
+     min-height: 5vh;
 }
 section{
      min-height: 90vh;

@@ -22,7 +22,7 @@
           <span id="computedFunction">{{filter}}</span>
 
      <!-- Nav section -->
-          <nav class="navbar navBottom sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark border-top border-top-dark d-none d-sm-flex" data-bs-theme="dark">
+          <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark d-none d-sm-flex" data-bs-theme="dark">
                <div class="container-fluid">
                     <a class="navbar-brand text-light fw-bold" href="./index.html">
                          <img src="./assets/ghost2.png" alt="skull">
@@ -58,49 +58,6 @@
                </div>
           </nav>
 
-               <!-- Nav section -->
-               <nav class="navbar navBottom sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary" data-bs-theme="dark">
-                    <div class="container-fluid">
-                         <a class="navbar-brand text-light fw-bold" href="./index.html">
-                              <img src="./assets/ghost2.png" alt="skull">
-                              Casper's 
-                              <span class="text-danger">Menu</span>
-                         </a>
-                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
-                              <span class="navbar-toggler-icon"></span>
-                         </button>
-                         <div class="collapse navbar-collapse mt-4" id="navbarSupportedContent2">
-                              <div class="d-flex justify-content-around gap-3 w-100">
-                                   <div class="d-flex flex-column align-items-center">
-                                        <i class="bi bi-1-circle-fill"></i>
-                                        <a class="nav-link active text-danger" href="#">All</a>
-                                   </div>
-                                   <div class="d-flex flex-column align-items-center">
-                                        <i class="bi bi-1-circle-fill"></i>
-                                        <a class="nav-link" href="./movies.html">Movies</a>
-                                   </div>
-                                   <div class="d-flex flex-column align-items-center">
-                                        <i class="bi bi-1-circle-fill"></i>
-                                        <a class="nav-link" href="./series.html">Series</a>
-                                   </div>
-                                   <div class="d-flex flex-column align-items-center">
-                                        <i class="bi bi-1-circle-fill"></i>
-                                        <a class="nav-link" href="./books.html">Books</a>
-                                   </div>
-                                   <div class="d-flex flex-column align-items-center">
-                                        <i class="bi bi-1-circle-fill"></i>
-                                        <a class="nav-link" href="./top.html">Top</a>
-                                   </div>
-                              </div>
-                              <!-- Input Search -->
-                              <div class="d-flex mt-3" role="search">
-                                   <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
-                              </div>
-                         </div>
-
-                    </div>
-               </nav>
-
 
      <!-- Cards container section -->
           <section class="row justify-content-center py-4 px-2 w-100 mx-0">
@@ -132,6 +89,44 @@
                </div>
 
           </section>
+
+          <!-- Nav section -->
+          <nav class="navbar navBottom navbar-expand-lg bg-dark border-top border-top-dark d-sm-none py-3 sticky-bottom text-secondary" data-bs-theme="dark">
+               <div class="container-fluid">
+                    <a class="navbar-brand text-light fw-bold" href="./index.html">
+                         <img src="./assets/ghost2.png" alt="skull">
+                         Casper's 
+                         <span class="text-danger">Menu</span>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                         <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse mt-4" id="navbarSupportedContent2">
+                         <div class="d-flex justify-content-evenly gap-3 w-100">
+                              <div class="d-flex flex-column align-items-center">
+                                   <a class="nav-link active text-danger" href="#">All</a>
+                              </div>
+                              <div class="d-flex flex-column align-items-center">
+                                   <a class="nav-link" href="./movies.html">Movies</a>
+                              </div>
+                              <div class="d-flex flex-column align-items-center">
+                                   <a class="nav-link" href="./series.html">Series</a>
+                              </div>
+                              <div class="d-flex flex-column align-items-center">
+                                   <a class="nav-link" href="./books.html">Books</a>
+                              </div>
+                              <div class="d-flex flex-column align-items-center">
+                                   <a class="nav-link" href="./top.html">Top</a>
+                              </div>
+                         </div>
+                         <!-- Input Search -->
+                         <div class="d-flex mt-3" role="search">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                         </div>
+                    </div>
+
+               </div>
+          </nav>
 
      </div>
 
