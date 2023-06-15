@@ -17,8 +17,11 @@ a{
 #app{
      min-height: 100vh;
 }
-nav{
-     min-height: 10vh;
+.navTop{
+     min-height: 5vh;
+}
+.navBottom{
+     min-height: 5vh;
 }
 section{
      min-height: 90vh;
@@ -29,10 +32,8 @@ section{
      object-fit: contain;
 }
 .returnArrow{
-     position: fixed;
-     bottom: 10px;
-     right: 10px;
-     z-index: 3;
+     /* position: fixed; */
+     bottom: 60px;
      transition: all 0.2s ease-in-out;
 }
 .returnArrow:hover{
@@ -44,4 +45,17 @@ section{
 }
 .video{
      min-height: 30vh;
+}
+.cardHover{
+     transition: all 0.2s ease-in-out;
+}
+.cardHover:hover{
+     opacity: 40%;
+     transform: scale(0.8);
+}
+
+.cardHover > div:hover{
+     filter: grayscale(100%) brightness(120%);
+     color: red;
+     font-weight: bolder;
 }
