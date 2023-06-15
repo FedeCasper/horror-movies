@@ -46,3 +46,16 @@ section{
 .video{
      min-height: 30vh;
 }
+.cardHover{
+     transition: all 0.2s ease-in-out;
+}
+.cardHover:hover{
+     opacity: 40%;
+     transform: scale(0.8);
+}
+
+.cardHover > div:hover{
+     filter: grayscale(100%) brightness(120%);
+     color: red;
+     font-weight: bolder;
+}
