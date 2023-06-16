@@ -25,6 +25,7 @@ a{
 }
 section{
      min-height: 90vh;
+     padding-bottom: 6vh;
 }
 .cover{
      background-color: black;
