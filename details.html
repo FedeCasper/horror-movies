@@ -61,13 +61,13 @@
                </div>
           </nav>
 
-          <section class="d-flex justify-content-center py-5">
+          <section class="d-flex justify-content-center pt-4">
                <div class="card col-11 col-md-6 col-lg-4">
                     <img :src="storySelected.cover" class="card-img-top" alt="...">
                     <div class="card-body">
                          <h5 class="card-title">{{storySelected.title}}</h5>
                          <h6 class="fw-lighter fst-italic"> {{storySelected.optional_title ? storySelected.optional_title : "unknown"}}</h6>
-                         <p class="card-text">{{storySelected.sinopsis}}</p>
+                         <p class="card-text pt-2">{{storySelected.sinopsis}}</p>
                     </div>
                     <ul class="list-group list-group-flush">
                          <li class="list-group-item">Release date: {{storySelected.year}}</li>
@@ -95,13 +95,13 @@
                <div class="container-fluid">
                     <div class="d-flex justify-content-evenly gap-3 w-100 align-items-center">
                          <div class="d-flex flex-column align-items-center">
-                              <a class="nav-link" href="#">All</a>
+                              <a class="nav-link" href="./all.html">All</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./movies.html">Movies</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
-                              <a class="nav-linkf" href="./series.html">Series</a>
+                              <a class="nav-link" href="./series.html">Series</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./books.html">Books</a>
@@ -110,7 +110,6 @@
                               <a class="nav-link" href="./top.html">Top</a>
                          </div>
                          <div class="d-flex gap-3 align-items-center">
-                              <a href="#computedFunction"><img class="returnArrow" src="./assets/arrow.png" alt="arrow" title="Back to the top"></a>
                               <button class="navbar-toggler p-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
                                    <span class="bi bi-search"></span>
                               </button>
@@ -131,8 +130,7 @@
           integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
           crossorigin="anonymous"></script>
      <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-     <script src="data.js"></script>
-     <script src="./details.js"></script>
+     <script type="module" src="./details.js"></script>
 </body>
 
 </html>
