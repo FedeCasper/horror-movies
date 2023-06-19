@@ -34,15 +34,14 @@ createApp({
      methods:{
           scrollSpy(){
                this.scrollYPosition = window.scrollY
-               console.log(this.scrollYPosition);
-               console.log("object");
-               if(this.scrollYPosition > 5000){
+               if(this.scrollYPosition > 3000){
                     this.arrowDirection = true
-                    console.log(this.arrowDirection);
                }else{
                     this.arrowDirection = false
-                    console.log(this.arrowDirection);
                }
+          },
+          moveTo(){
+               window.scrollTo(0, 0)
           }
      },
      computed:{

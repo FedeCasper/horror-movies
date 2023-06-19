@@ -8,14 +8,18 @@ createApp({
                movies: [],
                filteredMovies: [],
                filteredOnlyMovies: [],
-               notFoundObject: {}
+               notFoundObject: {},
+               scrollYPosition: 0,
+               arrowDirection: false
           }
      },
+
      created(){
           this.movies = data
           this.filteredMovies = this.movies.filter(movie => movie.clasification === "movie")
           this.filteredOnlyMovies = this.filteredMovies
      },
+
      beforeUpdate(){
           this.notFoundObject = {
                text: "There is no movie with that name",
@@ -23,6 +27,29 @@ createApp({
                text2: "Please try again..."
           }
      },
+
+     mounted(){
+          window.addEventListener( 'scroll', this.scrollSpy )
+     },
+     
+     destroyed(){
+          window.removeEventListener('scroll', this.scrollSpy);
+     }, 
+
+     methods:{
+          scrollSpy(){
+               this.scrollYPosition = window.scrollY
+               if(this.scrollYPosition > 3000){
+                    this.arrowDirection = true
+               }else{
+                    this.arrowDirection = false
+               }
+          },
+          moveTo(){
+               window.scrollTo(0, 0)
+          }
+     },
+
      computed:{
           filter(){
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
