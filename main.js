@@ -24,7 +24,7 @@ createApp({
      beforeUpdate(){
           this.notFoundObject = {
                text: "There is no movie with that name",
-               img: "./assets/not-found-ghost.png",
+               img: "./assets/ghost2.png",
                text2: "Please try again..."
           }
      },

@@ -65,7 +65,7 @@
           </nav>
 
      <!-- Cards container section -->
-          <section class="row justify-content-center pt-4 px-2 w-100 mx-0"  @scroll="saludar">
+          <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
           <!-- Card individual model -->
                <div v-cloak v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
@@ -112,9 +112,8 @@
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./top.html">Top</a>
                          </div>
-                         <i :class="arrowDirection == false ? 'bi bi-arrow-bar-down' : 'bi bi-arrow-bar-up'"  title="Back to the top"></i>
+                         <i :class="arrowDirection == false ? 'bi bi-arrow-bar-down text-dark' : 'bi bi-arrow-bar-up text-danger'"  title="Back to the top" @click="moveTo"></i>
                          <div class="d-flex gap-3 align-items-center">
-                              <!-- <a href="#computedFunction"><i :class="arrowDirection == false ? 'bi bi-arrow-bar-down' : 'bi bi-arrow-bar-up'"  title="Back to the top"></a> -->
                               <button class="navbar-toggler p-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
                                    <span class="bi bi-search"></span>
                               </button>

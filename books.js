@@ -9,7 +9,9 @@ createApp({
                movies: [],
                filteredMovies: [],
                filteredOnlySeries: [],
-               onlyBooks: []
+               onlyBooks: [],
+               scrollYPosition: 0,
+               arrowDirection: false
           }
      },
 
@@ -21,6 +23,28 @@ createApp({
           this.filteredOnlySeries = this.filteredSeries
           console.log(this.filteredOnlySeries);
           this.onlyBooks = this.movies.filter(movie => movie.clasification == "book")
+     },
+
+     mounted(){
+          window.addEventListener( 'scroll', this.scrollSpy )
+     },
+     
+     destroyed(){
+          window.removeEventListener('scroll', this.scrollSpy);
+     }, 
+
+     methods:{
+          scrollSpy(){
+               this.scrollYPosition = window.scrollY
+               if(this.scrollYPosition > 3000){
+                    this.arrowDirection = true
+               }else{
+                    this.arrowDirection = false
+               }
+          },
+          moveTo(){
+               window.scrollTo(0, 0)
+          }
      },
 
      computed: {
