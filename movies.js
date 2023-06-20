@@ -48,9 +48,12 @@ createApp({
           moveTo(){
                window.scrollTo(0, 0)
           },
-          checkNewMovies(date){
-               this.rangeDate = (new Date().getMonth() -1);
-               return (new Date(date).getMonth() === this.rangeDate && new Date(date).getFullYear() === new Date().getFullYear());
+          checkNewMovies(movieDate){
+               let todayMonth = new Date().getMonth();
+               let todayYear = new Date().getFullYear()
+               let movieMonth = new Date(movieDate).getMonth();
+               let movieYear = new Date(movieDate).getFullYear();
+               return (movieMonth === todayMonth || movieMonth === (todayMonth - 1)) && todayYear === movieYear
           }
      },
 
