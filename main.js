@@ -28,6 +28,12 @@ createApp({
                text2: "Please try again..."
           }
      },
+     methods:{
+          checkNewMovies(date){
+               this.rangeDate = (new Date().getMonth() -1);
+               return (new Date(date).getMonth() === this.rangeDate && new Date(date).getFullYear() === new Date().getFullYear());
+          }
+     },
      computed:{
           filter(){
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)

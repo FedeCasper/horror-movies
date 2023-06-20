@@ -51,6 +51,10 @@ createApp({
           },
           moveTo(){
                window.scrollTo(0, 0)
+          },
+          checkNewMovies(date){
+               this.rangeDate = (new Date().getMonth() -1);
+               return (new Date(date).getMonth() === this.rangeDate && new Date(date).getFullYear() === new Date().getFullYear());
           }
      },
 
