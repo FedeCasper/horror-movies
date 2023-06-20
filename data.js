@@ -10,7 +10,7 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
       "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad.",
-      "add_date": "2023-06-10"
+      "add_date": "2023-06-20"
      },
      {
       "id": 2,
@@ -22,8 +22,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/5Z5HZns7uoI",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
-      "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin.",
-      "add_date": "2022-05-10"
+      "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin."
      },
      {
       "id": 3,
@@ -35,8 +34,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YrFzzlFqx0g",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg",
-      "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él.",
-      "add_date": "2023-05-10"
+      "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él."
      },
      {
       "id": 4,
@@ -48,8 +46,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg",
-      "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo.",
-      "add_date": "2023-03-10"
+      "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo."
      },
      {
       "id": 5,
@@ -112,8 +109,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PHqyFhrb3uU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg",
-      "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida.",
-      "add_date": "2023-05-10"
+      "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida."
      },
      {
       "id": 10,
@@ -1573,6 +1569,7 @@ export const data = [
       "web_calification": 6.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10035",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/qGK-9-ZKr2Q",
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg"
@@ -1719,6 +1716,7 @@ export const data = [
       "web_calification": 5.73,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9592",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/I50jQDlPKiA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg"
      },
@@ -1773,6 +1771,7 @@ export const data = [
       "web_calification": 7.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35423",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/WtgLFVjWnmA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg"
      },
@@ -2297,6 +2296,7 @@ export const data = [
       "web_calification": 5.91,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=94 ",
       "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/eRs1V0rTmTU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_94_48.jpg"
      },
@@ -2351,6 +2351,7 @@ export const data = [
       "web_calification": 7.52,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3862",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/q99hib0zS2M",
       "clasification": "serie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg"
      },
@@ -2464,7 +2465,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/bZiLIldN_NE",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg",
+      "sinopsis": "“Paranormal Activity” is a 2007 American supernatural horror film produced, written, directed, photographed and edited by Oren Peli. It centers on a young couple (Katie Featherston and Micah Sloat) who are haunted by a supernatural presence inside their home. They then set up a camera to document what is haunting them. The movie was made on a budget of $15,000 and grossed over $193 million worldwide .The film was shot over the course of seven days in Oren Peli’s own house. The film was initially screened at the Screamfest Film Festival in 2007 and was released in the United States on September 25, 2009. The film was praised for its realistic portrayal of supernatural events and its use of found footage. The film has spawned several sequels and spin-offs."
      },
      {
       "id": 214,
@@ -2641,7 +2643,8 @@ export const data = [
       "year": 1991,
       "trailer": "https:\/\/www.youtube.com\/embed\/gEhipllOnEE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg",
+      "sinopsis": "“Freddy’s Dead: The Final Nightmare” is a 1991 American slasher film and the sixth film in the “A Nightmare on Elm Street” franchise. In this movie, dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood’s last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom. In part six of the “Nightmare on Elm Street” series, dream monster Freddy Krueger has finally killed all the children of his hometown, and seeks to escape its confines to hunt fresh prey. To this end, he recruits the aid of his (previously unmentioned) daughter"
      },
      {
       "id": 230,
@@ -2650,6 +2653,7 @@ export const data = [
       "web_calification": 6.16,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10009",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/659RAdoAtfo",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg",
@@ -2749,9 +2753,11 @@ export const data = [
       "web_calification": 5.71,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8080",
       "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/lqU8FP99AG4",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg"
+      "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg",
+      "sinopsis": "“Quarantine” is a 2008 American horror movie directed by John Erick Dowdle. The movie is a remake of the 2007 Spanish horror movie “REC”. The movie follows a television reporter and her cameraman who are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers. The movie was filmed in Los Angeles, California. The reporter and cameraman are assigned to spend the night shift with a Los Angeles fire crew. After they arrive at the apartment building, they find that the residents have been infected with a virus that turns them into violent killers. The CDC has quarantined the building and cut off all communication with the outside world. The reporter and cameraman are trapped inside with the other residents and must fight for their lives as they try to escape."
      },
      {
       "id": 240,
@@ -2786,7 +2792,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/6SbhWWA7BLQ",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5749_31.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5749_31.jpg",
+      "sinopsis": "“REC” is a 2007 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie follows a television reporter, Ángela Vidal (Manuela Velasco), and her cameraman, Pablo (only his trainers are shown, Pablo Rosso), who cover the night shift in one of Barcelona’s local fire stations for the fictional documentary television series “Mientras ustedes duermen” (While You Sleep). When the firemen receive a distress call from a lady in a building, Ángela and Pablo go in the firefighter truck with the firemen Manu and Álex with Pablo recording each step. The movie was released on November 23, 2007"
      },
      {
       "id": 243,
@@ -2798,7 +2805,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/55NP2_ZD4dY",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg"
+      "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg",
+      "sinopsis": "“REC 2” is a 2009 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie is a sequel to the 2007 movie “REC”. The action continues from “REC”, with the medical officer and a SWAT team outfitted with video cameras sent into the sealed-off apartment to control the situation. The movie was written and directed by Jaume Balagueró and Paco Plaza, both of whom returned from the previous film"
      },
      {
       "id": 244,
@@ -2857,7 +2865,9 @@ export const data = [
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/embed\/Vm4Fw2QElA4",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg"
+      "gender": "paranormal",
+      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg",
+      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death."
      },
      {
       "id": 249,
@@ -2880,7 +2890,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/YE2iJrN7nwE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33164_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33164_93.jpg",
+      "sinopsis": "“Sam Was Here” is a 2016 horror thriller movie directed by Christophe Deroo. The movie tells the story of Sam, a door-to-door salesman who travels through the desert in search of clients. However, the area seems deserted and his wife won’t answer his phone calls. His only contact with the outside world is a local radio station. As he tries to find clients, he begins to experience strange occurrences and becomes increasingly paranoid. The movie was released on March 10, 2017"
      },
      {
       "id": 251,
@@ -2996,6 +3007,7 @@ export const data = [
       "web_calification": 6.06,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=16001",
       "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/uVhTHcYpwNQ",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg"
      },
@@ -3028,6 +3040,7 @@ export const data = [
       "web_calification": 4.65,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32423",
       "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RhgeNY24wZY",
       "clasification": "movie",
       "gender": "creepypasta",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg"
@@ -3084,6 +3097,7 @@ export const data = [
       "web_calification": 6.05,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6346",
       "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/7ggN4CX3EI4",
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-JVrTZuVGCXk\/WOlBvM67-VI\/AAAAAAAAEjo\/g9cp6ssHiNU7WktNF5UH8YphV5pPJL8ngCLcB\/s1600\/stir%2Bof%2Bechoes%2B2.jpg"
      },
@@ -3094,6 +3108,7 @@ export const data = [
       "web_calification": 8.12,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=2614",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/-RcPZdihrp4",
       "clasification": "serie",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg"
      },
@@ -3251,6 +3266,7 @@ export const data = [
       "web_calification": 4.75,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=11288",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vHOaWV3OkMQ",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/4bbabce4fe53b96c9ef7d49829ca9ef2935683846cdf759f4dbc52b3c0f669f4._RI_TTW_.png"
      },
@@ -3261,6 +3277,7 @@ export const data = [
       "web_calification": 5.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19061 ",
       "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RuGEicv0cAg",
       "clasification": "movie",
       "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg"
      },
@@ -3293,6 +3310,7 @@ export const data = [
       "web_calification": 5.95,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2543",
       "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Jc_Mdg8XGAc",
       "clasification": "movie",
       "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749"
      },
@@ -3315,6 +3333,7 @@ export const data = [
       "web_calification": 7.74,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=929",
       "year": "2016 - 2018",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9wj62u817FA",
       "clasification": "serie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg"
@@ -3395,6 +3414,7 @@ export const data = [
       "web_calification": 7.72,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=4017",
       "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/KBGEhb7E9Zg",
       "clasification": "serie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
      },
@@ -3405,6 +3425,7 @@ export const data = [
       "web_calification": 8.12,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3220",
       "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Dywejalfyzs",
       "clasification": "serie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg"
@@ -3426,6 +3447,7 @@ export const data = [
       "web_calification": 6.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10983",
       "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/5N9vAUPtWts",
       "clasification": "movie",
       "cover": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e02ce8fbe14ca5d06039aca\/1585685659999-JFLB7AKUH62263FQ4EWJ\/5e6634ea355fb.image.jpg?format=1000w"
      },
