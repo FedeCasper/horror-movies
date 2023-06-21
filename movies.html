@@ -91,7 +91,17 @@
                          </div>
                     </a>
                </div>
+               <div v-cloak v-else-if="filteredOnlyMovies.length == 0">
+                    <div class="d-flex flex-column justify-content-start h3 text-center gap-3">
+                         <span class="text-light fst-italic">There is no movie with taht name</span>
+                         <img class="notFoundImg justify-content-center" src="./assets/skull.png" alt="ghost icon">
+                         <span class="text-danger">" {{inputValue}} "</span>
+                         <span class="text-light fst-italic">Please try again</span>
+                    </div>
+               </div>
+               
           </section>
+
 
           <!-- Nav BOTTOM section -->
           <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary shadow" data-bs-theme="dark">
