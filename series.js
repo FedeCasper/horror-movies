@@ -21,7 +21,7 @@ createApp({
           console.log(this.filteredSeries);
           this.filteredOnlySeries = this.filteredSeries
           console.log(this.filteredOnlySeries);
-
+          this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
      },
 
      beforeUpdate(){
@@ -63,7 +63,6 @@ createApp({
 
      computed:{
           filter(){
-               this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
                if(this.inputValue == "" || this.inputValue.length <= 2){
                     this.filteredOnlySeries = this.filteredSeries.filter(serie => serie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
                     serie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )

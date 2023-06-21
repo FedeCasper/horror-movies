@@ -10,6 +10,7 @@ createApp({
                filteredMovies: [],
                filteredOnlySeries: [],
                onlyBooks: [],
+               filteredOnlyBooks: [],
                scrollYPosition: 0,
                arrowDirection: false
           }
@@ -17,12 +18,9 @@ createApp({
 
      created() {
           this.movies = data
-          console.log(this.movies);
-          this.filteredSeries = this.movies.filter(movie => movie.clasification === "serie")
-          console.log(this.filteredSeries);
-          this.filteredOnlySeries = this.filteredSeries
-          console.log(this.filteredOnlySeries);
+          // console.log(this.movies);
           this.onlyBooks = this.movies.filter(movie => movie.clasification == "book")
+          // console.log(this.onlyBooks);
      },
 
      mounted(){
@@ -49,11 +47,15 @@ createApp({
 
      computed: {
           filter() {
-               this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
-               this.filteredOnlySeries = this.filteredSeries.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) ||
-                    movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase())
-               )
-               // this.filteredMovies.length == 0 ? this.filteredMovies = this.onlyMoviesArray : "" 
+               if(this.inputValue == "" || this.inputValue.length <= 2){
+                    this.filteredOnlyBooks = this.onlyBooks.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
+                    movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
+                    )
+               }else{
+                    this.filteredOnlyBooks = this.onlyBooks.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
+                    movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
+                    )
+               } 
           }
      }
 
