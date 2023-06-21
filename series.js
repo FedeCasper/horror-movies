@@ -1,4 +1,5 @@
 import { data } from "./data.js"
+import { storyFilter } from "./module/functions.js"
 const { createApp } = Vue
 
 createApp({
@@ -63,15 +64,7 @@ createApp({
 
      computed:{
           filter(){
-               if(this.inputValue == "" || this.inputValue.length <= 2){
-                    this.filteredOnlySeries = this.filteredSeries.filter(serie => serie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
-                    serie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
-                    )
-               }else{
-                    this.filteredOnlySeries = this.filteredSeries.filter(serie => serie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
-                    serie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
-                    )
-               } 
-          }
+               this.filteredOnlySeries = storyFilter(this.inputValue, this.filteredSeries)
+          },
      }
 }).mount('#app')

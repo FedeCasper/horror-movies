@@ -1,5 +1,5 @@
 import { data } from "./data.js"
-
+import { storyFilter } from "./module/functions.js"
 const { createApp } = Vue
 
 createApp({
@@ -54,15 +54,7 @@ createApp({
      },
      computed:{
           filter(){
-               if(this.inputValue == "" || this.inputValue.length <= 2){
-                    this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase()) || 
-                         movie.optional_title.toString().toLowerCase().startsWith(this.inputValue.toLowerCase() )
-                    )
-               }else{
-                    this.filteredMovies = this.movies.filter(movie => movie.title.toString().toLowerCase().includes(this.inputValue.toLowerCase()) || 
-                         movie.optional_title.toString().toLowerCase().includes(this.inputValue.toLowerCase() )
-                    )
-               } 
-          },
+               this.filteredMovies = storyFilter(this.inputValue, this.movies)
+          }
      }
 }).mount('#app')
