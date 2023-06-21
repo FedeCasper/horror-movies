@@ -9,7 +9,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PsmUoK0pHHw",
       "clasification": "movie",
       "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
-      "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad."
+      "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad.",
+      "add_date": "2023-06-20"
      },
      {
       "id": 2,
@@ -94,6 +95,7 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDZepeBxWFc",
       "clasification": "movie",
+      "gender": "vampiros",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1",
       "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston."
      },
@@ -208,6 +210,7 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/4zLS4lL3JDQ",
       "clasification": "movie",
+      "gender": "aliens",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24855_20.jpg",
       "sinopsis": "Una familia media norteamericana se encuentran en el lugar equivocado en el momento equivocado... Mientras la familia Morris viajaba a un campamento en las montañas de Carolina del Norte, el mal funcionamiento del GPS hace que sean dirigidos a un túnel remoto rodeado por vehículos abandonados. El padre, Peter Morris es secuestrado dejando a su esposa e hijos traumatizados, que durante su huida encuentran refugio en una cabaña cercana. Allí, se horrorizan al saber que extrañas luces en las montañas cercanas se han relacionado con la abducción alienígena y el sacrificio humano durante siglos. Cuando sus intentos para alertar a las autoridades son interceptados por la amenaza extraterrestre, los miembros sobrevivientes de la familia se encuentran entre la espada y la pared. Este ataque brutal y sangriento se desarrolla a través de la lente de la cámara de video de su hijo menor."
      },
@@ -220,6 +223,7 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/jC1ngKr6QA8",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg",
       "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?"
      },
@@ -232,6 +236,7 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/AVvcNrIlR4c",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg",
       "sinopsis": "Alien vs Depredador 2: Requiem continúa la historia de la primera parte, donde una nave espacial que transporta a los alienígenas y al depredador híbrido se estrella en un pequeño pueblo de Colorado. Los habitantes del lugar se ven atrapados en medio de una guerra entre las dos especies mortales, que no se detienen ante nada para eliminar a sus enemigos y a cualquiera que se interponga en su camino. Un grupo de supervivientes humanos intenta escapar del horror, mientras que un depredador solitario llega al planeta para cazar a los alienígenas y al monstruoso híbrido. La película es un thriller de acción y terror, con escenas sangrientas y violentas, que muestra el enfrentamiento definitivo entre los dos iconos del cine de ciencia ficción."
      },
@@ -405,6 +410,7 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
       "clasification": "movie",
+      "gender": "posesiones",
       "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg"
      },
      {
@@ -428,6 +434,7 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/kaU2A7KyOu4",
       "clasification": "movie",
+      "gender": "vampiros",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1"
      },
      {
@@ -483,6 +490,7 @@ export const data = [
       "year": 1989,
       "trailer": "https:\/\/www.youtube.com\/embed\/vf7jiH3SFe8",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
       "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama."
      },
@@ -495,6 +503,7 @@ export const data = [
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/embed\/cp4VC6zVQsg",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
       "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre."
      },
@@ -518,6 +527,7 @@ export const data = [
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/aOb8i_DE42c",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
       "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective."
      },
@@ -530,6 +540,7 @@ export const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/QQ578YDz-sQ",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
       "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?"
      },
@@ -542,6 +553,7 @@ export const data = [
       "year": 1991,
       "trailer": "https:\/\/www.youtube.com\/embed\/o6lfVEKUkCk",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1"
      },
      {
@@ -553,6 +565,7 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/I-WZYQ6nABA",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg"
      },
      {
@@ -564,6 +577,7 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/mVa67mLsPgQ",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0"
      },
      {
@@ -575,6 +589,7 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg"
      },
      {
@@ -586,6 +601,7 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/lWBkV2HoH5w",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg"
      },
      {
@@ -597,6 +613,7 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/5dTuL8clUHs",
       "clasification": "movie",
+      "gender": "none",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg"
      },
      {
@@ -608,6 +625,7 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/wxqSIsxMlYQ",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0"
      },
      {
@@ -893,6 +911,7 @@ export const data = [
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/embed\/x0RgGZthUig",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg"
      },
      {
@@ -980,7 +999,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/021-tHmxjEY",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1"
      },
      {
@@ -992,7 +1011,7 @@ export const data = [
       "year": 1973,
       "trailer": "https:\/\/www.youtube.com\/embed\/RvpP6I11vDk",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
       "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine."
      },
@@ -1005,7 +1024,7 @@ export const data = [
       "year": 1977,
       "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
       "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas."
      },
@@ -1018,7 +1037,7 @@ export const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg"
      },
      {
@@ -1027,6 +1046,7 @@ export const data = [
       "optional_title": "The Exsorcist Director's Cut",
       "year": 2000,
       "clasification": "movie",
+      "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0"
      },
      {
@@ -1038,7 +1058,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0"
      },
      {
@@ -1085,6 +1105,7 @@ export const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12445",
       "year": 2009,
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1"
      },
      {
@@ -1182,6 +1203,7 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/kxZb5GsqVSo",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg"
      },
      {
@@ -1193,6 +1215,7 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/BrDomaqytuQ",
       "clasification": "movie",
+      "gender": "found_footage",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg"
      },
      {
@@ -1204,6 +1227,7 @@ export const data = [
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/embed\/5U-xXjy8Xfw",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg"
      },
      {
@@ -1270,6 +1294,7 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/vNKqNBey9MQ",
       "clasification": "movie",
+      "gender": "found_footage",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg"
      },
      {
@@ -1281,6 +1306,7 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/1H19QzPfdqA",
       "clasification": "movie",
+      "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0"
      },
      {
@@ -1292,6 +1318,7 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/ZfoFdlI8dtw",
       "clasification": "movie",
+      "gender": "aliens",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27144_67.jpg"
      },
      {
@@ -1473,6 +1500,7 @@ export const data = [
       "year": 1984,
       "trailer": "https:\/\/www.youtube.com\/embed\/AUOTJn75I0E",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_646_58.jpg"
      },
      {
@@ -1484,6 +1512,7 @@ export const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/uyKVnEt4eS4",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/2.bp.blogspot.com\/-9YXw1EN1BLU\/XtakKzhg-fI\/AAAAAAAA3_c\/dBeo74FCF8oQxtOgAYnznUJnZK_sKgzFgCPcBGAsYHg\/w500\/wLpckmLTOh6qsESAikxN1rX6dq7.jpg"
      },
      {
@@ -1540,6 +1569,7 @@ export const data = [
       "web_calification": 6.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10035",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/qGK-9-ZKr2Q",
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg"
@@ -1631,6 +1661,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/8GYVM8-tOSs",
       "clasification": "movie",
+      "gender": "terror_psicologico",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/yXAjO0Lj3ZF9qsbsZk6fZzEjTCh.jpg"
      },
      {
@@ -1685,6 +1716,7 @@ export const data = [
       "web_calification": 5.73,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9592",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/I50jQDlPKiA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg"
      },
@@ -1739,6 +1771,7 @@ export const data = [
       "web_calification": 7.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=35423",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/WtgLFVjWnmA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg"
      },
@@ -1751,6 +1784,7 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/ucbYBsmmBTk",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30672_19.jpg"
      },
      {
@@ -1916,6 +1950,7 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/dkQSCxC7xC0",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/9500\/9551\/001_m.jpg"
      },
      {
@@ -2014,6 +2049,7 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/S2CFb2T8so4",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg"
      },
      {
@@ -2025,6 +2061,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/NbHRP43ocWQ",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg"
      },
      {
@@ -2094,6 +2131,7 @@ export const data = [
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/embed\/QLK0wXXayhs",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg"
      },
      {
@@ -2103,7 +2141,7 @@ export const data = [
       "web_calification": 5.6,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9517",
       "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=ulfj7hyGdck",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ulfj7hyGdck",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg"
      },
@@ -2114,7 +2152,7 @@ export const data = [
       "web_calification": 6.35,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=275",
       "year": 1986,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=HgIgYhaqKeo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/HgIgYhaqKeo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_275_74.jpg"
      },
@@ -2179,7 +2217,7 @@ export const data = [
       "web_calification": 6.46,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=34395",
       "year": 2019,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=jFdiGLktDME&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/jFdiGLktDME",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34395_100.jpg"
      },
@@ -2190,7 +2228,7 @@ export const data = [
       "web_calification": 6.62,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30819",
       "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=6LiKKFZyhRU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/6LiKKFZyhRU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30819_29.jpg"
      },
@@ -2201,6 +2239,7 @@ export const data = [
       "web_calification": 6.44,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4479 ",
       "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/UYfy8pYXXko",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.c5cd42a41fdbadc0d736f0c904825e91?rik=2V%2f667hZb89dgQ&pid=ImgRaw&r=0"
      },
@@ -2211,8 +2250,9 @@ export const data = [
       "web_calification": 7.05,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11766 ",
       "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=nbLk_gI5Vdw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/nbLk_gI5Vdw",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/3900\/3917\/002_m.jpg"
      },
      {
@@ -2222,6 +2262,7 @@ export const data = [
       "web_calification": 7.84,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=141",
       "year": 2001,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vON5kiGf1TI",
       "clasification": "movie",
       "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png"
      },
@@ -2234,6 +2275,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/WgtaQZr6YiM",
       "clasification": "movie",
+      "gender": "gore",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
      },
      {
@@ -2243,6 +2285,7 @@ export const data = [
       "web_calification": 6.59,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=3428 ",
       "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/JXeyML5OWys",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg"
      },
@@ -2253,6 +2296,7 @@ export const data = [
       "web_calification": 5.91,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=94 ",
       "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/eRs1V0rTmTU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_94_48.jpg"
      },
@@ -2296,6 +2340,7 @@ export const data = [
       "web_calification": 6.65,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11962 ",
       "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pf0fBSnj3RY",
       "clasification": "movie",
       "cover": "https:\/\/img.moviesrankings.com\/t\/p\/w1280\/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg"
      },
@@ -2306,6 +2351,7 @@ export const data = [
       "web_calification": 7.52,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3862",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/q99hib0zS2M",
       "clasification": "serie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg"
      },
@@ -2316,7 +2362,7 @@ export const data = [
       "web_calification": 5.64,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38843",
       "year": 2019,
-      "trailer": "https:\/\/youtu.be\/u_O9OEC_1gQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/u_O9OEC_1gQ",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/2139c968ef85156d2a6ef5df9c8c39eac61164ee9c3339017a42f103b6da4dd9._RI_TTW_.jpg"
      },
@@ -2327,7 +2373,9 @@ export const data = [
       "web_calification": 7.44,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3841",
       "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/jmrfoOyoswE",
       "clasification": "serie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3841_93.jpg"
      },
      {
@@ -2348,6 +2396,7 @@ export const data = [
       "web_calification": 6.38,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=136",
       "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/hVP6sBN07L8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_136_76.jpg"
      },
@@ -2358,6 +2407,7 @@ export const data = [
       "web_calification": 5.35,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=40686",
       "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vUuI1KXSmJI",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_40686_83.jpg"
@@ -2368,7 +2418,7 @@ export const data = [
       "web_calification": 4.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29254",
       "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=tuLJrNqhlPc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/tuLJrNqhlPc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29254_17.jpg"
      },
@@ -2379,7 +2429,7 @@ export const data = [
       "web_calification": 4.51,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19860",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/nwLfy8Akw3c",
+      "trailer": "https:\/\/www.youtube.com\/embed\/nwLfy8Akw3c",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19860_93.jpg"
      },
@@ -2390,7 +2440,7 @@ export const data = [
       "web_calification": 6.73,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22215",
       "year": 2014,
-      "trailer": "https:\/\/youtu.be\/PaN0PV85URA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/PaN0PV85URA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22215_74.jpg"
      },
@@ -2400,8 +2450,9 @@ export const data = [
       "web_calification": 5.27,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=17042",
       "year": 2014,
-      "trailer": "https:\/\/youtu.be\/YopomjfMIEg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/YopomjfMIEg",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17042_64.jpg"
      },
      {
@@ -2411,10 +2462,11 @@ export const data = [
       "web_calification": 6.24,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=9408",
       "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=bZiLIldN_NE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/bZiLIldN_NE",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg",
+      "sinopsis": "“Paranormal Activity” is a 2007 American supernatural horror film produced, written, directed, photographed and edited by Oren Peli. It centers on a young couple (Katie Featherston and Micah Sloat) who are haunted by a supernatural presence inside their home. They then set up a camera to document what is haunting them. The movie was made on a budget of $15,000 and grossed over $193 million worldwide .The film was shot over the course of seven days in Oren Peli’s own house. The film was initially screened at the Screamfest Film Festival in 2007 and was released in the United States on September 25, 2009. The film was praised for its realistic portrayal of supernatural events and its use of found footage. The film has spawned several sequels and spin-offs."
      },
      {
       "id": 214,
@@ -2431,6 +2483,7 @@ export const data = [
       "web_calification": 6.08,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12881",
       "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/NPN4-OIGds8",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/7673270068f2d30557cd97936f77d590f746e3b49afdb1a9b3821ddf6f095bcc._RI_TTW_.jpg"
@@ -2500,7 +2553,7 @@ export const data = [
       "web_calification": 6.22,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2396",
       "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=a9zfBcp6AxA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/a9zfBcp6AxA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/xwzdR3KecnAUtZSPNCfuRq2q4j5.jpg"
      },
@@ -2511,7 +2564,7 @@ export const data = [
       "web_calification": 6.37,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=13",
       "year": 1994,
-      "trailer": "https:\/\/youtu.be\/mhkK4GOW92M",
+      "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg"
      },
@@ -2522,7 +2575,7 @@ export const data = [
       "web_calification": 8.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=7",
       "year": 1984,
-      "trailer": "https:\/\/youtu.be\/lNa_xB20YhA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/lNa_xB20YhA",
       "clasification": "movie",
       "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg"
      },
@@ -2533,7 +2586,7 @@ export const data = [
       "web_calification": 6.62,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=6713",
       "year": 2010,
-      "trailer": "https:\/\/youtu.be\/v1iXrlFV4Ls",
+      "trailer": "https:\/\/www.youtube.com\/embed\/v1iXrlFV4Ls",
       "clasification": "movie",
       "cover": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSExMVFhUXFRYYFhUYFRgaGBgYFhcXFhgYFxcYHSggGBolGxgXIjEhJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIARIAuAMBIgACEQEDEQH\/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj\/xABCEAABAwIEBAMFBgUCAwkAAAABAAIRAyEEEjFBBSJRYQYTcTKBkaGxQlJiwdHwBxQjcuGSojOC8RUkQ1Nzg7LC0v\/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIEBf\/EADARAAEEAQIDBwQCAwEBAAAAAAEAAgMRIRIxIkFhBBNRcYGR8DKhscHR4SNC8WIU\/9oADAMBAAIRAxEAPwDx3C1RK2P56I3Np\/6rmmuhWqFYkgbzbb57JL47NrbFOKo7rsqFSRfpfp3WJxPirZLaV+ryJHo0H\/5H4brPxmOJHltPL9o\/fP8A+eg957Z2ZUjgrJRJ2jk355fynVHkkkkknUnUrqfAGEFStVds2lp3Lm\/oVy1KmXGAJJXo3g\/hZwtGpUqGHVMojoBMe8k\/JR2x4bEReTsjsUbjKHVgfwsLxFw4BxI7rBeyPVdNxfEBziubxlQSohLiACtfaA1vEoHhSOxcMcxos6JPoZhVC5RrTp8VzTKRYbzU9B8E+kJGqFOlTSoH4AU7fVTUnXsqYcpqVRVITo5Ba0qhkJzGR6pmGqAtj9+5SUyTayQbC6bSDRXbeE60R8\/osz+IdBjsSHTDjSZaNSJGvWAFBwfiQpNk+6+pWTxzHGs4vdqfkskcThMXck+RzXR0Vl1cOdgY6ptKlF0udw3sreH5+h6zJ+S3kkBc5rWOdjBVvh1eZHTVN4zWccrzPMCHT95v1sW\/NW8JSOhHwFkniWmBhmxtV19Wun6BZ2kd4Oq1y2IifDK5iq+ShRIW4YXDcbNlItHCsAo1Kh1ltNvq6S4\/6Wx\/zLOWlheajUZN2ltQDqBLXR6BwPoCqv29laPf0P4WeBK0OH8MfVcGtb++6TBmmINRxIn2QL\/FbVPxLTpCKVH3uP5Jcj37MFrTDHEOKR3otzg\/D6eHuYc7YxuLwFDxHjRuDv8AqucxPies7QNb6D9VnPxr3mXXPXdZm9mcTqeth7ZEBTPwtLG17kz1WLUfKkq1CVXK2MbQWDtE2s0kQhCusyEIQhCE4FNQhCs0K5BVhtadFQCmp1cuio5q0RSkYJwtIVbDWVDVqSq382eib55PRUDCtLu1Mqgr9NjTqhtGLtN+yqeY7\/CcTpdRpKuJGu5fpbGG4vlEVBf70k\/JReJMTy06W96jhuM4AY07g5RmjbOq4eKJD3tDniS2m4WEjle+\/eQ3te2uXWque4ucSXEkknUk3JKGRDVqCV2jtBLdH\/fVQoQhPWBPLVPhMQ6m9r2mC0yP0PUHQjoVJVpQSoC1VDrT3RFpwrGNpD22ew7QfdOpYe426hUVZoV8sjVp9pux\/QjYpa9EDmaZb8COxHVSFRwvIVVOBTmsJ2\/YUalU2T8yYUIQglIhCEKEIQhCEIQhCEJUIQhKlalY0kwNSrmHoN1eeUdN+1vyUEq7W2oqNyABJmwGp7K55zaJkQaw3gFtPUEQfad8hG6r1MVB\/pjJ3HtdNdlQUab3VzIRgKR7iSSSSTck7lRoQrJKUITmoQpAtaWMdc7XWeXKxWcq7gEtgoLXO7OEk2VvAG\/1GoPYjcKkFcwOoUv+lKiy5bTmWbyghoAgWMTpI1tI6+qx8TQbmJbOUm06jsfRbocLd1q0+DNqxa53Fj\/nfVZ2yUtTmBy4ephyBKhLF6FS8LVfM8pjW1A4wM\/LcjqLE9NLlc7xLw\/VovdTqAU3tIGV7mgmdMrpynrqmtkBSXQjcLni1MVzE0S0wR7iq5YmgpDmEFRpU4NRCFSk1CdCt4XB55JexgG7yb+gaCT8Nwi1ICpKRtJxiAbmBbU9B1Kt0cAXGJnXQHbT0n49l6T4Y4LSZRDuVlQU3mrnJJDXFuUyfZ00EDnSpJmsCfF2Zz+i41vhetTpGpXBp3AbTjmdaTm+6ACLaydlmVcKTrYbDp6L1XxHh31PaaA7IwODfZDsozR2mfguMx2ByAzqElszjkrQYWDAXNnCAAlUH6rZrG0LHqap8ZJ3SJ2gAUo0IQmrKnNKE1CFNlTvMpmVSvbGiQP3VR0TnDPEoi0qbDGCo3nqntMEKTkKjOF1rosK3MQu04C5oAI13XB4SroGkTYDout4FhnEgNBJJ0Ek29FhcKW8ZXpHCaQcGuESCCDGsGVxv8TqBbVLnA5KvLBFs7JNjsYIPvPS\/Y4GsMPSLqzoyCS0XPXQbrlPF\/E2Ymk1xa5tOtTNUSIJ8t+RxbNiWyHSNROqW02bCY1jm5Oy8n4jhyw29km0\/Q94IWeXLuzwzzsG8wA6g1r5iM9PPAeD3ZUHrkXDVWwSOhIW+N1rD2huk2FcxDHMazMxoJmNZgwRN1f8N4M1qoGVsNBJ2mNr6kkhU8djTWYyfaYA0jqBMH5wr3hXHjDufWdOVo9mfbd9lvxuT0HdQ69J8VDa1jwScSwGJY4MeSGFhe2ZgtAN+x2WSCQMxuZtN+83W74g8UPxWUZYAa4RqefLLRvHL8ysV7HCBB1O2sWCluquJS7TfDn5+lHhqpDpGs6916f4PyGi6hWeM1Sm+pUfmEsAEgQdAA3Sw5yvOGABpMCTZvaNT3\/yvRPAvgt+Lw9dxqmk4shnLm9pwLs+8HJEC8JM41LRBwA38tdfxCoypTbUpmWumD1XEcfpSnnF4rAZKNekH025swaZEWgsIAc066zqZUrHUsbAw1X+oZ\/pVOV3oHDlP1WcYF79Vrkizwe3NcTjmRPUWWE\/VdBx2m+m806jHMeNWuEH1HUd1gvC2RbZXO7RyCiQnQmpyyIQhCEK21smEtSllTwz9+q1uDeGMVi3f0qTiLy+IbaftG02hJLwMk0Ft09MrDZTn6\/qtfhnAK1Yg06T3C3siddJ6e9eicG\/h3Qw48zGVwSbeWHBrZ1jPvYbbLWPirDUmZMI0BoBMNGVkNgvLjvAMdyVmf2vViMX15K7IK3WDwH+HEZXYqoGAwTTZd\/tWBd7LZt1W9xfi1HAgUqDGtlrjIyl7hMRmc7N8j7lz1TxA41HOec33ae1wHiQbGCAO5lcF4i4jVrVXF+gmADIAknXcm5J6qrI3yO4ynh7Yhqq\/Bd1juMnEYeqGBzZBGZzgXuDRPQMpsiLxfTusXDcXqY\/DuwtU\/1KDGvw0ACG02ZKlP0c3KfUd1y2ArlnPJgT6TFvVWsJiTRcagAiox9N4jRrwAY73F\/VPEWmwPRTJN3jWv8AfyPP38PNdl4F41mo4jC1QIGFqNLnaxTzvA0mBmcNfsjuvP8AimDNKo6mQ4ERIcIIkA3G2v0W9heJ5C3FNAc4TTrj70g5Xmd3NkTuWk6lHi7Cvcf5h2pLWG4OfIwNFUQbAho13E7qzOF56rHKNTK5rlgChwKcG90sDckp9rPpx\/a2PD2EBzExpYXzDoQdBve+mij4hhnPe3eRoBYNEAR2+qkbXhpyjoH9OzY1vFzsPVXTWNRpAEQMszFyJN9IEfmkEm7WtrG6dPwrV8McFaQKtQHke2BaNTEg9JJ9QvauCVGYd1WWhrA4AnQQRMnoNvcV51wLDUnMafMGVwe5roIDgxzQSAegmB+S2MH4hp1WYihiKjTTvSD5ExkAIJG4PznosT5Ha9XgtTmBzaR49oZWmrmbbmZ+xYrz3w5g2PxgeCACQ4DQTMk9rjruouN8YqMaKHmebRAyhzHE2acpudJtOyq4Y+WWupOu4Sxx9l0G7Z2MD1+avHEWtPVa4XN1C92198fdem+J\/wCVrQ3EANkWcWTcieWq32TF4OvvXHcU\/hdiMnm4WozENMmAcrgIkATZ3xWXU4055yguouzWnmpwZsRFmgaRYX6ruODeKxTBp5mOqMAblEg5nOGfKNCALwPuqOOKqVO0RxvZgjHzz9wF47jMI+m4sqMcxw1a4EEe4quQvfeK8Y4fjaUYpjCCKZaZ5xngAtcL7u\/0lcdxb+GILnHB4gP0LadSzogEjPodRFloZ2th+rC5T+zO5BeZQkW3xrw3icKf61MtvEgEg2BkOAgjX4FC1AgiwsxYWmiF6bwbwrg8EGvruFatIkT\/AE2yCdIvoe6zuL\/xCLeSiMrSPZaA0DS3vMrG41xWpULiXMII0Eahp6DWJ9zh1XKYp0ku3N9Ov7PwXNi7PrOqU2V1pJAwUxbmO8T1qwh7y7mzDsbN6a21Wc7GRbQzrqYIJMev5rIe5IHFbWxtGyyOnK1ziJ5iSYAAGlpNu0KQY1zQ7LHObkta49bSLLG8w6fvVT03Ezce9BarNk1YpFWo7QkmIgbDpZNZXjMHfai3pe6TEmDZV3ukq4ApLkeWu3z8C0MPiRTz7ktgaQdJzAi9p+K1MdxgVsG2n9qm64JMhsWLZMEfZO9mdFzTwQbpso0A5SzMRYpSZkgTJRKslarWphi0MBvmBP0EW+KMbjZaKNP2ZJc77xMf7RA+CzjVJETbontxDgCBYHWLKunNpplBGn55Lo8J4ldSIpgB9NgysnlgaE951jqoMTi2xUguyvcTBi0uJ1HRxHulYeY73CmaY1u069kvu2haI5zvXr4X+lZOIIplrohwAB6QZ23soWOIbljM0mQOh\/VKIYY9pp0+sJrKg0AiR177K3krEkkWc1XifK9iDfykGsRYOM79p\/NS4F1Y1WPbLnUyC0kbAyNVXc4S4Ge3xvPzV3A8QFOJaCJM9XA6Qdo\/ModYB0hKsOcNTsDwO3zdPqPe1zqpNyTnaLNbOmWLQF03hri9QkukS24zH7RcLzsfrp0XH47iJe7l5WkRlHrurWBxNi2TeD8I3F9YMTslvjLmcSdG9veVHt+V6zgfE4cMj8rpDhBkgwbWINon0QvMX1XCHNJmXHT89Z0SLEeyX9JWsy6cOas\/FY+dB8h1\/wAKnUqkhLUYoaq6TQFzppHm7KC5NlMQr0suopxKeKijQhQCQnlyakQhF2llNQhSqpEJUIQnM1T2PAPZRJwCgqzSRsnCoUrXfvugH6oJsOt0K3qlfU6Wv9EjT6zKeyMp6i6GVNLDf9\/vqoU1kElTnHOPtNadLlo0AgbKvlT3s0AcCCfSD3SuBtO+9vTZRjkm24\/Vn2\/SgIhSUql02p0TGBTulWQ7C0WVpt8UKHD3QlmgugwucL3SvfmVetZK2qo6j5V2iisksgc3qo0IQrrMhCVIhCEspEIRaEISIUJwCCEApSUKcUhEoASuaoRRSKTIYnZRypmVrEXugpjdN8SawwbDUEfJLRFwm9I6fNWAJt8Le79VBKlgs5TsSQ7LFiLHvpH5qEDZDZ2\/eyYSoATHPs6uZTXulIEZkkqyQTat4UXA7oUNIoSy3K2xSNDchQlIlToTLWCk1CUhIEKapIhCWFKikiE6E1CCEIV3C4FzyJLWD7zzHwGp9wW3R4fhaYk08TiXdmGnT+UuPxCqXAbqwYSuaaJsLnYK3guGVqri2nSe9waXFrWknKIBMepHxXQh2Lj+nhBRZ0ZTDXFukFzud1idSouB+JcRw5xFNhph0Zg9nM6NJLhpc2FlUPsY\/IVjHpOfwQslvBawGZ9M02zGer\/TbPQZ4zHsJKtv8L4iM1MMxDetCo2qR6sYc497VX49xX+YquqxlzAEtkkZhrlknKOwsqFN7mwRIi4I\/Iq2VGLSOYQSCIIMEGxB0IITFvUfFlYgNr5cQ0aCuxtUj0e7nb\/yuCa2tg6vtUqmHd96k7zGevlVTm+FRRatXhlYc3lS06nff6LWd4eLr4etSr\/hzeXU6\/8ADqxmPZhcsqvh303ZKjHMdu1zS0\/A3U4KjLTnCRpvHuTXfL9hNJ+aQ6KUWmEpEiFKUrVATAjUoWjwnDANNV3sNnNb7s2+bdOqEpz6NBdGGMaAXEBY4TolMldLwzhNNuHOJxAOWTkaHR5hiwsJAmTP\/VWe8NFlZoYnSnS3lkk7AdVzzwpaeCqG4Y6ImYgfE2V7hVHz8TTpt\/p5qjQHNJlt7EHr0PVdJxarQo1HUxh3VACP6kuqRYZol0Z5vPoFUvIwFPdhxJvC4w4RwMHKPVzfyKlp4VmrqgHoCf0V7E8Xpmww7Rbf9Iv\/AJKz62IaRAYBpEfOeqsC47ilFRjnfupMlIXzFw72kxsBNverHD8dQp8xpZ3BvKCeXN1dufSwWOVNQwz3+wxzvRpP0UloO6WJCNgtN\/iKubNcGDpTaGD\/AGhUa\/EKrzLqjye7ifzTm8LrH7BHrA+qkHDCPaexvvk\/p81UCMZFK\/8Amd4\/hQ0sfUaIDj8fyWpQ8V4hoAkOERDrg+oNlU\/7Ppf+ePWBHwmUyphKI0rz\/wC2f1UERu3H2Ujvm8\/uFrv8Q4Z7YqYGkXblhNOf9MFXuC8J4fiwWMrVsPVJ5WvLalOToLNDvn8Vy7qFEf8AjE+lM\/mQuu8GcHwdWswjEva8EECA24S3gMbYJHv+1dmp5pwHpV\/Zc\/xvw5icI7\/vFJwbNni7HCdWu0v0MFZQeL8vzIIX0Njg5rfLqNLmb8stcCNRHsx1iF4d4ow7G4p7aZDm9Wtyj0jYxGiIZ9ZohRJDoGoG1QpVWjQkdj+o\/RdLwrjLyzy3htWmNGOaKjR6NM5fUQVz+KwVgWySBBH0KoNcQZEgjfdM0h2UOc+I6XhdwzgOExA\/pk4d\/YmpSPYtcc7fXM70WFxvw3iMMQajJYTaqzmpmfxag9nAFR8P49UYYcBUH4pDvc8X+Mhem+DvElMlradQybHD1i2HdmuPK4fApb3vjychWaxkn0ryB+GIEwq4C9k\/iB4eZiefDMFOsLuoxAf\/AGdHdt9uh8mw+GJqhhBBzQQbEEG4PRXilDwSlSxU4AblXMbXyUadIWzDM+N5Jyj4X+CFW4u+az40Byj0aMv5JExgwqzO1PPTA9Plq1wzBg88ZiGlzad+aD6aala\/HHnEUqYY7lpN5gGwwXuQYuQSR7llUM1EF5Bu3LtBzSC2ZtYaCVfp4iKJY1rmsMDXYEumd7uj\/okPu9Xsuh2cNruzixne+h9fasUszgeKFKsx5AOV030keyTa4DoMdl1dPxEarMkMHMHOqZ4kkA5TrclpI9npc3PFVuVxPw\/VVy0phYHZKyd4Y+HzXQ8WoYd1Qhrso7FrjIiSCDBbM77Fc85sbpiRXa2hSTJJrN0p6VQDYTseinPEakQHEDoLKin5D0UkA7qGvcMBTvxtQ2L3Ef3FQSVIynOpAVii2m3WHepsosDZXDHP3PufhVSnTJMAEnoBKnOAqjWlU\/0O\/RWDxCJyAN\/tt9IUlHjlVohp95mVBLuQ91Ijj5u9gs3ynfdPwK0uDU67KjXsYbEG4gH3myhqcWrH7ZHoohi3TLnF2mt\/qg6iKofPZDe7Drs\/YfyvUj4te1oc9wGVnsZg4axoLgWNwV5tUxpq4g1XAcxvGg2nTRR4vFuq2EwNlTktNjHolRQht+JTZZjYI2BXQPLcxyuA5jIm2p+0dDHSQbKLH8PzGQMrobM2uZiRFjbax2Kz8BicgeD7L25TAE6g2n3\/ALgi7Tr52k7TB3LBqbTzN\/D6m21i0g4VmzNeNLvb5sso0XN1CXz4XSYek2qA115mYNxm0eJ9pvzHRc\/j8A+k4tcNDr1GxClrw40d0TQOhaHMNg\/ZbfCfGNenDKv9akLBrjzt\/sqaj0Mjst+t5ONcMRRdmrtEwQBUfAsyq3RzhtUFjoYtHEVqDfLa8SDmIg72nMP0vqEuHe6nTL2ktcXAAgkEb2IVHRNOW4O3\/UQve1\/FkAavHbIr15KOlTEl1SYk23Lp0SqLFYp9Rxe8y4mSep623QnFpOUls4YKa0HqRZK3MVVD2NYWwGGXPLibv\/D7IMWt0vNor8SrtyiI6QLQ0E29Tqo6lQNlhi0e7qTOp\/fQqlicTmi1hMJQZkLXJKGtcOZ9\/gTq+JDmhsaE3321+CrZyJE66\/VMcklOApc97y42d0iFo4CvTDS2oyZNiAJAcC1xk7ixA6hPqVqLhoGksOjdH+YHbDTJI\/RSqLMBTpWp51DMTALczS0ZL+XJzMN\/aiIPbUSlpVcNyy10jJmkSDDXAx6ktOn2UKVkSlBV7C1qQzZ2yM7SIF8snMAbRaOnuT6damHsloLcpbUhusl3M0bENLelx8RQs7MkWqa9E6tuR92MrjTeHE9RnLXCNAPcWYmtRNOGth+aZjbSNff7kKVnAJVsfzdAzyRr9nl9khpG4vEjS07wKmJrUiwZGEPhsnbQZova7f8AcUIwoKeIjQfv0SOqZjzH99lo1MThyHckHm0Ag8pDSN2mYkaWneANr4fNJaS2RAyxA8wGO5ySD16qKCsXuOCsl7tB0T6NYtMtMFX216EDM37JFhBzZyQZ\/tDW\/wDMTqntrYYOnKSA55iNWuDsovplIZ8ShVUdLGw4GSRc9w43Nx3lXcbixWp8xAI0A63t6LNxZplrcmoDp5Yk5zGunKRudPearHwqGMXa0M7QQ3SdlrVWmo1jBENmG6QCTO97xeyTF4FwpkNgtZzOvzXIEkdBOqzW13A6\/Ndj4LY3EPq03nmfRewdbtjft+SXI4xt1chn590+KpSWjc4+ewXDoV\/G8LqUiczTAMZhBHvjQ9ihPBB2KwljhghR4qtmcYBDdhvHfqVUKCkUgUhzi42UJ0bpFaq4iWBkaez2P2p9fyQgAEGzy+fPGvMWsZgQGZ2GQAzON2FwF+7STZQ4em00qriLtyZTJ3MFWcViH0a+YcpyU7HQjy2SD1EKStSYaVWrSs12QFm7DmG+7SlAkAXzpdWSGN0shYAC3vNTT0a4Bzb9CW\/6nI4do3YIOZhxTbD6uaTfZ5H0uq9SpSaSGsDwPtOLhm7gNIyhaVOv5TcFUIMN82e4LyDHucs\/HcOfTcYGdk8r23BHqN0NOc9fyf6UTRERh8bRfBq4boGNhBqiOJxdZrcAWLogNNxZFOJMObmcRciI367pnFKbW1ajGiAHkC\/QxuruIpx\/LckOIJdDYLucx\/thR8XxdVteqA+o0Z3QJItKGmzjwPM+PqiaFrYHGTB1MyGjnHdVgDr1zSTEtY1tBxZOZri4ZzzEOLRvyiyKbaZovqeU2WvYAMz4ObNP2uyOLyaeHLsxOV8k7850Kbhmn+Urf+pS\/wDugfSD1\/asQ0docwNFd2XZa3fuQ68g1nPn5p+Aw9OrUjL5bch3J5tGm+2YhZr6ZBLSLgwR30VzAtPlV3DTy2g++o39FfqVGua3FkDMBlc371UWa6OmWHe4oLtJ6bev9qg7OyaFvJ2Xk0K0ai00AAODSCBzt3NUeK4MUvLAkks5\/wC4OcC33ae5LhsBmoud9uC5rfwMs8\/P\/Y5T4nDOfQomLg1BfUlz5H1KmfW8mq0eW2GCJ5pcy7XmCYMku23UajVA5z9j+0\/\/AOWPvjJIzTGQzxxrYLN5y3i3xqrmqHBqLX1A1wkFrzqR7LHO29ElGi19J7gMrqeU6mCCcu+hV\/A4N1LGZMpgebHcGm8g\/AqDDRWZ5QAZUmWgWFTsZ3F49SguG42wfylR9mqPu3ga7lbVZJDWUAa5OJI8duahoU2eQ+oWyWvYNSPaDjt6KpWeCZaMo6TN4vr3WphW1G4epAcD51Pa\/sv2VHHNqF2Z4MkC5EacoMbaKzTk55\/oJPaYdMMZA\/1BPCB\/s4WXb3gCqrqqS6bwHiS3F0x1kfELmFseFq2TFUnX9sC2t0TC43DoVn7G7TOw9R911HFMJU8t+Ja3mbUyVWkEhw2OX4A\/HdIncC4011erRqQaVVxDs2kXHqDp8ELAZDHhzb\/j+l0HjU4lrsZ\/K8+QlQumuMkTgU1CEKSo8nUkqenhyY2zTAnWP89VUVlmJIA0toYuJ6KFdpaTx\/Pg+9crUlai8AybCN5Bm1ldxjDTEsa8AspnOHOiXNaTPxcFnOxJII2JmO\/borOOrMecwc7\/AIbGxGpY1rdZ05ZVc2LWtj4xG8t+rFWRY+oGj4fTdUUcS5KnLPs03STJ5mNcb+9HFMNlDHAyHNE9nQC5p73B96MZVpvObO72WCMu7GNb10spzxFuapYlhIcwdHMHKSNxEgqBeCnyCF75Q5wALuE3dfUdgdjgHzB5KvjaRaGSSZBzDo5pPL7hCkotApZ4zcxDhmIyiBlMDrzX7KB9YOpNBJzNc\/3h0HXrMp+DqMa5j5Mg3Zlme09wjNJQezvcUAQNyOGwLObsjNjnmqO0uEDHCocrgGMzRn1Jc1txHdR0mMLajsp5QyBmOpIBumYKq0CpNszIEDfM0\/CyMLiA1lVskFwZBHZ0mVObNdP0o7xjms1V9L7w3fj08h\/5ryBV1t69JgqPyP8ALkZrtzRae0qGhRzVaTHte2XAXJmCYtOibSxjPNp1TILXNLoGuXcdyoMLUaHsJc7KD9kXjtfVVo0fL+VoM8bntsggyXvjTwb3ZA+rwrO6mfWyjmY8axzkdOyMaxjHZQ0zlYQ7Nu5rXfmqlYNgZXE67RCl4jVa58tNsrBcR7LQ38lashZDL\/icDV22vpOKddECt6TaeKINy4j+4odiXGRmMbSSVUQrUFn759VaFc4aD5tOJnOIjXXZU1JS1HqEEWCFEZ0uB8CPyrrcQ+niC4Eh7Xm+8glIouIOmq89TKFTQ1wBITjIY3OaDzP5VVIhCYsycwSQFa\/k\/wAY\/fvU+JoNpOGV7XS3fb\/SoxiT+G\/qoUp9BobLZad5PfZTCPwbBVX4wx9nXvspP5jqWz8tEITjTafuJAQ2Jy3t9f1UP84QTZpv7rCPgn0cUN4BPa2289kIU+YfhufzA\/ymeS38H7Cc14gc7LD97pPN0GZmn021QhJRqAj7M+nonkj8Oh\/RBqD77Nen+Uhqg3zM1+luqEJHvDbnLdK0ASCW3Jv6pr64H2mm+w7a69vmkc8OA52t30HfuhCktb2P2N0xu\/s9Nv2E7zBcZ26x9DOvc\/BVm4lxEWHfe3vQhWC4X9n9yiq+1g0mewUDarhq4H1j9U52IOvL+\/ehCWqzPE5W6qMYIffH796VuKJMw0H3pRiT+H5oRhUnC6atKiGVCS8gQLQYG86hUKkSY0m3opUJ9Z0mewQo5QhWJs2moQhCqhCEIQhCEIQhCEIQrWDa01GioYaXDMe03K0KuHoiq1rnNY3LLwHF7Q6\/KHtzaiL3jMeixUKpFrRHO1jaLAcg56cvLHiOd3ir2LogPqZSC1ryBzaiTETciBqtGvh6Pm0wMgBpuLmh8jzA1+UF+YwC4N3FjeFgIRp6qWTsaSSwGyD5UboY2Iwei0cdRaHuyEZQGH2gbkCQ0\/aAJPuCt06FE1QOWPKDgw1CGmpA5S8m153Giw0I09UNnaHF2gGzdepNDpmtiMZB2VvHNaKjgwy3Mcp6j81UQhSAkOOok1XRCEIUqqEIQhCEIQhCEIQhCVCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQv\/Z"
      },
@@ -2544,7 +2597,7 @@ export const data = [
       "web_calification": 6.6,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8",
       "year": 1985,
-      "trailer": "https:\/\/youtu.be\/0Sxkp1yqSmw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/0Sxkp1yqSmw",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8_35.jpg"
      },
@@ -2555,7 +2608,7 @@ export const data = [
       "web_calification": 7.73,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=9",
       "year": 1987,
-      "trailer": "https:\/\/youtu.be\/8KK3E1CiHQQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/8KK3E1CiHQQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg"
      },
@@ -2566,7 +2619,7 @@ export const data = [
       "web_calification": 7.25,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10",
       "year": 1988,
-      "trailer": "https:\/\/youtu.be\/QaMf3J0IU0U",
+      "trailer": "https:\/\/www.youtube.com\/embed\/QaMf3J0IU0U",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg"
      },
@@ -2577,7 +2630,7 @@ export const data = [
       "web_calification": 6.48,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=11",
       "year": 1989,
-      "trailer": "https:\/\/youtu.be\/nSIg5QgU4wQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/nSIg5QgU4wQ",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/86\/19\/81\/20420796.jpg"
      },
@@ -2588,9 +2641,10 @@ export const data = [
       "web_calification": 6.03,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=12",
       "year": 1991,
-      "trailer": "https:\/\/youtu.be\/gEhipllOnEE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/gEhipllOnEE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg",
+      "sinopsis": "“Freddy’s Dead: The Final Nightmare” is a 1991 American slasher film and the sixth film in the “A Nightmare on Elm Street” franchise. In this movie, dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood’s last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom. In part six of the “Nightmare on Elm Street” series, dream monster Freddy Krueger has finally killed all the children of his hometown, and seeks to escape its confines to hunt fresh prey. To this end, he recruits the aid of his (previously unmentioned) daughter"
      },
      {
       "id": 230,
@@ -2599,6 +2653,7 @@ export const data = [
       "web_calification": 6.16,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10009",
       "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/659RAdoAtfo",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg",
@@ -2611,7 +2666,7 @@ export const data = [
       "web_calification": 4.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=16798",
       "year": 2012,
-      "trailer": "https:\/\/youtu.be\/LRdw3dXU-Ys",
+      "trailer": "https:\/\/www.youtube.com\/embed\/LRdw3dXU-Ys",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.hluhTvNDQRUvXe8NK4QuCAHaK1?pid=ImgDet&rs=1"
      },
@@ -2630,7 +2685,7 @@ export const data = [
       "web_calification": 8,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25",
       "year": 1982,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=9eZgEKjYJqA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9eZgEKjYJqA",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg"
@@ -2641,7 +2696,7 @@ export const data = [
       "web_calification": 5.02,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=8482",
       "year": 2015,
-      "trailer": "https:\/\/youtu.be\/vJnvdIkreT4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/vJnvdIkreT4",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8482_32.jpg"
@@ -2653,6 +2708,7 @@ export const data = [
       "web_calification": 6.68,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=26",
       "year": 1986,
+      "trailer": "https:\/\/www.youtube.com\/embed\/IiQsU1kiOzk",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/qfnJ40Aa7Tpo27YV3y1b8bACIcU.jpg"
@@ -2663,6 +2719,7 @@ export const data = [
       "web_calification": 6.17,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27",
       "year": 1988,
+      "trailer": "https:\/\/www.youtube.com\/embed\/5s94UBTl_Vw",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7NP6Rdzvh9PQ8E2vtheRRC86Le4.jpg"
@@ -2674,6 +2731,7 @@ export const data = [
       "web_calification": 6.31,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2268",
       "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Jj5qzuWIhlo",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.FlxcOcLcU09azw7WCerxNAHaKc?pid=ImgDet&w=515&h=726&rs=1"
      },
@@ -2684,6 +2742,7 @@ export const data = [
       "web_calification": 5.28,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=6116",
       "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ebWyi7G4-Jw",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.sSuAN3PmJF432FUwMIXkqgHaLA?pid=ImgDet&rs=1"
      },
@@ -2694,9 +2753,11 @@ export const data = [
       "web_calification": 5.71,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8080",
       "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/lqU8FP99AG4",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg"
+      "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg",
+      "sinopsis": "“Quarantine” is a 2008 American horror movie directed by John Erick Dowdle. The movie is a remake of the 2007 Spanish horror movie “REC”. The movie follows a television reporter and her cameraman who are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers. The movie was filmed in Los Angeles, California. The reporter and cameraman are assigned to spend the night shift with a Los Angeles fire crew. After they arrive at the apartment building, they find that the residents have been infected with a virus that turns them into violent killers. The CDC has quarantined the building and cut off all communication with the outside world. The reporter and cameraman are trapped inside with the other residents and must fight for their lives as they try to escape."
      },
      {
       "id": 240,
@@ -2731,7 +2792,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/6SbhWWA7BLQ",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5749_31.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5749_31.jpg",
+      "sinopsis": "“REC” is a 2007 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie follows a television reporter, Ángela Vidal (Manuela Velasco), and her cameraman, Pablo (only his trainers are shown, Pablo Rosso), who cover the night shift in one of Barcelona’s local fire stations for the fictional documentary television series “Mientras ustedes duermen” (While You Sleep). When the firemen receive a distress call from a lady in a building, Ángela and Pablo go in the firefighter truck with the firemen Manu and Álex with Pablo recording each step. The movie was released on November 23, 2007"
      },
      {
       "id": 243,
@@ -2743,7 +2805,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/55NP2_ZD4dY",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg"
+      "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg",
+      "sinopsis": "“REC 2” is a 2009 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie is a sequel to the 2007 movie “REC”. The action continues from “REC”, with the medical officer and a SWAT team outfitted with video cameras sent into the sealed-off apartment to control the situation. The movie was written and directed by Jaume Balagueró and Paco Plaza, both of whom returned from the previous film"
      },
      {
       "id": 244,
@@ -2802,7 +2865,9 @@ export const data = [
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/embed\/Vm4Fw2QElA4",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg"
+      "gender": "paranormal",
+      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg",
+      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death."
      },
      {
       "id": 249,
@@ -2825,7 +2890,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/YE2iJrN7nwE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33164_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33164_93.jpg",
+      "sinopsis": "“Sam Was Here” is a 2016 horror thriller movie directed by Christophe Deroo. The movie tells the story of Sam, a door-to-door salesman who travels through the desert in search of clients. However, the area seems deserted and his wife won’t answer his phone calls. His only contact with the outside world is a local radio station. As he tries to find clients, he begins to experience strange occurrences and becomes increasingly paranoid. The movie was released on March 10, 2017"
      },
      {
       "id": 251,
@@ -2941,6 +3007,7 @@ export const data = [
       "web_calification": 6.06,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=16001",
       "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/uVhTHcYpwNQ",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg"
      },
@@ -2973,6 +3040,7 @@ export const data = [
       "web_calification": 4.65,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32423",
       "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RhgeNY24wZY",
       "clasification": "movie",
       "gender": "creepypasta",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg"
@@ -2995,7 +3063,7 @@ export const data = [
       "web_calification": 6.17,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5770",
       "year": 2008,
-      "trailer": "https:\/\/www.youtube.com\/watch?time_continue=134&v=0WUxlIg8tSc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/0WUxlIg8tSc",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMGQwYjhmZWItYTVkOC00NzgxLWE4NGMtYzFkYzk1YmViYjA0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_FMjpg_UX1000_.jpg"
      },
@@ -3029,6 +3097,7 @@ export const data = [
       "web_calification": 6.05,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6346",
       "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/7ggN4CX3EI4",
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-JVrTZuVGCXk\/WOlBvM67-VI\/AAAAAAAAEjo\/g9cp6ssHiNU7WktNF5UH8YphV5pPJL8ngCLcB\/s1600\/stir%2Bof%2Bechoes%2B2.jpg"
      },
@@ -3039,6 +3108,7 @@ export const data = [
       "web_calification": 8.12,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=2614",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/-RcPZdihrp4",
       "clasification": "serie",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg"
      },
@@ -3049,16 +3119,18 @@ export const data = [
       "web_calification": 4.96,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30886",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=w6bQji-tJrQ&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/w6bQji-tJrQ",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/17\/07\/20\/17\/05\/597209.jpg"
      },
      {
       "id": 271,
       "title": "Terrifier",
+      "optional_title": "Terrifier",
       "web_calification": 7.08,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30330",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/8Q6fAAvCdKs",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg"
      },
@@ -3069,7 +3141,7 @@ export const data = [
       "web_calification": 6.91,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38174",
       "year": 2022,
-      "trailer": "https:\/\/youtu.be\/JtIeafFBhgE",
+      "trailer": "https:\/\/www.youtube.com\/embed\/JtIeafFBhgE",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/22\/12\/27\/12\/24\/4448854.jpg"
      },
@@ -3080,7 +3152,7 @@ export const data = [
       "web_calification": 7.04,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2270",
       "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=HEujNGCGM-0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/HEujNGCGM-0",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/4D246dpe7yy2GvHI2IbpeqkUXry.jpg"
      },
@@ -3091,7 +3163,7 @@ export const data = [
       "web_calification": 6.64,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=25683",
       "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=juYvhcgleRI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/juYvhcgleRI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg"
      },
@@ -3102,7 +3174,7 @@ export const data = [
       "web_calification": 5.41,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=38136",
       "year": 2020,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=GmEudoOozUc&t=1s",
+      "trailer": "https:\/\/www.youtube.com\/embed\/GmEudoOozUc",
       "clasification": "movie",
       "cover": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/brahms-the-boy-ii-poster-1578477710.jpeg"
      },
@@ -3113,7 +3185,7 @@ export const data = [
       "web_calification": 7.46,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11235",
       "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=EdRoP4fj5-g#action=share",
+      "trailer": "https:\/\/www.youtube.com\/embed\/EdRoP4fj5-g",
       "clasification": "movie",
       "cover": "https:\/\/horrornews.net\/wp-content\/uploads\/2018\/12\/The-Cabin-in-the-Woods-2012-movie-Joss-Whedon-Drew-Goddard-5.jpg"
      },
@@ -3124,7 +3196,7 @@ export const data = [
       "web_calification": 6.21,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=2385",
       "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=-eCD5Nuoyi4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/-eCD5Nuoyi4",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMDY1NmVmOTItYWU0NC00OGU2LWIyNTctYTU3NTY3ZjJkOWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
      },
@@ -3135,7 +3207,7 @@ export const data = [
       "web_calification": 7.98,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18122",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/smaM2qG7Sl4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/smaM2qG7Sl4",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.gbhbl.com\/wp-content\/uploads\/2014\/01\/Conjur.jpg",
@@ -3148,6 +3220,7 @@ export const data = [
       "web_calification": 7.86,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=27381",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ypqa586tNlI",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg"
@@ -3159,6 +3232,7 @@ export const data = [
       "web_calification": 6.44,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32043 ",
       "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ysLXNSNMIr0",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/images.moviesanywhere.com\/a4d68b895ddea9e52e345e2f0c6838ab\/423fc271-7a33-4155-92db-3c926d8c1af3.jpg"
@@ -3170,6 +3244,7 @@ export const data = [
       "web_calification": 4.75,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=18390",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/FDhoqY1grJY",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2016\/5\/w1280\/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg"
      },
@@ -3180,7 +3255,7 @@ export const data = [
       "web_calification": 7.7,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2302",
       "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=4mujk825LXk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/4mujk825LXk",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Descent-631321870-large.jpg"
      },
@@ -3191,6 +3266,7 @@ export const data = [
       "web_calification": 4.75,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=11288",
       "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vHOaWV3OkMQ",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/4bbabce4fe53b96c9ef7d49829ca9ef2935683846cdf759f4dbc52b3c0f669f4._RI_TTW_.png"
      },
@@ -3201,6 +3277,7 @@ export const data = [
       "web_calification": 5.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=19061 ",
       "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RuGEicv0cAg",
       "clasification": "movie",
       "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg"
      },
@@ -3211,7 +3288,7 @@ export const data = [
       "web_calification": 5.97,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41949",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/BeU_TQH-bCA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/BeU_TQH-bCA",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg"
      },
@@ -3233,6 +3310,7 @@ export const data = [
       "web_calification": 5.95,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2543",
       "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Jc_Mdg8XGAc",
       "clasification": "movie",
       "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749"
      },
@@ -3243,7 +3321,7 @@ export const data = [
       "web_calification": 5.87,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32728",
       "year": 2020,
-      "trailer": "https:\/\/youtu.be\/u0Zq4fuOINI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/u0Zq4fuOINI",
       "clasification": "movie",
       "gender": "creepypasta",
       "cover": "https:\/\/posterspy.com\/wp-content\/uploads\/2022\/10\/TheEmptyMan_Poster.jpg"
@@ -3255,6 +3333,7 @@ export const data = [
       "web_calification": 7.74,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=929",
       "year": "2016 - 2018",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9wj62u817FA",
       "clasification": "serie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg"
@@ -3290,7 +3369,7 @@ export const data = [
       "web_calification": 5.45,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11555",
       "year": 2009,
-      "trailer": "https:\/\/youtu.be\/8sW71K149xI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/8sW71K149xI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYWUyNWI5ODMtNDJlZS00ZjVjLWIxMDUtMWNhMjEyZGMwOTdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg"
      },
@@ -3301,7 +3380,7 @@ export const data = [
       "web_calification": 6.69,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10292",
       "year": 2009,
-      "trailer": "https:\/\/youtu.be\/sej-CAp6ckU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/sej-CAp6ckU",
       "clasification": "movie",
       "gender": "aliens",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg"
@@ -3313,7 +3392,7 @@ export const data = [
       "web_calification": 6.23,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1629",
       "year": 1999,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=xsOVtbsMKtA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/xsOVtbsMKtA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ihCDU8FulNvHQFqs01cEc7CE3zq.jpg"
      },
@@ -3324,7 +3403,7 @@ export const data = [
       "web_calification": 6.72,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=8290",
       "year": 2008,
-      "trailer": "https:\/\/youtu.be\/JkZdcjB3ls8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/JkZdcjB3ls8",
       "clasification": "movie",
       "cover": "https:\/\/content.numetro.co.za\/image_resized_files\/927-1-1-3-1559220714.jpg"
      },
@@ -3335,6 +3414,7 @@ export const data = [
       "web_calification": 7.72,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=4017",
       "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/KBGEhb7E9Zg",
       "clasification": "serie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
      },
@@ -3345,6 +3425,7 @@ export const data = [
       "web_calification": 8.12,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3220",
       "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Dywejalfyzs",
       "clasification": "serie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg"
@@ -3366,6 +3447,7 @@ export const data = [
       "web_calification": 6.81,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10983",
       "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/5N9vAUPtWts",
       "clasification": "movie",
       "cover": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e02ce8fbe14ca5d06039aca\/1585685659999-JFLB7AKUH62263FQ4EWJ\/5e6634ea355fb.image.jpg?format=1000w"
      },
@@ -3376,7 +3458,7 @@ export const data = [
       "web_calification": 6.8,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22366",
       "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=6AoDnFGrWxM&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/6AoDnFGrWxM",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/La_invitaciaon-305606357-large.jpg"
      },
@@ -3387,6 +3469,7 @@ export const data = [
       "web_calification": 5.87,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=12933",
       "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/odn_ElyHcj4",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg"
@@ -3398,7 +3481,7 @@ export const data = [
       "web_calification": 8.02,
       "details": "https:\/\/www.abandomoviez.net\/dbs\/serie.php?film=3946",
       "year": 2023,
-      "trailer": "https:\/\/youtu.be\/yyGetSp7CIc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/yyGetSp7CIc",
       "clasification": "serie",
       "gender": "zombies",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg"
@@ -3420,7 +3503,7 @@ export const data = [
       "web_calification": 4.36,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=33108",
       "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=MYDjNe0JJdI&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/MYDjNe0JJdI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BY2E4ZTZjMTEtYTU3Ni00NDQ1LTlmOTctNjNjYTEzYWM3NzEyXkEyXkFqcGdeQXVyMjUxOTUyOTI@._V1_FMjpg_UX1000_.jpg",
       "sinopsis": "The Maus is a horror film directed by Yayo Herrero that follows Alex and Selma, a couple who travel to the heart of Bosnia and Herzegovina. When their car breaks down in the middle of the forest, they decide to look for help in the nearby village. Along the way, Selma - a Muslim survivor of the Balkan War - starts to suspect that a mysterious force is following them. Alex - a confident and happy European - tries to dismiss her crazy idea. But Selma clings to her Muslim amulet \"hamajlija\", causing the mysterious force to emerge from the forest.\r"
@@ -3441,7 +3524,7 @@ export const data = [
       "web_calification": 5.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30072",
       "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=tbyCUdzR87Y",
+      "trailer": "https:\/\/www.youtube.com\/embed\/tbyCUdzR87Y",
       "clasification": "movie",
       "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg"
      },
@@ -3452,6 +3535,7 @@ export const data = [
       "web_calification": 5.93,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=30053",
       "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/lK-QDLVfj44",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Neon_Demon-386448800-large.jpg"
      },
@@ -3462,7 +3546,7 @@ export const data = [
       "web_calification": 6.02,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32569",
       "year": 2018,
-      "trailer": "https:\/\/youtu.be\/UZ_7__0rBAU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/UZ_7__0rBAU",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg"
      },
@@ -3473,7 +3557,7 @@ export const data = [
       "web_calification": 7.57,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9304 ",
       "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=gsHuk7EARdA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/gsHuk7EARdA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg",
       "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009."
@@ -3485,7 +3569,7 @@ export const data = [
       "web_calification": 5.64,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29162",
       "year": 2016,
-      "trailer": "https:\/\/youtu.be\/_y2R8deSAl0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/_y2R8deSAl0",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg"
      },
@@ -3507,7 +3591,7 @@ export const data = [
       "web_calification": 5.4,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=10437",
       "year": 2010,
-      "trailer": "https:\/\/youtu.be\/1GNyQusclgw",
+      "trailer": "https:\/\/www.youtube.com\/embed\/1GNyQusclgw",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg"
      },
@@ -3517,7 +3601,7 @@ export const data = [
       "web_calification": 6.34,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1185",
       "year": 1995,
-      "trailer": "https:\/\/youtu.be\/wWOvGPP3itc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/wWOvGPP3itc",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
@@ -3529,7 +3613,7 @@ export const data = [
       "web_calification": 6.43,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=13888",
       "year": 2011,
-      "trailer": "https:\/\/youtu.be\/iUUk0UxajAU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/iUUk0UxajAU",
       "clasification": "movie",
       "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg"
      },
@@ -3540,7 +3624,7 @@ export const data = [
       "web_calification": 6.67,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6834",
       "year": 2008,
-      "trailer": "https:\/\/youtu.be\/BpuHvtZjOBM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/BpuHvtZjOBM",
       "clasification": "movie",
       "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg"
      },
@@ -3563,7 +3647,7 @@ export const data = [
       "web_calification": 6.49,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=5717",
       "year": 2008,
-      "trailer": "https:\/\/youtu.be\/VWFxJzsfKX8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/VWFxJzsfKX8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&rs=1"
      },
@@ -3573,7 +3657,7 @@ export const data = [
       "web_calification": 5.49,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=31970",
       "year": 2015,
-      "trailer": "https:\/\/youtu.be\/jKKTgYrCOHM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/jKKTgYrCOHM",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg"
      },
@@ -3594,7 +3678,7 @@ export const data = [
       "web_calification": 6.86,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1534",
       "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=lnqDcdyI-qQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/GjGnCa0XYhY",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg"
      },
@@ -3614,7 +3698,7 @@ export const data = [
       "web_calification": 6.38,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28895",
       "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=m4aRBXsZ2I4&feature=emb_logo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/m4aRBXsZ2I4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.bd32ddd0df71bd2db7b97c307f9a01b3?rik=mvG2Rw0nvlNvlw&pid=ImgRaw&r=0"
      },
@@ -3625,7 +3709,7 @@ export const data = [
       "web_calification": 5.25,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=3568",
       "year": 2006,
-      "trailer": "https:\/\/youtu.be\/rMUVNtKYOpU",
+      "trailer": "https:\/\/www.youtube.com\/embed\/rMUVNtKYOpU",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&rs=1"
      },
@@ -3635,7 +3719,7 @@ export const data = [
       "web_calification": 6.81,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=60",
       "year": 1997,
-      "trailer": "https:\/\/youtu.be\/aJgl3uoxXc0",
+      "trailer": "https:\/\/www.youtube.com\/embed\/aJgl3uoxXc0",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/sNhUI2F0nepQMkCIMu6whVixj6F.jpg",
       "sinopsis": "La película The Wishmaster del año 2022 es un remake del clásico de terror de 1997, que narra el regreso a la tierra de un demonio maligno llamado Djinn. El Djinn es liberado accidentalmente por una mujer que encuentra una antigua joya en una subasta. El Djinn comienza a conceder deseos terribles y a sembrar el caos, mientras busca a la mujer que lo liberó para cumplir su deseo final y desatar el infierno en la tierra. La única esperanza para detenerlo es un experto en antigüedades que conoce el origen y el poder de la joya maldita. La película está protagonizada por Tom Hardy como el Djinn, Emily Blunt como la mujer que lo libera y Benedict Cumberbatch como el experto en antigüedades."
@@ -3647,7 +3731,7 @@ export const data = [
       "web_calification": 5.62,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=119",
       "year": 1998,
-      "trailer": "https:\/\/youtu.be\/9ZbEvMdPh5A",
+      "trailer": "https:\/\/www.youtube.com\/embed\/9ZbEvMdPh5A",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&rs=1"
      },
@@ -3658,7 +3742,7 @@ export const data = [
       "web_calification": 6.83,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12928",
       "year": 2012,
-      "trailer": "https:\/\/youtu.be\/k5pw1I95DLk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/k5pw1I95DLk",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&rs=1"
@@ -3670,7 +3754,7 @@ export const data = [
       "web_calification": 4.98,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=21973",
       "year": 2015,
-      "trailer": "https:\/\/youtu.be\/UoSfwAYFWbo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/UoSfwAYFWbo",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg"
@@ -3682,7 +3766,7 @@ export const data = [
       "web_calification": 5.03,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=36507",
       "year": 2021,
-      "trailer": "https:\/\/youtu.be\/g0zWb60b-W4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/g0zWb60b-W4",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&pid=ImgRaw&r=0"
      },
@@ -3704,7 +3788,7 @@ export const data = [
       "web_calification": 7.49,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=1199",
       "year": 1990,
-      "trailer": "https:\/\/youtu.be\/BFX0y6rR2mg",
+      "trailer": "https:\/\/www.youtube.com\/embed\/BFX0y6rR2mg",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&rs=1"
@@ -3716,7 +3800,7 @@ export const data = [
       "web_calification": 5.62,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=6343",
       "year": 2008,
-      "trailer": "https:\/\/youtu.be\/I1F7hJNsi5M",
+      "trailer": "https:\/\/www.youtube.com\/embed\/I1F7hJNsi5M",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&rs=1"
      },
@@ -3727,7 +3811,7 @@ export const data = [
       "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=29357",
       "year": 2015,
-      "trailer": "https:\/\/youtu.be\/v6xkax8f6ls",
+      "trailer": "https:\/\/www.youtube.com\/embed\/v6xkax8f6ls",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg"
      },
@@ -3738,7 +3822,7 @@ export const data = [
       "web_calification": 4.78,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=5448",
       "year": 2006,
-      "trailer": "https:\/\/youtu.be\/VUgL_EF8V2E",
+      "trailer": "https:\/\/www.youtube.com\/embed\/VUgL_EF8V2E",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&pid=ImgRaw&r=0"
      },
@@ -3749,7 +3833,7 @@ export const data = [
       "web_calification": 6.93,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1186",
       "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/watch?v=vVLD7BdzxbM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/vVLD7BdzxbM",
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/4\/6\/7\/5\/6\/46756-urban-legend-0-460-0-690-crop.jpg?k=b0aa7edc52"
@@ -3761,7 +3845,7 @@ export const data = [
       "web_calification": 5.69,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=2381",
       "year": 2000,
-      "trailer": "https:\/\/youtu.be\/uKXUYqKEhxk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/uKXUYqKEhxk",
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&rs=1"
@@ -3773,7 +3857,7 @@ export const data = [
       "web_calification": 6.27,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=20639 ",
       "year": 2012,
-      "trailer": "https:\/\/youtu.be\/M0qXz2YjJKI",
+      "trailer": "https:\/\/www.youtube.com\/embed\/M0qXz2YjJKI",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg"
      },
@@ -3784,7 +3868,7 @@ export const data = [
       "web_calification": 6.82,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=24773",
       "year": 2013,
-      "trailer": "https:\/\/youtu.be\/pDohVEonZ7A",
+      "trailer": "https:\/\/www.youtube.com\/embed\/pDohVEonZ7A",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1"
      },
@@ -3795,7 +3879,7 @@ export const data = [
       "web_calification": 6.25,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=336 ",
       "year": 2001,
-      "trailer": "https:\/\/youtu.be\/ax6kqQQ7qAk",
+      "trailer": "https:\/\/www.youtube.com\/embed\/ax6kqQQ7qAk",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1"
@@ -3806,7 +3890,7 @@ export const data = [
       "web_calification": 6.68,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=396",
       "year": 2004,
-      "trailer": "https:\/\/youtu.be\/fWSmGESmvOM",
+      "trailer": "https:\/\/www.youtube.com\/embed\/fWSmGESmvOM",
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&rs=1"
@@ -3828,7 +3912,7 @@ export const data = [
       "web_calification": 6.9,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=31807",
       "year": 2017,
-      "trailer": "https:\/\/youtu.be\/wNlMIvKnjOQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/wNlMIvKnjOQ",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&rs=1"
      },
@@ -3839,7 +3923,7 @@ export const data = [
       "web_calification": 6.24,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=3883",
       "year": 2004,
-      "trailer": "https:\/\/youtu.be\/RdlCnaz4AAA",
+      "trailer": "https:\/\/www.youtube.com\/embed\/RdlCnaz4AAA",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg"
      },
@@ -3861,7 +3945,7 @@ export const data = [
       "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=471",
       "year": 1989,
-      "trailer": "https:\/\/youtu.be\/1bHDVrDBtRo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/1bHDVrDBtRo",
       "clasification": "movie",
       "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg"
      },
@@ -3872,7 +3956,7 @@ export const data = [
       "web_calification": 6.06,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1897",
       "year": 2005,
-      "trailer": "https:\/\/youtu.be\/-9Qi9EoMuh8",
+      "trailer": "https:\/\/www.youtube.com\/embed\/-9Qi9EoMuh8",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg"
@@ -3884,7 +3968,7 @@ export const data = [
       "web_calification": 6.21,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4872",
       "year": 2007,
-      "trailer": "https:\/\/youtu.be\/jEM9UAFcpLo",
+      "trailer": "https:\/\/www.youtube.com\/embed\/jEM9UAFcpLo",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE"
@@ -3896,7 +3980,7 @@ export const data = [
       "web_calification": 5.3,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=22206",
       "year": 2018,
-      "trailer": "https:\/\/youtu.be\/29ki8Op2lSQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/29ki8Op2lSQ",
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg"
@@ -3908,7 +3992,7 @@ export const data = [
       "web_calification": 6.21,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=10252",
       "year": 2009,
-      "trailer": "https:\/\/youtu.be\/Sqb8rTnysTQ",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Sqb8rTnysTQ",
       "clasification": "movie",
       "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg"
      },
@@ -3919,7 +4003,7 @@ export const data = [
       "web_calification": 6.66,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=42051",
       "year": 2022,
-      "trailer": "https:\/\/youtu.be\/Awg3cWuHfoc",
+      "trailer": "https:\/\/www.youtube.com\/embed\/Awg3cWuHfoc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg",
       "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección."

@@ -28,6 +28,15 @@ createApp({
                text2: "Please try again..."
           }
      },
+     methods:{
+          checkNewMovies(movieDate){
+               let todayMonth = new Date().getMonth();
+               let todayYear = new Date().getFullYear()
+               let movieMonth = new Date(movieDate).getMonth();
+               let movieYear = new Date(movieDate).getFullYear();
+               return (movieMonth === todayMonth || movieMonth === (todayMonth - 1)) && todayYear === movieYear
+          }
+     },
      computed:{
           filter(){
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)

@@ -10,7 +10,8 @@ createApp({
                filteredMovies: [],
                notFoundObject: {},
                scrollYPosition: 0,
-               arrowDirection: false
+               arrowDirection: false,
+               todayDate: ""
           }
      },
      created(){
@@ -42,6 +43,13 @@ createApp({
           },
           moveTo(){
                window.scrollTo(0, 0)
+          },
+          checkNewMovies(movieDate){
+               let todayMonth = new Date().getMonth();
+               let todayYear = new Date().getFullYear()
+               let movieMonth = new Date(movieDate).getMonth();
+               let movieYear = new Date(movieDate).getFullYear();
+               return (movieMonth === todayMonth || movieMonth === (todayMonth - 1)) && todayYear === movieYear
           }
      },
      computed:{

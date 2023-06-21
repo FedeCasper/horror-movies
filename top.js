@@ -9,6 +9,7 @@ createApp({
                filteredMovies: [],
                topMovies: [],
                topSeries: [],
+               onlyBooks: []
           }
      },
      created(){
@@ -20,6 +21,8 @@ createApp({
           let onlySeries = this.movies.filter(movie => movie.clasification == "serie" && movie.web_calification)
           this.topSeries = this.bestOnes(onlySeries)
           console.log(this.topMovies);
+          let onlyBooks = this.movies.filter(movie => movie.clasification == "book" && movie.web_calification)
+          this.topBooks = this.bestOnes(onlyBooks)
      },
      methods:{
           bestOnes(array){

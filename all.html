@@ -22,7 +22,7 @@
                     <img src="./assets/ghost2.png" alt="skull">
                     <h4 class="m-0 text-danger ps-2">All stories</h4>
                </div>
-               <div v-cloak class="d-flex justify-content-center text-light">Found {{filteredMovies.length}} stories!</div>
+               <div v-cloak class="text-light">Found {{filteredMovies.length}} stories!</div>
           </header>
 
           <span id="computedFunction">{{filter}}</span>
@@ -86,6 +86,7 @@
                                                   / 10 
                                              </span>
                                         </li>
+                                        <li v-if="checkNewMovies(movie.add_date)" class="bg-warning fst-italic text-center recent rounded-bottom">Recently Added</li>
                                    </ul>
                               </div>
                          </div>
