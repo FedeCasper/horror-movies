@@ -12,7 +12,8 @@ createApp({
                onlyIdsArray: [],
                globalPosition: 0,
                overAllObject:{},
-               captureId: 0
+               captureId: 0,
+               relatedStories: []
           }
      },
      created(){
@@ -28,6 +29,9 @@ createApp({
                series: this.findMovieGlobalIndex("serie"),
                books: this.findMovieGlobalIndex("book")
           }
+
+          this.relatedStories = (this.movies.filter( story => story.gender === this.storySelected.gender)).slice(0,3)
+          console.log(this.relatedStories);
      },
      beforeUpdate(){
           // this.notFoundObject = {
