@@ -46,11 +46,11 @@ section{
      transform: scale(1.07);
 }
 .notFoundImg{
-     height: 60px;
+     height: 40px;
      object-fit: contain;
 }
 .video{
-     min-height: 30vh;
+     min-height: 35vh;
 }
 .cardHover{
      position: relative;
