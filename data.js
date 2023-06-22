@@ -274,7 +274,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/8Mr1wMiihKI",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg",
+      "sinopsis": "“An American Haunting” is a 2005 horror film directed by Courtney Solomon and starring Donald Sutherland, Sissy Spacek, James D’Arcy, and Rachel Hurd-Wood. The film is based on the novel “The Bell Witch: An American Haunting” by Brent Monahan. The story is based on the legend of the Bell Witch, which is said to have haunted the Bell family in Tennessee during the early 19th century. The film tells the story of John Bell (Donald Sutherland), a farmer who lives with his wife Lucy (Sissy Spacek) and daughter Betsy (Rachel Hurd-Wood) in Red River, Tennessee. Strange things begin to happen in their home, including unexplained noises and objects moving on their own. Betsy is particularly affected by the haunting and begins to experience physical attacks. The family seeks help from a local schoolteacher named Richard Powell (James D’Arcy), who tries to uncover the truth behind the haunting. As he investigates, he discovers that John Bell had a troubled past and that the haunting may be related to his past misdeeds."
      },
      {
       "id": 23,
@@ -435,7 +436,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/kaU2A7KyOu4",
       "clasification": "movie",
       "gender": "vampiros",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1",
+      "sinopsis": "“Blade” is a 1998 American superhero horror film directed by Stephen Norrington and written by David S. Goyer. The film stars Wesley Snipes in the title role as Blade, a vampire hunter with superhuman strength and agility. The film also stars Stephen Dorff, Kris Kristofferson, and N’Bushe Wright. The film follows Blade as he battles against vampires who are planning to take over the world. Blade is half-human and half-vampire, which gives him the strength and abilities of a vampire but none of their weaknesses. He is aided in his mission by Whistler (Kris Kristofferson), a human who has been helping Blade since he was a child. The film was a commercial success and grossed over $131 million worldwide. It was praised for its action sequences and Snipes’ performance as Blade. The film spawned two sequels, “Blade II” (2002) and “Blade: Trinity” (2004), as well as a television series, “Blade: The Series” (2006)."
      },
      {
       "id": 36,
@@ -457,7 +459,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/PrAI51ca9cU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2219_14.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2219_14.jpg",
+      "sinopsis": "Boogeyman 2 is a 2007 American psychological horror film directed by Jeff Betancourt and the sequel to the 2005 film Boogeyman. The film stars Danielle Savre, Matt Cohen, David Gallagher, Mae Whitman, Renee O’Connor and Tobin Bell. The movie follows a young woman who attempts to cure her phobia of the boogeyman by checking herself into a mental health facility, only to realize too late that she is now helplessly trapped with her own greatest fear"
      },
      {
       "id": 38,
@@ -468,7 +471,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/Goi2q7VEFGo",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2364_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2364_58.jpg",
+      "sinopsis": "Boogeyman is a 2005 American supernatural horror film directed by Stephen Kay and starring Barry Watson, Emily Deschanel, Skye McCole Bartusiak, and Lucy Lawless. The movie follows the haunting tale of a young man traumatized by memories of terrible events he experienced in his childhood bedroom and who, years later, reluctantly returns home to face his fears of a monstrous entity that could be real or merely a figment of his imagination"
      },
      {
       "id": 39,
@@ -479,7 +483,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/IszIIFj-fIc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_6833_47.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_6833_47.jpg",
+      "sinopsis": "Case 39 is a 2009 American supernatural horror film directed by Christian Alvart and starring Renée Zellweger, Jodelle Ferland, Bradley Cooper and Ian McShane. The movie revolves around Emily Jenkins (Renée Zellweger), a social worker working for a child protection agency living in Oregon who is assigned to investigate the family of Lillith Sullivan (Jodelle Ferland), a troubled ten-year-old girl whose school grades have declined due to an emotional rift with her parents, Edward and Margaret Sullivan"
      },
      {
       "id": 40,
@@ -516,7 +521,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/sv9lOK0kc9I",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Children of the Corn is a 2020 American supernatural slasher film directed by Kurt Wimmer. The movie is about a psychopathic twelve-year-old girl in a small town in Nebraska who recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won’t go along with the plan is the town’s only hope of survival"
      },
      {
       "id": 43,
@@ -554,7 +560,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/o6lfVEKUkCk",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics."
      },
      {
       "id": 46,
@@ -566,7 +573,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/I-WZYQ6nABA",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg",
+      "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll"
      },
      {
       "id": 47,
@@ -578,7 +586,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/mVa67mLsPgQ",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0",
+      "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics."
      },
      {
       "id": 48,
@@ -590,7 +599,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg",
+      "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics."
      },
      {
       "id": 49,
@@ -602,7 +612,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/lWBkV2HoH5w",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg",
+      "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics."
      },
      {
       "id": 50,
@@ -614,7 +625,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/5dTuL8clUHs",
       "clasification": "movie",
       "gender": "none",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg",
+      "sinopsis": "Clinical is a 2017 American horror film directed by Alistair Legrand. The movie stars Vinessa Shaw, Kevin Rahm, India Eisley, and Aaron Stanford. The plot follows Dr. Jane Mathis who is a psychiatrist and an expert at confrontational therapy. Two years prior, she had a patient, Nora Green, who attacked her and attempted suicide in her office. As a result, Dr. Mathis developed PTSD and sleep paralysis, which led her to seek help from Dr. Terry Drummond. She is then assigned to treat Alex, a patient who was horribly disfigured in an accident."
      },
      {
       "id": 51,
@@ -626,7 +638,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/wxqSIsxMlYQ",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0",
+      "sinopsis": "Cloverfield is a 2008 American monster movie directed by Matt Reeves. The movie stars Michael Stahl-David, Mike Vogel, Jessica Lucas, Lizzy Caplan, and T.J. Miller. The plot follows a group of friends who are documenting their farewell party when a monster the size of a skyscraper arrives in New York City. The movie was produced by J. J. Abrams and Bryan Burk and written by Drew Goddard"
      },
      {
       "id": 52,
@@ -637,7 +650,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/PNtZu-3di38",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg",
+      "sinopsis": "Clown is a 2014 American horror movie directed by Jon Watts. The movie stars Andy Powers, Laura Allen, and Peter Stormare. The plot follows a loving father who dons a clown outfit and makeup to perform at his son’s sixth birthday, only to later discover that the costume - red nose and wig included- will not come off and his own personality changes in a horrific fashion."
      },
      {
       "id": 53,
@@ -648,7 +662,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/D-BwFr3luqg",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg",
+      "sinopsis": "Countdown is a 2019 American supernatural horror film directed and written by Justin Dec. The movie stars Elizabeth Lail, Jordan Calloway, Talitha Bateman, Tichina Arnold, P.J. Byrne, Peter Facinelli, Anne Winters, and Tom Segura. The plot follows a group of people who discover a mobile app that correctly tells its users when they are going to die. The app tells them they have only three days left to live. "
      },
      {
       "id": 54,
@@ -659,7 +674,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/ioFvsUtiON8",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2152_34.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2152_34.jpg",
+      "sinopsis": "Creep is a 2014 American found footage psychological horror film directed by Patrick Brice. The movie stars Mark Duplass and Brice. The plot follows a videographer who answers a Craigslist ad placed by a man who wants to make a film about himself. The man has terminal brain cancer and wants to leave a video behind for his unborn son. The videographer travels to the man’s cabin in the woods where he discovers that the man is not what he seems."
      },
      {
       "id": 55,
@@ -670,7 +686,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/Ct2O5oyX7FY",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25050_47.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25050_47.jpg",
+      "sinopsis": "Crimson Peak is a 2015 American gothic romance film directed by Guillermo del Toro. The movie stars Mia Wasikowska, Tom Hiddleston, Jessica Chastain, Charlie Hunnam, and Jim Beaver. The plot follows an aspiring author who marries a mysterious man and moves into his decaying mansion in the English hills. She discovers that her new home is haunted by ghosts and that her husband is not who he appears to be. "
      },
      {
       "id": 56,
@@ -682,7 +699,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ndm_g5pyRUQ",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Critters is a 1986 American science fiction comedy horror film directed by Stephen Herek in his directorial debut. The movie stars Dee Wallace, M. Emmet Walsh, Billy “Green” Bush and Scott Grimes in his film debut. The plot follows a group of small, furry aliens with carnivorous behavior escaping from two shape-shifting bounty hunters and terrorizing a farm town on eart."
      },
      {
       "id": 57,
@@ -717,7 +735,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/K8iLp1xQtPQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21991_76.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21991_76.jpg",
+      "sinopsis": "Dark Skies is a 2013 American science fiction horror film written and directed by Scott Stewart, produced by Jason Blum under his Blumhouse Productions banner, and starring Keri Russell, Josh Hamilton, Dakota Goyo and J. K. Simmons. The plot follows the Barrett family living in the suburbs as they witness an escalating series of disturbing events involving their family. They come to learn that a terrifying and deadly force is after them, one which may have arrived from beyond the stars."
      },
      {
       "id": 60,
@@ -728,7 +747,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/JcpJVEp047Q",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg",
+      "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games."
      },
      {
       "id": 61,
@@ -740,7 +760,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/naWkpWL3CoU",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg",
+      "sinopsis": "Ana goes home to her peaceful suburban residence, but she is unpleasantly surprised the morning that follows when her husband is brutally attacked by her zombified neighbor. In the chaos of her once picturesque neighborhood, Ana flees and stumbles upon a police officer named Kenneth, along with more survivors who decide that their best chances of survival would be found in the deserted Crossroads Shopping Mall. When supplies begin running low and other trapped survivors need help, the group comes to the realization that they cannot stay put forever at the Shopping Mall and devise a plan to escape."
      },
      {
       "id": 62,
@@ -751,7 +772,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/8b_HVtHmK30",
       "clasification": "movie",
-      "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg"
+      "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg",
+      "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for."
      },
      {
       "id": 63,
@@ -762,7 +784,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/u2GX_z65k-s",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11857_78.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11857_78.jpg",
+      "sinopsis": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die. Intoxicated with his new godlike abilities, the young man begins to kill those he deems unworthy of life."
      },
      {
       "id": 64,
@@ -785,7 +808,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/_1wDBNHYDv8",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg",
+      "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world."
      },
      {
       "id": 66,
@@ -797,7 +821,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/pLe_1SheJms",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg"
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+      "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together."
      },
      {
       "id": 67,
@@ -809,7 +834,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/fQmAGtJC5bk",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg"
+      "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg",
+      "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet."
      },
      {
       "id": 68,
@@ -821,7 +847,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/WaG1KZqrLvM",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg",
+      "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race."
      },
      {
       "id": 69,
@@ -833,7 +860,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/2ywf74nW1CM",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg",
+      "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version."
      },
      {
       "id": 70,
@@ -845,7 +873,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/pCiWxIHw7bQ",
       "clasification": "movie",
       "gender": "none",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
+      "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion."
      },
      {
       "id": 71,
@@ -889,7 +918,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/hUA688q72Sg",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg",
+      "sinopsis": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They share even less in common when Jennifer mysteriously gains an appetite for human blood after a disastrous fire at a local bar. As Needy's male classmates are steadily killed in gruesome attacks, the young girl must uncover the truth behind her friend's transformation and find a way to stop the bloodthirsty rampage before it reaches her own boyfriend Chip."
      },
      {
       "id": 75,
@@ -900,7 +930,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/M1JL4xhF_k8",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg",
+      "sinopsis": "On highways across America, a tribe of people called The True Knot travel in search of sustenance. They look harmless: mostly old, lots of polyester, and married to their RVs. But as Dan Torrance knows, and tween Abra Stone learns, The True Knot are quasi-immortal, living off the \"steam\" that children with the \"shining\" produce when they are slowly tortured to death. Haunted by the inhabitants of the Overlook Hotel where he spent one horrific childhood year, Dan has been drifting for decades, desperate to shed his father's legacy of despair, alcoholism, and violence. Finally, he settles in a New Hampshire town, an AA community that sustains him, and a job at a nursing home where his remnant \"shining\" power provides the crucial final comfort to the dying. Aided by a prescient cat, he becomes \"Doctor Sleep.\" Then Dan meets the evanescent Abra Stone, and her spectacular gift, the brightest shining ever seen, reignites Dan's own demons and summons him to a battle for Abra's soul and survival."
      },
      {
       "id": 76,
@@ -912,7 +943,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/x0RgGZthUig",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg",
+      "sinopsis": "In Mexico, an archaeologist releases the evil spirit of a devil child from a tomb of an ancient tribe called Sanzia that worshiped Satan on Earth and dies in an accident. Immediately after, an American family with two children arrives to live and reactivate a factory of dolls in a site nearby the archaeological field. Elliot Read invested the savings of his family in this business to manufacture dolls. He finds many dolls left by the previous owners of the factory, and gives one of them, which is possessed by the fiend, to his daughter Jessica Read. The girl changes her behavior, speaks an ancient language and the maid tells to the mother Marilyn Read. Meanwhile, the archaeologist Karl Resnick arrives to investigate the finding of his colleague. However, the demon has been already released, threatening the locals and the Read family."
      },
      {
       "id": 77,
@@ -932,7 +964,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/uTCasFeRNQY",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0",
+      "sinopsis": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think."
      },
      {
       "id": 79,
@@ -943,7 +976,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/LmoaMTSO1g8",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&rs=1",
+      "sinopsis": "Christine Brown is a loan officer at a bank but is worried about her lot in life. She's in competition with a competent colleague for an assistant manager position and isn't too sure about her status with a boyfriend. Worried that her boss will think less of her if she shows weakness, she refuses a time extension on a loan to an old woman, Mrs. Ganush, who now faces foreclosure and the loss of her house. In retaliation, the old woman place a curse on her which, she subsequently learns, will result in her being taken to hell in a few days time. With the help of a psychic, she tries to rid herself of the demon, but faces several hurdles in the attempt."
      },
      {
       "id": 80,
@@ -965,7 +999,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/GM1RiidjK1U",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39314_98.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39314_98.jpg",
+      "sinopsis": "Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh's dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh's life or their own?"
      },
      {
       "id": 82,
@@ -988,7 +1023,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Y_51HrX_LB0",
       "clasification": "movie",
       "gender": "b_serie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1",
+      "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?"
      },
      {
       "id": 84,
@@ -1232,14 +1268,15 @@ export const data = [
      },
      {
       "id": 104,
-      "title": "El Resplandor",
-      "optional_title": "The Shining",
+      "title": "The Shining",
+      "optional_title": "El Resplandor ",
       "web_calification": 8.45,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=225",
       "year": 1980,
       "trailer": "https:\/\/www.youtube.com\/embed\/-Nbez_uIpwA",
       "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg"
+      "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg",
+      "sinopsis": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?"
      },
      {
       "id": 105,
@@ -1254,14 +1291,15 @@ export const data = [
      },
      {
       "id": 106,
-      "title": "Enterrados Vivos",
-      "optional_title": "Burried Alive",
+      "title": "Burried Alive",
+      "optional_title": "Enterrados Vivos ",
       "web_calification": 4.57,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=4797",
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/YUPVvPlzqbE",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/buried_alive-925257683-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/buried_alive-925257683-large.jpg",
+      "sinopsis": "Tobin Bell (Saw) stars in this terrifying story about a group of lustful college friends on a road trip to a remote desert cabin. As a night of extreme truth-or-dare and wild partying gives way to sheer fright. Directed by legendary make-up effects wizard Robert Kurtzman of From Dusk Till Dawn fame, Buried Alive is a chilling, retro fright-fest packed with sex, shocks and supernatural horror."
      },
      {
       "id": 107,
@@ -1283,7 +1321,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/pW-PXPpgt0Y",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg",
+      "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?"
      },
      {
       "id": 109,
@@ -1295,7 +1334,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vNKqNBey9MQ",
       "clasification": "movie",
       "gender": "found_footage",
-      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg",
+      "sinopsis": "For five friends, it was a chance for a summer getaway - a weekend of camping in the Texas Big Thicket. But visions of a carefree vacation are shattered with an accident on a dark and desolate country road. In the wake of the accident, a bloodcurdling force of nature is unleashed - something not exactly human, but not completely animal - an urban legend come to terrifying life - a Bigfoot seeking murderous revenge for the death of its child."
      },
      {
       "id": 110,
@@ -1307,7 +1347,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/1H19QzPfdqA",
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Fifteen year-old Emma Evans has an argument with her mother Lucy since she wants to go to a concert in London with her friends Rose and Alex. Emma immediately has a convulsion and her family takes her to the hospital, but the doctors do not find any physical problem. Then her father John tries to convince his wife to send Emma to school, instead of homeschooling, but she prefers to keep Emma in the family-based education. Lucy sends her daughter to the psychoanalyst believing that she has psychological problems and Emma asks her friend Rose to record her session of hypnosis though the cellular but the doctor dies during the session. When Emma listens to the tape, she believes she is possessed by the devil and asks her parents to be submitted to an exorcism with her uncle, Priest Christopher Taylor. However her skeptical mother is against the ritual and recalls that Chris was responsible for the death of a teenager, Ana, in the past in an unsuccessful exorcism. But when Emma levitates in the kitchen in front of her family, her parents call Chris."
      },
      {
       "id": 111,
@@ -1617,7 +1658,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/RuB0SEehicA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_88_3.jpg",
-      "sinopsis": "Frank Cotton es un hedonista que compra una misteriosa caja de rompecabezas en Marruecos, creyendo que le abrirá las puertas a un reino de placeres desconocidos. Sin embargo, al resolver la caja, desata a los cenobitas, unos seres de otra dimensión que no distinguen entre el dolor y el placer, y que lo destrozan con cadenas y ganchos. Tiempo después, el hermano de Frank, Larry, se muda a la misma casa donde ocurrió el macabro ritual, junto con su esposa Julia, quien tuvo una aventura con Frank antes de casarse. La sangre de Larry cae sobre el suelo del ático y revive a Frank, quien le pide a Julia que le traiga hombres para alimentarse de su vida y recuperar su cuerpo. Mientras tanto, la hija de Larry, Kirsty, descubre la caja y la abre, atrayendo a los cenobitas, que quieren llevarse a Frank de vuelta al infierno."
+      "sinopsis": "When Kirsty's father, Larry, and stepmother, Julia, move into Larry's childhood home, Kirsty and her boyfriend take a room nearby. Unfortunately for all involved, Larry's house is already occupied: before the family's arrival, Larry's disreputable brother, Frank, used a supernatural puzzle box to summon a gang of other-dimensional demon sadists. Now, Frank requires a series of blood sacrifices to escape the clutches of Pinhead and the cenobites."
      },
      {
       "id": 138,
@@ -1628,7 +1669,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/lgFo8Rjm7-I",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/hellraiser-255394413-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/hellraiser-255394413-large.jpg",
+      "sinopsis": "A take on Clive Barker's 1987 horror classic where a young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension."
      },
      {
       "id": 139,
@@ -1639,7 +1681,8 @@ export const data = [
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/0u9pgF40PVE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_943_24.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_943_24.jpg",
+      "sinopsis": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned."
      },
      {
       "id": 140,
@@ -1650,7 +1693,8 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/20NsHYz9p64",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_114_89.jpg"
+      "cover": "https:\/\/www.imdb.com\/title\/tt1716747\/mediaviewer\/rm682564352\/?ref_=ext_shr_lnk",
+      "sinopsis": "Two best friends, Steven Craven and Nico Bradley, travel to Mexico to have some fun. They meet a vagrant in a bar that gives a puzzle box to Nico. When he opens the device, he finds that it is a key to hell. Nico brings Pinhead that inflicts pain to him and Steven and the youngsters vanish. Later, in Los Angeles, Dr. Ross Craven, his wife Sarah and their daughter Emma receive Peter and Kate Bradley to have dinner. Both families miss Steven and Nico and they hired a private detective to seek them out, but he only finds Nico's backpack. When Emma snoops around the backpack, she finds the puzzle box and out of the blue, Steven returns covered of blood. But soon they discover that it is not Steven's soul that is inside his body."
      },
      {
       "id": 141,
@@ -1662,7 +1706,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/8GYVM8-tOSs",
       "clasification": "movie",
       "gender": "terror_psicologico",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/yXAjO0Lj3ZF9qsbsZk6fZzEjTCh.jpg"
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/yXAjO0Lj3ZF9qsbsZk6fZzEjTCh.jpg",
+      "sinopsis": "After her mother commits suicide in the bathtub, Emily Callaway is taken to live upstate in new surroundings to forget her traumatic past. Psychologist David, her father, learns that his daughter has a new friend, the enigmatic, never to be seen, imaginary (or not?) Charlie. A deadly game of hide-and-seek ensues. Who is Charlie? And what is troubling David in his dreams?"
      },
      {
       "id": 142,
@@ -1773,7 +1818,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/WtgLFVjWnmA",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg",
+      "sinopsis": "When a 12-year-old boy goes missing, lead investigator Greg Harper (Tenney) struggles to balance the pressure of the investigation and troubles with his wife, Jackie (Hunt). Facing a recent affair, great strain is put on the family that slowly gnaws away at Jackie's grip on reality. But after a malicious presence manifests itself in their home and puts their son, Connor (Lewis), in mortal danger, the cold, hard truth about evil in the Harper household is finally uncovered."
      },
      {
       "id": 152,
