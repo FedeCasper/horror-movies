@@ -97,9 +97,10 @@
                          <li class="list-group-item">
                               Movie genre: {{storySelected.gender ?? '' }}
                          </li>
-                         <li class="list-group-item d-flex flex-column overflow-x-auto d-md-none">
+                    <!-- Universe section --> 
+                         <li v-if="universeStories != undefined" class="list-group-item d-flex flex-column d-md-none">
                               <h4 class="my-2">Movie Universe</h4>
-                              <div class="d-flex gap-2">
+                              <div class="d-flex gap-2 overflow-x-auto">
                                    <div class="w-100" v-for="story of universeStories" >
                                         <a :href=`./details.html?id=${story.id}` class="text-danger">
                                              <img :src="story.cover" class="object-fit-sm-contain border rounded" style="height: 15rem; width: 10rem;" alt="...">
@@ -110,7 +111,8 @@
                                    </div>
                               </div>
                          </li>
-                         <li class="px-3 card-title h5 mt-4">Trailer</li>
+                    <!-- Trailer section --> 
+                         <h4 class="px-3 h4 mt-4">Trailer</h4>
                          <iframe class="w-100 video py-3" :src="storySelected.trailer" title="YouTube video player"
                               frameborder="0"
                               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -122,8 +124,9 @@
                          <a href="#" class="card-link text-danger">Another link</a>
                     </div>
                </div>
+
           <!-- Related section -->   
-               <div class="row row-cols-3 row-cols-md-3 g-4 align-items-start px-2 px-sm-4 mt-3 mt-sm-0">
+               <div class="row row-cols-3 row-cols-md-3 g-4  px-2 px-sm-4 mt-3 mt-sm-0">
                     <div class="col px-1 mt-sm-0" v-for="story of relatedStories">
                          <div class="card h-100">
                               <img :src="story.cover" class="card-img-top" alt="..." />

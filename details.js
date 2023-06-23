@@ -31,11 +31,12 @@ createApp({
                books: this.findMovieGlobalIndex("book")
           }
 
-          this.relatedStories = (this.movies.filter( story => story.gender === this.storySelected.gender)).slice(0,3)
-          // console.log(this.relatedStories);
-
           this.universeStories = this.getStoryUniverse()
           console.log(this.universeStories);
+
+          this.relatedStories = this.getStoryGenre()
+          console.log(this.universeStories);
+          
      },
 
      methods:{
@@ -53,6 +54,24 @@ createApp({
                     let universe = this.movies.filter( story => ((story.universe === this.storySelected.universe) && (story.title !== this.storySelected.title)) )
                     console.log(universe);
                     return universe
+               }
+          },
+          getStoryGenre(){
+               if(this.storySelected.gender){
+                    let related = this.movies.filter( story => ( ( story.gender === this.storySelected.gender ) && ( story.title !== this.storySelected.title ) ) )
+                    console.log(related);
+                    if(related.length > 3 ){
+                         let newRelated = []
+                         for( let i=0 ; i <= 2 ; i++ ){
+                              let randomNumber = Math.ceil( Math.random()* (related.length-1))
+                              console.log(randomNumber);
+                              newRelated.push(related[randomNumber])
+                         } 
+                         console.log(newRelated);
+                         related = newRelated
+                         return related
+                    }
+                    return related
                }
           }
      },
