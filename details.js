@@ -13,7 +13,8 @@ createApp({
                globalPosition: 0,
                overAllObject:{},
                captureId: 0,
-               relatedStories: []
+               relatedStories: [],
+               universeStories: []
           }
      },
      created(){
@@ -32,6 +33,9 @@ createApp({
 
           this.relatedStories = (this.movies.filter( story => story.gender === this.storySelected.gender)).slice(0,3)
           console.log(this.relatedStories);
+
+          this.universeStories = (this.movies.filter( story => story.universe === this.storySelected.universe))
+          console.log(this.universeStories);
      },
      beforeUpdate(){
           // this.notFoundObject = {

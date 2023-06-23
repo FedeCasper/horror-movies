@@ -97,6 +97,13 @@
                          <li class="list-group-item">
                               Movie genre: {{storySelected.gender ?? '' }}
                          </li>
+                         <li class="list-group-item d-flex gap-2">Universe:
+                              <ul>
+                                   <li v-for="story of universeStories" class="small">
+                                        <a :href=`./details.html?id=${story.id}` class="text-danger">{{story.title}}</a>
+                                   </li>
+                              </ul>
+                         </li>
                          <li class="px-3 card-title h5 mt-4">Trailer</li>
                          <iframe class="w-100 video py-3" :src="storySelected.trailer" title="YouTube video player"
                               frameborder="0"

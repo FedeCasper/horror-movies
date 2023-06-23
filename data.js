@@ -10,7 +10,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
       "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad.",
-      "add_date": "2023-06-20"
+      "add_date": "2023-06-20",
+      "universe": "None"
      },
      {
       "id": 2,
@@ -22,7 +23,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/5Z5HZns7uoI",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
-      "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin."
+      "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin.",
+      "universe": "None"
      },
      {
       "id": 3,
@@ -34,7 +36,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YrFzzlFqx0g",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg",
-      "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él."
+      "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él.",
+      "universe": "None"
      },
      {
       "id": 4,
@@ -46,7 +49,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/FZsYJ-MWeYg",
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg",
-      "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo."
+      "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo.",
+      "universe": "None"
      },
      {
       "id": 5,
@@ -58,7 +62,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Q9rX3krvo4o",
       "clasification": "movie",
       "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
-      "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto."
+      "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto.",
+      "universe": "None"
      },
      {
       "id": 6,
@@ -71,7 +76,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg",
-      "sinopsis": "28 días después, todo ha cambiado. Jim despierta en un hospital y la ciudad está completamente desierta, o al menos eso es lo que cree. Un extraño virus liberado recientemente de un laboratorio de investigación ha diezmado todo el planeta y la raza humana se enfrenta a su eminente extinción. Los hombres se han convertido en una extraña especie que sólo ansía matar, o mejor dicho, devorar. Tan sólo unos pocos supervivientes intentarán encontrar el camino hacia la salvación. Un camino, en el que conocerán el terror como nunca antes lo habían imaginado."
+      "sinopsis": "28 días después, todo ha cambiado. Jim despierta en un hospital y la ciudad está completamente desierta, o al menos eso es lo que cree. Un extraño virus liberado recientemente de un laboratorio de investigación ha diezmado todo el planeta y la raza humana se enfrenta a su eminente extinción. Los hombres se han convertido en una extraña especie que sólo ansía matar, o mejor dicho, devorar. Tan sólo unos pocos supervivientes intentarán encontrar el camino hacia la salvación. Un camino, en el que conocerán el terror como nunca antes lo habían imaginado.",
+      "universe": "None"
      },
      {
       "id": 7,
@@ -84,7 +90,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg",
-      "sinopsis": "La película 28 Weeks Later es una secuela de la película 28 Days Later. Fue dirigida por Juan Carlos Fresnadillo y estrenada en el Reino Unido y Estados Unidos el 11 de mayo de 2007. La película comienza cuando Don (Robert Carlyle) y su esposa Alice (Catherine McCormack), que están escondidos en una cabaña en una zona rural de Inglaterra junto con otros supervivientes, son atacados por una nueva ola del virus que ha devastado Gran Bretaña."
+      "sinopsis": "La película 28 Weeks Later es una secuela de la película 28 Days Later. Fue dirigida por Juan Carlos Fresnadillo y estrenada en el Reino Unido y Estados Unidos el 11 de mayo de 2007. La película comienza cuando Don (Robert Carlyle) y su esposa Alice (Catherine McCormack), que están escondidos en una cabaña en una zona rural de Inglaterra junto con otros supervivientes, son atacados por una nueva ola del virus que ha devastado Gran Bretaña.",
+      "universe": "None"
      },
      {
       "id": 8,
@@ -97,7 +104,8 @@ export const data = [
       "clasification": "movie",
       "gender": "vampiros",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1",
-      "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston."
+      "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston.",
+      "universe": "None"
      },
      {
       "id": 9,
@@ -109,7 +117,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PHqyFhrb3uU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg",
-      "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida."
+      "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida.",
+      "universe": "None"
      },
      {
       "id": 10,
@@ -122,7 +131,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg",
-      "sinopsis": "Un lugar en silencio es una película de terror y aventura que narra la historia de una familia que debe vivir en silencio para evitar ser cazada por unas criaturas que se guían por el sonido. La película está dirigida por John Krasinski, que también actúa junto a Emily Blunt, su esposa en la vida real. La película fue un éxito de crítica y público, y recibió nominaciones a los premios Oscar, Globos de Oro y BAFTA por su banda sonora y sus efectos sonoros. La película tiene una secuela, Un lugar en silencio 2, que se estrenó en 2021."
+      "sinopsis": "Un lugar en silencio es una película de terror y aventura que narra la historia de una familia que debe vivir en silencio para evitar ser cazada por unas criaturas que se guían por el sonido. La película está dirigida por John Krasinski, que también actúa junto a Emily Blunt, su esposa en la vida real. La película fue un éxito de crítica y público, y recibió nominaciones a los premios Oscar, Globos de Oro y BAFTA por su banda sonora y sus efectos sonoros. La película tiene una secuela, Un lugar en silencio 2, que se estrenó en 2021.",
+      "universe": "None"
      },
      {
       "id": 11,
@@ -135,7 +145,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg",
-      "sinopsis": "Un lugar tranquilo 2 es la secuela de la exitosa película de terror de 2018, dirigida y escrita por John Krasinski, que también actúa en un breve papel. La historia continúa con la familia Abbott, formada por Evelyn (Emily Blunt), Regan (Millicent Simmonds), Marcus (Noah Jupe) y el bebé recién nacido, que deben abandonar su granja y enfrentarse a los horrores del mundo exterior, donde unas criaturas ciegas pero sensibles al sonido cazan a los humanos. En su camino, se encuentran con Emmett (Cillian Murphy), un viejo amigo de Lee (John Krasinski), el padre fallecido de la familia, que les ofrece refugio en una antigua fábrica. Allí, Regan descubre una señal de radio que emite una canción y deduce que se trata de un mensaje que indica un lugar seguro. Decidida a encontrarlo, se escapa con el amplificador que su padre le había fabricado para potenciar el sonido de su implante auditivo, que es capaz de aturdir a las criaturas. Evelyn le pide a Emmett que vaya tras ella y la proteja, mientras ella se queda con Marcus y el bebé. Lo que sigue es una trepidante aventura de supervivencia, donde el silencio es la clave para no morir."
+      "sinopsis": "Un lugar tranquilo 2 es la secuela de la exitosa película de terror de 2018, dirigida y escrita por John Krasinski, que también actúa en un breve papel. La historia continúa con la familia Abbott, formada por Evelyn (Emily Blunt), Regan (Millicent Simmonds), Marcus (Noah Jupe) y el bebé recién nacido, que deben abandonar su granja y enfrentarse a los horrores del mundo exterior, donde unas criaturas ciegas pero sensibles al sonido cazan a los humanos. En su camino, se encuentran con Emmett (Cillian Murphy), un viejo amigo de Lee (John Krasinski), el padre fallecido de la familia, que les ofrece refugio en una antigua fábrica. Allí, Regan descubre una señal de radio que emite una canción y deduce que se trata de un mensaje que indica un lugar seguro. Decidida a encontrarlo, se escapa con el amplificador que su padre le había fabricado para potenciar el sonido de su implante auditivo, que es capaz de aturdir a las criaturas. Evelyn le pide a Emmett que vaya tras ella y la proteja, mientras ella se queda con Marcus y el bebé. Lo que sigue es una trepidante aventura de supervivencia, donde el silencio es la clave para no morir.",
+      "universe": "None"
      },
      {
       "id": 12,
@@ -147,7 +158,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/17Nc08TiVQo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg",
-      "sinopsis": "Mudanza mortal es una película de terror y suspense que se estrenó en Netflix en 2021. La trama sigue a una pareja que se muda a una casa donde ocurrió un crimen pasional. Pronto empiezan a sufrir fenómenos extraños que ponen en peligro su relación y sus vidas. La película está basada en hechos reales y explora temas como la infidelidad, el perdón y el abuso doméstico."
+      "sinopsis": "Mudanza mortal es una película de terror y suspense que se estrenó en Netflix en 2021. La trama sigue a una pareja que se muda a una casa donde ocurrió un crimen pasional. Pronto empiezan a sufrir fenómenos extraños que ponen en peligro su relación y sus vidas. La película está basada en hechos reales y explora temas como la infidelidad, el perdón y el abuso doméstico.",
+      "universe": "None"
      },
      {
       "id": 13,
@@ -160,7 +172,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3NZBffzXnL5C0HrgfdEDQHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "Alien es una película de ciencia ficción y terror estrenada en 1979 y dirigida por Ridley Scott. La historia se centra en la tripulación de la nave espacial Nostromo, que recibe una señal de socorro desde un planeta desconocido. Al explorar el lugar, uno de los tripulantes es atacado por una criatura que se adhiere a su rostro. De vuelta a la nave, el resto de la tripulación descubre que el alienígena es un organismo letal que puede cambiar de forma y que amenaza con matarlos a todos."
+      "sinopsis": "Alien es una película de ciencia ficción y terror estrenada en 1979 y dirigida por Ridley Scott. La historia se centra en la tripulación de la nave espacial Nostromo, que recibe una señal de socorro desde un planeta desconocido. Al explorar el lugar, uno de los tripulantes es atacado por una criatura que se adhiere a su rostro. De vuelta a la nave, el resto de la tripulación descubre que el alienígena es un organismo letal que puede cambiar de forma y que amenaza con matarlos a todos.",
+      "universe": "Alien"
      },
      {
       "id": 14,
@@ -173,7 +186,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/i.pinimg.com\/474x\/9e\/f3\/c9\/9ef3c9d4f13448061e926a9c0775e418--movies-for-free-good-movies.jpg",
-      "sinopsis": "Después de sobrevivir al terrorífico encuentro con el alienígena en la nave Nostromo, la oficial Ripley es rescatada del espacio y se entera de que han pasado 57 años. Cuando se entera de que una colonia humana en el planeta LV-426 ha perdido contacto con la Tierra, acepta acompañar a un equipo de marines espaciales a investigar. Allí se enfrentará de nuevo a la amenaza de los aliens, que se han reproducido y han infestado el planeta. Ripley tendrá que luchar por su vida y por la de los pocos supervivientes, mientras intenta proteger a una niña huérfana llamada Newt."
+      "sinopsis": "Después de sobrevivir al terrorífico encuentro con el alienígena en la nave Nostromo, la oficial Ripley es rescatada del espacio y se entera de que han pasado 57 años. Cuando se entera de que una colonia humana en el planeta LV-426 ha perdido contacto con la Tierra, acepta acompañar a un equipo de marines espaciales a investigar. Allí se enfrentará de nuevo a la amenaza de los aliens, que se han reproducido y han infestado el planeta. Ripley tendrá que luchar por su vida y por la de los pocos supervivientes, mientras intenta proteger a una niña huérfana llamada Newt.",
+      "universe": "Alien"
      },
      {
       "id": 15,
@@ -186,7 +200,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19_38.jpg",
-      "sinopsis": "Después de su último descubrimiento, Ellen Ripley aterriza en Fiorina 161, una prisión de máxima seguridad. Cuando una serie de sucesos extraños y mortales ocurren poco después de su llegada, Ripley se da cuenta de que ha traído a un visitante no deseado."
+      "sinopsis": "Después de su último descubrimiento, Ellen Ripley aterriza en Fiorina 161, una prisión de máxima seguridad. Cuando una serie de sucesos extraños y mortales ocurren poco después de su llegada, Ripley se da cuenta de que ha traído a un visitante no deseado.",
+      "universe": "Alien"
      },
      {
       "id": 16,
@@ -199,7 +214,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20_50.jpg",
-      "sinopsis": "Ellen Ripley murió luchando con el perfecto depredador, el alien de la 3ª entrega de la serie. Doscientos años después y tras 8 espeluznantes experimentos genéticos, Ripley vuelve a la vida gracias a un grupo de científicos que la ha clonado con un objetivo concreto: recuperar a la reina alien que estaba engendrando antes de morir. Pero la clonación de Ripley está llena de sorpresas para sus creadores y pronto el terror se apodera de la nave. Una vez más, ella será la única capaz de hacerle frente, con la ayuda de una banda de contrabandistas que tienen intereses particulares en el experimento."
+      "sinopsis": "Ellen Ripley murió luchando con el perfecto depredador, el alien de la 3ª entrega de la serie. Doscientos años después y tras 8 espeluznantes experimentos genéticos, Ripley vuelve a la vida gracias a un grupo de científicos que la ha clonado con un objetivo concreto: recuperar a la reina alien que estaba engendrando antes de morir. Pero la clonación de Ripley está llena de sorpresas para sus creadores y pronto el terror se apodera de la nave. Una vez más, ella será la única capaz de hacerle frente, con la ayuda de una banda de contrabandistas que tienen intereses particulares en el experimento.",
+      "universe": "Alien"
      },
      {
       "id": 17,
@@ -212,7 +228,8 @@ export const data = [
       "clasification": "movie",
       "gender": "aliens",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24855_20.jpg",
-      "sinopsis": "Una familia media norteamericana se encuentran en el lugar equivocado en el momento equivocado... Mientras la familia Morris viajaba a un campamento en las montañas de Carolina del Norte, el mal funcionamiento del GPS hace que sean dirigidos a un túnel remoto rodeado por vehículos abandonados. El padre, Peter Morris es secuestrado dejando a su esposa e hijos traumatizados, que durante su huida encuentran refugio en una cabaña cercana. Allí, se horrorizan al saber que extrañas luces en las montañas cercanas se han relacionado con la abducción alienígena y el sacrificio humano durante siglos. Cuando sus intentos para alertar a las autoridades son interceptados por la amenaza extraterrestre, los miembros sobrevivientes de la familia se encuentran entre la espada y la pared. Este ataque brutal y sangriento se desarrolla a través de la lente de la cámara de video de su hijo menor."
+      "sinopsis": "Una familia media norteamericana se encuentran en el lugar equivocado en el momento equivocado... Mientras la familia Morris viajaba a un campamento en las montañas de Carolina del Norte, el mal funcionamiento del GPS hace que sean dirigidos a un túnel remoto rodeado por vehículos abandonados. El padre, Peter Morris es secuestrado dejando a su esposa e hijos traumatizados, que durante su huida encuentran refugio en una cabaña cercana. Allí, se horrorizan al saber que extrañas luces en las montañas cercanas se han relacionado con la abducción alienígena y el sacrificio humano durante siglos. Cuando sus intentos para alertar a las autoridades son interceptados por la amenaza extraterrestre, los miembros sobrevivientes de la familia se encuentran entre la espada y la pared. Este ataque brutal y sangriento se desarrolla a través de la lente de la cámara de video de su hijo menor.",
+      "universe": "None"
      },
      {
       "id": 18,
@@ -225,7 +242,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg",
-      "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?"
+      "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?",
+      "universe": "None"
      },
      {
       "id": 19,
@@ -238,7 +256,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg",
-      "sinopsis": "Alien vs Depredador 2: Requiem continúa la historia de la primera parte, donde una nave espacial que transporta a los alienígenas y al depredador híbrido se estrella en un pequeño pueblo de Colorado. Los habitantes del lugar se ven atrapados en medio de una guerra entre las dos especies mortales, que no se detienen ante nada para eliminar a sus enemigos y a cualquiera que se interponga en su camino. Un grupo de supervivientes humanos intenta escapar del horror, mientras que un depredador solitario llega al planeta para cazar a los alienígenas y al monstruoso híbrido. La película es un thriller de acción y terror, con escenas sangrientas y violentas, que muestra el enfrentamiento definitivo entre los dos iconos del cine de ciencia ficción."
+      "sinopsis": "Alien vs Depredador 2: Requiem continúa la historia de la primera parte, donde una nave espacial que transporta a los alienígenas y al depredador híbrido se estrella en un pequeño pueblo de Colorado. Los habitantes del lugar se ven atrapados en medio de una guerra entre las dos especies mortales, que no se detienen ante nada para eliminar a sus enemigos y a cualquiera que se interponga en su camino. Un grupo de supervivientes humanos intenta escapar del horror, mientras que un depredador solitario llega al planeta para cazar a los alienígenas y al monstruoso híbrido. La película es un thriller de acción y terror, con escenas sangrientas y violentas, que muestra el enfrentamiento definitivo entre los dos iconos del cine de ciencia ficción.",
+      "universe": "None"
      },
      {
       "id": 20,
@@ -250,7 +269,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/jsMPc4C5rYQ",
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg",
-      "sinopsis": "All Hallows' Eve es una película de terror que narra tres historias escalofriantes protagonizadas por un payaso asesino llamado Art. La primera historia trata sobre una joven que es secuestrada y sometida a un ritual satánico. La segunda historia trata sobre una mujer que se muda a una casa de campo y es atacada por extraterrestres. La tercera historia trata sobre una universitaria que es perseguida y mutilada por Art en una carretera solitaria. La película se basa en dos cortometrajes anteriores del director Damien Leone, The 9th Circle y Terrifier, que también cuentan con la presencia de Art el payaso. All Hallows' Eve es una película que combina el gore, el crimen y el horror sobrenatural, ambientada en la noche de Halloween."
+      "sinopsis": "All Hallows' Eve es una película de terror que narra tres historias escalofriantes protagonizadas por un payaso asesino llamado Art. La primera historia trata sobre una joven que es secuestrada y sometida a un ritual satánico. La segunda historia trata sobre una mujer que se muda a una casa de campo y es atacada por extraterrestres. La tercera historia trata sobre una universitaria que es perseguida y mutilada por Art en una carretera solitaria. La película se basa en dos cortometrajes anteriores del director Damien Leone, The 9th Circle y Terrifier, que también cuentan con la presencia de Art el payaso. All Hallows' Eve es una película que combina el gore, el crimen y el horror sobrenatural, ambientada en la noche de Halloween.",
+      "universe": "Terrifier"
      },
      {
       "id": 21,
@@ -263,7 +283,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17627_85.jpg",
-      "sinopsis": "Belle es una joven que se muda con su familia a la casa de Amityville, donde ocurrieron terribles asesinatos en el pasado. Su objetivo es ahorrar dinero para el tratamiento de su hermano James, que está en coma. Sin embargo, pronto descubre que la casa está poseída por una fuerza maligna que afecta a su hermano y a su madre. Belle tendrá que enfrentarse al horror que se esconde en las paredes de la mansión y descubrir la verdad sobre lo que pasó allí."
+      "sinopsis": "Belle es una joven que se muda con su familia a la casa de Amityville, donde ocurrieron terribles asesinatos en el pasado. Su objetivo es ahorrar dinero para el tratamiento de su hermano James, que está en coma. Sin embargo, pronto descubre que la casa está poseída por una fuerza maligna que afecta a su hermano y a su madre. Belle tendrá que enfrentarse al horror que se esconde en las paredes de la mansión y descubrir la verdad sobre lo que pasó allí.",
+      "universe": "None"
      },
      {
       "id": 22,
@@ -275,7 +296,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/8Mr1wMiihKI",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg",
-      "sinopsis": "“An American Haunting” is a 2005 horror film directed by Courtney Solomon and starring Donald Sutherland, Sissy Spacek, James D’Arcy, and Rachel Hurd-Wood. The film is based on the novel “The Bell Witch: An American Haunting” by Brent Monahan. The story is based on the legend of the Bell Witch, which is said to have haunted the Bell family in Tennessee during the early 19th century. The film tells the story of John Bell (Donald Sutherland), a farmer who lives with his wife Lucy (Sissy Spacek) and daughter Betsy (Rachel Hurd-Wood) in Red River, Tennessee. Strange things begin to happen in their home, including unexplained noises and objects moving on their own. Betsy is particularly affected by the haunting and begins to experience physical attacks. The family seeks help from a local schoolteacher named Richard Powell (James D’Arcy), who tries to uncover the truth behind the haunting. As he investigates, he discovers that John Bell had a troubled past and that the haunting may be related to his past misdeeds."
+      "sinopsis": "“An American Haunting” is a 2005 horror film directed by Courtney Solomon and starring Donald Sutherland, Sissy Spacek, James D’Arcy, and Rachel Hurd-Wood. The film is based on the novel “The Bell Witch: An American Haunting” by Brent Monahan. The story is based on the legend of the Bell Witch, which is said to have haunted the Bell family in Tennessee during the early 19th century. The film tells the story of John Bell (Donald Sutherland), a farmer who lives with his wife Lucy (Sissy Spacek) and daughter Betsy (Rachel Hurd-Wood) in Red River, Tennessee. Strange things begin to happen in their home, including unexplained noises and objects moving on their own. Betsy is particularly affected by the haunting and begins to experience physical attacks. The family seeks help from a local schoolteacher named Richard Powell (James D’Arcy), who tries to uncover the truth behind the haunting. As he investigates, he discovers that John Bell had a troubled past and that the haunting may be related to his past misdeeds.",
+      "universe": "None"
      },
      {
       "id": 23,
@@ -287,7 +309,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
-      "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz."
+      "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz.",
+      "universe": "None"
      },
      {
       "id": 24,
@@ -300,7 +323,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28260_58.jpg",
-      "sinopsis": "Annabelle es una película de terror sobrenatural estrenada en 2014 y dirigida por John R. Leonetti. Es un spin-off de la película The Conjuring y se centra en el origen de la muñeca poseída que aparece en esa película. La historia sigue a John y Mia Form, una pareja que espera su primer hijo y que recibe como regalo una antigua muñeca de porcelana llamada Annabelle. Sin embargo, su vida se convierte en una pesadilla cuando sufren el ataque de unos cultistas satánicos que invocan a un demonio que se adueña de la muñeca. A partir de entonces, la familia Form tendrá que enfrentarse a una serie de fenómenos paranormales cada vez más terroríficos que pondrán en peligro su vida y la de su bebé."
+      "sinopsis": "Annabelle es una película de terror sobrenatural estrenada en 2014 y dirigida por John R. Leonetti. Es un spin-off de la película The Conjuring y se centra en el origen de la muñeca poseída que aparece en esa película. La historia sigue a John y Mia Form, una pareja que espera su primer hijo y que recibe como regalo una antigua muñeca de porcelana llamada Annabelle. Sin embargo, su vida se convierte en una pesadilla cuando sufren el ataque de unos cultistas satánicos que invocan a un demonio que se adueña de la muñeca. A partir de entonces, la familia Form tendrá que enfrentarse a una serie de fenómenos paranormales cada vez más terroríficos que pondrán en peligro su vida y la de su bebé.",
+      "universe": "The Conjuring"
      },
      {
       "id": 25,
@@ -313,7 +337,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29741_16.jpg",
-      "sinopsis": "Annabelle 2 cuenta la historia de un fabricante de muñecas y su esposa, que pierden a su hija en un trágico accidente. Doce años después, deciden acoger en su casa a una monja y a un grupo de niñas huérfanas. Sin embargo, pronto se darán cuenta de que una de las muñecas de la casa, llamada annabelle, está poseída por un espíritu maligno que quiere atormentar a las niñas. La pelicula es una precuela de la primera entrega de annabelle, y forma parte del universo cinematográfico de El conjuro."
+      "sinopsis": "Annabelle 2 cuenta la historia de un fabricante de muñecas y su esposa, que pierden a su hija en un trágico accidente. Doce años después, deciden acoger en su casa a una monja y a un grupo de niñas huérfanas. Sin embargo, pronto se darán cuenta de que una de las muñecas de la casa, llamada annabelle, está poseída por un espíritu maligno que quiere atormentar a las niñas. La pelicula es una precuela de la primera entrega de annabelle, y forma parte del universo cinematográfico de El conjuro.",
+      "universe": "The Conjuring"
      },
      {
       "id": 26,
@@ -326,7 +351,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35169_72.jpg",
-      "sinopsis": "Annabelle 3 narra la historia de los demonólogos Ed y Lorraine Warren, que intentan evitar que la muñeca poseída Annabelle cause más estragos. Para ello, la encierran en una vitrina sagrada en su casa, junto a otros objetos malditos. Sin embargo, una noche, Annabelle despierta a los espíritus malignos de la sala y se fija en nuevos objetivos: la hija de los Warren, Judy, su niñera y una amiga de esta. Las tres tendrán que enfrentarse a una serie de terroríficos fenómenos paranormales provocados por la muñeca diabólica.\r"
+      "sinopsis": "Annabelle 3 narra la historia de los demonólogos Ed y Lorraine Warren, que intentan evitar que la muñeca poseída Annabelle cause más estragos. Para ello, la encierran en una vitrina sagrada en su casa, junto a otros objetos malditos. Sin embargo, una noche, Annabelle despierta a los espíritus malignos de la sala y se fija en nuevos objetivos: la hija de los Warren, Judy, su niñera y una amiga de esta. Las tres tendrán que enfrentarse a una serie de terroríficos fenómenos paranormales provocados por la muñeca diabólica.\r",
+      "universe": "The Conjuring"
      },
      {
       "id": 27,
@@ -339,7 +365,8 @@ export const data = [
       "clasification": "movie",
       "gender": "science_ficton",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27205_48.jpg",
-      "sinopsis": "Annihilation es una pelicula de ciencia ficción y terror basada en la novela homónima de Jeff VanderMeer. La protagonista es Lena, una bióloga que se une a una expedición al Área X, una zona misteriosa y peligrosa donde ocurren fenómenos extraños y alienígenas. Su objetivo es averiguar qué le pasó a su esposo, que fue parte de una misión anterior y regresó sin memoria y gravemente enfermo. En el Área X, Lena y sus compañeras se enfrentarán a amenazas desconocidas que pondrán a prueba su cordura y su supervivencia."
+      "sinopsis": "Annihilation es una pelicula de ciencia ficción y terror basada en la novela homónima de Jeff VanderMeer. La protagonista es Lena, una bióloga que se une a una expedición al Área X, una zona misteriosa y peligrosa donde ocurren fenómenos extraños y alienígenas. Su objetivo es averiguar qué le pasó a su esposo, que fue parte de una misión anterior y regresó sin memoria y gravemente enfermo. En el Área X, Lena y sus compañeras se enfrentarán a amenazas desconocidas que pondrán a prueba su cordura y su supervivencia.",
+      "universe": "None"
      },
      {
       "id": 28,
@@ -352,7 +379,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.yRULzKZxadq9K6fED8mZhAHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "Arachnophobia es una película de terror y comedia estrenada en 1990, dirigida por Frank Marshall y producida por Steven Spielberg. La trama gira en torno a una especie de araña venenosa que llega desde Venezuela a un pequeño pueblo de Estados Unidos, donde se reproduce y causa varias muertes. El protagonista es un médico que sufre de aracnofobia y que tendrá que enfrentarse a su peor pesadilla con la ayuda de un excéntrico exterminador. La película combina el suspense con el humor y fue un éxito de taquilla en su momento."
+      "sinopsis": "Arachnophobia es una película de terror y comedia estrenada en 1990, dirigida por Frank Marshall y producida por Steven Spielberg. La trama gira en torno a una especie de araña venenosa que llega desde Venezuela a un pequeño pueblo de Estados Unidos, donde se reproduce y causa varias muertes. El protagonista es un médico que sufre de aracnofobia y que tendrá que enfrentarse a su peor pesadilla con la ayuda de un excéntrico exterminador. La película combina el suspense con el humor y fue un éxito de taquilla en su momento.",
+      "universe": "None"
      },
      {
       "id": 29,
@@ -364,7 +392,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ibxKEqxARkE",
       "clasification": "serie",
       "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp",
-      "sinopsis": "Archive 81 es una serie de terror sobrenatural basada en el podcast homónimo. La trama sigue a Dan Turner, un archivista de video que acepta un trabajo misterioso para restaurar unas cintas dañadas que documentan un incendio en un edificio de apartamentos en 1994. Mientras trabaja en las cintas, Dan se obsesiona con la historia de Melody Pendras, una joven que vivía en el edificio y que se vio involucrada en una secta oculta. Dan descubre que las cintas contienen secretos oscuros y peligrosos que amenazan su vida y su cordura."
+      "sinopsis": "Archive 81 es una serie de terror sobrenatural basada en el podcast homónimo. La trama sigue a Dan Turner, un archivista de video que acepta un trabajo misterioso para restaurar unas cintas dañadas que documentan un incendio en un edificio de apartamentos en 1994. Mientras trabaja en las cintas, Dan se obsesiona con la historia de Melody Pendras, una joven que vivía en el edificio y que se vio involucrada en una secta oculta. Dan descubre que las cintas contienen secretos oscuros y peligrosos que amenazan su vida y su cordura.",
+      "universe": "None"
      },
      {
       "id": 30,
@@ -376,7 +405,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Fq358xHbzN4",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26533_28.jpg",
-      "sinopsis": "Un grupo de exploradores se aventura en las catacumbas de París, donde se encuentran con los secretos ocultos de la ciudad de los muertos. Lo que empieza como una expedición arqueológica se convierte en una pesadilla cuando descubren que el laberinto subterráneo está lleno de trampas, alucinaciones y horrores sobrenaturales. Pronto se dan cuenta de que están atrapados en un infierno personal, donde cada pecado y cada miedo se manifiesta en forma de terror. Para escapar, tendrán que enfrentarse a sus propios demonios y descifrar el misterio de la leyenda alquímica que dice \"como es arriba, es abajo\"."
+      "sinopsis": "Un grupo de exploradores se aventura en las catacumbas de París, donde se encuentran con los secretos ocultos de la ciudad de los muertos. Lo que empieza como una expedición arqueológica se convierte en una pesadilla cuando descubren que el laberinto subterráneo está lleno de trampas, alucinaciones y horrores sobrenaturales. Pronto se dan cuenta de que están atrapados en un infierno personal, donde cada pecado y cada miedo se manifiesta en forma de terror. Para escapar, tendrán que enfrentarse a sus propios demonios y descifrar el misterio de la leyenda alquímica que dice \"como es arriba, es abajo\".",
+      "universe": "None"
      },
      {
       "id": 31,
@@ -388,7 +418,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/oUmw0tRytDc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35968.jpg",
-      "sinopsis": "Aterrados es una película de terror argentina que se estrenó en 2018, dirigida por Demián Rugna. La trama se centra en una serie de fenómenos paranormales que ocurren en un barrio de Buenos Aires, donde varias personas son víctimas de entidades invisibles, voces amenazantes y cadáveres reanimados. Un grupo de investigadores especializados en lo sobrenatural intentará descubrir el origen de estos sucesos y detenerlos antes de que sea demasiado tarde. Aterrados fue elogiada por la crítica y el público por su atmósfera de terror, sus efectos visuales y su guion original."
+      "sinopsis": "Aterrados es una película de terror argentina que se estrenó en 2018, dirigida por Demián Rugna. La trama se centra en una serie de fenómenos paranormales que ocurren en un barrio de Buenos Aires, donde varias personas son víctimas de entidades invisibles, voces amenazantes y cadáveres reanimados. Un grupo de investigadores especializados en lo sobrenatural intentará descubrir el origen de estos sucesos y detenerlos antes de que sea demasiado tarde. Aterrados fue elogiada por la crítica y el público por su atmósfera de terror, sus efectos visuales y su guion original.",
+      "universe": "None"
      },
      {
       "id": 32,
@@ -400,7 +431,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/SGb9APVQ7no",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20261_82.jpg",
-      "sinopsis": "La película Babadook narra la historia de Amelia, una madre viuda que intenta superar la muerte de su esposo Oskar, y de su hijo Samuel, que sufre pesadillas con un monstruo llamado Babadook. Un día, Samuel encuentra un libro de cuentos titulado \"Mister Babadook\" y le pide a su madre que se lo lea. El libro describe a un ser terrorífico que se introduce en la vida de las personas y no se va nunca. Desde entonces, Amelia y Samuel empiezan a sentir la presencia del Babadook en su casa y en sus mentes, y tendrán que enfrentarse a sus propios miedos para sobrevivir."
+      "sinopsis": "La película Babadook narra la historia de Amelia, una madre viuda que intenta superar la muerte de su esposo Oskar, y de su hijo Samuel, que sufre pesadillas con un monstruo llamado Babadook. Un día, Samuel encuentra un libro de cuentos titulado \"Mister Babadook\" y le pide a su madre que se lo lea. El libro describe a un ser terrorífico que se introduce en la vida de las personas y no se va nunca. Desde entonces, Amelia y Samuel empiezan a sentir la presencia del Babadook en su casa y en sus mentes, y tendrán que enfrentarse a sus propios miedos para sobrevivir.",
+      "universe": "None"
      },
      {
       "id": 33,
@@ -412,7 +444,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg"
+      "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg",
+      "universe": "None"
      },
      {
       "id": 34,
@@ -424,7 +457,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/4vFsD_1BFLs",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25824_23.jpg",
-      "sinopsis": "En un mundo postapocalíptico, una mujer y sus dos hijos deben atravesar un río con los ojos vendados para llegar a un refugio seguro. La razón es que hay unas criaturas misteriosas que al ser vistas provocan el suicidio de las personas. La mujer tendrá que confiar en su instinto y en el sonido para sobrevivir a este peligroso viaje."
+      "sinopsis": "En un mundo postapocalíptico, una mujer y sus dos hijos deben atravesar un río con los ojos vendados para llegar a un refugio seguro. La razón es que hay unas criaturas misteriosas que al ser vistas provocan el suicidio de las personas. La mujer tendrá que confiar en su instinto y en el sonido para sobrevivir a este peligroso viaje.",
+      "universe": "None"
      },
      {
       "id": 35,
@@ -437,7 +471,8 @@ export const data = [
       "clasification": "movie",
       "gender": "vampiros",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1",
-      "sinopsis": "“Blade” is a 1998 American superhero horror film directed by Stephen Norrington and written by David S. Goyer. The film stars Wesley Snipes in the title role as Blade, a vampire hunter with superhuman strength and agility. The film also stars Stephen Dorff, Kris Kristofferson, and N’Bushe Wright. The film follows Blade as he battles against vampires who are planning to take over the world. Blade is half-human and half-vampire, which gives him the strength and abilities of a vampire but none of their weaknesses. He is aided in his mission by Whistler (Kris Kristofferson), a human who has been helping Blade since he was a child. The film was a commercial success and grossed over $131 million worldwide. It was praised for its action sequences and Snipes’ performance as Blade. The film spawned two sequels, “Blade II” (2002) and “Blade: Trinity” (2004), as well as a television series, “Blade: The Series” (2006)."
+      "sinopsis": "“Blade” is a 1998 American superhero horror film directed by Stephen Norrington and written by David S. Goyer. The film stars Wesley Snipes in the title role as Blade, a vampire hunter with superhuman strength and agility. The film also stars Stephen Dorff, Kris Kristofferson, and N’Bushe Wright. The film follows Blade as he battles against vampires who are planning to take over the world. Blade is half-human and half-vampire, which gives him the strength and abilities of a vampire but none of their weaknesses. He is aided in his mission by Whistler (Kris Kristofferson), a human who has been helping Blade since he was a child. The film was a commercial success and grossed over $131 million worldwide. It was praised for its action sequences and Snipes’ performance as Blade. The film spawned two sequels, “Blade II” (2002) and “Blade: Trinity” (2004), as well as a television series, “Blade: The Series” (2006).",
+      "universe": "None"
      },
      {
       "id": 36,
@@ -448,7 +483,8 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/tmnAVbpbLIA",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.7a888e5f6f1260ef6a3de877782a2e4a?rik=ciWUmEwpvGFPcg&riu=http%3a%2f%2fes.web.img3.acsta.net%2fr_1280_720%2fmedias%2fnmedia%2f18%2f90%2f03%2f58%2f20077987.jpg&ehk=DX1fgo%2fuOxR5N73oSogV%2bAv9KCUsWrUjpG0v8aQfVEo%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.7a888e5f6f1260ef6a3de877782a2e4a?rik=ciWUmEwpvGFPcg&riu=http%3a%2f%2fes.web.img3.acsta.net%2fr_1280_720%2fmedias%2fnmedia%2f18%2f90%2f03%2f58%2f20077987.jpg&ehk=DX1fgo%2fuOxR5N73oSogV%2bAv9KCUsWrUjpG0v8aQfVEo%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 37,
@@ -460,7 +496,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PrAI51ca9cU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2219_14.jpg",
-      "sinopsis": "Boogeyman 2 is a 2007 American psychological horror film directed by Jeff Betancourt and the sequel to the 2005 film Boogeyman. The film stars Danielle Savre, Matt Cohen, David Gallagher, Mae Whitman, Renee O’Connor and Tobin Bell. The movie follows a young woman who attempts to cure her phobia of the boogeyman by checking herself into a mental health facility, only to realize too late that she is now helplessly trapped with her own greatest fear"
+      "sinopsis": "Boogeyman 2 is a 2007 American psychological horror film directed by Jeff Betancourt and the sequel to the 2005 film Boogeyman. The film stars Danielle Savre, Matt Cohen, David Gallagher, Mae Whitman, Renee O’Connor and Tobin Bell. The movie follows a young woman who attempts to cure her phobia of the boogeyman by checking herself into a mental health facility, only to realize too late that she is now helplessly trapped with her own greatest fear",
+      "universe": "None"
      },
      {
       "id": 38,
@@ -472,7 +509,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Goi2q7VEFGo",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2364_58.jpg",
-      "sinopsis": "Boogeyman is a 2005 American supernatural horror film directed by Stephen Kay and starring Barry Watson, Emily Deschanel, Skye McCole Bartusiak, and Lucy Lawless. The movie follows the haunting tale of a young man traumatized by memories of terrible events he experienced in his childhood bedroom and who, years later, reluctantly returns home to face his fears of a monstrous entity that could be real or merely a figment of his imagination"
+      "sinopsis": "Boogeyman is a 2005 American supernatural horror film directed by Stephen Kay and starring Barry Watson, Emily Deschanel, Skye McCole Bartusiak, and Lucy Lawless. The movie follows the haunting tale of a young man traumatized by memories of terrible events he experienced in his childhood bedroom and who, years later, reluctantly returns home to face his fears of a monstrous entity that could be real or merely a figment of his imagination",
+      "universe": "None"
      },
      {
       "id": 39,
@@ -484,7 +522,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/IszIIFj-fIc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_6833_47.jpg",
-      "sinopsis": "Case 39 is a 2009 American supernatural horror film directed by Christian Alvart and starring Renée Zellweger, Jodelle Ferland, Bradley Cooper and Ian McShane. The movie revolves around Emily Jenkins (Renée Zellweger), a social worker working for a child protection agency living in Oregon who is assigned to investigate the family of Lillith Sullivan (Jodelle Ferland), a troubled ten-year-old girl whose school grades have declined due to an emotional rift with her parents, Edward and Margaret Sullivan"
+      "sinopsis": "Case 39 is a 2009 American supernatural horror film directed by Christian Alvart and starring Renée Zellweger, Jodelle Ferland, Bradley Cooper and Ian McShane. The movie revolves around Emily Jenkins (Renée Zellweger), a social worker working for a child protection agency living in Oregon who is assigned to investigate the family of Lillith Sullivan (Jodelle Ferland), a troubled ten-year-old girl whose school grades have declined due to an emotional rift with her parents, Edward and Margaret Sullivan",
+      "universe": "None"
      },
      {
       "id": 40,
@@ -497,7 +536,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
-      "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama."
+      "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama.",
+      "universe": "Pet Sematary"
      },
      {
       "id": 41,
@@ -510,7 +550,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
-      "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre."
+      "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre.",
+      "universe": "Pet Sematary"
      },
      {
       "id": 42,
@@ -522,7 +563,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/sv9lOK0kc9I",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "Children of the Corn is a 2020 American supernatural slasher film directed by Kurt Wimmer. The movie is about a psychopathic twelve-year-old girl in a small town in Nebraska who recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won’t go along with the plan is the town’s only hope of survival"
+      "sinopsis": "Children of the Corn is a 2020 American supernatural slasher film directed by Kurt Wimmer. The movie is about a psychopathic twelve-year-old girl in a small town in Nebraska who recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won’t go along with the plan is the town’s only hope of survival",
+      "universe": "None"
      },
      {
       "id": 43,
@@ -535,7 +577,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
-      "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective."
+      "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective.",
+      "universe": "Chucky"
      },
      {
       "id": 44,
@@ -548,7 +591,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
-      "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?"
+      "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?",
+      "universe": "Chucky"
      },
      {
       "id": 45,
@@ -561,7 +605,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics."
+      "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics.",
+      "universe": "Chucky"
      },
      {
       "id": 46,
@@ -574,7 +619,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg",
-      "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll"
+      "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll",
+      "universe": "Chucky"
      },
      {
       "id": 47,
@@ -587,7 +633,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0",
-      "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics."
+      "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics.",
+      "universe": "Chucky"
      },
      {
       "id": 48,
@@ -600,7 +647,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg",
-      "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics."
+      "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics.",
+      "universe": "Chucky"
      },
      {
       "id": 49,
@@ -613,7 +661,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg",
-      "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics."
+      "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics.",
+      "universe": "Chucky"
      },
      {
       "id": 50,
@@ -626,7 +675,8 @@ export const data = [
       "clasification": "movie",
       "gender": "none",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg",
-      "sinopsis": "Clinical is a 2017 American horror film directed by Alistair Legrand. The movie stars Vinessa Shaw, Kevin Rahm, India Eisley, and Aaron Stanford. The plot follows Dr. Jane Mathis who is a psychiatrist and an expert at confrontational therapy. Two years prior, she had a patient, Nora Green, who attacked her and attempted suicide in her office. As a result, Dr. Mathis developed PTSD and sleep paralysis, which led her to seek help from Dr. Terry Drummond. She is then assigned to treat Alex, a patient who was horribly disfigured in an accident."
+      "sinopsis": "Clinical is a 2017 American horror film directed by Alistair Legrand. The movie stars Vinessa Shaw, Kevin Rahm, India Eisley, and Aaron Stanford. The plot follows Dr. Jane Mathis who is a psychiatrist and an expert at confrontational therapy. Two years prior, she had a patient, Nora Green, who attacked her and attempted suicide in her office. As a result, Dr. Mathis developed PTSD and sleep paralysis, which led her to seek help from Dr. Terry Drummond. She is then assigned to treat Alex, a patient who was horribly disfigured in an accident.",
+      "universe": "None"
      },
      {
       "id": 51,
@@ -639,7 +689,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0",
-      "sinopsis": "Cloverfield is a 2008 American monster movie directed by Matt Reeves. The movie stars Michael Stahl-David, Mike Vogel, Jessica Lucas, Lizzy Caplan, and T.J. Miller. The plot follows a group of friends who are documenting their farewell party when a monster the size of a skyscraper arrives in New York City. The movie was produced by J. J. Abrams and Bryan Burk and written by Drew Goddard"
+      "sinopsis": "Cloverfield is a 2008 American monster movie directed by Matt Reeves. The movie stars Michael Stahl-David, Mike Vogel, Jessica Lucas, Lizzy Caplan, and T.J. Miller. The plot follows a group of friends who are documenting their farewell party when a monster the size of a skyscraper arrives in New York City. The movie was produced by J. J. Abrams and Bryan Burk and written by Drew Goddard",
+      "universe": "None"
      },
      {
       "id": 52,
@@ -651,7 +702,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PNtZu-3di38",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg",
-      "sinopsis": "Clown is a 2014 American horror movie directed by Jon Watts. The movie stars Andy Powers, Laura Allen, and Peter Stormare. The plot follows a loving father who dons a clown outfit and makeup to perform at his son’s sixth birthday, only to later discover that the costume - red nose and wig included- will not come off and his own personality changes in a horrific fashion."
+      "sinopsis": "Clown is a 2014 American horror movie directed by Jon Watts. The movie stars Andy Powers, Laura Allen, and Peter Stormare. The plot follows a loving father who dons a clown outfit and makeup to perform at his son’s sixth birthday, only to later discover that the costume - red nose and wig included- will not come off and his own personality changes in a horrific fashion.",
+      "universe": "None"
      },
      {
       "id": 53,
@@ -663,7 +715,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/D-BwFr3luqg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg",
-      "sinopsis": "Countdown is a 2019 American supernatural horror film directed and written by Justin Dec. The movie stars Elizabeth Lail, Jordan Calloway, Talitha Bateman, Tichina Arnold, P.J. Byrne, Peter Facinelli, Anne Winters, and Tom Segura. The plot follows a group of people who discover a mobile app that correctly tells its users when they are going to die. The app tells them they have only three days left to live. "
+      "sinopsis": "Countdown is a 2019 American supernatural horror film directed and written by Justin Dec. The movie stars Elizabeth Lail, Jordan Calloway, Talitha Bateman, Tichina Arnold, P.J. Byrne, Peter Facinelli, Anne Winters, and Tom Segura. The plot follows a group of people who discover a mobile app that correctly tells its users when they are going to die. The app tells them they have only three days left to live. ",
+      "universe": "None"
      },
      {
       "id": 54,
@@ -675,7 +728,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ioFvsUtiON8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2152_34.jpg",
-      "sinopsis": "Creep is a 2014 American found footage psychological horror film directed by Patrick Brice. The movie stars Mark Duplass and Brice. The plot follows a videographer who answers a Craigslist ad placed by a man who wants to make a film about himself. The man has terminal brain cancer and wants to leave a video behind for his unborn son. The videographer travels to the man’s cabin in the woods where he discovers that the man is not what he seems."
+      "sinopsis": "Creep is a 2014 American found footage psychological horror film directed by Patrick Brice. The movie stars Mark Duplass and Brice. The plot follows a videographer who answers a Craigslist ad placed by a man who wants to make a film about himself. The man has terminal brain cancer and wants to leave a video behind for his unborn son. The videographer travels to the man’s cabin in the woods where he discovers that the man is not what he seems.",
+      "universe": "None"
      },
      {
       "id": 55,
@@ -687,7 +741,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Ct2O5oyX7FY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25050_47.jpg",
-      "sinopsis": "Crimson Peak is a 2015 American gothic romance film directed by Guillermo del Toro. The movie stars Mia Wasikowska, Tom Hiddleston, Jessica Chastain, Charlie Hunnam, and Jim Beaver. The plot follows an aspiring author who marries a mysterious man and moves into his decaying mansion in the English hills. She discovers that her new home is haunted by ghosts and that her husband is not who he appears to be. "
+      "sinopsis": "Crimson Peak is a 2015 American gothic romance film directed by Guillermo del Toro. The movie stars Mia Wasikowska, Tom Hiddleston, Jessica Chastain, Charlie Hunnam, and Jim Beaver. The plot follows an aspiring author who marries a mysterious man and moves into his decaying mansion in the English hills. She discovers that her new home is haunted by ghosts and that her husband is not who he appears to be. ",
+      "universe": "None"
      },
      {
       "id": 56,
@@ -700,7 +755,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "Critters is a 1986 American science fiction comedy horror film directed by Stephen Herek in his directorial debut. The movie stars Dee Wallace, M. Emmet Walsh, Billy “Green” Bush and Scott Grimes in his film debut. The plot follows a group of small, furry aliens with carnivorous behavior escaping from two shape-shifting bounty hunters and terrorizing a farm town on eart."
+      "sinopsis": "Critters is a 1986 American science fiction comedy horror film directed by Stephen Herek in his directorial debut. The movie stars Dee Wallace, M. Emmet Walsh, Billy “Green” Bush and Scott Grimes in his film debut. The plot follows a group of small, furry aliens with carnivorous behavior escaping from two shape-shifting bounty hunters and terrorizing a farm town on eart.",
+      "universe": "Critters"
      },
      {
       "id": 57,
@@ -712,7 +768,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/nkZR_KknAqY",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&rs=1",
+      "universe": "Critters"
      },
      {
       "id": 58,
@@ -724,7 +781,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/-rAXqSLSCn4",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "Critters"
      },
      {
       "id": 59,
@@ -736,7 +794,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/K8iLp1xQtPQ",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21991_76.jpg",
-      "sinopsis": "Dark Skies is a 2013 American science fiction horror film written and directed by Scott Stewart, produced by Jason Blum under his Blumhouse Productions banner, and starring Keri Russell, Josh Hamilton, Dakota Goyo and J. K. Simmons. The plot follows the Barrett family living in the suburbs as they witness an escalating series of disturbing events involving their family. They come to learn that a terrifying and deadly force is after them, one which may have arrived from beyond the stars."
+      "sinopsis": "Dark Skies is a 2013 American science fiction horror film written and directed by Scott Stewart, produced by Jason Blum under his Blumhouse Productions banner, and starring Keri Russell, Josh Hamilton, Dakota Goyo and J. K. Simmons. The plot follows the Barrett family living in the suburbs as they witness an escalating series of disturbing events involving their family. They come to learn that a terrifying and deadly force is after them, one which may have arrived from beyond the stars.",
+      "universe": "None"
      },
      {
       "id": 60,
@@ -748,7 +807,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/JcpJVEp047Q",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg",
-      "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games."
+      "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games.",
+      "universe": "None"
      },
      {
       "id": 61,
@@ -761,7 +821,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg",
-      "sinopsis": "Ana goes home to her peaceful suburban residence, but she is unpleasantly surprised the morning that follows when her husband is brutally attacked by her zombified neighbor. In the chaos of her once picturesque neighborhood, Ana flees and stumbles upon a police officer named Kenneth, along with more survivors who decide that their best chances of survival would be found in the deserted Crossroads Shopping Mall. When supplies begin running low and other trapped survivors need help, the group comes to the realization that they cannot stay put forever at the Shopping Mall and devise a plan to escape."
+      "sinopsis": "Ana goes home to her peaceful suburban residence, but she is unpleasantly surprised the morning that follows when her husband is brutally attacked by her zombified neighbor. In the chaos of her once picturesque neighborhood, Ana flees and stumbles upon a police officer named Kenneth, along with more survivors who decide that their best chances of survival would be found in the deserted Crossroads Shopping Mall. When supplies begin running low and other trapped survivors need help, the group comes to the realization that they cannot stay put forever at the Shopping Mall and devise a plan to escape.",
+      "universe": "None"
      },
      {
       "id": 62,
@@ -773,7 +834,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/8b_HVtHmK30",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg",
-      "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for."
+      "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for.",
+      "universe": "None"
      },
      {
       "id": 63,
@@ -785,7 +847,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/u2GX_z65k-s",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11857_78.jpg",
-      "sinopsis": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die. Intoxicated with his new godlike abilities, the young man begins to kill those he deems unworthy of life."
+      "sinopsis": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die. Intoxicated with his new godlike abilities, the young man begins to kill those he deems unworthy of life.",
+      "universe": "None"
      },
      {
       "id": 64,
@@ -796,7 +859,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/j1SDtKoTkzc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg",
+      "universe": "None"
      },
      {
       "id": 65,
@@ -809,7 +873,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg",
-      "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world."
+      "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.",
+      "universe": "Predator"
      },
      {
       "id": 66,
@@ -822,7 +887,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg",
-      "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together."
+      "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together.",
+      "universe": "Predator"
      },
      {
       "id": 67,
@@ -835,7 +901,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg",
-      "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet."
+      "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet.",
+      "universe": "Predator"
      },
      {
       "id": 68,
@@ -848,7 +915,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg",
-      "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race."
+      "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
+      "universe": "Predator"
      },
      {
       "id": 69,
@@ -861,7 +929,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg",
-      "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version."
+      "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version.",
+      "universe": "Predator"
      },
      {
       "id": 70,
@@ -874,7 +943,8 @@ export const data = [
       "clasification": "movie",
       "gender": "none",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
-      "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion."
+      "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
+      "universe": "None"
      },
      {
       "id": 71,
@@ -885,7 +955,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/oJe1KnptjZQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25860_53.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25860_53.jpg",
+      "universe": "None"
      },
      {
       "id": 72,
@@ -896,7 +967,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/bEq8Xv4WGwo",
       "clasification": "movie",
-      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg"
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg",
+      "universe": "None"
      },
      {
       "id": 73,
@@ -907,7 +979,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/7biVTgR3n0Y",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41935.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41935.jpg",
+      "universe": "None"
      },
      {
       "id": 74,
@@ -919,7 +992,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/hUA688q72Sg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg",
-      "sinopsis": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They share even less in common when Jennifer mysteriously gains an appetite for human blood after a disastrous fire at a local bar. As Needy's male classmates are steadily killed in gruesome attacks, the young girl must uncover the truth behind her friend's transformation and find a way to stop the bloodthirsty rampage before it reaches her own boyfriend Chip."
+      "sinopsis": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They share even less in common when Jennifer mysteriously gains an appetite for human blood after a disastrous fire at a local bar. As Needy's male classmates are steadily killed in gruesome attacks, the young girl must uncover the truth behind her friend's transformation and find a way to stop the bloodthirsty rampage before it reaches her own boyfriend Chip.",
+      "universe": "None"
      },
      {
       "id": 75,
@@ -931,7 +1005,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/M1JL4xhF_k8",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg",
-      "sinopsis": "On highways across America, a tribe of people called The True Knot travel in search of sustenance. They look harmless: mostly old, lots of polyester, and married to their RVs. But as Dan Torrance knows, and tween Abra Stone learns, The True Knot are quasi-immortal, living off the \"steam\" that children with the \"shining\" produce when they are slowly tortured to death. Haunted by the inhabitants of the Overlook Hotel where he spent one horrific childhood year, Dan has been drifting for decades, desperate to shed his father's legacy of despair, alcoholism, and violence. Finally, he settles in a New Hampshire town, an AA community that sustains him, and a job at a nursing home where his remnant \"shining\" power provides the crucial final comfort to the dying. Aided by a prescient cat, he becomes \"Doctor Sleep.\" Then Dan meets the evanescent Abra Stone, and her spectacular gift, the brightest shining ever seen, reignites Dan's own demons and summons him to a battle for Abra's soul and survival."
+      "sinopsis": "On highways across America, a tribe of people called The True Knot travel in search of sustenance. They look harmless: mostly old, lots of polyester, and married to their RVs. But as Dan Torrance knows, and tween Abra Stone learns, The True Knot are quasi-immortal, living off the \"steam\" that children with the \"shining\" produce when they are slowly tortured to death. Haunted by the inhabitants of the Overlook Hotel where he spent one horrific childhood year, Dan has been drifting for decades, desperate to shed his father's legacy of despair, alcoholism, and violence. Finally, he settles in a New Hampshire town, an AA community that sustains him, and a job at a nursing home where his remnant \"shining\" power provides the crucial final comfort to the dying. Aided by a prescient cat, he becomes \"Doctor Sleep.\" Then Dan meets the evanescent Abra Stone, and her spectacular gift, the brightest shining ever seen, reignites Dan's own demons and summons him to a battle for Abra's soul and survival.",
+      "universe": "None"
      },
      {
       "id": 76,
@@ -944,7 +1019,8 @@ export const data = [
       "clasification": "movie",
       "gender": "muñecos",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg",
-      "sinopsis": "In Mexico, an archaeologist releases the evil spirit of a devil child from a tomb of an ancient tribe called Sanzia that worshiped Satan on Earth and dies in an accident. Immediately after, an American family with two children arrives to live and reactivate a factory of dolls in a site nearby the archaeological field. Elliot Read invested the savings of his family in this business to manufacture dolls. He finds many dolls left by the previous owners of the factory, and gives one of them, which is possessed by the fiend, to his daughter Jessica Read. The girl changes her behavior, speaks an ancient language and the maid tells to the mother Marilyn Read. Meanwhile, the archaeologist Karl Resnick arrives to investigate the finding of his colleague. However, the demon has been already released, threatening the locals and the Read family."
+      "sinopsis": "In Mexico, an archaeologist releases the evil spirit of a devil child from a tomb of an ancient tribe called Sanzia that worshiped Satan on Earth and dies in an accident. Immediately after, an American family with two children arrives to live and reactivate a factory of dolls in a site nearby the archaeological field. Elliot Read invested the savings of his family in this business to manufacture dolls. He finds many dolls left by the previous owners of the factory, and gives one of them, which is possessed by the fiend, to his daughter Jessica Read. The girl changes her behavior, speaks an ancient language and the maid tells to the mother Marilyn Read. Meanwhile, the archaeologist Karl Resnick arrives to investigate the finding of his colleague. However, the demon has been already released, threatening the locals and the Read family.",
+      "universe": "None"
      },
      {
       "id": 77,
@@ -953,7 +1029,8 @@ export const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=1810",
       "year": 2009,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg",
+      "universe": "None"
      },
      {
       "id": 78,
@@ -965,7 +1042,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/uTCasFeRNQY",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0",
-      "sinopsis": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think."
+      "sinopsis": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think.",
+      "universe": "None"
      },
      {
       "id": 79,
@@ -977,7 +1055,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LmoaMTSO1g8",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&rs=1",
-      "sinopsis": "Christine Brown is a loan officer at a bank but is worried about her lot in life. She's in competition with a competent colleague for an assistant manager position and isn't too sure about her status with a boyfriend. Worried that her boss will think less of her if she shows weakness, she refuses a time extension on a loan to an old woman, Mrs. Ganush, who now faces foreclosure and the loss of her house. In retaliation, the old woman place a curse on her which, she subsequently learns, will result in her being taken to hell in a few days time. With the help of a psychic, she tries to rid herself of the demon, but faces several hurdles in the attempt."
+      "sinopsis": "Christine Brown is a loan officer at a bank but is worried about her lot in life. She's in competition with a competent colleague for an assistant manager position and isn't too sure about her status with a boyfriend. Worried that her boss will think less of her if she shows weakness, she refuses a time extension on a loan to an old woman, Mrs. Ganush, who now faces foreclosure and the loss of her house. In retaliation, the old woman place a curse on her which, she subsequently learns, will result in her being taken to hell in a few days time. With the help of a psychic, she tries to rid herself of the demon, but faces several hurdles in the attempt.",
+      "universe": "None"
      },
      {
       "id": 80,
@@ -988,7 +1067,8 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/wG-nmnbTASo",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd88c7dd8003a3f583b9b82782569b39?rik=SvJD27Nw71iekg&riu=http%3a%2f%2fmedia.liveauctiongroup.net%2fi%2f18485%2f20788381_3.jpg%3fv%3d8D1B5F9C541F970&ehk=px1AQyrnH69%2bZwRNtN8TTM2MkXo7rDyRtsXHh1a%2f9k0%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd88c7dd8003a3f583b9b82782569b39?rik=SvJD27Nw71iekg&riu=http%3a%2f%2fmedia.liveauctiongroup.net%2fi%2f18485%2f20788381_3.jpg%3fv%3d8D1B5F9C541F970&ehk=px1AQyrnH69%2bZwRNtN8TTM2MkXo7rDyRtsXHh1a%2f9k0%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 81,
@@ -1000,7 +1080,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/GM1RiidjK1U",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39314_98.jpg",
-      "sinopsis": "Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh's dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh's life or their own?"
+      "sinopsis": "Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh's dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh's life or their own?",
+      "universe": "None"
      },
      {
       "id": 82,
@@ -1011,7 +1092,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/c3GRFq4TdYY",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/88\/86\/59\/20134508.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/88\/86\/59\/20134508.jpg",
+      "universe": "None"
      },
      {
       "id": 83,
@@ -1024,7 +1106,8 @@ export const data = [
       "clasification": "movie",
       "gender": "b_serie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1",
-      "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?"
+      "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?",
+      "universe": "None"
      },
      {
       "id": 84,
@@ -1036,7 +1119,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/021-tHmxjEY",
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 85,
@@ -1049,7 +1133,8 @@ export const data = [
       "clasification": "movie",
       "gender": "posesiones",
       "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
-      "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine."
+      "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine.",
+      "universe": "The Exorcist"
      },
      {
       "id": 86,
@@ -1062,7 +1147,8 @@ export const data = [
       "clasification": "movie",
       "gender": "posesiones",
       "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
-      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas."
+      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
+      "universe": "The Exorcist"
      },
      {
       "id": 87,
@@ -1074,7 +1160,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
+      "universe": "The Exorcist"
      },
      {
       "id": 88,
@@ -1083,7 +1170,8 @@ export const data = [
       "year": 2000,
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "The Exorcist"
      },
      {
       "id": 89,
@@ -1095,7 +1183,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
       "clasification": "movie",
       "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "The Exorcist"
      },
      {
       "id": 90,
@@ -1106,7 +1195,8 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/SzkwtbyiaME",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg",
+      "universe": "None"
      },
      {
       "id": 91,
@@ -1119,7 +1209,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg",
-      "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde."
+      "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde.",
+      "universe": "None"
      },
      {
       "id": 92,
@@ -1131,7 +1222,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/7fcJZqJfdfw",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg",
+      "universe": "None"
      },
      {
       "id": 93,
@@ -1142,7 +1234,8 @@ export const data = [
       "year": 2009,
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1",
+      "universe": "None"
      },
      {
       "id": 94,
@@ -1154,7 +1247,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Ez0rXJfjnsc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg",
-      "sinopsis": "El hoyo es una película española de ciencia ficción y suspense que se estrenó en 2019. Dirigida por Galder Gaztelu-Urrutia, la película narra la historia de Goreng, un hombre que se ofrece voluntario para pasar seis meses en una prisión vertical llamada el Centro de Autogestión Vertical. En esta prisión, los reclusos viven en celdas de dos personas, con un enorme hoyo en el centro por donde baja una plataforma con comida. Los que están en los niveles superiores pueden comer todo lo que quieran, mientras que los que están en los inferiores tienen que conformarse con las sobras o morir de hambre. Cada mes, los reclusos cambian de nivel al azar, lo que les hace enfrentarse a diferentes situaciones de supervivencia, violencia y solidaridad. La película es una crítica a la desigualdad social y al egoísmo humano, así como una reflexión sobre el sentido de la vida y la esperanza."
+      "sinopsis": "El hoyo es una película española de ciencia ficción y suspense que se estrenó en 2019. Dirigida por Galder Gaztelu-Urrutia, la película narra la historia de Goreng, un hombre que se ofrece voluntario para pasar seis meses en una prisión vertical llamada el Centro de Autogestión Vertical. En esta prisión, los reclusos viven en celdas de dos personas, con un enorme hoyo en el centro por donde baja una plataforma con comida. Los que están en los niveles superiores pueden comer todo lo que quieran, mientras que los que están en los inferiores tienen que conformarse con las sobras o morir de hambre. Cada mes, los reclusos cambian de nivel al azar, lo que les hace enfrentarse a diferentes situaciones de supervivencia, violencia y solidaridad. La película es una crítica a la desigualdad social y al egoísmo humano, así como una reflexión sobre el sentido de la vida y la esperanza.",
+      "universe": "None"
      },
      {
       "id": 95,
@@ -1167,7 +1261,8 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg",
-      "sinopsis": "Dos hombres se despiertan encadenados en un baño sucio y abandonado. Entre ellos hay un cadáver con una pistola y una grabadora. Pronto descubren que son víctimas de un sádico asesino que los ha puesto en un juego mortal. Para escapar, tendrán que seguir las pistas que les ha dejado y enfrentarse a sus propios pecados. Mientras tanto, un detective intenta atrapar al criminal antes de que sea demasiado tarde."
+      "sinopsis": "Dos hombres se despiertan encadenados en un baño sucio y abandonado. Entre ellos hay un cadáver con una pistola y una grabadora. Pronto descubren que son víctimas de un sádico asesino que los ha puesto en un juego mortal. Para escapar, tendrán que seguir las pistas que les ha dejado y enfrentarse a sus propios pecados. Mientras tanto, un detective intenta atrapar al criminal antes de que sea demasiado tarde.",
+      "universe": "Saw"
      },
      {
       "id": 96,
@@ -1179,7 +1274,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/nac1avJp3UE",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gGIbEacuiSmsvvNX5RrHLeH0UdS.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gGIbEacuiSmsvvNX5RrHLeH0UdS.jpg",
+      "universe": "Saw"
      },
      {
       "id": 97,
@@ -1191,7 +1287,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/4Ng-59zOAy8",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/i.pinimg.com\/736x\/d5\/8b\/1a\/d58b1ab2dca0d3f186fc5d8a72cedb3e.jpg"
+      "cover": "https:\/\/i.pinimg.com\/736x\/d5\/8b\/1a\/d58b1ab2dca0d3f186fc5d8a72cedb3e.jpg",
+      "universe": "Saw"
      },
      {
       "id": 98,
@@ -1203,7 +1300,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/0YRCXAPDEQM",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.BJwrLycbhWuokG98IbfL9AHaLO?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.BJwrLycbhWuokG98IbfL9AHaLO?pid=ImgDet&rs=1",
+      "universe": "Saw"
      },
      {
       "id": 99,
@@ -1215,7 +1313,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vQ87nw56Gy0",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7820_54.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7820_54.jpg",
+      "universe": "Saw"
      },
      {
       "id": 100,
@@ -1228,7 +1327,8 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/1.bp.blogspot.com\/-9SItSmWUtMo\/XtrEYeLIg0I\/AAAAAAAAB-Q\/3Lwaylq8ySI9rrUoYAcc1CBkKxe1F9ViwCK4BGAsYHg\/s1200\/El%2Borfanato.jpg",
-      "sinopsis": "Laura es una mujer que regresa al orfanato donde creció con la intención de convertirlo en una residencia para niños discapacitados. Junto con su marido Carlos y su hijo Simón, se instala en la antigua casa, donde empiezan a ocurrir extraños sucesos. Simón dice tener amigos invisibles que le cuentan historias sobre el pasado del orfanato y le hacen un juego de pistas para encontrar un tesoro escondido. Laura sospecha que hay algo oscuro detrás de esos juegos y que tal vez tenga que ver con el origen de Simón, quien fue adoptado. Cuando Simón desaparece misteriosamente, Laura hará todo lo posible por encontrarlo, aunque eso signifique enfrentarse a los fantasmas de su propia infancia."
+      "sinopsis": "Laura es una mujer que regresa al orfanato donde creció con la intención de convertirlo en una residencia para niños discapacitados. Junto con su marido Carlos y su hijo Simón, se instala en la antigua casa, donde empiezan a ocurrir extraños sucesos. Simón dice tener amigos invisibles que le cuentan historias sobre el pasado del orfanato y le hacen un juego de pistas para encontrar un tesoro escondido. Laura sospecha que hay algo oscuro detrás de esos juegos y que tal vez tenga que ver con el origen de Simón, quien fue adoptado. Cuando Simón desaparece misteriosamente, Laura hará todo lo posible por encontrarlo, aunque eso signifique enfrentarse a los fantasmas de su propia infancia.",
+      "universe": "None"
      },
      {
       "id": 101,
@@ -1240,7 +1340,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/kxZb5GsqVSo",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg",
+      "universe": "None"
      },
      {
       "id": 102,
@@ -1252,7 +1353,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/BrDomaqytuQ",
       "clasification": "movie",
       "gender": "found_footage",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg",
+      "universe": "None"
      },
      {
       "id": 103,
@@ -1264,7 +1366,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/5U-xXjy8Xfw",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg",
+      "universe": "None"
      },
      {
       "id": 104,
@@ -1276,7 +1379,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/-Nbez_uIpwA",
       "clasification": "movie",
       "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg",
-      "sinopsis": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?"
+      "sinopsis": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?",
+      "universe": "None"
      },
      {
       "id": 105,
@@ -1287,7 +1391,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/efJDWQtUhk8",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.fbd74e1dfe2725af858124f4993ff201?rik=GQhGCqqO8QQl0Q&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.fbd74e1dfe2725af858124f4993ff201?rik=GQhGCqqO8QQl0Q&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 106,
@@ -1299,7 +1404,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YUPVvPlzqbE",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/buried_alive-925257683-large.jpg",
-      "sinopsis": "Tobin Bell (Saw) stars in this terrifying story about a group of lustful college friends on a road trip to a remote desert cabin. As a night of extreme truth-or-dare and wild partying gives way to sheer fright. Directed by legendary make-up effects wizard Robert Kurtzman of From Dusk Till Dawn fame, Buried Alive is a chilling, retro fright-fest packed with sex, shocks and supernatural horror."
+      "sinopsis": "Tobin Bell (Saw) stars in this terrifying story about a group of lustful college friends on a road trip to a remote desert cabin. As a night of extreme truth-or-dare and wild partying gives way to sheer fright. Directed by legendary make-up effects wizard Robert Kurtzman of From Dusk Till Dawn fame, Buried Alive is a chilling, retro fright-fest packed with sex, shocks and supernatural horror.",
+      "universe": "None"
      },
      {
       "id": 107,
@@ -1310,7 +1416,8 @@ export const data = [
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/yy6fQReZNIk",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 108,
@@ -1322,7 +1429,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/pW-PXPpgt0Y",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg",
-      "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?"
+      "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?",
+      "universe": "None"
      },
      {
       "id": 109,
@@ -1335,7 +1443,8 @@ export const data = [
       "clasification": "movie",
       "gender": "found_footage",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg",
-      "sinopsis": "For five friends, it was a chance for a summer getaway - a weekend of camping in the Texas Big Thicket. But visions of a carefree vacation are shattered with an accident on a dark and desolate country road. In the wake of the accident, a bloodcurdling force of nature is unleashed - something not exactly human, but not completely animal - an urban legend come to terrifying life - a Bigfoot seeking murderous revenge for the death of its child."
+      "sinopsis": "For five friends, it was a chance for a summer getaway - a weekend of camping in the Texas Big Thicket. But visions of a carefree vacation are shattered with an accident on a dark and desolate country road. In the wake of the accident, a bloodcurdling force of nature is unleashed - something not exactly human, but not completely animal - an urban legend come to terrifying life - a Bigfoot seeking murderous revenge for the death of its child.",
+      "universe": "None"
      },
      {
       "id": 110,
@@ -1348,7 +1457,8 @@ export const data = [
       "clasification": "movie",
       "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "Fifteen year-old Emma Evans has an argument with her mother Lucy since she wants to go to a concert in London with her friends Rose and Alex. Emma immediately has a convulsion and her family takes her to the hospital, but the doctors do not find any physical problem. Then her father John tries to convince his wife to send Emma to school, instead of homeschooling, but she prefers to keep Emma in the family-based education. Lucy sends her daughter to the psychoanalyst believing that she has psychological problems and Emma asks her friend Rose to record her session of hypnosis though the cellular but the doctor dies during the session. When Emma listens to the tape, she believes she is possessed by the devil and asks her parents to be submitted to an exorcism with her uncle, Priest Christopher Taylor. However her skeptical mother is against the ritual and recalls that Chris was responsible for the death of a teenager, Ana, in the past in an unsuccessful exorcism. But when Emma levitates in the kitchen in front of her family, her parents call Chris."
+      "sinopsis": "Fifteen year-old Emma Evans has an argument with her mother Lucy since she wants to go to a concert in London with her friends Rose and Alex. Emma immediately has a convulsion and her family takes her to the hospital, but the doctors do not find any physical problem. Then her father John tries to convince his wife to send Emma to school, instead of homeschooling, but she prefers to keep Emma in the family-based education. Lucy sends her daughter to the psychoanalyst believing that she has psychological problems and Emma asks her friend Rose to record her session of hypnosis though the cellular but the doctor dies during the session. When Emma listens to the tape, she believes she is possessed by the devil and asks her parents to be submitted to an exorcism with her uncle, Priest Christopher Taylor. However her skeptical mother is against the ritual and recalls that Chris was responsible for the death of a teenager, Ana, in the past in an unsuccessful exorcism. But when Emma levitates in the kitchen in front of her family, her parents call Chris.",
+      "universe": "None"
      },
      {
       "id": 111,
@@ -1360,7 +1470,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ZfoFdlI8dtw",
       "clasification": "movie",
       "gender": "aliens",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27144_67.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27144_67.jpg",
+      "universe": "None"
      },
      {
       "id": 112,
@@ -1371,7 +1482,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/YTiGeU-dRAY",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg",
+      "universe": "None"
      },
      {
       "id": 113,
@@ -1382,7 +1494,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/K65rzy_AApU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39348_25.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39348_25.jpg",
+      "universe": "None"
      },
      {
       "id": 114,
@@ -1393,7 +1506,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/fyvwHp-7TRc",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.aR5ohrck4CUgD8i9m7-0GQHaK9?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.aR5ohrck4CUgD8i9m7-0GQHaK9?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 115,
@@ -1404,7 +1518,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/mW2PlyNHzrY",
       "clasification": "movie",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/lbOLGR2wCnljP6FXnzonpjInm94.jpg"
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/lbOLGR2wCnljP6FXnzonpjInm94.jpg",
+      "universe": "None"
      },
      {
       "id": 116,
@@ -1416,7 +1531,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/-4BqBW8i78Q",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_81_59.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_81_59.jpg",
+      "universe": "None"
      },
      {
       "id": 117,
@@ -1428,7 +1544,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/WDoGsxNyjUM",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.TNn9bNNo9VjNhnZIFmk8dAHaLN?pid=ImgDet&rs=1",
-      "sinopsis": "Gallows Hill es una película de terror sobrenatural dirigida por Víctor García y escrita por Richard D'Ovidio. La trama se centra en una familia estadounidense que viaja a Colombia para recoger a su hija rebelde y llevarla a la boda de su padre. En el camino, sufren un accidente y se refugian en una posada donde descubren que el dueño tiene encerrada a una niña en el sótano. Al liberarla, desatan una fuerza maligna que posee a los habitantes de la posada y amenaza con matarlos a todos."
+      "sinopsis": "Gallows Hill es una película de terror sobrenatural dirigida por Víctor García y escrita por Richard D'Ovidio. La trama se centra en una familia estadounidense que viaja a Colombia para recoger a su hija rebelde y llevarla a la boda de su padre. En el camino, sufren un accidente y se refugian en una posada donde descubren que el dueño tiene encerrada a una niña en el sótano. Al liberarla, desatan una fuerza maligna que posee a los habitantes de la posada y amenaza con matarlos a todos.",
+      "universe": "None"
      },
      {
       "id": 118,
@@ -1439,7 +1556,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/FFzoqmAD-Rg",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8365_81.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8365_81.jpg",
+      "universe": "None"
      },
      {
       "id": 119,
@@ -1450,7 +1568,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/X-tg05cAVwE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31793_51.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31793_51.jpg",
+      "universe": "None"
      },
      {
       "id": 120,
@@ -1461,7 +1580,8 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/BKz3MLLo2HA",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6hxb48yoDA5LV85JWM9qwgHaK8?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6hxb48yoDA5LV85JWM9qwgHaK8?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 121,
@@ -1472,7 +1592,8 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/rxxxzC-bgCs",
       "clasification": "movie",
-      "cover": "https:\/\/movieposterfactory.com\/wp-content\/uploads\/2020\/05\/2002_HO_gin_gwai_1_2003_resultat.jpg"
+      "cover": "https:\/\/movieposterfactory.com\/wp-content\/uploads\/2020\/05\/2002_HO_gin_gwai_1_2003_resultat.jpg",
+      "universe": "None"
      },
      {
       "id": 122,
@@ -1483,7 +1604,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/sSjjEi2A1Tg",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37971.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37971.jpg",
+      "universe": "None"
      },
      {
       "id": 123,
@@ -1494,7 +1616,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/gANfrj-G4D8",
       "clasification": "movie",
-      "cover": "https:\/\/1.bp.blogspot.com\/-ldaXfaOt7Jg\/Vmnrrmp7zWI\/AAAAAAAACE0\/kr5QLhSX_Lo\/s1600\/tumblr_nycubxfdgn1t2kfnqo1_500.jpg"
+      "cover": "https:\/\/1.bp.blogspot.com\/-ldaXfaOt7Jg\/Vmnrrmp7zWI\/AAAAAAAACE0\/kr5QLhSX_Lo\/s1600\/tumblr_nycubxfdgn1t2kfnqo1_500.jpg",
+      "universe": "None"
      },
      {
       "id": 124,
@@ -1505,7 +1628,8 @@ export const data = [
       "year": 2003,
       "trailer": "https:\/\/www.youtube.com\/embed\/RsY-DLztNkg",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.g4pXkW3pQy-ntKB_iKmiMwAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.g4pXkW3pQy-ntKB_iKmiMwAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 125,
@@ -1518,7 +1642,8 @@ export const data = [
       "clasification": "movie",
       "gender": "found_footage",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16162_51.jpg",
-      "sinopsis": "Grave Encounters es una película de terror que se presenta como un falso documental grabado con una cámara de vídeo. La película narra la historia de un equipo de cazadores de fantasmas que se encierra en un antiguo hospital psiquiátrico abandonado, donde se han reportado fenómenos paranormales. Lo que empieza como un programa de televisión se convierte en una pesadilla cuando el hospital revela sus oscuros secretos y los atrapa en un laberinto de terror. Grave Encounters es una película que te hará cuestionar tu propia cordura y te mantendrá al borde del asiento hasta el final."
+      "sinopsis": "Grave Encounters es una película de terror que se presenta como un falso documental grabado con una cámara de vídeo. La película narra la historia de un equipo de cazadores de fantasmas que se encierra en un antiguo hospital psiquiátrico abandonado, donde se han reportado fenómenos paranormales. Lo que empieza como un programa de televisión se convierte en una pesadilla cuando el hospital revela sus oscuros secretos y los atrapa en un laberinto de terror. Grave Encounters es una película que te hará cuestionar tu propia cordura y te mantendrá al borde del asiento hasta el final.",
+      "universe": "None"
      },
      {
       "id": 126,
@@ -1530,7 +1655,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/HIOK1xlrXas",
       "clasification": "movie",
       "gender": "found_footage",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4Thx9-rdGyyzib1MSk7HRQDKEs?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4Thx9-rdGyyzib1MSk7HRQDKEs?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 127,
@@ -1542,7 +1668,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/AUOTJn75I0E",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_646_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_646_58.jpg",
+      "universe": "None"
      },
      {
       "id": 128,
@@ -1554,7 +1681,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/uyKVnEt4eS4",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/2.bp.blogspot.com\/-9YXw1EN1BLU\/XtakKzhg-fI\/AAAAAAAA3_c\/dBeo74FCF8oQxtOgAYnznUJnZK_sKgzFgCPcBGAsYHg\/w500\/wLpckmLTOh6qsESAikxN1rX6dq7.jpg"
+      "cover": "https:\/\/2.bp.blogspot.com\/-9YXw1EN1BLU\/XtakKzhg-fI\/AAAAAAAA3_c\/dBeo74FCF8oQxtOgAYnznUJnZK_sKgzFgCPcBGAsYHg\/w500\/wLpckmLTOh6qsESAikxN1rX6dq7.jpg",
+      "universe": "None"
      },
      {
       "id": 129,
@@ -1567,7 +1695,8 @@ export const data = [
       "clasification": "movie",
       "gender": "creepypasta",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_43545.jpg",
-      "sinopsis": "Grimcutty es una película de terror que se estrenó en 2022 en varias plataformas de streaming. La película está escrita y dirigida por John Ross y producida por 20th Digital Studio. La historia se basa en el fenómeno de internet del meme maldito, una cara siniestra que incita a los jóvenes a hacerse daño o a atacar a sus padres. La protagonista, Asha Chaudhry, es una aspirante a influencer que se enfrenta a la amenaza de Grimcutty, una entidad que puede manifestarse físicamente y que nadie más parece ver. Asha tendrá que luchar por su vida y por su familia mientras intenta descubrir el origen y el propósito de Grimcutty."
+      "sinopsis": "Grimcutty es una película de terror que se estrenó en 2022 en varias plataformas de streaming. La película está escrita y dirigida por John Ross y producida por 20th Digital Studio. La historia se basa en el fenómeno de internet del meme maldito, una cara siniestra que incita a los jóvenes a hacerse daño o a atacar a sus padres. La protagonista, Asha Chaudhry, es una aspirante a influencer que se enfrenta a la amenaza de Grimcutty, una entidad que puede manifestarse físicamente y que nadie más parece ver. Asha tendrá que luchar por su vida y por su familia mientras intenta descubrir el origen y el propósito de Grimcutty.",
+      "universe": "None"
      },
      {
       "id": 130,
@@ -1578,7 +1707,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/vBbN899zxJo",
       "clasification": "serie",
-      "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg",
+      "universe": "None"
      },
      {
       "id": 131,
@@ -1589,7 +1719,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/6NkXEE4my1M",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.dwM_misCJoLmoZ_nRWtFdQHaKn?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.dwM_misCJoLmoZ_nRWtFdQHaKn?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 132,
@@ -1601,7 +1732,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/cjolF4oizV0",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.xQpGKDgkPHifw0mi4U8upgAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.xQpGKDgkPHifw0mi4U8upgAAAA?pid=ImgDet&rs=1",
+      "universe": "Halloween"
      },
      {
       "id": 133,
@@ -1613,7 +1745,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/qGK-9-ZKr2Q",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg",
+      "universe": "Halloween"
      },
      {
       "id": 134,
@@ -1624,7 +1757,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/e0a1Y-Vf3nU",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37684_45.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37684_45.jpg",
+      "universe": "Halloween"
      },
      {
       "id": 135,
@@ -1635,7 +1769,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/LsUZXsTskUs",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.__LhqgZiur8ZcVvfMbhLVwHaLn?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.__LhqgZiur8ZcVvfMbhLVwHaLn?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 136,
@@ -1646,7 +1781,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/huCKjI2ELXA",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23551_77.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23551_77.jpg",
+      "universe": "None"
      },
      {
       "id": 137,
@@ -1658,7 +1794,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/RuB0SEehicA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_88_3.jpg",
-      "sinopsis": "When Kirsty's father, Larry, and stepmother, Julia, move into Larry's childhood home, Kirsty and her boyfriend take a room nearby. Unfortunately for all involved, Larry's house is already occupied: before the family's arrival, Larry's disreputable brother, Frank, used a supernatural puzzle box to summon a gang of other-dimensional demon sadists. Now, Frank requires a series of blood sacrifices to escape the clutches of Pinhead and the cenobites."
+      "sinopsis": "When Kirsty's father, Larry, and stepmother, Julia, move into Larry's childhood home, Kirsty and her boyfriend take a room nearby. Unfortunately for all involved, Larry's house is already occupied: before the family's arrival, Larry's disreputable brother, Frank, used a supernatural puzzle box to summon a gang of other-dimensional demon sadists. Now, Frank requires a series of blood sacrifices to escape the clutches of Pinhead and the cenobites.",
+      "universe": "Hellraiser "
      },
      {
       "id": 138,
@@ -1670,7 +1807,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/lgFo8Rjm7-I",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/hellraiser-255394413-large.jpg",
-      "sinopsis": "A take on Clive Barker's 1987 horror classic where a young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension."
+      "sinopsis": "A take on Clive Barker's 1987 horror classic where a young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
+      "universe": "Hellraiser "
      },
      {
       "id": 139,
@@ -1682,7 +1820,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/0u9pgF40PVE",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_943_24.jpg",
-      "sinopsis": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned."
+      "sinopsis": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned.",
+      "universe": "Hellraiser "
      },
      {
       "id": 140,
@@ -1694,7 +1833,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/20NsHYz9p64",
       "clasification": "movie",
       "cover": "https:\/\/www.imdb.com\/title\/tt1716747\/mediaviewer\/rm682564352\/?ref_=ext_shr_lnk",
-      "sinopsis": "Two best friends, Steven Craven and Nico Bradley, travel to Mexico to have some fun. They meet a vagrant in a bar that gives a puzzle box to Nico. When he opens the device, he finds that it is a key to hell. Nico brings Pinhead that inflicts pain to him and Steven and the youngsters vanish. Later, in Los Angeles, Dr. Ross Craven, his wife Sarah and their daughter Emma receive Peter and Kate Bradley to have dinner. Both families miss Steven and Nico and they hired a private detective to seek them out, but he only finds Nico's backpack. When Emma snoops around the backpack, she finds the puzzle box and out of the blue, Steven returns covered of blood. But soon they discover that it is not Steven's soul that is inside his body."
+      "sinopsis": "Two best friends, Steven Craven and Nico Bradley, travel to Mexico to have some fun. They meet a vagrant in a bar that gives a puzzle box to Nico. When he opens the device, he finds that it is a key to hell. Nico brings Pinhead that inflicts pain to him and Steven and the youngsters vanish. Later, in Los Angeles, Dr. Ross Craven, his wife Sarah and their daughter Emma receive Peter and Kate Bradley to have dinner. Both families miss Steven and Nico and they hired a private detective to seek them out, but he only finds Nico's backpack. When Emma snoops around the backpack, she finds the puzzle box and out of the blue, Steven returns covered of blood. But soon they discover that it is not Steven's soul that is inside his body.",
+      "universe": "Hellraiser "
      },
      {
       "id": 141,
@@ -1707,7 +1847,8 @@ export const data = [
       "clasification": "movie",
       "gender": "terror_psicologico",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/yXAjO0Lj3ZF9qsbsZk6fZzEjTCh.jpg",
-      "sinopsis": "After her mother commits suicide in the bathtub, Emily Callaway is taken to live upstate in new surroundings to forget her traumatic past. Psychologist David, her father, learns that his daughter has a new friend, the enigmatic, never to be seen, imaginary (or not?) Charlie. A deadly game of hide-and-seek ensues. Who is Charlie? And what is troubling David in his dreams?"
+      "sinopsis": "After her mother commits suicide in the bathtub, Emily Callaway is taken to live upstate in new surroundings to forget her traumatic past. Psychologist David, her father, learns that his daughter has a new friend, the enigmatic, never to be seen, imaginary (or not?) Charlie. A deadly game of hide-and-seek ensues. Who is Charlie? And what is troubling David in his dreams?",
+      "universe": "None"
      },
      {
       "id": 142,
@@ -1718,7 +1859,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/bKU2BiWZMuc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17117_36.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17117_36.jpg",
+      "universe": "None"
      },
      {
       "id": 143,
@@ -1730,7 +1872,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/aj_4Hw8c6Yk",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.CyeQwuSCiwrlJZp2yzezYwHaKf?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.CyeQwuSCiwrlJZp2yzezYwHaKf?pid=ImgDet&rs=1",
+      "universe": "Hostel"
      },
      {
       "id": 144,
@@ -1741,7 +1884,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/bqDLbIboA24",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4xqxTiE-7P9PCtouDKR9eQHaK-?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4xqxTiE-7P9PCtouDKR9eQHaK-?pid=ImgDet&rs=1",
+      "universe": "Hostel"
      },
      {
       "id": 145,
@@ -1752,7 +1896,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/H1hoZxgwYtw",
       "clasification": "movie",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w300\/4KrmTQBQhHk0N0KGM6fIbBNbXOo.jpg"
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w300\/4KrmTQBQhHk0N0KGM6fIbBNbXOo.jpg",
+      "universe": "None"
      },
      {
       "id": 146,
@@ -1763,7 +1908,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/I50jQDlPKiA",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg",
+      "universe": "None"
      },
      {
       "id": 147,
@@ -1774,7 +1920,8 @@ export const data = [
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/embed\/uYEZfBbuR_0",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_503_35.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_503_35.jpg",
+      "universe": "None"
      },
      {
       "id": 148,
@@ -1785,7 +1932,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/Wi0LO_H6BOQ",
       "clasification": "movie",
-      "cover": "https:\/\/mz-prod.s3.amazonaws.com\/uploads\/photo\/file\/83339\/original.jpg"
+      "cover": "https:\/\/mz-prod.s3.amazonaws.com\/uploads\/photo\/file\/83339\/original.jpg",
+      "universe": "None"
      },
      {
       "id": 149,
@@ -1796,7 +1944,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/QOt5TFHWJdg",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.fAgUyo25ZW46QcoGn9jqfgHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.fAgUyo25ZW46QcoGn9jqfgHaLH?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 150,
@@ -1807,7 +1956,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/Q_P8WCbhC6s",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31702_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31702_58.jpg",
+      "universe": "None"
      },
      {
       "id": 151,
@@ -1819,7 +1969,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/WtgLFVjWnmA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35423_95.jpg",
-      "sinopsis": "When a 12-year-old boy goes missing, lead investigator Greg Harper (Tenney) struggles to balance the pressure of the investigation and troubles with his wife, Jackie (Hunt). Facing a recent affair, great strain is put on the family that slowly gnaws away at Jackie's grip on reality. But after a malicious presence manifests itself in their home and puts their son, Connor (Lewis), in mortal danger, the cold, hard truth about evil in the Harper household is finally uncovered."
+      "sinopsis": "When a 12-year-old boy goes missing, lead investigator Greg Harper (Tenney) struggles to balance the pressure of the investigation and troubles with his wife, Jackie (Hunt). Facing a recent affair, great strain is put on the family that slowly gnaws away at Jackie's grip on reality. But after a malicious presence manifests itself in their home and puts their son, Connor (Lewis), in mortal danger, the cold, hard truth about evil in the Harper household is finally uncovered.",
+      "universe": "None"
      },
      {
       "id": 152,
@@ -1831,7 +1982,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ucbYBsmmBTk",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30672_19.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30672_19.jpg",
+      "universe": "None"
      },
      {
       "id": 153,
@@ -1842,7 +1994,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/Z06Ozi21rPg",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28003_6.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28003_6.jpg",
+      "universe": "None"
      },
      {
       "id": 154,
@@ -1853,7 +2006,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/zuZnRUcoWos",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/p5HxqSZr6WyXt7ARtK3PPuJehKC.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/p5HxqSZr6WyXt7ARtK3PPuJehKC.jpg",
+      "universe": "Insidious"
      },
      {
       "id": 155,
@@ -1864,7 +2018,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/xMtv4v4ej2I",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17961_61.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17961_61.jpg",
+      "universe": "Insidious"
      },
      {
       "id": 156,
@@ -1875,7 +2030,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/zRcT7xDiYh8",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27879_7.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27879_7.jpg",
+      "universe": "Insidious"
      },
      {
       "id": 157,
@@ -1886,7 +2042,8 @@ export const data = [
       "year": 2018,
       "trailer": "https:\/\/www.youtube.com\/embed\/lUwaosQZkHU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29743_70.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29743_70.jpg",
+      "universe": "Insidious"
      },
      {
       "id": 158,
@@ -1897,7 +2054,8 @@ export const data = [
       "year": 1990,
       "trailer": "https:\/\/www.youtube.com\/embed\/5-8Ht8LQB68",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_255_73.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_255_73.jpg",
+      "universe": "None"
      },
      {
       "id": 159,
@@ -1908,7 +2066,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/nN1CqQgWFCM",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/07\/30\/09\/09\/0763744.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/07\/30\/09\/09\/0763744.jpg",
+      "universe": "None"
      },
      {
       "id": 160,
@@ -1919,7 +2078,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/FnCdOQsX5kc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11567_43.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11567_43.jpg",
+      "universe": "None"
      },
      {
       "id": 161,
@@ -1930,7 +2090,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YnbwFOPzZi0",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/93\/62\/24\/20268042.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/93\/62\/24\/20268042.jpg",
+      "universe": "None"
      },
      {
       "id": 162,
@@ -1941,7 +2102,8 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/UBoGklz1wGM",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_165_75.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_165_75.jpg",
+      "universe": "Jeepers Creepers"
      },
      {
       "id": 163,
@@ -1952,7 +2114,8 @@ export const data = [
       "year": 2003,
       "trailer": "https:\/\/www.youtube.com\/embed\/ONvd2DTx7OU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_212_16.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_212_16.jpg",
+      "universe": "Jeepers Creepers"
      },
      {
       "id": 164,
@@ -1963,7 +2126,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jb2ySdMMHnI",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8239_23.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8239_23.jpg",
+      "universe": "Jeepers Creepers"
      },
      {
       "id": 165,
@@ -1974,7 +2138,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/1vNtpNWi6Lk",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21282_34.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21282_34.jpg",
+      "universe": "None"
      },
      {
       "id": 166,
@@ -1985,7 +2150,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/6vjmhspZRIs",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17966_57.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17966_57.jpg",
+      "universe": "None"
      },
      {
       "id": 167,
@@ -1997,7 +2163,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/dkQSCxC7xC0",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/www.ecartelera.com\/carteles\/9500\/9551\/001_m.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/9500\/9551\/001_m.jpg",
+      "universe": "None"
      },
      {
       "id": 168,
@@ -2008,7 +2175,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/jz3X2h_5pPo",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31464_89.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31464_89.jpg",
+      "universe": "None"
      },
      {
       "id": 169,
@@ -2019,7 +2187,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/h6cVyoMH4QE",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29718_9.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29718_9.jpg",
+      "universe": "None"
      },
      {
       "id": 170,
@@ -2030,7 +2199,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/TpyU0hOqJUI",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_147_26.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_147_26.jpg",
+      "universe": "None"
      },
      {
       "id": 171,
@@ -2041,7 +2211,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/-DnFKwVcM10",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2267_53.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2267_53.jpg",
+      "universe": "None"
      },
      {
       "id": 172,
@@ -2051,7 +2222,8 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/C4Na8PTCbmM",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.SyYovuKrndfeOL9EcPU6ZgHaK-?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.SyYovuKrndfeOL9EcPU6ZgHaK-?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 173,
@@ -2062,7 +2234,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/-b9vpANa7Lo",
       "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-c1OvHsPCIuk\/TsMXOQyFJGI\/AAAAAAAACPM\/rT43xTwFkdc\/s1600\/dama.jpg"
+      "cover": "https:\/\/2.bp.blogspot.com\/-c1OvHsPCIuk\/TsMXOQyFJGI\/AAAAAAAACPM\/rT43xTwFkdc\/s1600\/dama.jpg",
+      "universe": "None"
      },
      {
       "id": 174,
@@ -2073,7 +2246,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/NhkT8W9hXus",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26224_31.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_26224_31.jpg",
+      "universe": "None"
      },
      {
       "id": 175,
@@ -2084,7 +2258,8 @@ export const data = [
       "year": 1996,
       "trailer": "https:\/\/www.youtube.com\/embed\/ukpB6MtLdLA",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 176,
@@ -2096,7 +2271,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/S2CFb2T8so4",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg",
+      "universe": "None"
      },
      {
       "id": 177,
@@ -2108,7 +2284,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/NbHRP43ocWQ",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg",
+      "universe": "None"
      },
      {
       "id": 178,
@@ -2119,7 +2296,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/tuXqAwktYRw",
       "clasification": "movie",
-      "cover": "https:\/\/i.pinimg.com\/originals\/b4\/69\/2f\/b4692f8a962b7348455750084f298fb5.jpg"
+      "cover": "https:\/\/i.pinimg.com\/originals\/b4\/69\/2f\/b4692f8a962b7348455750084f298fb5.jpg",
+      "universe": "None"
      },
      {
       "id": 179,
@@ -2130,7 +2308,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/ilWWFESP3MI",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OsysUFvV9V2btjaBeDEEJAHaK_?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OsysUFvV9V2btjaBeDEEJAHaK_?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 180,
@@ -2142,7 +2321,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/cUoTGnADapU",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12798_83.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12798_83.jpg",
+      "universe": "The Texas Chainsaw Massacre"
      },
      {
       "id": 181,
@@ -2154,7 +2334,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/L5ZipRCX0MA",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ee7fX1Y1ozozUJfvDKG1-QHaKk?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ee7fX1Y1ozozUJfvDKG1-QHaKk?pid=ImgDet&rs=1",
+      "universe": "The Texas Chainsaw Massacre"
      },
      {
       "id": 182,
@@ -2166,7 +2347,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/53q2omQy3xQ",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1_50.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1_50.jpg",
+      "universe": "The Texas Chainsaw Massacre"
      },
      {
       "id": 183,
@@ -2178,7 +2360,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/QLK0wXXayhs",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg"
+      "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg",
+      "universe": "None"
      },
      {
       "id": 184,
@@ -2189,7 +2372,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/ulfj7hyGdck",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg",
+      "universe": "None"
      },
      {
       "id": 185,
@@ -2200,7 +2384,8 @@ export const data = [
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/embed\/HgIgYhaqKeo",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_275_74.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_275_74.jpg",
+      "universe": "None"
      },
      {
       "id": 186,
@@ -2211,7 +2396,8 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/AQHbSm-KAOI",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.AD9nVu0djtfraLQ0OxmVlAHaKf?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.AD9nVu0djtfraLQ0OxmVlAHaKf?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 187,
@@ -2222,7 +2408,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/_E0Hc7CBWs4",
       "clasification": "movie",
-      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg"
+      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg",
+      "universe": "None"
      },
      {
       "id": 188,
@@ -2233,7 +2420,8 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/6QdBiSIgtg4",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.reRORfr5ldDFvBnMArm9JwAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.reRORfr5ldDFvBnMArm9JwAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 189,
@@ -2244,7 +2432,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/K61SoAJ8Uto",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P0OMsZipp2sl-iQFMw6WZgHaKf?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P0OMsZipp2sl-iQFMw6WZgHaKf?pid=ImgDet&rs=1",
+      "universe": "The Hills Have Eyes"
      },
      {
       "id": 190,
@@ -2255,7 +2444,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/xNms2gGtA6c",
       "clasification": "movie",
-      "cover": "https:\/\/i.pinimg.com\/736x\/e0\/f3\/3f\/e0f33ff8c190a0099a4b8267bda6a743.jpg"
+      "cover": "https:\/\/i.pinimg.com\/736x\/e0\/f3\/3f\/e0f33ff8c190a0099a4b8267bda6a743.jpg",
+      "universe": "The Hills Have Eyes"
      },
      {
       "id": 191,
@@ -2265,7 +2455,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/jFdiGLktDME",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34395_100.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34395_100.jpg",
+      "universe": "None"
      },
      {
       "id": 192,
@@ -2276,7 +2467,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/6LiKKFZyhRU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30819_29.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30819_29.jpg",
+      "universe": "None"
      },
      {
       "id": 193,
@@ -2287,7 +2479,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/UYfy8pYXXko",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.c5cd42a41fdbadc0d736f0c904825e91?rik=2V%2f667hZb89dgQ&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.c5cd42a41fdbadc0d736f0c904825e91?rik=2V%2f667hZb89dgQ&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 194,
@@ -2299,7 +2492,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/nbLk_gI5Vdw",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.ecartelera.com\/carteles\/3900\/3917\/002_m.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/3900\/3917\/002_m.jpg",
+      "universe": "None"
      },
      {
       "id": 195,
@@ -2310,7 +2504,8 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/vON5kiGf1TI",
       "clasification": "movie",
-      "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png"
+      "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png",
+      "universe": "None"
      },
      {
       "id": 196,
@@ -2322,7 +2517,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/WgtaQZr6YiM",
       "clasification": "movie",
       "gender": "gore",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 197,
@@ -2333,7 +2529,8 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/JXeyML5OWys",
       "clasification": "movie",
-      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg"
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg",
+      "universe": "None"
      },
      {
       "id": 198,
@@ -2344,7 +2541,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/eRs1V0rTmTU",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_94_48.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_94_48.jpg",
+      "universe": "None"
      },
      {
       "id": 199,
@@ -2355,7 +2553,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/e2nVUrq0iN4",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_18773_64.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_18773_64.jpg",
+      "universe": "None"
      },
      {
       "id": 200,
@@ -2366,7 +2565,8 @@ export const data = [
       "year": 2020,
       "trailer": "https:\/\/www.youtube.com\/embed\/oPiPthUHvVs",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/09\/09\/09\/26\/3456681.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/09\/09\/09\/26\/3456681.jpg",
+      "universe": "None"
      },
      {
       "id": 201,
@@ -2377,7 +2577,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/nKpO33zE6PM",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/21\/07\/21\/10\/02\/4825275.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/21\/07\/21\/10\/02\/4825275.jpg",
+      "universe": "None"
      },
      {
       "id": 202,
@@ -2388,7 +2589,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/pf0fBSnj3RY",
       "clasification": "movie",
-      "cover": "https:\/\/img.moviesrankings.com\/t\/p\/w1280\/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg"
+      "cover": "https:\/\/img.moviesrankings.com\/t\/p\/w1280\/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+      "universe": "None"
      },
      {
       "id": 203,
@@ -2399,7 +2601,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/q99hib0zS2M",
       "clasification": "serie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg",
+      "universe": "None"
      },
      {
       "id": 204,
@@ -2410,7 +2613,8 @@ export const data = [
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/u_O9OEC_1gQ",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/2139c968ef85156d2a6ef5df9c8c39eac61164ee9c3339017a42f103b6da4dd9._RI_TTW_.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/2139c968ef85156d2a6ef5df9c8c39eac61164ee9c3339017a42f103b6da4dd9._RI_TTW_.jpg",
+      "universe": "None"
      },
      {
       "id": 205,
@@ -2422,7 +2626,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/jmrfoOyoswE",
       "clasification": "serie",
       "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3841_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3841_93.jpg",
+      "universe": "None"
      },
      {
       "id": 206,
@@ -2433,7 +2638,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/fBrWgL061Kk",
       "clasification": "movie",
-      "cover": "https:\/\/www.ecartelera.com\/carteles\/2300\/2330\/001_m.jpg"
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/2300\/2330\/001_m.jpg",
+      "universe": "None"
      },
      {
       "id": 207,
@@ -2444,7 +2650,8 @@ export const data = [
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/hVP6sBN07L8",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_136_76.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_136_76.jpg",
+      "universe": "None"
      },
      {
       "id": 208,
@@ -2456,7 +2663,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vUuI1KXSmJI",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_40686_83.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_40686_83.jpg",
+      "universe": "None"
      },
      {
       "id": 209,
@@ -2466,7 +2674,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/tuLJrNqhlPc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29254_17.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29254_17.jpg",
+      "universe": "None"
      },
      {
       "id": 210,
@@ -2477,7 +2686,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/nwLfy8Akw3c",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19860_93.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19860_93.jpg",
+      "universe": "None"
      },
      {
       "id": 211,
@@ -2488,7 +2698,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/PaN0PV85URA",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22215_74.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22215_74.jpg",
+      "universe": "None"
      },
      {
       "id": 212,
@@ -2499,7 +2710,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YopomjfMIEg",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17042_64.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17042_64.jpg",
+      "universe": "None"
      },
      {
       "id": 213,
@@ -2512,7 +2724,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg",
-      "sinopsis": "“Paranormal Activity” is a 2007 American supernatural horror film produced, written, directed, photographed and edited by Oren Peli. It centers on a young couple (Katie Featherston and Micah Sloat) who are haunted by a supernatural presence inside their home. They then set up a camera to document what is haunting them. The movie was made on a budget of $15,000 and grossed over $193 million worldwide .The film was shot over the course of seven days in Oren Peli’s own house. The film was initially screened at the Screamfest Film Festival in 2007 and was released in the United States on September 25, 2009. The film was praised for its realistic portrayal of supernatural events and its use of found footage. The film has spawned several sequels and spin-offs."
+      "sinopsis": "“Paranormal Activity” is a 2007 American supernatural horror film produced, written, directed, photographed and edited by Oren Peli. It centers on a young couple (Katie Featherston and Micah Sloat) who are haunted by a supernatural presence inside their home. They then set up a camera to document what is haunting them. The movie was made on a budget of $15,000 and grossed over $193 million worldwide .The film was shot over the course of seven days in Oren Peli’s own house. The film was initially screened at the Screamfest Film Festival in 2007 and was released in the United States on September 25, 2009. The film was praised for its realistic portrayal of supernatural events and its use of found footage. The film has spawned several sequels and spin-offs.",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 214,
@@ -2520,7 +2733,8 @@ export const data = [
       "optional_title": "Actividad Paranomal (Final Alternativo)",
       "year": 2007,
       "clasification": "movie",
-      "gender": "paranormal"
+      "gender": "paranormal",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 215,
@@ -2532,7 +2746,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/NPN4-OIGds8",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/7673270068f2d30557cd97936f77d590f746e3b49afdb1a9b3821ddf6f095bcc._RI_TTW_.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/7673270068f2d30557cd97936f77d590f746e3b49afdb1a9b3821ddf6f095bcc._RI_TTW_.jpg",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 216,
@@ -2543,7 +2758,8 @@ export const data = [
       "year": 2011,
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/pics.filmaffinity.com\/paranormal_activity_3-756156690-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/paranormal_activity_3-756156690-large.jpg",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 217,
@@ -2555,7 +2771,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/UN0906LwLvI",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/06\/24\/13\/52\/528288.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/06\/24\/13\/52\/528288.jpg",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 218,
@@ -2567,7 +2784,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/yQzAk8LpOog",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23650_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23650_58.jpg",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 219,
@@ -2579,7 +2797,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/OKQYhfI0j70",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg",
+      "universe": "Paranormal Activity"
      },
      {
       "id": 220,
@@ -2590,7 +2809,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/gwjzmY-YVrk",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_14657_53.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_14657_53.jpg",
+      "universe": "None"
      },
      {
       "id": 221,
@@ -2601,7 +2821,8 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/a9zfBcp6AxA",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/xwzdR3KecnAUtZSPNCfuRq2q4j5.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/xwzdR3KecnAUtZSPNCfuRq2q4j5.jpg",
+      "universe": "None"
      },
      {
       "id": 222,
@@ -2612,7 +2833,8 @@ export const data = [
       "year": 1994,
       "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg",
+      "universe": "None"
      },
      {
       "id": 223,
@@ -2623,7 +2845,8 @@ export const data = [
       "year": 1984,
       "trailer": "https:\/\/www.youtube.com\/embed\/lNa_xB20YhA",
       "clasification": "movie",
-      "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg"
+      "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg",
+      "universe": "Freddy"
      },
      {
       "id": 224,
@@ -2634,7 +2857,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/v1iXrlFV4Ls",
       "clasification": "movie",
-      "cover": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSExMVFhUXFRYYFhUYFRgaGBgYFhcXFhgYFxcYHSggGBolGxgXIjEhJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIARIAuAMBIgACEQEDEQH\/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj\/xABCEAABAwIEBAMFBgUCAwkAAAABAAIRAyEEEjFBBSJRYQYTcTKBkaGxQlJiwdHwBxQjcuGSojOC8RUkQ1Nzg7LC0v\/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIEBf\/EADARAAEEAQIDBwQCAwEBAAAAAAEAAgMRIRIxIkFhBBNRcYGR8DKhscHR4SNC8WIU\/9oADAMBAAIRAxEAPwDx3C1RK2P56I3Np\/6rmmuhWqFYkgbzbb57JL47NrbFOKo7rsqFSRfpfp3WJxPirZLaV+ryJHo0H\/5H4brPxmOJHltPL9o\/fP8A+eg957Z2ZUjgrJRJ2jk355fynVHkkkkknUnUrqfAGEFStVds2lp3Lm\/oVy1KmXGAJJXo3g\/hZwtGpUqGHVMojoBMe8k\/JR2x4bEReTsjsUbjKHVgfwsLxFw4BxI7rBeyPVdNxfEBziubxlQSohLiACtfaA1vEoHhSOxcMcxos6JPoZhVC5RrTp8VzTKRYbzU9B8E+kJGqFOlTSoH4AU7fVTUnXsqYcpqVRVITo5Ba0qhkJzGR6pmGqAtj9+5SUyTayQbC6bSDRXbeE60R8\/osz+IdBjsSHTDjSZaNSJGvWAFBwfiQpNk+6+pWTxzHGs4vdqfkskcThMXck+RzXR0Vl1cOdgY6ptKlF0udw3sreH5+h6zJ+S3kkBc5rWOdjBVvh1eZHTVN4zWccrzPMCHT95v1sW\/NW8JSOhHwFkniWmBhmxtV19Wun6BZ2kd4Oq1y2IifDK5iq+ShRIW4YXDcbNlItHCsAo1Kh1ltNvq6S4\/6Wx\/zLOWlheajUZN2ltQDqBLXR6BwPoCqv29laPf0P4WeBK0OH8MfVcGtb++6TBmmINRxIn2QL\/FbVPxLTpCKVH3uP5Jcj37MFrTDHEOKR3otzg\/D6eHuYc7YxuLwFDxHjRuDv8AqucxPies7QNb6D9VnPxr3mXXPXdZm9mcTqeth7ZEBTPwtLG17kz1WLUfKkq1CVXK2MbQWDtE2s0kQhCusyEIQhCE4FNQhCs0K5BVhtadFQCmp1cuio5q0RSkYJwtIVbDWVDVqSq382eib55PRUDCtLu1Mqgr9NjTqhtGLtN+yqeY7\/CcTpdRpKuJGu5fpbGG4vlEVBf70k\/JReJMTy06W96jhuM4AY07g5RmjbOq4eKJD3tDniS2m4WEjle+\/eQ3te2uXWque4ucSXEkknUk3JKGRDVqCV2jtBLdH\/fVQoQhPWBPLVPhMQ6m9r2mC0yP0PUHQjoVJVpQSoC1VDrT3RFpwrGNpD22ew7QfdOpYe426hUVZoV8sjVp9pux\/QjYpa9EDmaZb8COxHVSFRwvIVVOBTmsJ2\/YUalU2T8yYUIQglIhCEKEIQhCEIQhCEJUIQhKlalY0kwNSrmHoN1eeUdN+1vyUEq7W2oqNyABJmwGp7K55zaJkQaw3gFtPUEQfad8hG6r1MVB\/pjJ3HtdNdlQUab3VzIRgKR7iSSSSTck7lRoQrJKUITmoQpAtaWMdc7XWeXKxWcq7gEtgoLXO7OEk2VvAG\/1GoPYjcKkFcwOoUv+lKiy5bTmWbyghoAgWMTpI1tI6+qx8TQbmJbOUm06jsfRbocLd1q0+DNqxa53Fj\/nfVZ2yUtTmBy4ephyBKhLF6FS8LVfM8pjW1A4wM\/LcjqLE9NLlc7xLw\/VovdTqAU3tIGV7mgmdMrpynrqmtkBSXQjcLni1MVzE0S0wR7iq5YmgpDmEFRpU4NRCFSk1CdCt4XB55JexgG7yb+gaCT8Nwi1ICpKRtJxiAbmBbU9B1Kt0cAXGJnXQHbT0n49l6T4Y4LSZRDuVlQU3mrnJJDXFuUyfZ00EDnSpJmsCfF2Zz+i41vhetTpGpXBp3AbTjmdaTm+6ACLaydlmVcKTrYbDp6L1XxHh31PaaA7IwODfZDsozR2mfguMx2ByAzqElszjkrQYWDAXNnCAAlUH6rZrG0LHqap8ZJ3SJ2gAUo0IQmrKnNKE1CFNlTvMpmVSvbGiQP3VR0TnDPEoi0qbDGCo3nqntMEKTkKjOF1rosK3MQu04C5oAI13XB4SroGkTYDout4FhnEgNBJJ0Ek29FhcKW8ZXpHCaQcGuESCCDGsGVxv8TqBbVLnA5KvLBFs7JNjsYIPvPS\/Y4GsMPSLqzoyCS0XPXQbrlPF\/E2Ymk1xa5tOtTNUSIJ8t+RxbNiWyHSNROqW02bCY1jm5Oy8n4jhyw29km0\/Q94IWeXLuzwzzsG8wA6g1r5iM9PPAeD3ZUHrkXDVWwSOhIW+N1rD2huk2FcxDHMazMxoJmNZgwRN1f8N4M1qoGVsNBJ2mNr6kkhU8djTWYyfaYA0jqBMH5wr3hXHjDufWdOVo9mfbd9lvxuT0HdQ69J8VDa1jwScSwGJY4MeSGFhe2ZgtAN+x2WSCQMxuZtN+83W74g8UPxWUZYAa4RqefLLRvHL8ysV7HCBB1O2sWCluquJS7TfDn5+lHhqpDpGs6916f4PyGi6hWeM1Sm+pUfmEsAEgQdAA3Sw5yvOGABpMCTZvaNT3\/yvRPAvgt+Lw9dxqmk4shnLm9pwLs+8HJEC8JM41LRBwA38tdfxCoypTbUpmWumD1XEcfpSnnF4rAZKNekH025swaZEWgsIAc066zqZUrHUsbAw1X+oZ\/pVOV3oHDlP1WcYF79Vrkizwe3NcTjmRPUWWE\/VdBx2m+m806jHMeNWuEH1HUd1gvC2RbZXO7RyCiQnQmpyyIQhCEK21smEtSllTwz9+q1uDeGMVi3f0qTiLy+IbaftG02hJLwMk0Ft09MrDZTn6\/qtfhnAK1Yg06T3C3siddJ6e9eicG\/h3Qw48zGVwSbeWHBrZ1jPvYbbLWPirDUmZMI0BoBMNGVkNgvLjvAMdyVmf2vViMX15K7IK3WDwH+HEZXYqoGAwTTZd\/tWBd7LZt1W9xfi1HAgUqDGtlrjIyl7hMRmc7N8j7lz1TxA41HOec33ae1wHiQbGCAO5lcF4i4jVrVXF+gmADIAknXcm5J6qrI3yO4ynh7Yhqq\/Bd1juMnEYeqGBzZBGZzgXuDRPQMpsiLxfTusXDcXqY\/DuwtU\/1KDGvw0ACG02ZKlP0c3KfUd1y2ArlnPJgT6TFvVWsJiTRcagAiox9N4jRrwAY73F\/VPEWmwPRTJN3jWv8AfyPP38PNdl4F41mo4jC1QIGFqNLnaxTzvA0mBmcNfsjuvP8AimDNKo6mQ4ERIcIIkA3G2v0W9heJ5C3FNAc4TTrj70g5Xmd3NkTuWk6lHi7Cvcf5h2pLWG4OfIwNFUQbAho13E7qzOF56rHKNTK5rlgChwKcG90sDckp9rPpx\/a2PD2EBzExpYXzDoQdBve+mij4hhnPe3eRoBYNEAR2+qkbXhpyjoH9OzY1vFzsPVXTWNRpAEQMszFyJN9IEfmkEm7WtrG6dPwrV8McFaQKtQHke2BaNTEg9JJ9QvauCVGYd1WWhrA4AnQQRMnoNvcV51wLDUnMafMGVwe5roIDgxzQSAegmB+S2MH4hp1WYihiKjTTvSD5ExkAIJG4PznosT5Ha9XgtTmBzaR49oZWmrmbbmZ+xYrz3w5g2PxgeCACQ4DQTMk9rjruouN8YqMaKHmebRAyhzHE2acpudJtOyq4Y+WWupOu4Sxx9l0G7Z2MD1+avHEWtPVa4XN1C92198fdem+J\/wCVrQ3EANkWcWTcieWq32TF4OvvXHcU\/hdiMnm4WozENMmAcrgIkATZ3xWXU4055yguouzWnmpwZsRFmgaRYX6ruODeKxTBp5mOqMAblEg5nOGfKNCALwPuqOOKqVO0RxvZgjHzz9wF47jMI+m4sqMcxw1a4EEe4quQvfeK8Y4fjaUYpjCCKZaZ5xngAtcL7u\/0lcdxb+GILnHB4gP0LadSzogEjPodRFloZ2th+rC5T+zO5BeZQkW3xrw3icKf61MtvEgEg2BkOAgjX4FC1AgiwsxYWmiF6bwbwrg8EGvruFatIkT\/AE2yCdIvoe6zuL\/xCLeSiMrSPZaA0DS3vMrG41xWpULiXMII0Eahp6DWJ9zh1XKYp0ku3N9Ov7PwXNi7PrOqU2V1pJAwUxbmO8T1qwh7y7mzDsbN6a21Wc7GRbQzrqYIJMev5rIe5IHFbWxtGyyOnK1ziJ5iSYAAGlpNu0KQY1zQ7LHObkta49bSLLG8w6fvVT03Ezce9BarNk1YpFWo7QkmIgbDpZNZXjMHfai3pe6TEmDZV3ukq4ApLkeWu3z8C0MPiRTz7ktgaQdJzAi9p+K1MdxgVsG2n9qm64JMhsWLZMEfZO9mdFzTwQbpso0A5SzMRYpSZkgTJRKslarWphi0MBvmBP0EW+KMbjZaKNP2ZJc77xMf7RA+CzjVJETbontxDgCBYHWLKunNpplBGn55Lo8J4ldSIpgB9NgysnlgaE951jqoMTi2xUguyvcTBi0uJ1HRxHulYeY73CmaY1u069kvu2haI5zvXr4X+lZOIIplrohwAB6QZ23soWOIbljM0mQOh\/VKIYY9pp0+sJrKg0AiR177K3krEkkWc1XifK9iDfykGsRYOM79p\/NS4F1Y1WPbLnUyC0kbAyNVXc4S4Ge3xvPzV3A8QFOJaCJM9XA6Qdo\/ModYB0hKsOcNTsDwO3zdPqPe1zqpNyTnaLNbOmWLQF03hri9QkukS24zH7RcLzsfrp0XH47iJe7l5WkRlHrurWBxNi2TeD8I3F9YMTslvjLmcSdG9veVHt+V6zgfE4cMj8rpDhBkgwbWINon0QvMX1XCHNJmXHT89Z0SLEeyX9JWsy6cOas\/FY+dB8h1\/wAKnUqkhLUYoaq6TQFzppHm7KC5NlMQr0suopxKeKijQhQCQnlyakQhF2llNQhSqpEJUIQnM1T2PAPZRJwCgqzSRsnCoUrXfvugH6oJsOt0K3qlfU6Wv9EjT6zKeyMp6i6GVNLDf9\/vqoU1kElTnHOPtNadLlo0AgbKvlT3s0AcCCfSD3SuBtO+9vTZRjkm24\/Vn2\/SgIhSUql02p0TGBTulWQ7C0WVpt8UKHD3QlmgugwucL3SvfmVetZK2qo6j5V2iisksgc3qo0IQrrMhCVIhCEspEIRaEISIUJwCCEApSUKcUhEoASuaoRRSKTIYnZRypmVrEXugpjdN8SawwbDUEfJLRFwm9I6fNWAJt8Le79VBKlgs5TsSQ7LFiLHvpH5qEDZDZ2\/eyYSoATHPs6uZTXulIEZkkqyQTat4UXA7oUNIoSy3K2xSNDchQlIlToTLWCk1CUhIEKapIhCWFKikiE6E1CCEIV3C4FzyJLWD7zzHwGp9wW3R4fhaYk08TiXdmGnT+UuPxCqXAbqwYSuaaJsLnYK3guGVqri2nSe9waXFrWknKIBMepHxXQh2Lj+nhBRZ0ZTDXFukFzud1idSouB+JcRw5xFNhph0Zg9nM6NJLhpc2FlUPsY\/IVjHpOfwQslvBawGZ9M02zGer\/TbPQZ4zHsJKtv8L4iM1MMxDetCo2qR6sYc497VX49xX+YquqxlzAEtkkZhrlknKOwsqFN7mwRIi4I\/Iq2VGLSOYQSCIIMEGxB0IITFvUfFlYgNr5cQ0aCuxtUj0e7nb\/yuCa2tg6vtUqmHd96k7zGevlVTm+FRRatXhlYc3lS06nff6LWd4eLr4etSr\/hzeXU6\/8ADqxmPZhcsqvh303ZKjHMdu1zS0\/A3U4KjLTnCRpvHuTXfL9hNJ+aQ6KUWmEpEiFKUrVATAjUoWjwnDANNV3sNnNb7s2+bdOqEpz6NBdGGMaAXEBY4TolMldLwzhNNuHOJxAOWTkaHR5hiwsJAmTP\/VWe8NFlZoYnSnS3lkk7AdVzzwpaeCqG4Y6ImYgfE2V7hVHz8TTpt\/p5qjQHNJlt7EHr0PVdJxarQo1HUxh3VACP6kuqRYZol0Z5vPoFUvIwFPdhxJvC4w4RwMHKPVzfyKlp4VmrqgHoCf0V7E8Xpmww7Rbf9Iv\/AJKz62IaRAYBpEfOeqsC47ilFRjnfupMlIXzFw72kxsBNverHD8dQp8xpZ3BvKCeXN1dufSwWOVNQwz3+wxzvRpP0UloO6WJCNgtN\/iKubNcGDpTaGD\/AGhUa\/EKrzLqjye7ifzTm8LrH7BHrA+qkHDCPaexvvk\/p81UCMZFK\/8Amd4\/hQ0sfUaIDj8fyWpQ8V4hoAkOERDrg+oNlU\/7Ppf+ePWBHwmUyphKI0rz\/wC2f1UERu3H2Ujvm8\/uFrv8Q4Z7YqYGkXblhNOf9MFXuC8J4fiwWMrVsPVJ5WvLalOToLNDvn8Vy7qFEf8AjE+lM\/mQuu8GcHwdWswjEva8EECA24S3gMbYJHv+1dmp5pwHpV\/Zc\/xvw5icI7\/vFJwbNni7HCdWu0v0MFZQeL8vzIIX0Njg5rfLqNLmb8stcCNRHsx1iF4d4ow7G4p7aZDm9Wtyj0jYxGiIZ9ZohRJDoGoG1QpVWjQkdj+o\/RdLwrjLyzy3htWmNGOaKjR6NM5fUQVz+KwVgWySBBH0KoNcQZEgjfdM0h2UOc+I6XhdwzgOExA\/pk4d\/YmpSPYtcc7fXM70WFxvw3iMMQajJYTaqzmpmfxag9nAFR8P49UYYcBUH4pDvc8X+Mhem+DvElMlradQybHD1i2HdmuPK4fApb3vjychWaxkn0ryB+GIEwq4C9k\/iB4eZiefDMFOsLuoxAf\/AGdHdt9uh8mw+GJqhhBBzQQbEEG4PRXilDwSlSxU4AblXMbXyUadIWzDM+N5Jyj4X+CFW4u+az40Byj0aMv5JExgwqzO1PPTA9Plq1wzBg88ZiGlzad+aD6aala\/HHnEUqYY7lpN5gGwwXuQYuQSR7llUM1EF5Bu3LtBzSC2ZtYaCVfp4iKJY1rmsMDXYEumd7uj\/okPu9Xsuh2cNruzixne+h9fasUszgeKFKsx5AOV030keyTa4DoMdl1dPxEarMkMHMHOqZ4kkA5TrclpI9npc3PFVuVxPw\/VVy0phYHZKyd4Y+HzXQ8WoYd1Qhrso7FrjIiSCDBbM77Fc85sbpiRXa2hSTJJrN0p6VQDYTseinPEakQHEDoLKin5D0UkA7qGvcMBTvxtQ2L3Ef3FQSVIynOpAVii2m3WHepsosDZXDHP3PufhVSnTJMAEnoBKnOAqjWlU\/0O\/RWDxCJyAN\/tt9IUlHjlVohp95mVBLuQ91Ijj5u9gs3ynfdPwK0uDU67KjXsYbEG4gH3myhqcWrH7ZHoohi3TLnF2mt\/qg6iKofPZDe7Drs\/YfyvUj4te1oc9wGVnsZg4axoLgWNwV5tUxpq4g1XAcxvGg2nTRR4vFuq2EwNlTktNjHolRQht+JTZZjYI2BXQPLcxyuA5jIm2p+0dDHSQbKLH8PzGQMrobM2uZiRFjbax2Kz8BicgeD7L25TAE6g2n3\/ALgi7Tr52k7TB3LBqbTzN\/D6m21i0g4VmzNeNLvb5sso0XN1CXz4XSYek2qA115mYNxm0eJ9pvzHRc\/j8A+k4tcNDr1GxClrw40d0TQOhaHMNg\/ZbfCfGNenDKv9akLBrjzt\/sqaj0Mjst+t5ONcMRRdmrtEwQBUfAsyq3RzhtUFjoYtHEVqDfLa8SDmIg72nMP0vqEuHe6nTL2ktcXAAgkEb2IVHRNOW4O3\/UQve1\/FkAavHbIr15KOlTEl1SYk23Lp0SqLFYp9Rxe8y4mSep623QnFpOUls4YKa0HqRZK3MVVD2NYWwGGXPLibv\/D7IMWt0vNor8SrtyiI6QLQ0E29Tqo6lQNlhi0e7qTOp\/fQqlicTmi1hMJQZkLXJKGtcOZ9\/gTq+JDmhsaE3321+CrZyJE66\/VMcklOApc97y42d0iFo4CvTDS2oyZNiAJAcC1xk7ixA6hPqVqLhoGksOjdH+YHbDTJI\/RSqLMBTpWp51DMTALczS0ZL+XJzMN\/aiIPbUSlpVcNyy10jJmkSDDXAx6ktOn2UKVkSlBV7C1qQzZ2yM7SIF8snMAbRaOnuT6damHsloLcpbUhusl3M0bENLelx8RQs7MkWqa9E6tuR92MrjTeHE9RnLXCNAPcWYmtRNOGth+aZjbSNff7kKVnAJVsfzdAzyRr9nl9khpG4vEjS07wKmJrUiwZGEPhsnbQZova7f8AcUIwoKeIjQfv0SOqZjzH99lo1MThyHckHm0Ag8pDSN2mYkaWneANr4fNJaS2RAyxA8wGO5ySD16qKCsXuOCsl7tB0T6NYtMtMFX216EDM37JFhBzZyQZ\/tDW\/wDMTqntrYYOnKSA55iNWuDsovplIZ8ShVUdLGw4GSRc9w43Nx3lXcbixWp8xAI0A63t6LNxZplrcmoDp5Yk5zGunKRudPearHwqGMXa0M7QQ3SdlrVWmo1jBENmG6QCTO97xeyTF4FwpkNgtZzOvzXIEkdBOqzW13A6\/Ndj4LY3EPq03nmfRewdbtjft+SXI4xt1chn590+KpSWjc4+ewXDoV\/G8LqUiczTAMZhBHvjQ9ihPBB2KwljhghR4qtmcYBDdhvHfqVUKCkUgUhzi42UJ0bpFaq4iWBkaez2P2p9fyQgAEGzy+fPGvMWsZgQGZ2GQAzON2FwF+7STZQ4em00qriLtyZTJ3MFWcViH0a+YcpyU7HQjy2SD1EKStSYaVWrSs12QFm7DmG+7SlAkAXzpdWSGN0shYAC3vNTT0a4Bzb9CW\/6nI4do3YIOZhxTbD6uaTfZ5H0uq9SpSaSGsDwPtOLhm7gNIyhaVOv5TcFUIMN82e4LyDHucs\/HcOfTcYGdk8r23BHqN0NOc9fyf6UTRERh8bRfBq4boGNhBqiOJxdZrcAWLogNNxZFOJMObmcRciI367pnFKbW1ajGiAHkC\/QxuruIpx\/LckOIJdDYLucx\/thR8XxdVteqA+o0Z3QJItKGmzjwPM+PqiaFrYHGTB1MyGjnHdVgDr1zSTEtY1tBxZOZri4ZzzEOLRvyiyKbaZovqeU2WvYAMz4ObNP2uyOLyaeHLsxOV8k7850Kbhmn+Urf+pS\/wDugfSD1\/asQ0docwNFd2XZa3fuQ68g1nPn5p+Aw9OrUjL5bch3J5tGm+2YhZr6ZBLSLgwR30VzAtPlV3DTy2g++o39FfqVGua3FkDMBlc371UWa6OmWHe4oLtJ6bev9qg7OyaFvJ2Xk0K0ai00AAODSCBzt3NUeK4MUvLAkks5\/wC4OcC33ae5LhsBmoud9uC5rfwMs8\/P\/Y5T4nDOfQomLg1BfUlz5H1KmfW8mq0eW2GCJ5pcy7XmCYMku23UajVA5z9j+0\/\/AOWPvjJIzTGQzxxrYLN5y3i3xqrmqHBqLX1A1wkFrzqR7LHO29ElGi19J7gMrqeU6mCCcu+hV\/A4N1LGZMpgebHcGm8g\/AqDDRWZ5QAZUmWgWFTsZ3F49SguG42wfylR9mqPu3ga7lbVZJDWUAa5OJI8duahoU2eQ+oWyWvYNSPaDjt6KpWeCZaMo6TN4vr3WphW1G4epAcD51Pa\/sv2VHHNqF2Z4MkC5EacoMbaKzTk55\/oJPaYdMMZA\/1BPCB\/s4WXb3gCqrqqS6bwHiS3F0x1kfELmFseFq2TFUnX9sC2t0TC43DoVn7G7TOw9R911HFMJU8t+Ja3mbUyVWkEhw2OX4A\/HdIncC4011erRqQaVVxDs2kXHqDp8ELAZDHhzb\/j+l0HjU4lrsZ\/K8+QlQumuMkTgU1CEKSo8nUkqenhyY2zTAnWP89VUVlmJIA0toYuJ6KFdpaTx\/Pg+9crUlai8AybCN5Bm1ldxjDTEsa8AspnOHOiXNaTPxcFnOxJII2JmO\/borOOrMecwc7\/AIbGxGpY1rdZ05ZVc2LWtj4xG8t+rFWRY+oGj4fTdUUcS5KnLPs03STJ5mNcb+9HFMNlDHAyHNE9nQC5p73B96MZVpvObO72WCMu7GNb10spzxFuapYlhIcwdHMHKSNxEgqBeCnyCF75Q5wALuE3dfUdgdjgHzB5KvjaRaGSSZBzDo5pPL7hCkotApZ4zcxDhmIyiBlMDrzX7KB9YOpNBJzNc\/3h0HXrMp+DqMa5j5Mg3Zlme09wjNJQezvcUAQNyOGwLObsjNjnmqO0uEDHCocrgGMzRn1Jc1txHdR0mMLajsp5QyBmOpIBumYKq0CpNszIEDfM0\/CyMLiA1lVskFwZBHZ0mVObNdP0o7xjms1V9L7w3fj08h\/5ryBV1t69JgqPyP8ALkZrtzRae0qGhRzVaTHte2XAXJmCYtOibSxjPNp1TILXNLoGuXcdyoMLUaHsJc7KD9kXjtfVVo0fL+VoM8bntsggyXvjTwb3ZA+rwrO6mfWyjmY8axzkdOyMaxjHZQ0zlYQ7Nu5rXfmqlYNgZXE67RCl4jVa58tNsrBcR7LQ38lashZDL\/icDV22vpOKddECt6TaeKINy4j+4odiXGRmMbSSVUQrUFn759VaFc4aD5tOJnOIjXXZU1JS1HqEEWCFEZ0uB8CPyrrcQ+niC4Eh7Xm+8glIouIOmq89TKFTQ1wBITjIY3OaDzP5VVIhCYsycwSQFa\/k\/wAY\/fvU+JoNpOGV7XS3fb\/SoxiT+G\/qoUp9BobLZad5PfZTCPwbBVX4wx9nXvspP5jqWz8tEITjTafuJAQ2Jy3t9f1UP84QTZpv7rCPgn0cUN4BPa2289kIU+YfhufzA\/ymeS38H7Cc14gc7LD97pPN0GZmn021QhJRqAj7M+nonkj8Oh\/RBqD77Nen+Uhqg3zM1+luqEJHvDbnLdK0ASCW3Jv6pr64H2mm+w7a69vmkc8OA52t30HfuhCktb2P2N0xu\/s9Nv2E7zBcZ26x9DOvc\/BVm4lxEWHfe3vQhWC4X9n9yiq+1g0mewUDarhq4H1j9U52IOvL+\/ehCWqzPE5W6qMYIffH796VuKJMw0H3pRiT+H5oRhUnC6atKiGVCS8gQLQYG86hUKkSY0m3opUJ9Z0mewQo5QhWJs2moQhCqhCEIQhCEIQhCEIQrWDa01GioYaXDMe03K0KuHoiq1rnNY3LLwHF7Q6\/KHtzaiL3jMeixUKpFrRHO1jaLAcg56cvLHiOd3ir2LogPqZSC1ryBzaiTETciBqtGvh6Pm0wMgBpuLmh8jzA1+UF+YwC4N3FjeFgIRp6qWTsaSSwGyD5UboY2Iwei0cdRaHuyEZQGH2gbkCQ0\/aAJPuCt06FE1QOWPKDgw1CGmpA5S8m153Giw0I09UNnaHF2gGzdepNDpmtiMZB2VvHNaKjgwy3Mcp6j81UQhSAkOOok1XRCEIUqqEIQhCEIQhCEIQhCVCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQv\/Z"
+      "cover": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSExMVFhUXFRYYFhUYFRgaGBgYFhcXFhgYFxcYHSggGBolGxgXIjEhJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIARIAuAMBIgACEQEDEQH\/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj\/xABCEAABAwIEBAMFBgUCAwkAAAABAAIRAyEEEjFBBSJRYQYTcTKBkaGxQlJiwdHwBxQjcuGSojOC8RUkQ1Nzg7LC0v\/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIEBf\/EADARAAEEAQIDBwQCAwEBAAAAAAEAAgMRIRIxIkFhBBNRcYGR8DKhscHR4SNC8WIU\/9oADAMBAAIRAxEAPwDx3C1RK2P56I3Np\/6rmmuhWqFYkgbzbb57JL47NrbFOKo7rsqFSRfpfp3WJxPirZLaV+ryJHo0H\/5H4brPxmOJHltPL9o\/fP8A+eg957Z2ZUjgrJRJ2jk355fynVHkkkkknUnUrqfAGEFStVds2lp3Lm\/oVy1KmXGAJJXo3g\/hZwtGpUqGHVMojoBMe8k\/JR2x4bEReTsjsUbjKHVgfwsLxFw4BxI7rBeyPVdNxfEBziubxlQSohLiACtfaA1vEoHhSOxcMcxos6JPoZhVC5RrTp8VzTKRYbzU9B8E+kJGqFOlTSoH4AU7fVTUnXsqYcpqVRVITo5Ba0qhkJzGR6pmGqAtj9+5SUyTayQbC6bSDRXbeE60R8\/osz+IdBjsSHTDjSZaNSJGvWAFBwfiQpNk+6+pWTxzHGs4vdqfkskcThMXck+RzXR0Vl1cOdgY6ptKlF0udw3sreH5+h6zJ+S3kkBc5rWOdjBVvh1eZHTVN4zWccrzPMCHT95v1sW\/NW8JSOhHwFkniWmBhmxtV19Wun6BZ2kd4Oq1y2IifDK5iq+ShRIW4YXDcbNlItHCsAo1Kh1ltNvq6S4\/6Wx\/zLOWlheajUZN2ltQDqBLXR6BwPoCqv29laPf0P4WeBK0OH8MfVcGtb++6TBmmINRxIn2QL\/FbVPxLTpCKVH3uP5Jcj37MFrTDHEOKR3otzg\/D6eHuYc7YxuLwFDxHjRuDv8AqucxPies7QNb6D9VnPxr3mXXPXdZm9mcTqeth7ZEBTPwtLG17kz1WLUfKkq1CVXK2MbQWDtE2s0kQhCusyEIQhCE4FNQhCs0K5BVhtadFQCmp1cuio5q0RSkYJwtIVbDWVDVqSq382eib55PRUDCtLu1Mqgr9NjTqhtGLtN+yqeY7\/CcTpdRpKuJGu5fpbGG4vlEVBf70k\/JReJMTy06W96jhuM4AY07g5RmjbOq4eKJD3tDniS2m4WEjle+\/eQ3te2uXWque4ucSXEkknUk3JKGRDVqCV2jtBLdH\/fVQoQhPWBPLVPhMQ6m9r2mC0yP0PUHQjoVJVpQSoC1VDrT3RFpwrGNpD22ew7QfdOpYe426hUVZoV8sjVp9pux\/QjYpa9EDmaZb8COxHVSFRwvIVVOBTmsJ2\/YUalU2T8yYUIQglIhCEKEIQhCEIQhCEJUIQhKlalY0kwNSrmHoN1eeUdN+1vyUEq7W2oqNyABJmwGp7K55zaJkQaw3gFtPUEQfad8hG6r1MVB\/pjJ3HtdNdlQUab3VzIRgKR7iSSSSTck7lRoQrJKUITmoQpAtaWMdc7XWeXKxWcq7gEtgoLXO7OEk2VvAG\/1GoPYjcKkFcwOoUv+lKiy5bTmWbyghoAgWMTpI1tI6+qx8TQbmJbOUm06jsfRbocLd1q0+DNqxa53Fj\/nfVZ2yUtTmBy4ephyBKhLF6FS8LVfM8pjW1A4wM\/LcjqLE9NLlc7xLw\/VovdTqAU3tIGV7mgmdMrpynrqmtkBSXQjcLni1MVzE0S0wR7iq5YmgpDmEFRpU4NRCFSk1CdCt4XB55JexgG7yb+gaCT8Nwi1ICpKRtJxiAbmBbU9B1Kt0cAXGJnXQHbT0n49l6T4Y4LSZRDuVlQU3mrnJJDXFuUyfZ00EDnSpJmsCfF2Zz+i41vhetTpGpXBp3AbTjmdaTm+6ACLaydlmVcKTrYbDp6L1XxHh31PaaA7IwODfZDsozR2mfguMx2ByAzqElszjkrQYWDAXNnCAAlUH6rZrG0LHqap8ZJ3SJ2gAUo0IQmrKnNKE1CFNlTvMpmVSvbGiQP3VR0TnDPEoi0qbDGCo3nqntMEKTkKjOF1rosK3MQu04C5oAI13XB4SroGkTYDout4FhnEgNBJJ0Ek29FhcKW8ZXpHCaQcGuESCCDGsGVxv8TqBbVLnA5KvLBFs7JNjsYIPvPS\/Y4GsMPSLqzoyCS0XPXQbrlPF\/E2Ymk1xa5tOtTNUSIJ8t+RxbNiWyHSNROqW02bCY1jm5Oy8n4jhyw29km0\/Q94IWeXLuzwzzsG8wA6g1r5iM9PPAeD3ZUHrkXDVWwSOhIW+N1rD2huk2FcxDHMazMxoJmNZgwRN1f8N4M1qoGVsNBJ2mNr6kkhU8djTWYyfaYA0jqBMH5wr3hXHjDufWdOVo9mfbd9lvxuT0HdQ69J8VDa1jwScSwGJY4MeSGFhe2ZgtAN+x2WSCQMxuZtN+83W74g8UPxWUZYAa4RqefLLRvHL8ysV7HCBB1O2sWCluquJS7TfDn5+lHhqpDpGs6916f4PyGi6hWeM1Sm+pUfmEsAEgQdAA3Sw5yvOGABpMCTZvaNT3\/yvRPAvgt+Lw9dxqmk4shnLm9pwLs+8HJEC8JM41LRBwA38tdfxCoypTbUpmWumD1XEcfpSnnF4rAZKNekH025swaZEWgsIAc066zqZUrHUsbAw1X+oZ\/pVOV3oHDlP1WcYF79Vrkizwe3NcTjmRPUWWE\/VdBx2m+m806jHMeNWuEH1HUd1gvC2RbZXO7RyCiQnQmpyyIQhCEK21smEtSllTwz9+q1uDeGMVi3f0qTiLy+IbaftG02hJLwMk0Ft09MrDZTn6\/qtfhnAK1Yg06T3C3siddJ6e9eicG\/h3Qw48zGVwSbeWHBrZ1jPvYbbLWPirDUmZMI0BoBMNGVkNgvLjvAMdyVmf2vViMX15K7IK3WDwH+HEZXYqoGAwTTZd\/tWBd7LZt1W9xfi1HAgUqDGtlrjIyl7hMRmc7N8j7lz1TxA41HOec33ae1wHiQbGCAO5lcF4i4jVrVXF+gmADIAknXcm5J6qrI3yO4ynh7Yhqq\/Bd1juMnEYeqGBzZBGZzgXuDRPQMpsiLxfTusXDcXqY\/DuwtU\/1KDGvw0ACG02ZKlP0c3KfUd1y2ArlnPJgT6TFvVWsJiTRcagAiox9N4jRrwAY73F\/VPEWmwPRTJN3jWv8AfyPP38PNdl4F41mo4jC1QIGFqNLnaxTzvA0mBmcNfsjuvP8AimDNKo6mQ4ERIcIIkA3G2v0W9heJ5C3FNAc4TTrj70g5Xmd3NkTuWk6lHi7Cvcf5h2pLWG4OfIwNFUQbAho13E7qzOF56rHKNTK5rlgChwKcG90sDckp9rPpx\/a2PD2EBzExpYXzDoQdBve+mij4hhnPe3eRoBYNEAR2+qkbXhpyjoH9OzY1vFzsPVXTWNRpAEQMszFyJN9IEfmkEm7WtrG6dPwrV8McFaQKtQHke2BaNTEg9JJ9QvauCVGYd1WWhrA4AnQQRMnoNvcV51wLDUnMafMGVwe5roIDgxzQSAegmB+S2MH4hp1WYihiKjTTvSD5ExkAIJG4PznosT5Ha9XgtTmBzaR49oZWmrmbbmZ+xYrz3w5g2PxgeCACQ4DQTMk9rjruouN8YqMaKHmebRAyhzHE2acpudJtOyq4Y+WWupOu4Sxx9l0G7Z2MD1+avHEWtPVa4XN1C92198fdem+J\/wCVrQ3EANkWcWTcieWq32TF4OvvXHcU\/hdiMnm4WozENMmAcrgIkATZ3xWXU4055yguouzWnmpwZsRFmgaRYX6ruODeKxTBp5mOqMAblEg5nOGfKNCALwPuqOOKqVO0RxvZgjHzz9wF47jMI+m4sqMcxw1a4EEe4quQvfeK8Y4fjaUYpjCCKZaZ5xngAtcL7u\/0lcdxb+GILnHB4gP0LadSzogEjPodRFloZ2th+rC5T+zO5BeZQkW3xrw3icKf61MtvEgEg2BkOAgjX4FC1AgiwsxYWmiF6bwbwrg8EGvruFatIkT\/AE2yCdIvoe6zuL\/xCLeSiMrSPZaA0DS3vMrG41xWpULiXMII0Eahp6DWJ9zh1XKYp0ku3N9Ov7PwXNi7PrOqU2V1pJAwUxbmO8T1qwh7y7mzDsbN6a21Wc7GRbQzrqYIJMev5rIe5IHFbWxtGyyOnK1ziJ5iSYAAGlpNu0KQY1zQ7LHObkta49bSLLG8w6fvVT03Ezce9BarNk1YpFWo7QkmIgbDpZNZXjMHfai3pe6TEmDZV3ukq4ApLkeWu3z8C0MPiRTz7ktgaQdJzAi9p+K1MdxgVsG2n9qm64JMhsWLZMEfZO9mdFzTwQbpso0A5SzMRYpSZkgTJRKslarWphi0MBvmBP0EW+KMbjZaKNP2ZJc77xMf7RA+CzjVJETbontxDgCBYHWLKunNpplBGn55Lo8J4ldSIpgB9NgysnlgaE951jqoMTi2xUguyvcTBi0uJ1HRxHulYeY73CmaY1u069kvu2haI5zvXr4X+lZOIIplrohwAB6QZ23soWOIbljM0mQOh\/VKIYY9pp0+sJrKg0AiR177K3krEkkWc1XifK9iDfykGsRYOM79p\/NS4F1Y1WPbLnUyC0kbAyNVXc4S4Ge3xvPzV3A8QFOJaCJM9XA6Qdo\/ModYB0hKsOcNTsDwO3zdPqPe1zqpNyTnaLNbOmWLQF03hri9QkukS24zH7RcLzsfrp0XH47iJe7l5WkRlHrurWBxNi2TeD8I3F9YMTslvjLmcSdG9veVHt+V6zgfE4cMj8rpDhBkgwbWINon0QvMX1XCHNJmXHT89Z0SLEeyX9JWsy6cOas\/FY+dB8h1\/wAKnUqkhLUYoaq6TQFzppHm7KC5NlMQr0suopxKeKijQhQCQnlyakQhF2llNQhSqpEJUIQnM1T2PAPZRJwCgqzSRsnCoUrXfvugH6oJsOt0K3qlfU6Wv9EjT6zKeyMp6i6GVNLDf9\/vqoU1kElTnHOPtNadLlo0AgbKvlT3s0AcCCfSD3SuBtO+9vTZRjkm24\/Vn2\/SgIhSUql02p0TGBTulWQ7C0WVpt8UKHD3QlmgugwucL3SvfmVetZK2qo6j5V2iisksgc3qo0IQrrMhCVIhCEspEIRaEISIUJwCCEApSUKcUhEoASuaoRRSKTIYnZRypmVrEXugpjdN8SawwbDUEfJLRFwm9I6fNWAJt8Le79VBKlgs5TsSQ7LFiLHvpH5qEDZDZ2\/eyYSoATHPs6uZTXulIEZkkqyQTat4UXA7oUNIoSy3K2xSNDchQlIlToTLWCk1CUhIEKapIhCWFKikiE6E1CCEIV3C4FzyJLWD7zzHwGp9wW3R4fhaYk08TiXdmGnT+UuPxCqXAbqwYSuaaJsLnYK3guGVqri2nSe9waXFrWknKIBMepHxXQh2Lj+nhBRZ0ZTDXFukFzud1idSouB+JcRw5xFNhph0Zg9nM6NJLhpc2FlUPsY\/IVjHpOfwQslvBawGZ9M02zGer\/TbPQZ4zHsJKtv8L4iM1MMxDetCo2qR6sYc497VX49xX+YquqxlzAEtkkZhrlknKOwsqFN7mwRIi4I\/Iq2VGLSOYQSCIIMEGxB0IITFvUfFlYgNr5cQ0aCuxtUj0e7nb\/yuCa2tg6vtUqmHd96k7zGevlVTm+FRRatXhlYc3lS06nff6LWd4eLr4etSr\/hzeXU6\/8ADqxmPZhcsqvh303ZKjHMdu1zS0\/A3U4KjLTnCRpvHuTXfL9hNJ+aQ6KUWmEpEiFKUrVATAjUoWjwnDANNV3sNnNb7s2+bdOqEpz6NBdGGMaAXEBY4TolMldLwzhNNuHOJxAOWTkaHR5hiwsJAmTP\/VWe8NFlZoYnSnS3lkk7AdVzzwpaeCqG4Y6ImYgfE2V7hVHz8TTpt\/p5qjQHNJlt7EHr0PVdJxarQo1HUxh3VACP6kuqRYZol0Z5vPoFUvIwFPdhxJvC4w4RwMHKPVzfyKlp4VmrqgHoCf0V7E8Xpmww7Rbf9Iv\/AJKz62IaRAYBpEfOeqsC47ilFRjnfupMlIXzFw72kxsBNverHD8dQp8xpZ3BvKCeXN1dufSwWOVNQwz3+wxzvRpP0UloO6WJCNgtN\/iKubNcGDpTaGD\/AGhUa\/EKrzLqjye7ifzTm8LrH7BHrA+qkHDCPaexvvk\/p81UCMZFK\/8Amd4\/hQ0sfUaIDj8fyWpQ8V4hoAkOERDrg+oNlU\/7Ppf+ePWBHwmUyphKI0rz\/wC2f1UERu3H2Ujvm8\/uFrv8Q4Z7YqYGkXblhNOf9MFXuC8J4fiwWMrVsPVJ5WvLalOToLNDvn8Vy7qFEf8AjE+lM\/mQuu8GcHwdWswjEva8EECA24S3gMbYJHv+1dmp5pwHpV\/Zc\/xvw5icI7\/vFJwbNni7HCdWu0v0MFZQeL8vzIIX0Njg5rfLqNLmb8stcCNRHsx1iF4d4ow7G4p7aZDm9Wtyj0jYxGiIZ9ZohRJDoGoG1QpVWjQkdj+o\/RdLwrjLyzy3htWmNGOaKjR6NM5fUQVz+KwVgWySBBH0KoNcQZEgjfdM0h2UOc+I6XhdwzgOExA\/pk4d\/YmpSPYtcc7fXM70WFxvw3iMMQajJYTaqzmpmfxag9nAFR8P49UYYcBUH4pDvc8X+Mhem+DvElMlradQybHD1i2HdmuPK4fApb3vjychWaxkn0ryB+GIEwq4C9k\/iB4eZiefDMFOsLuoxAf\/AGdHdt9uh8mw+GJqhhBBzQQbEEG4PRXilDwSlSxU4AblXMbXyUadIWzDM+N5Jyj4X+CFW4u+az40Byj0aMv5JExgwqzO1PPTA9Plq1wzBg88ZiGlzad+aD6aala\/HHnEUqYY7lpN5gGwwXuQYuQSR7llUM1EF5Bu3LtBzSC2ZtYaCVfp4iKJY1rmsMDXYEumd7uj\/okPu9Xsuh2cNruzixne+h9fasUszgeKFKsx5AOV030keyTa4DoMdl1dPxEarMkMHMHOqZ4kkA5TrclpI9npc3PFVuVxPw\/VVy0phYHZKyd4Y+HzXQ8WoYd1Qhrso7FrjIiSCDBbM77Fc85sbpiRXa2hSTJJrN0p6VQDYTseinPEakQHEDoLKin5D0UkA7qGvcMBTvxtQ2L3Ef3FQSVIynOpAVii2m3WHepsosDZXDHP3PufhVSnTJMAEnoBKnOAqjWlU\/0O\/RWDxCJyAN\/tt9IUlHjlVohp95mVBLuQ91Ijj5u9gs3ynfdPwK0uDU67KjXsYbEG4gH3myhqcWrH7ZHoohi3TLnF2mt\/qg6iKofPZDe7Drs\/YfyvUj4te1oc9wGVnsZg4axoLgWNwV5tUxpq4g1XAcxvGg2nTRR4vFuq2EwNlTktNjHolRQht+JTZZjYI2BXQPLcxyuA5jIm2p+0dDHSQbKLH8PzGQMrobM2uZiRFjbax2Kz8BicgeD7L25TAE6g2n3\/ALgi7Tr52k7TB3LBqbTzN\/D6m21i0g4VmzNeNLvb5sso0XN1CXz4XSYek2qA115mYNxm0eJ9pvzHRc\/j8A+k4tcNDr1GxClrw40d0TQOhaHMNg\/ZbfCfGNenDKv9akLBrjzt\/sqaj0Mjst+t5ONcMRRdmrtEwQBUfAsyq3RzhtUFjoYtHEVqDfLa8SDmIg72nMP0vqEuHe6nTL2ktcXAAgkEb2IVHRNOW4O3\/UQve1\/FkAavHbIr15KOlTEl1SYk23Lp0SqLFYp9Rxe8y4mSep623QnFpOUls4YKa0HqRZK3MVVD2NYWwGGXPLibv\/D7IMWt0vNor8SrtyiI6QLQ0E29Tqo6lQNlhi0e7qTOp\/fQqlicTmi1hMJQZkLXJKGtcOZ9\/gTq+JDmhsaE3321+CrZyJE66\/VMcklOApc97y42d0iFo4CvTDS2oyZNiAJAcC1xk7ixA6hPqVqLhoGksOjdH+YHbDTJI\/RSqLMBTpWp51DMTALczS0ZL+XJzMN\/aiIPbUSlpVcNyy10jJmkSDDXAx6ktOn2UKVkSlBV7C1qQzZ2yM7SIF8snMAbRaOnuT6damHsloLcpbUhusl3M0bENLelx8RQs7MkWqa9E6tuR92MrjTeHE9RnLXCNAPcWYmtRNOGth+aZjbSNff7kKVnAJVsfzdAzyRr9nl9khpG4vEjS07wKmJrUiwZGEPhsnbQZova7f8AcUIwoKeIjQfv0SOqZjzH99lo1MThyHckHm0Ag8pDSN2mYkaWneANr4fNJaS2RAyxA8wGO5ySD16qKCsXuOCsl7tB0T6NYtMtMFX216EDM37JFhBzZyQZ\/tDW\/wDMTqntrYYOnKSA55iNWuDsovplIZ8ShVUdLGw4GSRc9w43Nx3lXcbixWp8xAI0A63t6LNxZplrcmoDp5Yk5zGunKRudPearHwqGMXa0M7QQ3SdlrVWmo1jBENmG6QCTO97xeyTF4FwpkNgtZzOvzXIEkdBOqzW13A6\/Ndj4LY3EPq03nmfRewdbtjft+SXI4xt1chn590+KpSWjc4+ewXDoV\/G8LqUiczTAMZhBHvjQ9ihPBB2KwljhghR4qtmcYBDdhvHfqVUKCkUgUhzi42UJ0bpFaq4iWBkaez2P2p9fyQgAEGzy+fPGvMWsZgQGZ2GQAzON2FwF+7STZQ4em00qriLtyZTJ3MFWcViH0a+YcpyU7HQjy2SD1EKStSYaVWrSs12QFm7DmG+7SlAkAXzpdWSGN0shYAC3vNTT0a4Bzb9CW\/6nI4do3YIOZhxTbD6uaTfZ5H0uq9SpSaSGsDwPtOLhm7gNIyhaVOv5TcFUIMN82e4LyDHucs\/HcOfTcYGdk8r23BHqN0NOc9fyf6UTRERh8bRfBq4boGNhBqiOJxdZrcAWLogNNxZFOJMObmcRciI367pnFKbW1ajGiAHkC\/QxuruIpx\/LckOIJdDYLucx\/thR8XxdVteqA+o0Z3QJItKGmzjwPM+PqiaFrYHGTB1MyGjnHdVgDr1zSTEtY1tBxZOZri4ZzzEOLRvyiyKbaZovqeU2WvYAMz4ObNP2uyOLyaeHLsxOV8k7850Kbhmn+Urf+pS\/wDugfSD1\/asQ0docwNFd2XZa3fuQ68g1nPn5p+Aw9OrUjL5bch3J5tGm+2YhZr6ZBLSLgwR30VzAtPlV3DTy2g++o39FfqVGua3FkDMBlc371UWa6OmWHe4oLtJ6bev9qg7OyaFvJ2Xk0K0ai00AAODSCBzt3NUeK4MUvLAkks5\/wC4OcC33ae5LhsBmoud9uC5rfwMs8\/P\/Y5T4nDOfQomLg1BfUlz5H1KmfW8mq0eW2GCJ5pcy7XmCYMku23UajVA5z9j+0\/\/AOWPvjJIzTGQzxxrYLN5y3i3xqrmqHBqLX1A1wkFrzqR7LHO29ElGi19J7gMrqeU6mCCcu+hV\/A4N1LGZMpgebHcGm8g\/AqDDRWZ5QAZUmWgWFTsZ3F49SguG42wfylR9mqPu3ga7lbVZJDWUAa5OJI8duahoU2eQ+oWyWvYNSPaDjt6KpWeCZaMo6TN4vr3WphW1G4epAcD51Pa\/sv2VHHNqF2Z4MkC5EacoMbaKzTk55\/oJPaYdMMZA\/1BPCB\/s4WXb3gCqrqqS6bwHiS3F0x1kfELmFseFq2TFUnX9sC2t0TC43DoVn7G7TOw9R911HFMJU8t+Ja3mbUyVWkEhw2OX4A\/HdIncC4011erRqQaVVxDs2kXHqDp8ELAZDHhzb\/j+l0HjU4lrsZ\/K8+QlQumuMkTgU1CEKSo8nUkqenhyY2zTAnWP89VUVlmJIA0toYuJ6KFdpaTx\/Pg+9crUlai8AybCN5Bm1ldxjDTEsa8AspnOHOiXNaTPxcFnOxJII2JmO\/borOOrMecwc7\/AIbGxGpY1rdZ05ZVc2LWtj4xG8t+rFWRY+oGj4fTdUUcS5KnLPs03STJ5mNcb+9HFMNlDHAyHNE9nQC5p73B96MZVpvObO72WCMu7GNb10spzxFuapYlhIcwdHMHKSNxEgqBeCnyCF75Q5wALuE3dfUdgdjgHzB5KvjaRaGSSZBzDo5pPL7hCkotApZ4zcxDhmIyiBlMDrzX7KB9YOpNBJzNc\/3h0HXrMp+DqMa5j5Mg3Zlme09wjNJQezvcUAQNyOGwLObsjNjnmqO0uEDHCocrgGMzRn1Jc1txHdR0mMLajsp5QyBmOpIBumYKq0CpNszIEDfM0\/CyMLiA1lVskFwZBHZ0mVObNdP0o7xjms1V9L7w3fj08h\/5ryBV1t69JgqPyP8ALkZrtzRae0qGhRzVaTHte2XAXJmCYtOibSxjPNp1TILXNLoGuXcdyoMLUaHsJc7KD9kXjtfVVo0fL+VoM8bntsggyXvjTwb3ZA+rwrO6mfWyjmY8axzkdOyMaxjHZQ0zlYQ7Nu5rXfmqlYNgZXE67RCl4jVa58tNsrBcR7LQ38lashZDL\/icDV22vpOKddECt6TaeKINy4j+4odiXGRmMbSSVUQrUFn759VaFc4aD5tOJnOIjXXZU1JS1HqEEWCFEZ0uB8CPyrrcQ+niC4Eh7Xm+8glIouIOmq89TKFTQ1wBITjIY3OaDzP5VVIhCYsycwSQFa\/k\/wAY\/fvU+JoNpOGV7XS3fb\/SoxiT+G\/qoUp9BobLZad5PfZTCPwbBVX4wx9nXvspP5jqWz8tEITjTafuJAQ2Jy3t9f1UP84QTZpv7rCPgn0cUN4BPa2289kIU+YfhufzA\/ymeS38H7Cc14gc7LD97pPN0GZmn021QhJRqAj7M+nonkj8Oh\/RBqD77Nen+Uhqg3zM1+luqEJHvDbnLdK0ASCW3Jv6pr64H2mm+w7a69vmkc8OA52t30HfuhCktb2P2N0xu\/s9Nv2E7zBcZ26x9DOvc\/BVm4lxEWHfe3vQhWC4X9n9yiq+1g0mewUDarhq4H1j9U52IOvL+\/ehCWqzPE5W6qMYIffH796VuKJMw0H3pRiT+H5oRhUnC6atKiGVCS8gQLQYG86hUKkSY0m3opUJ9Z0mewQo5QhWJs2moQhCqhCEIQhCEIQhCEIQrWDa01GioYaXDMe03K0KuHoiq1rnNY3LLwHF7Q6\/KHtzaiL3jMeixUKpFrRHO1jaLAcg56cvLHiOd3ir2LogPqZSC1ryBzaiTETciBqtGvh6Pm0wMgBpuLmh8jzA1+UF+YwC4N3FjeFgIRp6qWTsaSSwGyD5UboY2Iwei0cdRaHuyEZQGH2gbkCQ0\/aAJPuCt06FE1QOWPKDgw1CGmpA5S8m153Giw0I09UNnaHF2gGzdepNDpmtiMZB2VvHNaKjgwy3Mcp6j81UQhSAkOOok1XRCEIUqqEIQhCEIQhCEIQhCVCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQv\/Z",
+      "universe": "Freddy"
      },
      {
       "id": 225,
@@ -2645,7 +2869,8 @@ export const data = [
       "year": 1985,
       "trailer": "https:\/\/www.youtube.com\/embed\/0Sxkp1yqSmw",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8_35.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8_35.jpg",
+      "universe": "Freddy"
      },
      {
       "id": 226,
@@ -2656,7 +2881,8 @@ export const data = [
       "year": 1987,
       "trailer": "https:\/\/www.youtube.com\/embed\/8KK3E1CiHQQ",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg",
+      "universe": "Freddy"
      },
      {
       "id": 227,
@@ -2667,7 +2893,8 @@ export const data = [
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/QaMf3J0IU0U",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg",
+      "universe": "Freddy"
      },
      {
       "id": 228,
@@ -2678,7 +2905,8 @@ export const data = [
       "year": 1989,
       "trailer": "https:\/\/www.youtube.com\/embed\/nSIg5QgU4wQ",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/86\/19\/81\/20420796.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/86\/19\/81\/20420796.jpg",
+      "universe": "Freddy"
      },
      {
       "id": 229,
@@ -2690,7 +2918,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/gEhipllOnEE",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12_99.jpg",
-      "sinopsis": "“Freddy’s Dead: The Final Nightmare” is a 1991 American slasher film and the sixth film in the “A Nightmare on Elm Street” franchise. In this movie, dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood’s last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom. In part six of the “Nightmare on Elm Street” series, dream monster Freddy Krueger has finally killed all the children of his hometown, and seeks to escape its confines to hunt fresh prey. To this end, he recruits the aid of his (previously unmentioned) daughter"
+      "sinopsis": "“Freddy’s Dead: The Final Nightmare” is a 1991 American slasher film and the sixth film in the “A Nightmare on Elm Street” franchise. In this movie, dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood’s last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom. In part six of the “Nightmare on Elm Street” series, dream monster Freddy Krueger has finally killed all the children of his hometown, and seeks to escape its confines to hunt fresh prey. To this end, he recruits the aid of his (previously unmentioned) daughter",
+      "universe": "Freddy"
      },
      {
       "id": 230,
@@ -2703,7 +2932,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg",
-      "sinopsis": "The movie tells the story of Dr. Louis Creed (Jason Clarke), who moves with his wife Rachel (Amy Seimetz) and their two young children from Boston to a remote area of Maine. There, they discover a mysterious pet cemetery hidden in the deep forest, near their new home. When their beloved cat Church is killed by a truck, Louis and his neighbor Jud Crandall (John Lithgow) bury it in the pet cemetery, hoping to bring it back to life. However, they soon realize that the cemetery has a dark power that can resurrect the dead, but with a sinister twist. The cat returns, but it is more aggressive and dirty than before. Things get worse when a tragic accident claims the life of one of Louis' children, and he decides to use the cemetery again, despite Jud's warnings. Louis will have to face the terrible consequences of his actions, as he unleashes an evil force that threatens his family and his sanity."
+      "sinopsis": "The movie tells the story of Dr. Louis Creed (Jason Clarke), who moves with his wife Rachel (Amy Seimetz) and their two young children from Boston to a remote area of Maine. There, they discover a mysterious pet cemetery hidden in the deep forest, near their new home. When their beloved cat Church is killed by a truck, Louis and his neighbor Jud Crandall (John Lithgow) bury it in the pet cemetery, hoping to bring it back to life. However, they soon realize that the cemetery has a dark power that can resurrect the dead, but with a sinister twist. The cat returns, but it is more aggressive and dirty than before. Things get worse when a tragic accident claims the life of one of Louis' children, and he decides to use the cemetery again, despite Jud's warnings. Louis will have to face the terrible consequences of his actions, as he unleashes an evil force that threatens his family and his sanity.",
+      "universe": "Pet Sematary"
      },
      {
       "id": 231,
@@ -2714,7 +2944,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/LRdw3dXU-Ys",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.hluhTvNDQRUvXe8NK4QuCAHaK1?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.hluhTvNDQRUvXe8NK4QuCAHaK1?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 232,
@@ -2723,7 +2954,8 @@ export const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28896",
       "year": 2015,
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28896_2.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28896_2.jpg",
+      "universe": "None"
      },
      {
       "id": 233,
@@ -2734,7 +2966,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9eZgEKjYJqA",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg",
+      "universe": "Poltergeist "
      },
      {
       "id": 234,
@@ -2745,7 +2978,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vJnvdIkreT4",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8482_32.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8482_32.jpg",
+      "universe": "Poltergeist "
      },
      {
       "id": 235,
@@ -2757,7 +2991,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/IiQsU1kiOzk",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/qfnJ40Aa7Tpo27YV3y1b8bACIcU.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/qfnJ40Aa7Tpo27YV3y1b8bACIcU.jpg",
+      "universe": "Poltergeist "
      },
      {
       "id": 236,
@@ -2768,7 +3003,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/5s94UBTl_Vw",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7NP6Rdzvh9PQ8E2vtheRRC86Le4.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7NP6Rdzvh9PQ8E2vtheRRC86Le4.jpg",
+      "universe": "Poltergeist "
      },
      {
       "id": 237,
@@ -2779,7 +3015,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jj5qzuWIhlo",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.FlxcOcLcU09azw7WCerxNAHaKc?pid=ImgDet&w=515&h=726&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.FlxcOcLcU09azw7WCerxNAHaKc?pid=ImgDet&w=515&h=726&rs=1",
+      "universe": "None"
      },
      {
       "id": 238,
@@ -2790,7 +3027,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/ebWyi7G4-Jw",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.sSuAN3PmJF432FUwMIXkqgHaLA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.sSuAN3PmJF432FUwMIXkqgHaLA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 239,
@@ -2803,7 +3041,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/images.moviesanywhere.com\/e89842db81f47dbee8eca04831a10ab2\/ce1728c1-1f74-419b-932d-fc22ab5ad228.jpg",
-      "sinopsis": "“Quarantine” is a 2008 American horror movie directed by John Erick Dowdle. The movie is a remake of the 2007 Spanish horror movie “REC”. The movie follows a television reporter and her cameraman who are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers. The movie was filmed in Los Angeles, California. The reporter and cameraman are assigned to spend the night shift with a Los Angeles fire crew. After they arrive at the apartment building, they find that the residents have been infected with a virus that turns them into violent killers. The CDC has quarantined the building and cut off all communication with the outside world. The reporter and cameraman are trapped inside with the other residents and must fight for their lives as they try to escape."
+      "sinopsis": "“Quarantine” is a 2008 American horror movie directed by John Erick Dowdle. The movie is a remake of the 2007 Spanish horror movie “REC”. The movie follows a television reporter and her cameraman who are trapped inside a building quarantined by the CDC after the outbreak of a mysterious virus which turns humans into bloodthirsty killers. The movie was filmed in Los Angeles, California. The reporter and cameraman are assigned to spend the night shift with a Los Angeles fire crew. After they arrive at the apartment building, they find that the residents have been infected with a virus that turns them into violent killers. The CDC has quarantined the building and cut off all communication with the outside world. The reporter and cameraman are trapped inside with the other residents and must fight for their lives as they try to escape.",
+      "universe": "None"
      },
      {
       "id": 240,
@@ -2815,7 +3054,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/yWeTSB17IW8",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/41\/Quarantine2Poster.jpg"
+      "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/4\/41\/Quarantine2Poster.jpg",
+      "universe": "None"
      },
      {
       "id": 241,
@@ -2826,7 +3066,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/OKrtYjMo-Dc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35711_58.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35711_58.jpg",
+      "universe": "None"
      },
      {
       "id": 242,
@@ -2839,7 +3080,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5749_31.jpg",
-      "sinopsis": "“REC” is a 2007 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie follows a television reporter, Ángela Vidal (Manuela Velasco), and her cameraman, Pablo (only his trainers are shown, Pablo Rosso), who cover the night shift in one of Barcelona’s local fire stations for the fictional documentary television series “Mientras ustedes duermen” (While You Sleep). When the firemen receive a distress call from a lady in a building, Ángela and Pablo go in the firefighter truck with the firemen Manu and Álex with Pablo recording each step. The movie was released on November 23, 2007"
+      "sinopsis": "“REC” is a 2007 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie follows a television reporter, Ángela Vidal (Manuela Velasco), and her cameraman, Pablo (only his trainers are shown, Pablo Rosso), who cover the night shift in one of Barcelona’s local fire stations for the fictional documentary television series “Mientras ustedes duermen” (While You Sleep). When the firemen receive a distress call from a lady in a building, Ángela and Pablo go in the firefighter truck with the firemen Manu and Álex with Pablo recording each step. The movie was released on November 23, 2007",
+      "universe": "None"
      },
      {
       "id": 243,
@@ -2852,7 +3094,8 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/i.blogs.es\/4686b8\/rec-2-cartel\/1366_2000.jpg",
-      "sinopsis": "“REC 2” is a 2009 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie is a sequel to the 2007 movie “REC”. The action continues from “REC”, with the medical officer and a SWAT team outfitted with video cameras sent into the sealed-off apartment to control the situation. The movie was written and directed by Jaume Balagueró and Paco Plaza, both of whom returned from the previous film"
+      "sinopsis": "“REC 2” is a 2009 Spanish horror movie directed by Jaume Balagueró and Paco Plaza. The movie is a sequel to the 2007 movie “REC”. The action continues from “REC”, with the medical officer and a SWAT team outfitted with video cameras sent into the sealed-off apartment to control the situation. The movie was written and directed by Jaume Balagueró and Paco Plaza, both of whom returned from the previous film",
+      "universe": "None"
      },
      {
       "id": 244,
@@ -2864,7 +3107,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/jiS6gtClrqk",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.dec8526151c4f34209dd8b6c48f0b9b4?rik=%2f5cWC02zCw%2bQJw&riu=http%3a%2f%2faquipelis.net%2fwp-content%2fuploads%2f2013%2f12%2fresident-evil-1.jpg&ehk=pubSToUGvCteGuH2LOxwrczPgSe8Di3Dgfu409hPQhk%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.dec8526151c4f34209dd8b6c48f0b9b4?rik=%2f5cWC02zCw%2bQJw&riu=http%3a%2f%2faquipelis.net%2fwp-content%2fuploads%2f2013%2f12%2fresident-evil-1.jpg&ehk=pubSToUGvCteGuH2LOxwrczPgSe8Di3Dgfu409hPQhk%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "Resident Evil"
      },
      {
       "id": 245,
@@ -2876,7 +3120,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YLh5wQfSHW0",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.4c27865d486e7f1a82fbc4720e2a36ae?rik=fnjMJNct0rj94A&riu=http%3a%2f%2f3.bp.blogspot.com%2f_secDOmtewS4%2fTJaySxKHYdI%2fAAAAAAAAGp0%2f711PM0-7_v4%2fs1600%2fresident_evil_afterlife.jpg&ehk=peKlEAvTgUmKXfX%2flCsHHidH37E6RAdW4ce4EGFVUAM%3d&risl=&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.4c27865d486e7f1a82fbc4720e2a36ae?rik=fnjMJNct0rj94A&riu=http%3a%2f%2f3.bp.blogspot.com%2f_secDOmtewS4%2fTJaySxKHYdI%2fAAAAAAAAGp0%2f711PM0-7_v4%2fs1600%2fresident_evil_afterlife.jpg&ehk=peKlEAvTgUmKXfX%2flCsHHidH37E6RAdW4ce4EGFVUAM%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "Resident Evil"
      },
      {
       "id": 246,
@@ -2888,7 +3133,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/SwSLx-Img2w",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.rUE6klkJW-Na59WY4upxZAHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.rUE6klkJW-Na59WY4upxZAHaLH?pid=ImgDet&rs=1",
+      "universe": "Resident Evil"
      },
      {
       "id": 247,
@@ -2900,7 +3146,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Rh7qwF23ijI",
       "clasification": "movie",
       "gender": "zombies",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.7ba6f9bf8d3b682e264bed0557dce3ae?rik=PxKf5FDJDIAk3A&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.7ba6f9bf8d3b682e264bed0557dce3ae?rik=PxKf5FDJDIAk3A&pid=ImgRaw&r=0",
+      "universe": "Resident Evil"
      },
      {
       "id": 248,
@@ -2913,7 +3160,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg",
-      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death."
+      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death.",
+      "universe": "None"
      },
      {
       "id": 249,
@@ -2925,7 +3173,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/_81MXV6ly40",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/17\/02\/03\/10\/37\/196315.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/17\/02\/03\/10\/37\/196315.jpg",
+      "universe": "None"
      },
      {
       "id": 250,
@@ -2937,7 +3186,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YE2iJrN7nwE",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33164_93.jpg",
-      "sinopsis": "“Sam Was Here” is a 2016 horror thriller movie directed by Christophe Deroo. The movie tells the story of Sam, a door-to-door salesman who travels through the desert in search of clients. However, the area seems deserted and his wife won’t answer his phone calls. His only contact with the outside world is a local radio station. As he tries to find clients, he begins to experience strange occurrences and becomes increasingly paranoid. The movie was released on March 10, 2017"
+      "sinopsis": "“Sam Was Here” is a 2016 horror thriller movie directed by Christophe Deroo. The movie tells the story of Sam, a door-to-door salesman who travels through the desert in search of clients. However, the area seems deserted and his wife won’t answer his phone calls. His only contact with the outside world is a local radio station. As he tries to find clients, he begins to experience strange occurrences and becomes increasingly paranoid. The movie was released on March 10, 2017",
+      "universe": "None"
      },
      {
       "id": 251,
@@ -2950,7 +3200,8 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Xa_gWYoGDl2n74pJZZKLCwHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "Scream is a 1996 horror movie directed by Wes Craven and written by Kevin Williamson. The plot follows Sidney Prescott (Neve Campbell), a high school student who becomes the target of a mysterious killer in a ghost mask, who also killed her mother a year ago. The killer follows the rules and clichés of horror movies, and threatens to kill Sidney and her friends unless they can answer trivia questions about the genre. The movie is a satire of slasher films and references many other horror classics."
+      "sinopsis": "Scream is a 1996 horror movie directed by Wes Craven and written by Kevin Williamson. The plot follows Sidney Prescott (Neve Campbell), a high school student who becomes the target of a mysterious killer in a ghost mask, who also killed her mother a year ago. The killer follows the rules and clichés of horror movies, and threatens to kill Sidney and her friends unless they can answer trivia questions about the genre. The movie is a satire of slasher films and references many other horror classics.",
+      "universe": "Scream"
      },
      {
       "id": 252,
@@ -2962,7 +3213,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ZJcdPQEdSPc",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/m.media-amazon.com\/images\/I\/41bIWViNrKL._AC_UF894,1000_QL80_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/I\/41bIWViNrKL._AC_UF894,1000_QL80_.jpg",
+      "universe": "Scream"
      },
      {
       "id": 253,
@@ -2974,7 +3226,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/aVwp0N_zoBA",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/pics.filmaffinity.com\/Scream_3-716015756-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Scream_3-716015756-large.jpg",
+      "universe": "Scream"
      },
      {
       "id": 254,
@@ -2986,7 +3239,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/g2VJj01CsN4",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7958_45.jpg"
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7958_45.jpg",
+      "universe": "Scream"
      },
      {
       "id": 255,
@@ -2997,7 +3251,8 @@ export const data = [
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/_y6H2ybiEvs",
       "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-dbXJOsiSD3g\/V6gBwCGXRRI\/AAAAAAAABmM\/7Ykxq2XbZRQwd0B6zDD9vOHdb_68nnN3gCLcB\/s1600\/Se%2BLo%2BQue%2BHicieron%2BEl%2BVerano%2BPasado.jpg"
+      "cover": "https:\/\/2.bp.blogspot.com\/-dbXJOsiSD3g\/V6gBwCGXRRI\/AAAAAAAABmM\/7Ykxq2XbZRQwd0B6zDD9vOHdb_68nnN3gCLcB\/s1600\/Se%2BLo%2BQue%2BHicieron%2BEl%2BVerano%2BPasado.jpg",
+      "universe": "None"
      },
      {
       "id": 256,
@@ -3009,7 +3264,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/cJ3PXxuWBac",
       "clasification": "movie",
       "gender": "aliens",
-      "cover": "https:\/\/pics.filmaffinity.com\/Seanales-997351418-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Seanales-997351418-large.jpg",
+      "universe": "None"
      },
      {
       "id": 257,
@@ -3022,7 +3278,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/imgc.allpostersimages.com\/img\/print\/u-g-ELCPO0.jpg?w=550&h=550&p=0",
-      "sinopsis": "The Sixth Sense is a 1999 American supernatural thriller film written and directed by M. Night Shyamalan. It stars Bruce Willis as a child psychologist who tries to help a young boy who claims to see dead people. The film explores themes of death, grief, faith and redemption, and features a twist ending that shocked audiences and critics alike. The Sixth Sense was a huge commercial and critical success, becoming one of the highest-grossing films of all time and earning six Academy Award nominations, including Best Picture, Best Director and Best Original Screenplay."
+      "sinopsis": "The Sixth Sense is a 1999 American supernatural thriller film written and directed by M. Night Shyamalan. It stars Bruce Willis as a child psychologist who tries to help a young boy who claims to see dead people. The film explores themes of death, grief, faith and redemption, and features a twist ending that shocked audiences and critics alike. The Sixth Sense was a huge commercial and critical success, becoming one of the highest-grossing films of all time and earning six Academy Award nominations, including Best Picture, Best Director and Best Original Screenplay.",
+      "universe": "None"
      },
      {
       "id": 258,
@@ -3033,7 +3290,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/ixWjtoYSUMM",
       "clasification": "movie",
-      "cover": "https:\/\/www.sonypictures.com\/sites\/default\/files\/styles\/max_560x840\/public\/chameleon\/title-movie\/238840_SILENT%20HILL_1400x2100_Eng.jpg?itok=cV5B_OHO"
+      "cover": "https:\/\/www.sonypictures.com\/sites\/default\/files\/styles\/max_560x840\/public\/chameleon\/title-movie\/238840_SILENT%20HILL_1400x2100_Eng.jpg?itok=cV5B_OHO",
+      "universe": "None"
      },
      {
       "id": 259,
@@ -3044,7 +3302,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/9b4iOhWswYM",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/93\/95\/83\/20318892.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/93\/95\/83\/20318892.jpg",
+      "universe": "None"
      },
      {
       "id": 260,
@@ -3055,7 +3314,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/uVhTHcYpwNQ",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTUzOTc2NjQ3MV5BMl5BanBnXkFtZTcwNzk3ODUzNw@@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 261,
@@ -3066,7 +3326,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/pUklYZdiycQ",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 262,
@@ -3077,7 +3338,8 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/R6O4Himch7g",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/Sleepy_Hollow-450030233-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Sleepy_Hollow-450030233-large.jpg",
+      "universe": "None"
      },
      {
       "id": 263,
@@ -3089,7 +3351,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/RhgeNY24wZY",
       "clasification": "movie",
       "gender": "creepypasta",
-      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg"
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/18\/01\/03\/17\/41\/1781978.jpg",
+      "universe": "None"
      },
      {
       "id": 264,
@@ -3100,7 +3363,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/qmzGlPS-o2M",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/Smile-692937346-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Smile-692937346-large.jpg",
+      "universe": "None"
      },
      {
       "id": 265,
@@ -3111,7 +3375,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/0WUxlIg8tSc",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMGQwYjhmZWItYTVkOC00NzgxLWE4NGMtYzFkYzk1YmViYjA0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_FMjpg_UX1000_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMGQwYjhmZWItYTVkOC00NzgxLWE4NGMtYzFkYzk1YmViYjA0XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
      },
      {
       "id": 266,
@@ -3123,7 +3388,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/rwsTYQ26QDQ",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/pics.filmaffinity.com\/Stigmata-565498823-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Stigmata-565498823-large.jpg",
+      "universe": "None"
      },
      {
       "id": 267,
@@ -3134,7 +3400,8 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/E9tFPHabEx4",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2NTEwZWYtYzcxYi00MzZhLTg0NDMtNTBhMTM3MjEyMmU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2NTEwZWYtYzcxYi00MzZhLTg0NDMtNTBhMTM3MjEyMmU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 268,
@@ -3145,7 +3412,8 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/7ggN4CX3EI4",
       "clasification": "movie",
-      "cover": "https:\/\/3.bp.blogspot.com\/-JVrTZuVGCXk\/WOlBvM67-VI\/AAAAAAAAEjo\/g9cp6ssHiNU7WktNF5UH8YphV5pPJL8ngCLcB\/s1600\/stir%2Bof%2Bechoes%2B2.jpg"
+      "cover": "https:\/\/3.bp.blogspot.com\/-JVrTZuVGCXk\/WOlBvM67-VI\/AAAAAAAAEjo\/g9cp6ssHiNU7WktNF5UH8YphV5pPJL8ngCLcB\/s1600\/stir%2Bof%2Bechoes%2B2.jpg",
+      "universe": "None"
      },
      {
       "id": 269,
@@ -3156,7 +3424,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/-RcPZdihrp4",
       "clasification": "serie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg",
+      "universe": "None"
      },
      {
       "id": 270,
@@ -3167,7 +3436,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/w6bQji-tJrQ",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/17\/07\/20\/17\/05\/597209.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/17\/07\/20\/17\/05\/597209.jpg",
+      "universe": "None"
      },
      {
       "id": 271,
@@ -3178,7 +3448,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/8Q6fAAvCdKs",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg",
+      "universe": "Terrifier"
      },
      {
       "id": 272,
@@ -3189,7 +3460,8 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/JtIeafFBhgE",
       "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/22\/12\/27\/12\/24\/4448854.jpg"
+      "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/22\/12\/27\/12\/24\/4448854.jpg",
+      "universe": "Terrifier"
      },
      {
       "id": 273,
@@ -3200,7 +3472,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/HEujNGCGM-0",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/4D246dpe7yy2GvHI2IbpeqkUXry.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/4D246dpe7yy2GvHI2IbpeqkUXry.jpg",
+      "universe": "None"
      },
      {
       "id": 274,
@@ -3211,7 +3484,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/juYvhcgleRI",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 275,
@@ -3222,7 +3496,8 @@ export const data = [
       "year": 2020,
       "trailer": "https:\/\/www.youtube.com\/embed\/GmEudoOozUc",
       "clasification": "movie",
-      "cover": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/brahms-the-boy-ii-poster-1578477710.jpeg"
+      "cover": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/brahms-the-boy-ii-poster-1578477710.jpeg",
+      "universe": "None"
      },
      {
       "id": 276,
@@ -3233,7 +3508,8 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/EdRoP4fj5-g",
       "clasification": "movie",
-      "cover": "https:\/\/horrornews.net\/wp-content\/uploads\/2018\/12\/The-Cabin-in-the-Woods-2012-movie-Joss-Whedon-Drew-Goddard-5.jpg"
+      "cover": "https:\/\/horrornews.net\/wp-content\/uploads\/2018\/12\/The-Cabin-in-the-Woods-2012-movie-Joss-Whedon-Drew-Goddard-5.jpg",
+      "universe": "None"
      },
      {
       "id": 277,
@@ -3244,7 +3520,8 @@ export const data = [
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/embed\/-eCD5Nuoyi4",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMDY1NmVmOTItYWU0NC00OGU2LWIyNTctYTU3NTY3ZjJkOWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMDY1NmVmOTItYWU0NC00OGU2LWIyNTctYTU3NTY3ZjJkOWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 278,
@@ -3257,7 +3534,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.gbhbl.com\/wp-content\/uploads\/2014\/01\/Conjur.jpg",
-      "sinopsis": "The Conjuring es una película de terror de 2013 basada en una historia real de los parapsicólogos Ed y Lorraine Warren, que investigaron los fenómenos paranormales que sufría la familia Perron en su granja de Rhode Island en los años 70. La película muestra cómo los Warren se enfrentan a una entidad maligna que acecha a los Perron y amenaza con destruirlos. The Conjuring fue dirigida por James Wan y protagonizada por Vera Farmiga, Patrick Wilson, Ron Livingston y Lili Taylor. La película fue un éxito de crítica y público, y dio lugar a una saga de películas y spin-offs ambientados en el mismo universo."
+      "sinopsis": "The Conjuring es una película de terror de 2013 basada en una historia real de los parapsicólogos Ed y Lorraine Warren, que investigaron los fenómenos paranormales que sufría la familia Perron en su granja de Rhode Island en los años 70. La película muestra cómo los Warren se enfrentan a una entidad maligna que acecha a los Perron y amenaza con destruirlos. The Conjuring fue dirigida por James Wan y protagonizada por Vera Farmiga, Patrick Wilson, Ron Livingston y Lili Taylor. La película fue un éxito de crítica y público, y dio lugar a una saga de películas y spin-offs ambientados en el mismo universo.",
+      "universe": "The Conjuring"
      },
      {
       "id": 279,
@@ -3269,7 +3547,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ypqa586tNlI",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg",
+      "universe": "The Conjuring"
      },
      {
       "id": 280,
@@ -3281,7 +3560,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ysLXNSNMIr0",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/images.moviesanywhere.com\/a4d68b895ddea9e52e345e2f0c6838ab\/423fc271-7a33-4155-92db-3c926d8c1af3.jpg"
+      "cover": "https:\/\/images.moviesanywhere.com\/a4d68b895ddea9e52e345e2f0c6838ab\/423fc271-7a33-4155-92db-3c926d8c1af3.jpg",
+      "universe": "The Conjuring"
      },
      {
       "id": 281,
@@ -3292,7 +3572,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/FDhoqY1grJY",
       "clasification": "movie",
-      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2016\/5\/w1280\/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg"
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2016\/5\/w1280\/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg",
+      "universe": "None"
      },
      {
       "id": 282,
@@ -3303,7 +3584,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/4mujk825LXk",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Descent-631321870-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Descent-631321870-large.jpg",
+      "universe": "None"
      },
      {
       "id": 283,
@@ -3314,7 +3596,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/vHOaWV3OkMQ",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/4bbabce4fe53b96c9ef7d49829ca9ef2935683846cdf759f4dbc52b3c0f669f4._RI_TTW_.png"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/4bbabce4fe53b96c9ef7d49829ca9ef2935683846cdf759f4dbc52b3c0f669f4._RI_TTW_.png",
+      "universe": "None"
      },
      {
       "id": 284,
@@ -3325,7 +3608,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/RuGEicv0cAg",
       "clasification": "movie",
-      "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg"
+      "cover": "https:\/\/d3tvwjfge35btc.cloudfront.net\/Assets\/92\/402\/L_p0020840292.jpg",
+      "universe": "None"
      },
      {
       "id": 285,
@@ -3336,7 +3620,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/BeU_TQH-bCA",
       "clasification": "movie",
-      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg"
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg",
+      "universe": "None"
      },
      {
       "id": 286,
@@ -3347,7 +3632,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/foe6teMmlaM",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTE0MTE3MzI4ODFeQTJeQWpwZ15BbWU4MDI1MDI0ODkx._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 287,
@@ -3358,7 +3644,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jc_Mdg8XGAc",
       "clasification": "movie",
-      "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749"
+      "cover": "https:\/\/media-cache.cinematerial.com\/p\/500x\/6bifu6nk\/the-echo-movie-poster.jpg?v=1456829749",
+      "universe": "None"
      },
      {
       "id": 288,
@@ -3370,7 +3657,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/u0Zq4fuOINI",
       "clasification": "movie",
       "gender": "creepypasta",
-      "cover": "https:\/\/posterspy.com\/wp-content\/uploads\/2022\/10\/TheEmptyMan_Poster.jpg"
+      "cover": "https:\/\/posterspy.com\/wp-content\/uploads\/2022\/10\/TheEmptyMan_Poster.jpg",
+      "universe": "None"
      },
      {
       "id": 289,
@@ -3382,7 +3670,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9wj62u817FA",
       "clasification": "serie",
       "gender": "paranormal",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg",
+      "universe": "The Exorcist"
      },
      {
       "id": 290,
@@ -3395,7 +3684,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Eye_Visiones-534849986-large.jpg",
-      "sinopsis": "The Eye es una película de terror estadounidense basada en la original producida en Hong Kong de los Hermanos Pang. Cuenta la historia de Sydney Wells, una violinista ciega que recibe un trasplante de córneas y empieza a tener visiones sobrenaturales. Con la ayuda de su terapeuta visual, Paul Faulkner, viaja a México para descubrir el origen de sus visiones y el destino de su donante, Ana Cristina. En el camino, se enfrenta a peligros y misterios que ponen a prueba su fe y su voluntad."
+      "sinopsis": "The Eye es una película de terror estadounidense basada en la original producida en Hong Kong de los Hermanos Pang. Cuenta la historia de Sydney Wells, una violinista ciega que recibe un trasplante de córneas y empieza a tener visiones sobrenaturales. Con la ayuda de su terapeuta visual, Paul Faulkner, viaja a México para descubrir el origen de sus visiones y el destino de su donante, Ana Cristina. En el camino, se enfrenta a peligros y misterios que ponen a prueba su fe y su voluntad.",
+      "universe": "None"
      },
      {
       "id": 291,
@@ -3406,7 +3696,8 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/UnrFUGCmVFM",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/Terror_en_la_niebla-262588847-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/Terror_en_la_niebla-262588847-large.jpg",
+      "universe": "None"
      },
      {
       "id": 292,
@@ -3417,7 +3708,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/8sW71K149xI",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYWUyNWI5ODMtNDJlZS00ZjVjLWIxMDUtMWNhMjEyZGMwOTdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BYWUyNWI5ODMtNDJlZS00ZjVjLWIxMDUtMWNhMjEyZGMwOTdlXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 293,
@@ -3429,7 +3721,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/sej-CAp6ckU",
       "clasification": "movie",
       "gender": "aliens",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
      },
      {
       "id": 294,
@@ -3440,7 +3733,8 @@ export const data = [
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/xsOVtbsMKtA",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ihCDU8FulNvHQFqs01cEc7CE3zq.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ihCDU8FulNvHQFqs01cEc7CE3zq.jpg",
+      "universe": "None"
      },
      {
       "id": 295,
@@ -3451,7 +3745,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/JkZdcjB3ls8",
       "clasification": "movie",
-      "cover": "https:\/\/content.numetro.co.za\/image_resized_files\/927-1-1-3-1559220714.jpg"
+      "cover": "https:\/\/content.numetro.co.za\/image_resized_files\/927-1-1-3-1559220714.jpg",
+      "universe": "None"
      },
      {
       "id": 296,
@@ -3462,7 +3757,8 @@ export const data = [
       "year": 2020,
       "trailer": "https:\/\/www.youtube.com\/embed\/KBGEhb7E9Zg",
       "clasification": "serie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
      },
      {
       "id": 297,
@@ -3474,7 +3770,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Dywejalfyzs",
       "clasification": "serie",
       "gender": "paranormal",
-      "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg",
+      "universe": "None"
      },
      {
       "id": 298,
@@ -3484,7 +3781,8 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/Yedl4lY9VgM",
       "clasification": "movie",
-      "cover": "https:\/\/play-lh.googleusercontent.com\/EIsRiHD7D6JEochVh_uPXV0AD0cLfccGkJxram8TA1xTz5p_TqdV8MM7r421kkyn6xj5"
+      "cover": "https:\/\/play-lh.googleusercontent.com\/EIsRiHD7D6JEochVh_uPXV0AD0cLfccGkJxram8TA1xTz5p_TqdV8MM7r421kkyn6xj5",
+      "universe": "None"
      },
      {
       "id": 299,
@@ -3495,7 +3793,8 @@ export const data = [
       "year": 2020,
       "trailer": "https:\/\/www.youtube.com\/embed\/5N9vAUPtWts",
       "clasification": "movie",
-      "cover": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e02ce8fbe14ca5d06039aca\/1585685659999-JFLB7AKUH62263FQ4EWJ\/5e6634ea355fb.image.jpg?format=1000w"
+      "cover": "https:\/\/images.squarespace-cdn.com\/content\/v1\/5e02ce8fbe14ca5d06039aca\/1585685659999-JFLB7AKUH62263FQ4EWJ\/5e6634ea355fb.image.jpg?format=1000w",
+      "universe": "None"
      },
      {
       "id": 300,
@@ -3506,7 +3805,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/6AoDnFGrWxM",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/La_invitaciaon-305606357-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/La_invitaciaon-305606357-large.jpg",
+      "universe": "None"
      },
      {
       "id": 301,
@@ -3518,7 +3818,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/odn_ElyHcj4",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg"
+      "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg",
+      "universe": "None"
      },
      {
       "id": 302,
@@ -3530,7 +3831,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/yyGetSp7CIc",
       "clasification": "serie",
       "gender": "zombies",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg",
+      "universe": "None"
      },
      {
       "id": 303,
@@ -3540,7 +3842,8 @@ export const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41424",
       "year": 2021,
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Manor-117745982-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Manor-117745982-large.jpg",
+      "universe": "None"
      },
      {
       "id": 304,
@@ -3552,7 +3855,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/MYDjNe0JJdI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BY2E4ZTZjMTEtYTU3Ni00NDQ1LTlmOTctNjNjYTEzYWM3NzEyXkEyXkFqcGdeQXVyMjUxOTUyOTI@._V1_FMjpg_UX1000_.jpg",
-      "sinopsis": "The Maus is a horror film directed by Yayo Herrero that follows Alex and Selma, a couple who travel to the heart of Bosnia and Herzegovina. When their car breaks down in the middle of the forest, they decide to look for help in the nearby village. Along the way, Selma - a Muslim survivor of the Balkan War - starts to suspect that a mysterious force is following them. Alex - a confident and happy European - tries to dismiss her crazy idea. But Selma clings to her Muslim amulet \"hamajlija\", causing the mysterious force to emerge from the forest.\r"
+      "sinopsis": "The Maus is a horror film directed by Yayo Herrero that follows Alex and Selma, a couple who travel to the heart of Bosnia and Herzegovina. When their car breaks down in the middle of the forest, they decide to look for help in the nearby village. Along the way, Selma - a Muslim survivor of the Balkan War - starts to suspect that a mysterious force is following them. Alex - a confident and happy European - tries to dismiss her crazy idea. But Selma clings to her Muslim amulet \"hamajlija\", causing the mysterious force to emerge from the forest.\r",
+      "universe": "None"
      },
      {
       "id": 305,
@@ -3562,7 +3866,8 @@ export const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=41903",
       "year": 2021,
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Medium-772869068-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Medium-772869068-large.jpg",
+      "universe": "None"
      },
      {
       "id": 306,
@@ -3572,7 +3877,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/tbyCUdzR87Y",
       "clasification": "movie",
-      "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg"
+      "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg",
+      "universe": "None"
      },
      {
       "id": 307,
@@ -3583,7 +3889,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/lK-QDLVfj44",
       "clasification": "movie",
-      "cover": "https:\/\/pics.filmaffinity.com\/The_Neon_Demon-386448800-large.jpg"
+      "cover": "https:\/\/pics.filmaffinity.com\/The_Neon_Demon-386448800-large.jpg",
+      "universe": "None"
      },
      {
       "id": 308,
@@ -3594,7 +3901,8 @@ export const data = [
       "year": 2018,
       "trailer": "https:\/\/www.youtube.com\/embed\/UZ_7__0rBAU",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg",
+      "universe": "The Conjuring"
      },
      {
       "id": 309,
@@ -3606,7 +3914,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/gsHuk7EARdA",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg",
-      "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009."
+      "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009.",
+      "universe": "None"
      },
      {
       "id": 310,
@@ -3617,7 +3926,8 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/_y2R8deSAl0",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
      },
      {
       "id": 311,
@@ -3628,7 +3938,8 @@ export const data = [
       "year": 2012,
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg"
+      "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg",
+      "universe": "None"
      },
      {
       "id": 312,
@@ -3639,7 +3950,8 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/1GNyQusclgw",
       "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+      "universe": "None"
      },
      {
       "id": 313,
@@ -3650,7 +3962,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/wWOvGPP3itc",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
      },
      {
       "id": 314,
@@ -3661,7 +3974,8 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/iUUk0UxajAU",
       "clasification": "movie",
-      "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg"
+      "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg",
+      "universe": "None"
      },
      {
       "id": 315,
@@ -3672,7 +3986,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/BpuHvtZjOBM",
       "clasification": "movie",
-      "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg"
+      "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg",
+      "universe": "None"
      },
      {
       "id": 316,
@@ -3684,7 +3999,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/hUzlUSUCWDU",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/71sKDn3FxnL._AC_UF894,1000_QL80_.jpg",
-      "sinopsis": "La película The Sphere del año 2022 es un remake de la película homónima de 1998, basada en la novela de Michael Crichton. La trama gira en torno a un grupo de científicos que son enviados a investigar una misteriosa esfera metálica que se encuentra en el fondo del océano Pacífico. La esfera resulta ser una nave espacial extraterrestre que tiene el poder de materializar los pensamientos y los miedos de las personas que entran en contacto con ella. Los científicos tendrán que enfrentarse a sus propios demonios y a los peligros que acechan en las profundidades marinas, mientras intentan descubrir el origen y el propósito de la esfera."
+      "sinopsis": "La película The Sphere del año 2022 es un remake de la película homónima de 1998, basada en la novela de Michael Crichton. La trama gira en torno a un grupo de científicos que son enviados a investigar una misteriosa esfera metálica que se encuentra en el fondo del océano Pacífico. La esfera resulta ser una nave espacial extraterrestre que tiene el poder de materializar los pensamientos y los miedos de las personas que entran en contacto con ella. Los científicos tendrán que enfrentarse a sus propios demonios y a los peligros que acechan en las profundidades marinas, mientras intentan descubrir el origen y el propósito de la esfera.",
+      "universe": "None"
      },
      {
       "id": 317,
@@ -3695,7 +4011,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/VWFxJzsfKX8",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 318,
@@ -3705,7 +4022,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/jKKTgYrCOHM",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg",
+      "universe": "None"
      },
      {
       "id": 319,
@@ -3715,7 +4033,8 @@ export const data = [
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=32032",
       "year": 2020,
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.JVhU4lyjxShXx2P-V1rfogHaLu?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.JVhU4lyjxShXx2P-V1rfogHaLu?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 320,
@@ -3726,7 +4045,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/GjGnCa0XYhY",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg",
+      "universe": "None"
      },
      {
       "id": 321,
@@ -3735,7 +4055,8 @@ export const data = [
       "web_calification": 5.66,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=28828",
       "year": 2016,
-      "clasification": "movie"
+      "clasification": "movie",
+      "universe": "None"
      },
      {
       "id": 322,
@@ -3746,7 +4067,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/m4aRBXsZ2I4",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd32ddd0df71bd2db7b97c307f9a01b3?rik=mvG2Rw0nvlNvlw&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd32ddd0df71bd2db7b97c307f9a01b3?rik=mvG2Rw0nvlNvlw&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 323,
@@ -3757,7 +4079,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/rMUVNtKYOpU",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 324,
@@ -3768,7 +4091,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/aJgl3uoxXc0",
       "clasification": "movie",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/sNhUI2F0nepQMkCIMu6whVixj6F.jpg",
-      "sinopsis": "La película The Wishmaster del año 2022 es un remake del clásico de terror de 1997, que narra el regreso a la tierra de un demonio maligno llamado Djinn. El Djinn es liberado accidentalmente por una mujer que encuentra una antigua joya en una subasta. El Djinn comienza a conceder deseos terribles y a sembrar el caos, mientras busca a la mujer que lo liberó para cumplir su deseo final y desatar el infierno en la tierra. La única esperanza para detenerlo es un experto en antigüedades que conoce el origen y el poder de la joya maldita. La película está protagonizada por Tom Hardy como el Djinn, Emily Blunt como la mujer que lo libera y Benedict Cumberbatch como el experto en antigüedades."
+      "sinopsis": "La película The Wishmaster del año 2022 es un remake del clásico de terror de 1997, que narra el regreso a la tierra de un demonio maligno llamado Djinn. El Djinn es liberado accidentalmente por una mujer que encuentra una antigua joya en una subasta. El Djinn comienza a conceder deseos terribles y a sembrar el caos, mientras busca a la mujer que lo liberó para cumplir su deseo final y desatar el infierno en la tierra. La única esperanza para detenerlo es un experto en antigüedades que conoce el origen y el poder de la joya maldita. La película está protagonizada por Tom Hardy como el Djinn, Emily Blunt como la mujer que lo libera y Benedict Cumberbatch como el experto en antigüedades.",
+      "universe": "None"
      },
      {
       "id": 325,
@@ -3779,7 +4103,8 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/9ZbEvMdPh5A",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 326,
@@ -3791,7 +4116,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/k5pw1I95DLk",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&rs=1",
+      "universe": "The Woman in Black"
      },
      {
       "id": 327,
@@ -3803,7 +4129,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/UoSfwAYFWbo",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg",
+      "universe": "The Woman in Black"
      },
      {
       "id": 328,
@@ -3814,7 +4141,8 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/g0zWb60b-W4",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 329,
@@ -3825,7 +4153,8 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/ytCY56jb9XE",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P5SOpNcMqULmy9KNvIao2QHaK1?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P5SOpNcMqULmy9KNvIao2QHaK1?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 330,
@@ -3837,7 +4166,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/BFX0y6rR2mg",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 331,
@@ -3848,7 +4178,8 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/I1F7hJNsi5M",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 332,
@@ -3859,7 +4190,8 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/v6xkax8f6ls",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg",
+      "universe": "None"
      },
      {
       "id": 333,
@@ -3870,7 +4202,8 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/VUgL_EF8V2E",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&pid=ImgRaw&r=0"
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&pid=ImgRaw&r=0",
+      "universe": "None"
      },
      {
       "id": 334,
@@ -3882,7 +4215,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vVLD7BdzxbM",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/4\/6\/7\/5\/6\/46756-urban-legend-0-460-0-690-crop.jpg?k=b0aa7edc52"
+      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/4\/6\/7\/5\/6\/46756-urban-legend-0-460-0-690-crop.jpg?k=b0aa7edc52",
+      "universe": "None"
      },
      {
       "id": 335,
@@ -3894,7 +4228,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/uKXUYqKEhxk",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 336,
@@ -3905,7 +4240,8 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/M0qXz2YjJKI",
       "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+      "universe": "None"
      },
      {
       "id": 337,
@@ -3916,7 +4252,8 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/pDohVEonZ7A",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 338,
@@ -3928,7 +4265,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ax6kqQQ7qAk",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 339,
@@ -3939,7 +4277,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/fWSmGESmvOM",
       "clasification": "movie",
       "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 340,
@@ -3949,7 +4288,8 @@ export const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=12543",
       "year": 2010,
       "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-dEjOP48dtM8\/TY9MSArSWsI\/AAAAAAAAAIg\/tQQHvLiidZg\/s1600\/Vanishing+on+7th+Street+%25282010%2529.jpg"
+      "cover": "https:\/\/2.bp.blogspot.com\/-dEjOP48dtM8\/TY9MSArSWsI\/AAAAAAAAAIg\/tQQHvLiidZg\/s1600\/Vanishing+on+7th+Street+%25282010%2529.jpg",
+      "universe": "None"
      },
      {
       "id": 341,
@@ -3960,7 +4300,8 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/wNlMIvKnjOQ",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 342,
@@ -3971,7 +4312,8 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/RdlCnaz4AAA",
       "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg"
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg",
+      "universe": "None"
      },
      {
       "id": 343,
@@ -3982,7 +4324,8 @@ export const data = [
       "year": 2009,
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg"
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
+      "universe": "Friday the 13th"
      },
      {
       "id": 344,
@@ -3993,7 +4336,8 @@ export const data = [
       "year": 1989,
       "trailer": "https:\/\/www.youtube.com\/embed\/1bHDVrDBtRo",
       "clasification": "movie",
-      "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg"
+      "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg",
+      "universe": "Friday the 13th"
      },
      {
       "id": 345,
@@ -4005,7 +4349,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/-9Qi9EoMuh8",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg"
+      "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg",
+      "universe": "None"
      },
      {
       "id": 346,
@@ -4017,7 +4362,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/jEM9UAFcpLo",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE"
+      "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE",
+      "universe": "None"
      },
      {
       "id": 347,
@@ -4029,7 +4375,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/29ki8Op2lSQ",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg"
+      "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg",
+      "universe": "None"
      },
      {
       "id": 348,
@@ -4040,7 +4387,8 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/Sqb8rTnysTQ",
       "clasification": "movie",
-      "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg"
+      "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg",
+      "universe": "None"
      },
      {
       "id": 349,
@@ -4052,7 +4400,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Awg3cWuHfoc",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg",
-      "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección."
+      "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección.",
+      "universe": "None"
      },
      {
       "id": 350,
@@ -4062,7 +4411,8 @@ export const data = [
       "year": 1986,
       "clasification": "book",
       "cover": "https:\/\/i1.wp.com\/literariness.org\/wp-content\/uploads\/2018\/12\/71lZgzNE2kL.jpg",
-      "sinopsis": "It (en español, «Eso») es una novela de terror publicada en 1986 por el escritor estadounidense Stephen King. Cuenta la historia, en un juego de correspondencias con el pasado y el presente, de un grupo de siete amigos que son perseguidos por una entidad sobrenatural, al que llaman «Eso», que es capaz de cambiar de forma y se alimenta principalmente del terror que produce en sus víctimas. La narración orbita en torno a la localidad ficticia de Derry (Maine) y la inexplicable aura de horror y muerte que la rodea."
+      "sinopsis": "It (en español, «Eso») es una novela de terror publicada en 1986 por el escritor estadounidense Stephen King. Cuenta la historia, en un juego de correspondencias con el pasado y el presente, de un grupo de siete amigos que son perseguidos por una entidad sobrenatural, al que llaman «Eso», que es capaz de cambiar de forma y se alimenta principalmente del terror que produce en sus víctimas. La narración orbita en torno a la localidad ficticia de Derry (Maine) y la inexplicable aura de horror y muerte que la rodea.",
+      "universe": "None"
      },
      {
       "id": 351,
@@ -4072,7 +4422,8 @@ export const data = [
       "year": 1983,
       "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.HLX8_JaOgVhCx2qcH-08fgHaLb?pid=ImgDet&rs=1",
-      "sinopsis": "Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque su hijita Ellie le había encomendado que cuidara del gato, y Church había muerto atropellado. Louis lo había comprobado: el gato estaba muerto, incluso lo había enterrado más allá del cementerio de animales. Sin embargo, Chruch había regresado, y sus ojos eran más crueles y perversos que antes. Pero volvía a estar allí y Ellie no lo lamentaría. Louis Creed sí lo lamentaría. Porque más allá del cementerio de animales, incluso más allá de la valla de troncos que nadie se atrevía a traspasar y de los cuarenta y cinco escalones, el maligno poder del antiguo cementerio indio lo reclamaba con macabra avidez..."
+      "sinopsis": "Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque su hijita Ellie le había encomendado que cuidara del gato, y Church había muerto atropellado. Louis lo había comprobado: el gato estaba muerto, incluso lo había enterrado más allá del cementerio de animales. Sin embargo, Chruch había regresado, y sus ojos eran más crueles y perversos que antes. Pero volvía a estar allí y Ellie no lo lamentaría. Louis Creed sí lo lamentaría. Porque más allá del cementerio de animales, incluso más allá de la valla de troncos que nadie se atrevía a traspasar y de los cuarenta y cinco escalones, el maligno poder del antiguo cementerio indio lo reclamaba con macabra avidez...",
+      "universe": "None"
      },
      {
       "id": 352,
@@ -4082,7 +4433,8 @@ export const data = [
       "year": 2019,
       "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.422f2cd6eb331e0ed51611a51aff7499?rik=BX%2bhIq1pe8zDfg&riu=http%3a%2f%2fsomoslibros.net%2fwp-content%2fuploads%2f2020%2f05%2fEl_instituto_Stephen_KIng.jpg&ehk=32Xfc7RtCaO87XA1MGAiBVVaa%2frPN2MMT2%2fcwHepbrI%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas. En habitaciones parecidas hay más niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como la telequinesia o la telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: \"El que entra no sale\". La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien, te premian. Si no, el castigo es brutal. Luke se da cuenta de que las víctimas van desapareciendo y son trasladadas a la Mitad Trasera, así que se obsesiona con huir y pedir ayuda. Pero nunca nadie ha escapado del Instituto... Deudora de Ojos de fuego y con personajes juveniles (como en It y en Stand By Me) con los que podemos empatizar, El Instituto nos recuerda de inmediato al mejor King, incluso aunque trate temas tan oscuros como los que copan los titulares hoy en día y que nos hacen temer por nuestro futuro"
+      "sinopsis": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas. En habitaciones parecidas hay más niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como la telequinesia o la telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: \"El que entra no sale\". La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien, te premian. Si no, el castigo es brutal. Luke se da cuenta de que las víctimas van desapareciendo y son trasladadas a la Mitad Trasera, así que se obsesiona con huir y pedir ayuda. Pero nunca nadie ha escapado del Instituto... Deudora de Ojos de fuego y con personajes juveniles (como en It y en Stand By Me) con los que podemos empatizar, El Instituto nos recuerda de inmediato al mejor King, incluso aunque trate temas tan oscuros como los que copan los titulares hoy en día y que nos hacen temer por nuestro futuro",
+      "universe": "None"
      },
      {
       "id": 353,
@@ -4092,7 +4444,8 @@ export const data = [
       "year": 1996,
       "clasification": "book",
       "cover": "https:\/\/i.pinimg.com\/originals\/db\/fa\/f9\/dbfaf9a0351a2a4155d48736c8377135.jpg",
-      "sinopsis": "Desesperación es una novela de terror escrita por Stephen King que narra la historia de un grupo de personas que son capturadas por un policía poseído por una entidad maligna en un pueblo abandonado de Nevada. El policía, Collie Entragian, los lleva a la comisaría de Desesperación, donde tendrán que enfrentarse a horrores inimaginables y a un oscuro secreto que se esconde en la antigua mina de los chinos. Solo el joven David Carver, que tiene una fe especial en Dios, podrá hacer frente al mal que los acecha."
+      "sinopsis": "Desesperación es una novela de terror escrita por Stephen King que narra la historia de un grupo de personas que son capturadas por un policía poseído por una entidad maligna en un pueblo abandonado de Nevada. El policía, Collie Entragian, los lleva a la comisaría de Desesperación, donde tendrán que enfrentarse a horrores inimaginables y a un oscuro secreto que se esconde en la antigua mina de los chinos. Solo el joven David Carver, que tiene una fe especial en Dios, podrá hacer frente al mal que los acecha.",
+      "universe": "None"
      },
      {
       "id": 354,
@@ -4101,7 +4454,8 @@ export const data = [
       "web_calification": 7,
       "year": 1982,
       "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-7HbCaeZLEJW21rcljZc_gHaLZ?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-7HbCaeZLEJW21rcljZc_gHaLZ?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 355,
@@ -4110,7 +4464,8 @@ export const data = [
       "web_calification": 7.84,
       "year": 1987,
       "clasification": "book",
-      "cover": "https:\/\/imagessl8.casadellibro.com\/a\/l\/t0\/78\/9788401336478.jpg"
+      "cover": "https:\/\/imagessl8.casadellibro.com\/a\/l\/t0\/78\/9788401336478.jpg",
+      "universe": "None"
      },
      {
       "id": 356,
@@ -4119,7 +4474,8 @@ export const data = [
       "web_calification": 7.76,
       "year": 1991,
       "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9fQDQlqdrWvt8mzhdrYS4AHaLX?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9fQDQlqdrWvt8mzhdrYS4AHaLX?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 357,
@@ -4128,7 +4484,8 @@ export const data = [
       "web_calification": 7.88,
       "year": 1997,
       "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.O_uihY0D7ESoqzDc6fnXgAHaLb?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.O_uihY0D7ESoqzDc6fnXgAHaLb?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 358,
@@ -4137,7 +4494,8 @@ export const data = [
       "web_calification": 7.75,
       "year": 2003,
       "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZYRuv7iO834TXFb4DfEn1gAAAA?pid=ImgDet&w=323&h=500&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZYRuv7iO834TXFb4DfEn1gAAAA?pid=ImgDet&w=323&h=500&rs=1",
+      "universe": "None"
      },
      {
       "id": 359,
@@ -4146,7 +4504,8 @@ export const data = [
       "web_calification": 7.33,
       "year": 2004,
       "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ivsRJOBFd2Sdfmo7jINnnQHaLT?pid=ImgDet&rs=1"
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ivsRJOBFd2Sdfmo7jINnnQHaLT?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 360,
@@ -4156,7 +4515,8 @@ export const data = [
       "year": 1996,
       "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.uJAcHRveshFZSvG60lBlbQHaLQ?pid=ImgDet&rs=1",
-      "sinopsis": "Posesión es una novela de terror escrita por Stephen King bajo el seudónimo de Richard Bachman. La historia se desarrolla en un pequeño pueblo de Ohio, donde una entidad maligna llamada Tak posee a diferentes personas y las hace cometer atrocidades. Los pocos supervivientes tendrán que enfrentarse a este ser ancestral que busca destruirlos a todos."
+      "sinopsis": "Posesión es una novela de terror escrita por Stephen King bajo el seudónimo de Richard Bachman. La historia se desarrolla en un pequeño pueblo de Ohio, donde una entidad maligna llamada Tak posee a diferentes personas y las hace cometer atrocidades. Los pocos supervivientes tendrán que enfrentarse a este ser ancestral que busca destruirlos a todos.",
+      "universe": "None"
      },
      {
       "id": 361,
@@ -4166,6 +4526,7 @@ export const data = [
       "year": 2015,
       "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.fSiH0ypenXecH0Pq8BJdKQHaLW?pid=ImgDet&rs=1",
-      "sinopsis": "El bazar de los malos sueños es una colección de 20 relatos de terror y misterio escritos por Stephen King. En cada uno de ellos, el autor nos introduce con una nota personal donde explica la inspiración y el proceso creativo detrás de la historia. Los relatos abordan temas como la muerte, la culpa, el destino, la moralidad y lo sobrenatural. Algunos son inéditos y otros han sido revisados por el propio King. El bazar de los malos sueños es un regalo para los lectores fieles y una invitación para los nuevos a entrar en el mundo oscuro y fascinante de Stephen King."
+      "sinopsis": "El bazar de los malos sueños es una colección de 20 relatos de terror y misterio escritos por Stephen King. En cada uno de ellos, el autor nos introduce con una nota personal donde explica la inspiración y el proceso creativo detrás de la historia. Los relatos abordan temas como la muerte, la culpa, el destino, la moralidad y lo sobrenatural. Algunos son inéditos y otros han sido revisados por el propio King. El bazar de los malos sueños es un regalo para los lectores fieles y una invitación para los nuevos a entrar en el mundo oscuro y fascinante de Stephen King.",
+      "universe": "None"
      }
     ]
