@@ -69,19 +69,17 @@
                     <img :src="storySelected.cover" class="card-img-top" alt="..." />
                     <div class="card-body">
                          <h2 class="card-title">{{storySelected.title}}</h2>
-                         <h4 class="fw-lighter fst-italic">
+                         <h4 class="fw-lighter fst-italic blockquote-footer mt-1">
                               {{storySelected.optional_title ? storySelected.optional_title :
                               "unknown"}}
                          </h4>
+                         <h6 class="text-danger">{{storySelected.clasification}}</h6>
                          <p class="card-text pt-2">{{storySelected.sinopsis}}</p>
+                         <span class="text-danger fw-bold px-1"><i class="bi bi-star-half text-warning me-2"></i>{{storySelected.web_calification}}</span>
+                         / 10
                     </div>
                     <ul class="list-group list-group-flush">
                          <li class="list-group-item">Released in {{storySelected.year}}</li>
-                         <li class="list-group-item">
-                              Rate:
-                              <span class="text-danger fw-bold px-1">{{storySelected.web_calification}}</span>
-                              / 10
-                         </li>
                          <li class="list-group-item">
                               Overall ranking
                               <span class="text-danger fw-bold px-1">
@@ -90,9 +88,6 @@
                                    ? overAllObject.series+1 : storySelected.clasification == "book"
                                    ? overAllObject.books+1 : "" }}
                               </span>
-                         </li>
-                         <li class="list-group-item">
-                              Clasification: {{storySelected.clasification}}
                          </li>
                          <li class="list-group-item">
                               Movie genre: {{storySelected.gender ?? '' }}
@@ -113,7 +108,7 @@
                          </li>
                     <!-- Trailer section --> 
                          <h4 class="px-3 h4 mt-4">Trailer</h4>
-                         <iframe class="w-100 video py-3" :src="storySelected.trailer" title="YouTube video player"
+                         <iframe class="w-100 video py-3" :src="`${storySelected.trailer}?autoplay=1`" title="YouTube video player"
                               frameborder="0"
                               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                               allowfullscreen>

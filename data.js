@@ -24,7 +24,6 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
       "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin.",
-      "add_date": "2021-01-20",
       "universe": "None"
      },
      {
@@ -133,7 +132,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg",
       "sinopsis": "Un lugar en silencio es una película de terror y aventura que narra la historia de una familia que debe vivir en silencio para evitar ser cazada por unas criaturas que se guían por el sonido. La película está dirigida por John Krasinski, que también actúa junto a Emily Blunt, su esposa en la vida real. La película fue un éxito de crítica y público, y recibió nominaciones a los premios Oscar, Globos de Oro y BAFTA por su banda sonora y sus efectos sonoros. La película tiene una secuela, Un lugar en silencio 2, que se estrenó en 2021.",
-      "universe": "None"
+      "universe": "A Quiet Place"
      },
      {
       "id": 11,
@@ -147,7 +146,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg",
       "sinopsis": "Un lugar tranquilo 2 es la secuela de la exitosa película de terror de 2018, dirigida y escrita por John Krasinski, que también actúa en un breve papel. La historia continúa con la familia Abbott, formada por Evelyn (Emily Blunt), Regan (Millicent Simmonds), Marcus (Noah Jupe) y el bebé recién nacido, que deben abandonar su granja y enfrentarse a los horrores del mundo exterior, donde unas criaturas ciegas pero sensibles al sonido cazan a los humanos. En su camino, se encuentran con Emmett (Cillian Murphy), un viejo amigo de Lee (John Krasinski), el padre fallecido de la familia, que les ofrece refugio en una antigua fábrica. Allí, Regan descubre una señal de radio que emite una canción y deduce que se trata de un mensaje que indica un lugar seguro. Decidida a encontrarlo, se escapa con el amplificador que su padre le había fabricado para potenciar el sonido de su implante auditivo, que es capaz de aturdir a las criaturas. Evelyn le pide a Emmett que vaya tras ella y la proteja, mientras ella se queda con Marcus y el bebé. Lo que sigue es una trepidante aventura de supervivencia, donde el silencio es la clave para no morir.",
-      "universe": "None"
+      "universe": "A Quiet Place"
      },
      {
       "id": 12,
@@ -244,7 +243,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg",
       "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?",
-      "universe": "None"
+      "universe": "Predator"
      },
      {
       "id": 19,
@@ -258,7 +257,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_5418_40.jpg",
       "sinopsis": "Alien vs Depredador 2: Requiem continúa la historia de la primera parte, donde una nave espacial que transporta a los alienígenas y al depredador híbrido se estrella en un pequeño pueblo de Colorado. Los habitantes del lugar se ven atrapados en medio de una guerra entre las dos especies mortales, que no se detienen ante nada para eliminar a sus enemigos y a cualquiera que se interponga en su camino. Un grupo de supervivientes humanos intenta escapar del horror, mientras que un depredador solitario llega al planeta para cazar a los alienígenas y al monstruoso híbrido. La película es un thriller de acción y terror, con escenas sangrientas y violentas, que muestra el enfrentamiento definitivo entre los dos iconos del cine de ciencia ficción.",
-      "universe": "None"
+      "universe": "Predator"
      },
      {
       "id": 20,
@@ -309,6 +308,7 @@ export const data = [
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
+      "gender": "animales",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
       "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz.",
       "universe": "None"
@@ -754,7 +754,7 @@ export const data = [
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/embed\/ndm_g5pyRUQ",
       "clasification": "movie",
-      "gender": "monsters",
+      "gender": "Sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Critters is a 1986 American science fiction comedy horror film directed by Stephen Herek in his directorial debut. The movie stars Dee Wallace, M. Emmet Walsh, Billy “Green” Bush and Scott Grimes in his film debut. The plot follows a group of small, furry aliens with carnivorous behavior escaping from two shape-shifting bounty hunters and terrorizing a farm town on eart.",
       "universe": "Critters"
@@ -768,7 +768,7 @@ export const data = [
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/nkZR_KknAqY",
       "clasification": "movie",
-      "gender": "monsters",
+      "gender": "Sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&rs=1",
       "universe": "Critters"
      },
@@ -781,7 +781,7 @@ export const data = [
       "year": 1991,
       "trailer": "https:\/\/www.youtube.com\/embed\/-rAXqSLSCn4",
       "clasification": "movie",
-      "gender": "monsters",
+      "gender": "Sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&risl=&pid=ImgRaw&r=0",
       "universe": "Critters"
      },
@@ -807,6 +807,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/JcpJVEp047Q",
       "clasification": "movie",
+      "gender": "Mistery",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg",
       "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games.",
       "universe": "None"
@@ -834,6 +835,7 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/8b_HVtHmK30",
       "clasification": "movie",
+      "gender": "muñecos",
       "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg",
       "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for.",
       "universe": "None"
@@ -860,7 +862,9 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/j1SDtKoTkzc",
       "clasification": "movie",
+      "gender": "posesiones",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg",
+      "sinopsis": "In DELIVER US FROM EVIL, New York police officer Ralph Sarchie (Eric Bana), struggling with his own personal issues, begins investigating a series of disturbing and inexplicable crimes. He joins forces with an unconventional priest (Edgar Ramirez), schooled in the rituals of exorcism, to combat the frightening and demonic possessions that are terrorizing their city. Based upon the book, which details Sarchie's bone-chilling real-life cases.",
       "universe": "None"
      },
      {
@@ -942,7 +946,7 @@ export const data = [
       "year": 2000,
       "trailer": "https:\/\/www.youtube.com\/embed\/pCiWxIHw7bQ",
       "clasification": "movie",
-      "gender": "none",
+      "gender": "Thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
       "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
       "universe": "None"
@@ -985,8 +989,8 @@ export const data = [
      },
      {
       "id": 74,
-      "title": "Diabolica Tentación",
-      "optional_title": "Jennifer’s body",
+      "title": "Jennifer's Body",
+      "optional_title": "Diabolica Tentación",
       "web_calification": 5.72,
       "details": "https:\/\/www.abandomoviez.net\/db\/pelicula.php?film=9397",
       "year": 2009,
@@ -1162,6 +1166,7 @@ export const data = [
       "clasification": "movie",
       "gender": "posesiones",
       "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
+      "sinopsis": "A seemingly-endless series of grisly killings that bear the trademark of the mass murderer the Gemini Killer, terrorizes the district of Georgetown. To further complicate matters, although it's been 17 long years since the killer's execution and that fatal night of pure terror in The Exorcist (1973), skeptical police officer Lieutenant William F. Kinderman is still obsessed with solving the baffling case, as the death toll keeps rising. In the meantime, in the city's high-security psychiatric institution, a cryptic inmate who bears an uncanny resemblance to the late Father Damien Karras emerges from his deep catatonic state, claiming that he has all the answers Kinderman needs. But, who is the mysterious Patient X? Does the same unholy force that tormented Regan MacNeil have something to do with the brutal demonic murders?",
       "universe": "The Exorcist"
      },
      {
@@ -1185,18 +1190,21 @@ export const data = [
       "clasification": "movie",
       "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
       "universe": "The Exorcist"
      },
      {
       "id": 90,
-      "title": "El Fin de los Dias",
-      "optional_title": "End Of Days",
+      "title": "End Of Days",
+      "optional_title": "El Fin de los Dias ",
       "web_calification": 6.32,
       "details": "www.abandomoviez.net\/db\/pelicula.php?film=781",
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/SzkwtbyiaME",
       "clasification": "movie",
+      "gender": "Action",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg",
+      "sinopsis": "On December 28th, 1999, the citizens of New York City are getting ready for the turn of the millennium. However, the Devil decides to crash the party by coming to the city, inhabiting a man's body, and searching for his chosen bride, a 20-year-old woman named Christine York. If he bears her child between 11:00 PM and midnight on New Year's Eve, the world will end, and the only hope lies within an atheist ex-cop named Jericho Cane, who no longer believes in God because of the murder of his wife and daughter.",
       "universe": "None"
      },
      {
@@ -1224,6 +1232,7 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg",
+      "sinopsis": "In Pasadena, Mrs. Davis sends her daughter Aubrey Davis to Tokyo to bring her sister Karen Davis, who is interned in a hospital after surviving a fire, back to the USA. After their meeting, Karen dies and Aubrey decides to investigate what happened to her and gets herself trapped in the same situation, being chased by the ghost of the house. Meanwhile in Tokyo, the three high school mates Allison, Vanessa and Miyuki visit the famous haunted house and are also chased by the ghost. In Chicago, Trish moves to the apartment of her boyfriend Bill, who lives with his children, the teenager Lacey and boy Jake. On the next door, weird things happen with their neighbor.",
       "universe": "None"
      },
      {
@@ -1417,7 +1426,9 @@ export const data = [
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/yy6fQReZNIk",
       "clasification": "movie",
+      "gender": "Sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0",
+      "sinopsis": "The year is 2047 and a ship named the Event Horizon has re-appeared after disappearing 7 years prior, in experiments for faster than light travel. A rescue hastily speeds to the returned vessel after a transmission was picked up from the ship, garbled, but vaguely resembling a human voice. As the crew reach the ship, and spend longer on it, it appears that someone or something is toying with them, and more, the question is what has the Event Horizon become?",
       "universe": "None"
      },
      {
@@ -1484,7 +1495,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/YTiGeU-dRAY",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg",
-      "universe": "None"
+      "sinopsis": "1994. In Shadyside, the murder capital of the United States, yet another brutal, unmotivated massacre sends shivers down the spine. And, more and more, the unholy name of Sarah Fier, a cursed local witch, keeps popping up. Now, something evil has awoken, forcing a team of five teenage friends to summon up the courage to get to the bottom of a bloody, centuries-old secret and fight tooth and nail against unstoppable supernatural forces to stay alive. But in this dangerous cat-and-mouse game, someone else makes the rules. Can the young defenders lift the town curse and end it all?",
+      "universe": "Fear Street"
      },
      {
       "id": 113,
@@ -1496,7 +1508,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/K65rzy_AApU",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39348_25.jpg",
-      "universe": "None"
+      "sinopsis": "1978. Against the backdrop of the endless feud between the teenagers of Shadyside and Sunnyvale and the centuries-spanning curse of the doomed witch, Sarah Fier, a spate of brutal axe murders terrorises the unsuspecting campers of Camp Nightwing. Now, after the pitiless killings in Fear Street: Part One - 1994 (2021), a handful of lucky survivors find themselves in dire need of help to link the past to the present and, hopefully, unearth the gruesome truth. But warm, bright-red blood follows. Will Deena and her friends ever find out what happened that horrible July?",
+      "universe": "Fear Street"
      },
      {
       "id": 114,
@@ -1508,6 +1521,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/fyvwHp-7TRc",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.aR5ohrck4CUgD8i9m7-0GQHaK9?pid=ImgDet&rs=1",
+      "sinopsis": "This film is about a couple (Emily and Nate) who go from living in the city to moving in to a house in the country after Emily has a miscarriage. The house they move in to used to be in Nate's family in the mid 1800's. After they move in Emily starts seeing visions of people who used to live there, but she doesn't know what it all means. Then she becomes pregnant again, but the strange thing is that she was told she could never become pregnant again. How is it possible? And why are these ghostly visions happening?",
       "universe": "None"
      },
      {
@@ -1533,7 +1547,7 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_81_59.jpg",
-      "universe": "None"
+      "universe": "Freddy"
      },
      {
       "id": 117,
@@ -1557,7 +1571,9 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/FFzoqmAD-Rg",
       "clasification": "movie",
+      "gender": "Thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8365_81.jpg",
+      "sinopsis": "As a last resort to save their tattered marriage, Gerald and Jessie Burlingame set off on a weekend adventure at their secluded lakeside retreat, in the hope of rekindling the long-lost affection in their relationship. Everything is taken care of: the fridge is well-stocked, and there's not a soul in the area to disturb the couple, as Gerald intends on playing a harmless but kinky sex game with a pair of handcuffs and a lot of imagination. But instead, when an unforeseen situation leaves Jessie handcuffed to their sturdy wooden bed, an entirely different game will commence--one that requires perseverance, a clear mind, and above all, a strong will to survive.",
       "universe": "None"
      },
      {
@@ -1569,7 +1585,9 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/X-tg05cAVwE",
       "clasification": "movie",
+      "gender": "Thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31793_51.jpg",
+      "sinopsis": "Rose Armitage is taking her boyfriend, Chris Washington, to meet her parents for the first time. He's a bit uneasy about how they'll treat him, as they're white and he's black. However, her parents turn out to be unfazed and everything seems to be going fine. Chris then starts to notice some weird behavioral traits with the African-American staff at the house. The Armitages throw a huge party and Chris ends up in some awkward conversations with the guests. Initially, he just puts it down to the racial difference, but then the guests', and Armitages', motives start to appear more sinister. Chris decides it is time to get out.",
       "universe": "None"
      },
      {
@@ -1582,6 +1600,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/BKz3MLLo2HA",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6hxb48yoDA5LV85JWM9qwgHaK8?pid=ImgDet&rs=1",
+      "sinopsis": "After discovering a passenger ship missing since 1962 floating adrift on the Bering Sea, salvagers claim the vessel as their own. Once they begin towing the ghost ship towards harbor, a series of bizarre ocurrences happen and the group becomes trapped inside the ship, which they soon learn is inhabited by a demonic creature.",
       "universe": "None"
      },
      {
@@ -1594,6 +1613,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/rxxxzC-bgCs",
       "clasification": "movie",
       "cover": "https:\/\/movieposterfactory.com\/wp-content\/uploads\/2020\/05\/2002_HO_gin_gwai_1_2003_resultat.jpg",
+      "sinopsis": "A blind girl gets a cornea transplant so that she would be able to see again. However, she got more than what she bargained for when she realised she could even see ghosts. And some of these ghosts are down right unfriendly. So she embarks on a journey to find the origins of her cornea and to reveal the history of the previous dead owner.",
       "universe": "None"
      },
      {
@@ -1606,6 +1626,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/sSjjEi2A1Tg",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37971.jpg",
+      "sinopsis": "Donald Koch, a.k.a. \"Don\", \"King Don\" and \"Tiger\", moves from Chicago to the suburbs since his wife Liz is pregnant and they believe the location is adequate to raise a family with children. Liz buys an old house and Don, who is unemployed, goes with his dog Cooper first to renovate the house. Soon he learns from his neighbor Ellie Mueller that the house was a brothel many years ago. Then he meets another neighbor, the sexy Sarah Yates, and they have sex in the house. When Sarah returns to visit him, he says that their affair was a mistake since he is married and asks her to not come back again. On the weekend, his friend Milo Stone comes to help Don in the renovation. But soon the house shows supernatural events and Milo, Don and Liz learn that the place is haunted with a sordid past.",
       "universe": "None"
      },
      {
@@ -1617,6 +1638,7 @@ export const data = [
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/gANfrj-G4D8",
       "clasification": "movie",
+      "gender": "Mistery",
       "cover": "https:\/\/1.bp.blogspot.com\/-ldaXfaOt7Jg\/Vmnrrmp7zWI\/AAAAAAAACE0\/kr5QLhSX_Lo\/s1600\/tumblr_nycubxfdgn1t2kfnqo1_500.jpg",
       "universe": "None"
      },
@@ -1630,6 +1652,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/RsY-DLztNkg",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.g4pXkW3pQy-ntKB_iKmiMwAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Dr. Miranda Grey is a psychiatrist who works in a penitentiary, in the mental institution sector. She is married with Dr. Douglas Grey, the chief of department where Dr. Pete Graham also works. Chloe Sava, a patient of Dr. Miranda formerly abused by her stepfather, claims that she is frequently raped by the devil in her cell. After leaving the asylum in a stormy night, Dr. Miranda has a car accident, and when she wakes up, she is an inmate of the institution, being accused of an horrible crime and having no memory of the incident.",
       "universe": "None"
      },
      {
@@ -1670,6 +1693,7 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_646_58.jpg",
+      "sinopsis": "Minature green monsters tear through the small town of Kingston Falls. Hijinks ensue as a mild-mannered bank teller releases these hideous loonies after gaining a new pet and violating two of three simple rules: No water (violated), no food after midnight (violated), and no bright light. Hilarious mayhem and destruction in a town straight out of Norman Rockwell. So, when your washing machine blows up or your TV goes on the fritz, before you call the repair man, turn on all the lights and look under all the beds. 'Cause you never can tell, there just might be a gremlin in your house.",
       "universe": "None"
      },
      {
@@ -1709,6 +1733,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/vBbN899zxJo",
       "clasification": "serie",
       "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg",
+      "sinopsis": "Guillermo del Toro's Netflix horror anthology series \"Cabinet of Curiosities\" (originally titled \"Guillermo del Toro Presents 10 After Midnight\") has added F. Murray Abraham, Ben Barnes, Elpidia Carrillo, Essie Davis, Hannah Galway, Crispin Glover, Demetrius Grosse, David Hewlett, Andrew Lincoln, Tim Blake Nelson, Luke Roberts, Sebastian Roché, Glynn Turman and Peter Weller to its cast. The prolific Academy-Award-winning Mexican filmmaker behind \"Pan's Labyrinth,\" \"Hellboy,\" \"The Shape of Water\" and \"Pacific Rim\" will executive produce, co-showrun and direct the series - described as a curation of eight unprecedented and genre-defining sinister narratives meant to challenge traditional notions of horror, ranging from the macabre to magical, gothic to grotesque or classically creepy. Two of the eight tales are original works by del Toro.",
       "universe": "None"
      },
      {
@@ -1720,7 +1745,9 @@ export const data = [
       "year": 2006,
       "trailer": "https:\/\/www.youtube.com\/embed\/6NkXEE4my1M",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.dwM_misCJoLmoZ_nRWtFdQHaKn?pid=ImgDet&rs=1",
+      "sinopsis": "The film revolves around Park Hee-bong (Byun Hee-Bong), a man in his late 60s. He runs a small snack bar on the banks of the Han River and lives with his two sons, one daughter, and one granddaughter. The Parks seem to lead a quite ordinary and peaceful life, but maybe they are a bit poorer than the average Seoulite. Hee-bong's elder son Gang-du (Song Kang-ho) is an immature and incompetent man in his 40s, whose wife left home long ago. Nam-il (Park Hae-il) is the youngest son, an unemployed grumbler, and daughter Nam-joo (Bae Doona) is an archery medalist and member of the national team. One day, an unidentified monster suddenly appears from the depths of the Han River and spreads panic and death, and Gang-du's daughter Hyun-seo (Ko Asung) is carried off by the monster and disappears. All of the family members are in a great agony because they lost someone very dear to them. But when they find out she is still alive, they resolve to save her.",
       "universe": "None"
      },
      {
@@ -1734,6 +1761,7 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.xQpGKDgkPHifw0mi4U8upgAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "October 29, 1998, Langdon, Illinois. It's been two bloody decades since Halloween (1978). Now, the suffocating stranglehold of unstoppable Michael Myers tightens around traumatised Laurie Strode. As a result, Laurie, now the headmistress of Hillcrest Academy, is living in fear, protected under a new identity. However, she is unaware that the masked serial killer has already found her whereabouts, and he is hell-bent on finishing what he has started. This time there is no turning back: Laurie must give her all to stand up for herself and look death in the eye. But does she have what it takes to destroy Michael, the right hand of evil?",
       "universe": "Halloween"
      },
      {
@@ -1747,6 +1775,7 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg",
+      "sinopsis": "After Dr. Samuel Loomis shoots Michael Myers six times, Michael escapes and is now on the loose in Haddonfield. Laurie Strode is taken to the hospital, and Dr. Loomis continues to hunt down Michael with the help of the police. Michael continues killing the citizens of Haddonfield and heads to the hospital to kill Laurie. It's now up to an injured Laurie and Dr. Loomis to stop Michael and his murderous rampage.",
       "universe": "Halloween"
      },
      {
@@ -1759,6 +1788,7 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37684_45.jpg",
+      "sinopsis": "Minutes after Laurie Strode (Curtis), her daughter Karen (Judy Greer) and granddaughter Allyson (Andi Matichak) left masked monster Michael Myers caged and burning in Laurie's basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie's trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael's first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all. Evil dies tonight.",
       "universe": "Halloween"
      },
      {
@@ -1771,6 +1801,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LsUZXsTskUs",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.__LhqgZiur8ZcVvfMbhLVwHaLn?pid=ImgDet&rs=1",
+      "sinopsis": "Siblings Hansel and Gretel are left alone in the woods by their father and captured by a dark witch in a candy house, but they kill the witch and escape. Years later, the orphans have become famous witch hunters. When 11 children go missing in a small village, the Mayor summons Hansel and Gretel to rescue them, and they save red-haired Mina from the local sheriff who wants to burn her for being a witch. Soon they discover that the Blood Moon will approach in three days and that powerful dark witch Muriel is responsible for all the abductions; she intends to use the children with a secret ingredient in a broth that will protect the coven of witches against the fire. Meanwhile, Hansel and Gretel discover secrets about their parents.",
       "universe": "None"
      },
      {
@@ -1833,7 +1864,7 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/20NsHYz9p64",
       "clasification": "movie",
-      "cover": "https:\/\/www.imdb.com\/title\/tt1716747\/mediaviewer\/rm682564352\/?ref_=ext_shr_lnk",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.44IwZmg0ybO_VhpaI8JMYgHaLG?pid=ImgDet&rs=1",
       "sinopsis": "Two best friends, Steven Craven and Nico Bradley, travel to Mexico to have some fun. They meet a vagrant in a bar that gives a puzzle box to Nico. When he opens the device, he finds that it is a key to hell. Nico brings Pinhead that inflicts pain to him and Steven and the youngsters vanish. Later, in Los Angeles, Dr. Ross Craven, his wife Sarah and their daughter Emma receive Peter and Kate Bradley to have dinner. Both families miss Steven and Nico and they hired a private detective to seek them out, but he only finds Nico's backpack. When Emma snoops around the backpack, she finds the puzzle box and out of the blue, Steven returns covered of blood. But soon they discover that it is not Steven's soul that is inside his body.",
       "universe": "Hellraiser "
      },
@@ -2007,6 +2038,7 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/zuZnRUcoWos",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/p5HxqSZr6WyXt7ARtK3PPuJehKC.jpg",
       "universe": "Insidious"
      },
@@ -2019,6 +2051,7 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/xMtv4v4ej2I",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17961_61.jpg",
       "universe": "Insidious"
      },
@@ -2031,6 +2064,7 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/zRcT7xDiYh8",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27879_7.jpg",
       "universe": "Insidious"
      },
@@ -2043,6 +2077,7 @@ export const data = [
       "year": 2018,
       "trailer": "https:\/\/www.youtube.com\/embed\/lUwaosQZkHU",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29743_70.jpg",
       "universe": "Insidious"
      },
@@ -2103,6 +2138,7 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/UBoGklz1wGM",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_165_75.jpg",
       "universe": "Jeepers Creepers"
      },
@@ -2115,6 +2151,7 @@ export const data = [
       "year": 2003,
       "trailer": "https:\/\/www.youtube.com\/embed\/ONvd2DTx7OU",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_212_16.jpg",
       "universe": "Jeepers Creepers"
      },
@@ -2127,6 +2164,7 @@ export const data = [
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/Jb2ySdMMHnI",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8239_23.jpg",
       "universe": "Jeepers Creepers"
      },
@@ -2200,6 +2238,7 @@ export const data = [
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/TpyU0hOqJUI",
       "clasification": "movie",
+      "gender": "terror_psicologico",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_147_26.jpg",
       "universe": "None"
      },
@@ -2273,7 +2312,7 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg",
-      "universe": "None"
+      "universe": "The Ring"
      },
      {
       "id": 177,
@@ -2286,7 +2325,7 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg",
-      "universe": "None"
+      "universe": "The Ring"
      },
      {
       "id": 178,
@@ -2505,6 +2544,7 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/vON5kiGf1TI",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png",
       "universe": "None"
      },
@@ -2723,7 +2763,7 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/bZiLIldN_NE",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/02\/26\/10\/25\/202748.jpg",
       "sinopsis": "“Paranormal Activity” is a 2007 American supernatural horror film produced, written, directed, photographed and edited by Oren Peli. It centers on a young couple (Katie Featherston and Micah Sloat) who are haunted by a supernatural presence inside their home. They then set up a camera to document what is haunting them. The movie was made on a budget of $15,000 and grossed over $193 million worldwide .The film was shot over the course of seven days in Oren Peli’s own house. The film was initially screened at the Screamfest Film Festival in 2007 and was released in the United States on September 25, 2009. The film was praised for its realistic portrayal of supernatural events and its use of found footage. The film has spawned several sequels and spin-offs.",
       "universe": "Paranormal Activity"
@@ -2734,7 +2774,7 @@ export const data = [
       "optional_title": "Actividad Paranomal (Final Alternativo)",
       "year": 2007,
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "universe": "Paranormal Activity"
      },
      {
@@ -2746,7 +2786,7 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/NPN4-OIGds8",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/7673270068f2d30557cd97936f77d590f746e3b49afdb1a9b3821ddf6f095bcc._RI_TTW_.jpg",
       "universe": "Paranormal Activity"
      },
@@ -2758,7 +2798,7 @@ export const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=15958",
       "year": 2011,
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/pics.filmaffinity.com\/paranormal_activity_3-756156690-large.jpg",
       "universe": "Paranormal Activity"
      },
@@ -2771,7 +2811,7 @@ export const data = [
       "year": 2012,
       "trailer": "https:\/\/www.youtube.com\/embed\/UN0906LwLvI",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/14\/06\/24\/13\/52\/528288.jpg",
       "universe": "Paranormal Activity"
      },
@@ -2784,7 +2824,7 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/yQzAk8LpOog",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23650_58.jpg",
       "universe": "Paranormal Activity"
      },
@@ -2797,7 +2837,7 @@ export const data = [
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/OKQYhfI0j70",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "found_footage",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/cN1WYVV1NyQNoHcOTAQVH448ljY.jpg",
       "universe": "Paranormal Activity"
      },
@@ -2835,7 +2875,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg",
-      "universe": "None"
+      "universe": "Freddy"
      },
      {
       "id": 223,
@@ -3670,7 +3710,7 @@ export const data = [
       "year": "2016 - 2018",
       "trailer": "https:\/\/www.youtube.com\/embed\/9wj62u817FA",
       "clasification": "serie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg",
       "universe": "The Exorcist"
      },
@@ -3723,6 +3763,7 @@ export const data = [
       "clasification": "movie",
       "gender": "aliens",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTY2OTM0NDEyM15BMl5BanBnXkFtZTcwNTAzMDY4Mg@@._V1_FMjpg_UX1000_.jpg",
+      "sinopsis": "In 1972, a scale of measurement was established for alien encounters. When a UFO is sighted, it is called an encounter of the first kind. When evidence is collected, it is known as an encounter of the second kind. When contact is made with extraterrestrials, it is the third kind. The next level, abduction, is the fourth kind. Modern-day, Alaska, where-mysteriously since the 1960s-a disproportionate number of the population has been reported missing every year. Despite multiple FBI investigations of the region, the truth has never been discovered. Here in this remote region, psychologist Dr. Abigail Tyler began videotaping sessions with traumatized patients and unwittingly discovered some of the most disturbing evidence of alien abduction ever documented. The Fourth Kind exposes the terrified revelations of multiple witnesses. Their accounts of being visited by alien figures all share disturbingly identical details, the validity of which is investigated throughout the film.",
       "universe": "None"
      },
      {
@@ -3759,6 +3800,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/KBGEhb7E9Zg",
       "clasification": "serie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "sinopsis": "A young woman gets a job as a nanny to care for two young children at a manor. There, she discovers that things there are not as she thought and start to uncover a grim past and she must do all she can to save the ones she loves most before it's too late.",
       "universe": "None"
      },
      {
@@ -3772,6 +3814,7 @@ export const data = [
       "clasification": "serie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg",
+      "sinopsis": "Explores a group of siblings who, as children, grew up in what would go on to become the most famous haunted house in the country. Now adults, and forced back together in the face of tragedy, the family must finally confront the ghosts of their past, some of which still lurk in their minds while others might actually be stalking the shadows of Hill House.",
       "universe": "None"
      },
      {
@@ -3783,6 +3826,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Yedl4lY9VgM",
       "clasification": "movie",
       "cover": "https:\/\/play-lh.googleusercontent.com\/EIsRiHD7D6JEochVh_uPXV0AD0cLfccGkJxram8TA1xTz5p_TqdV8MM7r421kkyn6xj5",
+      "sinopsis": "Beneath the fake blood and cheap masks of countless haunted house attractions across the country, there are whispers of truly terrifying alternatives. Looking to find an authentic, blood-curdling good fright for Halloween, five friends set off on a road trip in an RV to track down these underground Haunts. Just when their search seems to reach a dead end, strange and disturbing things start happening and it becomes clear that the Haunt has come to them.",
       "universe": "None"
      },
      {
@@ -3818,7 +3862,7 @@ export const data = [
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/odn_ElyHcj4",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg",
       "universe": "None"
      },
@@ -3878,6 +3922,7 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/tbyCUdzR87Y",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg",
       "universe": "None"
      },
@@ -3902,7 +3947,9 @@ export const data = [
       "year": 2018,
       "trailer": "https:\/\/www.youtube.com\/embed\/UZ_7__0rBAU",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/iiLWVxvUO0WaULwIuuKrwFg80OB.jpg",
+      "sinopsis": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order's unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in 'The Conjuring 2,' as the abbey becomes a horrific battleground between the living and the damned.",
       "universe": "The Conjuring"
      },
      {
@@ -3914,6 +3961,7 @@ export const data = [
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/gsHuk7EARdA",
       "clasification": "movie",
+      "gender": "Thriller",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg",
       "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009.",
       "universe": "None"
@@ -3938,7 +3986,7 @@ export const data = [
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=11511 ",
       "year": 2012,
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "posesiones",
       "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg",
       "universe": "None"
      },
@@ -4147,13 +4195,14 @@ export const data = [
      },
      {
       "id": 329,
-      "title": "Todavia Se lo que Hiciste el Verano Pasado",
-      "optional_title": "I Still Know What You Did Last Summer",
+      "title": "I Still Know What You Did Last Summer",
+      "optional_title": "Todavia Se lo que Hiciste el Verano Pasado ",
       "web_calification": 6.17,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=105",
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/ytCY56jb9XE",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P5SOpNcMqULmy9KNvIao2QHaK1?pid=ImgDet&rs=1",
       "universe": "None"
      },
@@ -4265,7 +4314,7 @@ export const data = [
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/ax6kqQQ7qAk",
       "clasification": "movie",
-      "gender": "paranormal",
+      "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1",
       "universe": "None"
      },
@@ -4318,8 +4367,8 @@ export const data = [
      },
      {
       "id": 343,
-      "title": "Viernes 13",
-      "optional_title": "Friday the 13th",
+      "title": "Friday the 13th",
+      "optional_title": "Viernes 13",
       "web_calification": 6.21,
       "details": "www.aullidos.com\/pelicula.asp?id_pelicula=534",
       "year": 2009,
@@ -4330,13 +4379,14 @@ export const data = [
      },
      {
       "id": 344,
-      "title": "Viernes 13 Parte 8: Jason toma Manhattan",
-      "optional_title": "Friday the 13th Part 8: Jason Takes Manhattan ",
+      "title": "Friday the 13th Part 8: Jason Takes Manhattan ",
+      "optional_title": "Viernes 13 Parte 8: Jason toma Manhattan",
       "web_calification": 5.85,
       "details": "http:\/\/www.abandomoviez.net\/db\/pelicula.php?film=471",
       "year": 1989,
       "trailer": "https:\/\/www.youtube.com\/embed\/1bHDVrDBtRo",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg",
       "universe": "Friday the 13th"
      },
