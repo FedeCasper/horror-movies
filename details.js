@@ -35,7 +35,7 @@ createApp({
           console.log(this.universeStories);
 
           this.relatedStories = this.getStoryGenre()
-          console.log(this.universeStories);
+          console.log(this.relatedStories);
           
      },
 
