@@ -1,5 +1,5 @@
-import { data } from "./data.js"
-import { storyFilter } from "./module/functions.js"
+import { data } from "../js/data.js"
+import { storyFilter } from "../module/functions.js"
 const { createApp } = Vue
 
 createApp({
@@ -11,28 +11,13 @@ createApp({
                notFoundObject: {},
                scrollYPosition: 0,
                arrowDirection: false,
-               todayDate: "",
-               onlyCortos: []
+               todayDate: ""
           }
      },
      created(){
           this.movies = data
           // console.log(this.movies);
           this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
-          this.onlyCortos = this.movies.filter(movie => movie.clasification == "corto")
-          console.log(this.onlyCortos);
-
-          this.onlyCortos = this.movies.filter(movie => movie.clasification == "corto")
-          console.log(this.onlyCortos);
-          this.onlyCortos = this.onlyCortos.map(corto => {
-               let videoID = (corto.trailer).slice(30, (corto.trailer).length);
-               console.log(videoID);
-               corto.videoId = videoID
-               console.log(corto);
-               return corto
-          })
-
-          console.log(this.onlyCortos);
      },
      beforeUpdate(){
           this.notFoundObject = {
@@ -69,7 +54,7 @@ createApp({
      },
      computed:{
           filter(){
-               this.filteredMovies = storyFilter(this.inputValue, this.onlyCortos)
+               this.filteredMovies = storyFilter(this.inputValue, this.movies)
           }
      }
 }).mount('#app')

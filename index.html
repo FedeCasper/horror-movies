@@ -63,7 +63,7 @@
                <h4 class="d-flex mb-4 text-light text-center">What scary story are you looking for?</h4>
                <div class="d-flex w-100" role="search">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
-                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="preventNullInputText"></i></button>
+                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="preventNullInputText" title="click to search"></i></button>
                </div>
                <h6 v-cloak class="text-light pt-3">
                     <span class="text-danger px-2">{{dataObject.movies.length}}</span> movies,
@@ -80,8 +80,8 @@
                          <div class="card h-100">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
                               <div class="card-body border-bottom border-bottom-dark">
-                                   <h5 class="card-title">{{movie.title}}</h5>
-                                   <h6 class="fw-lighter fst-italic m-0"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
+                                   <h6 class="card-title">{{movie.title}}</h6>
+                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
                               </div>
                               <div>
                                    <ul class="list-group list-group-flush">
@@ -157,7 +157,7 @@
           crossorigin="anonymous"></script>
      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
      <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-     <script type="module" src="./main.js"></script>
+     <script type="module" src="./js/main.js"></script>
 </body>
 
 </html>

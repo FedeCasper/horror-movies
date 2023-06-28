@@ -1,5 +1,6 @@
-import { data } from "./data.js"
-import { storyFilter } from "./module/functions.js"
+import { data } from "../js/data.js"
+import { storyFilter } from "../module/functions.js"
+
 const { createApp } = Vue
 
 createApp({
@@ -9,28 +10,18 @@ createApp({
                movies: [],
                filteredMovies: [],
                filteredOnlySeries: [],
-               notFoundObject: {},
+               onlyBooks: [],
+               filteredOnlyBooks: [],
                scrollYPosition: 0,
                arrowDirection: false
           }
      },
 
-     created(){
+     created() {
           this.movies = data
-          console.log(this.movies);
-          this.filteredSeries = this.movies.filter(movie => movie.clasification === "serie")
-          console.log(this.filteredSeries);
-          this.filteredOnlySeries = this.filteredSeries
-          console.log(this.filteredOnlySeries);
-          this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
-     },
-
-     beforeUpdate(){
-          this.notFoundObject = {
-               text: "There is no movie with that name",
-               img: "./assets/not-found-ghost.png",
-               text2: "Please try again..."
-          }
+          // console.log(this.movies);
+          this.onlyBooks = this.movies.filter(movie => movie.clasification == "book")
+          // console.log(this.onlyBooks);
      },
 
      mounted(){
@@ -62,9 +53,10 @@ createApp({
           }
      },
 
-     computed:{
+     computed: {
           filter(){
-               this.filteredOnlySeries = storyFilter(this.inputValue, this.filteredSeries)
+               this.filteredOnlyBooks = storyFilter(this.inputValue, this.onlyBooks)
           },
      }
+
 }).mount('#app')
