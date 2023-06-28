@@ -7,10 +7,10 @@ export const data = [
       "year": 2011,
       "trailer": "https:\/\/www.youtube.com\/embed\/PsmUoK0pHHw",
       "clasification": "movie",
-      "cover": "https:\/\/media.senscritique.com\/media\/000004768405\/source_big\/23_59.jpg",
+      "cover": "https:\/\/popcornusa.s3.amazonaws.com\/movies\/650\/4645-12518-2359TheHJPG",
       "sinopsis": "Un rumor ha estado circulando como reguero de pólvora entre los soldados. Una mujer loca que vive en la isla había muerto a la hora exacta de las 23:59, y se cree que su espíritu había vuelto a perseguir a los soldados a la misma hora. Uno de los reclutas, Tan, insiste en que va a ser la próxima víctima del espíritu de la mujer demente. Trata de convencer a su amigo Jeremy que el espíritu de la mujer lo visita todas las noches. Jeremy se ríe y afirma que no hay tales cosas como fantasmas en este mundo. Que sólo existen gracias a la imaginación hiperactiva de Tan. Sin embargo, durante los 24 kilómetros de carretera de marzo para el pelotón en el bosque, Tan fue hallado muerto en el río, con sus miembros retorcidos de una manera extraña y una expresión de profundo temor en su rostro. Abrumado por la culpa, Jeremy decide investigar la muerte de Tan, convencido de que no fue un accidente como lo que los militares creen. Lo que no sabe que para descubrir verdad detrás de la muerte de Tan va a desenterrar un terrible secreto oscuro de la isla y que tienen que hacer frente a sus miedos más profundos con el fin de encontrar la verdad.",
-      "add_date": "2023-06-20",
-      "universe": "None"
+      "universe": "None",
+      "director": "Gilbert Chan"
      },
      {
       "id": 2,
@@ -22,7 +22,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/f0a130c9b329efb4d927c303a9125f90c6a48effb16f37d0c36f29bb2c17bb3e._RI_V_TTW_.jpg",
       "sinopsis": "Adaptación del relato homónimo de Stephen King. Un novelista de terror (John Cusack) sólo cree en aquello que ven sus ojos. Tras dedicarse a desacreditar fenómenos paranormales ocurridos en supuestas casas fantasmas, él no tiene prueba alguna de la existencia de vida más allá de la muerte. Sin embargo, todo cambiará cuando entre en la habitación 1408 del Hotel Dolphin.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Mikael Håfström"
      },
      {
       "id": 3,
@@ -34,7 +35,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42064_35.jpg",
       "sinopsis": "¡Nop! es una película de terror que cuenta la historia de dos hermanos que heredan el rancho de caballos de su padre en una árida parte de California12. Después de que objetos aleatorios caen del cielo y provocan la muerte de su padre, deciden grabar un video de un ‘ovni’ al que llaman ‘Jean Jacket’3. La película es dirigida por Jordan Peele y trata sobre el espectáculo y nuestra adicción a él.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Jordan Peele"
      },
      {
       "id": 4,
@@ -46,7 +48,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/3.bp.blogspot.com\/-xsVyQ7RjrN4\/UcV42YOFmyI\/AAAAAAAAP5A\/tMM-CHcnl9w\/s1600\/11-11-11-2011-poster.jpg",
       "sinopsis": "11-11-11 es una película de terror sobrenatural de 2011 escrita y dirigida por Darren Lynn Bousman. La película está ambientada a las 11:11 horas del día 11 de noviembre (undécimo mes del año) y se refiere a una entidad de otro mundo que ingresa al reino terrenal a través de la puerta 11 del Cielo.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Darren Lynn Bousman"
      },
      {
       "id": 5,
@@ -58,7 +61,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
       "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Steve Beck"
      },
      {
       "id": 6,
@@ -71,7 +75,8 @@ export const data = [
       "gender": "zombies",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ufdgOnl5xKC0IE0pEUCuiuYsII7.jpg",
       "sinopsis": "28 días después, todo ha cambiado. Jim despierta en un hospital y la ciudad está completamente desierta, o al menos eso es lo que cree. Un extraño virus liberado recientemente de un laboratorio de investigación ha diezmado todo el planeta y la raza humana se enfrenta a su eminente extinción. Los hombres se han convertido en una extraña especie que sólo ansía matar, o mejor dicho, devorar. Tan sólo unos pocos supervivientes intentarán encontrar el camino hacia la salvación. Un camino, en el que conocerán el terror como nunca antes lo habían imaginado.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Steve Beck"
      },
      {
       "id": 7,
@@ -84,7 +89,8 @@ export const data = [
       "gender": "zombies",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/daKUBfbaAfl6e18HE0hD636jybi.jpg",
       "sinopsis": "La película 28 Weeks Later es una secuela de la película 28 Days Later. Fue dirigida por Juan Carlos Fresnadillo y estrenada en el Reino Unido y Estados Unidos el 11 de mayo de 2007. La película comienza cuando Don (Robert Carlyle) y su esposa Alice (Catherine McCormack), que están escondidos en una cabaña en una zona rural de Inglaterra junto con otros supervivientes, son atacados por una nueva ola del virus que ha devastado Gran Bretaña.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Juan Carlos Fresnadillo"
      },
      {
       "id": 8,
@@ -97,7 +103,8 @@ export const data = [
       "gender": "vampiros",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1",
       "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston.",
-      "universe": "None"
+      "universe": "None",
+      "director": "David Slade"
      },
      {
       "id": 9,
@@ -109,7 +116,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41870_33.jpg",
       "sinopsis": "La película “La clásica historia de terror” es una película de suspenso y terror sobrenatural italiana del 2021 dirigida por Roberto De Feo y Paolo Strippoli. La trama sigue a un grupo de extraños que viajan por el sur de Italia y quedan varados en el bosque, donde deben luchar desesperadamente para salir con vida.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Roberto De Feo, Paolo Strippoli"
      },
      {
       "id": 10,
@@ -121,7 +129,8 @@ export const data = [
       "clasification": "movie",
       "cover": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAkGBxMTEhUSExMVFhUXFRYYFhUYFRgaGBgYFhcXFhgYFxcYHSggGBolGxgXIjEhJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf\/AABEIARIAuAMBIgACEQEDEQH\/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj\/xABCEAABAwIEBAMFBgUCAwkAAAABAAIRAyEEEjFBBSJRYQYTcTKBkaGxQlJiwdHwBxQjcuGSojOC8RUkQ1Nzg7LC0v\/EABkBAAIDAQAAAAAAAAAAAAAAAAADAQIEBf\/EADARAAEEAQIDBwQCAwEBAAAAAAEAAgMRIRIxIkFhBBNRcYGR8DKhscHR4SNC8WIU\/9oADAMBAAIRAxEAPwDx3C1RK2P56I3Np\/6rmmuhWqFYkgbzbb57JL47NrbFOKo7rsqFSRfpfp3WJxPirZLaV+ryJHo0H\/5H4brPxmOJHltPL9o\/fP8A+eg957Z2ZUjgrJRJ2jk355fynVHkkkkknUnUrqfAGEFStVds2lp3Lm\/oVy1KmXGAJJXo3g\/hZwtGpUqGHVMojoBMe8k\/JR2x4bEReTsjsUbjKHVgfwsLxFw4BxI7rBeyPVdNxfEBziubxlQSohLiACtfaA1vEoHhSOxcMcxos6JPoZhVC5RrTp8VzTKRYbzU9B8E+kJGqFOlTSoH4AU7fVTUnXsqYcpqVRVITo5Ba0qhkJzGR6pmGqAtj9+5SUyTayQbC6bSDRXbeE60R8\/osz+IdBjsSHTDjSZaNSJGvWAFBwfiQpNk+6+pWTxzHGs4vdqfkskcThMXck+RzXR0Vl1cOdgY6ptKlF0udw3sreH5+h6zJ+S3kkBc5rWOdjBVvh1eZHTVN4zWccrzPMCHT95v1sW\/NW8JSOhHwFkniWmBhmxtV19Wun6BZ2kd4Oq1y2IifDK5iq+ShRIW4YXDcbNlItHCsAo1Kh1ltNvq6S4\/6Wx\/zLOWlheajUZN2ltQDqBLXR6BwPoCqv29laPf0P4WeBK0OH8MfVcGtb++6TBmmINRxIn2QL\/FbVPxLTpCKVH3uP5Jcj37MFrTDHEOKR3otzg\/D6eHuYc7YxuLwFDxHjRuDv8AqucxPies7QNb6D9VnPxr3mXXPXdZm9mcTqeth7ZEBTPwtLG17kz1WLUfKkq1CVXK2MbQWDtE2s0kQhCusyEIQhCE4FNQhCs0K5BVhtadFQCmp1cuio5q0RSkYJwtIVbDWVDVqSq382eib55PRUDCtLu1Mqgr9NjTqhtGLtN+yqeY7\/CcTpdRpKuJGu5fpbGG4vlEVBf70k\/JReJMTy06W96jhuM4AY07g5RmjbOq4eKJD3tDniS2m4WEjle+\/eQ3te2uXWque4ucSXEkknUk3JKGRDVqCV2jtBLdH\/fVQoQhPWBPLVPhMQ6m9r2mC0yP0PUHQjoVJVpQSoC1VDrT3RFpwrGNpD22ew7QfdOpYe426hUVZoV8sjVp9pux\/QjYpa9EDmaZb8COxHVSFRwvIVVOBTmsJ2\/YUalU2T8yYUIQglIhCEKEIQhCEIQhCEJUIQhKlalY0kwNSrmHoN1eeUdN+1vyUEq7W2oqNyABJmwGp7K55zaJkQaw3gFtPUEQfad8hG6r1MVB\/pjJ3HtdNdlQUab3VzIRgKR7iSSSSTck7lRoQrJKUITmoQpAtaWMdc7XWeXKxWcq7gEtgoLXO7OEk2VvAG\/1GoPYjcKkFcwOoUv+lKiy5bTmWbyghoAgWMTpI1tI6+qx8TQbmJbOUm06jsfRbocLd1q0+DNqxa53Fj\/nfVZ2yUtTmBy4ephyBKhLF6FS8LVfM8pjW1A4wM\/LcjqLE9NLlc7xLw\/VovdTqAU3tIGV7mgmdMrpynrqmtkBSXQjcLni1MVzE0S0wR7iq5YmgpDmEFRpU4NRCFSk1CdCt4XB55JexgG7yb+gaCT8Nwi1ICpKRtJxiAbmBbU9B1Kt0cAXGJnXQHbT0n49l6T4Y4LSZRDuVlQU3mrnJJDXFuUyfZ00EDnSpJmsCfF2Zz+i41vhetTpGpXBp3AbTjmdaTm+6ACLaydlmVcKTrYbDp6L1XxHh31PaaA7IwODfZDsozR2mfguMx2ByAzqElszjkrQYWDAXNnCAAlUH6rZrG0LHqap8ZJ3SJ2gAUo0IQmrKnNKE1CFNlTvMpmVSvbGiQP3VR0TnDPEoi0qbDGCo3nqntMEKTkKjOF1rosK3MQu04C5oAI13XB4SroGkTYDout4FhnEgNBJJ0Ek29FhcKW8ZXpHCaQcGuESCCDGsGVxv8TqBbVLnA5KvLBFs7JNjsYIPvPS\/Y4GsMPSLqzoyCS0XPXQbrlPF\/E2Ymk1xa5tOtTNUSIJ8t+RxbNiWyHSNROqW02bCY1jm5Oy8n4jhyw29km0\/Q94IWeXLuzwzzsG8wA6g1r5iM9PPAeD3ZUHrkXDVWwSOhIW+N1rD2huk2FcxDHMazMxoJmNZgwRN1f8N4M1qoGVsNBJ2mNr6kkhU8djTWYyfaYA0jqBMH5wr3hXHjDufWdOVo9mfbd9lvxuT0HdQ69J8VDa1jwScSwGJY4MeSGFhe2ZgtAN+x2WSCQMxuZtN+83W74g8UPxWUZYAa4RqefLLRvHL8ysV7HCBB1O2sWCluquJS7TfDn5+lHhqpDpGs6916f4PyGi6hWeM1Sm+pUfmEsAEgQdAA3Sw5yvOGABpMCTZvaNT3\/yvRPAvgt+Lw9dxqmk4shnLm9pwLs+8HJEC8JM41LRBwA38tdfxCoypTbUpmWumD1XEcfpSnnF4rAZKNekH025swaZEWgsIAc066zqZUrHUsbAw1X+oZ\/pVOV3oHDlP1WcYF79Vrkizwe3NcTjmRPUWWE\/VdBx2m+m806jHMeNWuEH1HUd1gvC2RbZXO7RyCiQnQmpyyIQhCEK21smEtSllTwz9+q1uDeGMVi3f0qTiLy+IbaftG02hJLwMk0Ft09MrDZTn6\/qtfhnAK1Yg06T3C3siddJ6e9eicG\/h3Qw48zGVwSbeWHBrZ1jPvYbbLWPirDUmZMI0BoBMNGVkNgvLjvAMdyVmf2vViMX15K7IK3WDwH+HEZXYqoGAwTTZd\/tWBd7LZt1W9xfi1HAgUqDGtlrjIyl7hMRmc7N8j7lz1TxA41HOec33ae1wHiQbGCAO5lcF4i4jVrVXF+gmADIAknXcm5J6qrI3yO4ynh7Yhqq\/Bd1juMnEYeqGBzZBGZzgXuDRPQMpsiLxfTusXDcXqY\/DuwtU\/1KDGvw0ACG02ZKlP0c3KfUd1y2ArlnPJgT6TFvVWsJiTRcagAiox9N4jRrwAY73F\/VPEWmwPRTJN3jWv8AfyPP38PNdl4F41mo4jC1QIGFqNLnaxTzvA0mBmcNfsjuvP8AimDNKo6mQ4ERIcIIkA3G2v0W9heJ5C3FNAc4TTrj70g5Xmd3NkTuWk6lHi7Cvcf5h2pLWG4OfIwNFUQbAho13E7qzOF56rHKNTK5rlgChwKcG90sDckp9rPpx\/a2PD2EBzExpYXzDoQdBve+mij4hhnPe3eRoBYNEAR2+qkbXhpyjoH9OzY1vFzsPVXTWNRpAEQMszFyJN9IEfmkEm7WtrG6dPwrV8McFaQKtQHke2BaNTEg9JJ9QvauCVGYd1WWhrA4AnQQRMnoNvcV51wLDUnMafMGVwe5roIDgxzQSAegmB+S2MH4hp1WYihiKjTTvSD5ExkAIJG4PznosT5Ha9XgtTmBzaR49oZWmrmbbmZ+xYrz3w5g2PxgeCACQ4DQTMk9rjruouN8YqMaKHmebRAyhzHE2acpudJtOyq4Y+WWupOu4Sxx9l0G7Z2MD1+avHEWtPVa4XN1C92198fdem+J\/wCVrQ3EANkWcWTcieWq32TF4OvvXHcU\/hdiMnm4WozENMmAcrgIkATZ3xWXU4055yguouzWnmpwZsRFmgaRYX6ruODeKxTBp5mOqMAblEg5nOGfKNCALwPuqOOKqVO0RxvZgjHzz9wF47jMI+m4sqMcxw1a4EEe4quQvfeK8Y4fjaUYpjCCKZaZ5xngAtcL7u\/0lcdxb+GILnHB4gP0LadSzogEjPodRFloZ2th+rC5T+zO5BeZQkW3xrw3icKf61MtvEgEg2BkOAgjX4FC1AgiwsxYWmiF6bwbwrg8EGvruFatIkT\/AE2yCdIvoe6zuL\/xCLeSiMrSPZaA0DS3vMrG41xWpULiXMII0Eahp6DWJ9zh1XKYp0ku3N9Ov7PwXNi7PrOqU2V1pJAwUxbmO8T1qwh7y7mzDsbN6a21Wc7GRbQzrqYIJMev5rIe5IHFbWxtGyyOnK1ziJ5iSYAAGlpNu0KQY1zQ7LHObkta49bSLLG8w6fvVT03Ezce9BarNk1YpFWo7QkmIgbDpZNZXjMHfai3pe6TEmDZV3ukq4ApLkeWu3z8C0MPiRTz7ktgaQdJzAi9p+K1MdxgVsG2n9qm64JMhsWLZMEfZO9mdFzTwQbpso0A5SzMRYpSZkgTJRKslarWphi0MBvmBP0EW+KMbjZaKNP2ZJc77xMf7RA+CzjVJETbontxDgCBYHWLKunNpplBGn55Lo8J4ldSIpgB9NgysnlgaE951jqoMTi2xUguyvcTBi0uJ1HRxHulYeY73CmaY1u069kvu2haI5zvXr4X+lZOIIplrohwAB6QZ23soWOIbljM0mQOh\/VKIYY9pp0+sJrKg0AiR177K3krEkkWc1XifK9iDfykGsRYOM79p\/NS4F1Y1WPbLnUyC0kbAyNVXc4S4Ge3xvPzV3A8QFOJaCJM9XA6Qdo\/ModYB0hKsOcNTsDwO3zdPqPe1zqpNyTnaLNbOmWLQF03hri9QkukS24zH7RcLzsfrp0XH47iJe7l5WkRlHrurWBxNi2TeD8I3F9YMTslvjLmcSdG9veVHt+V6zgfE4cMj8rpDhBkgwbWINon0QvMX1XCHNJmXHT89Z0SLEeyX9JWsy6cOas\/FY+dB8h1\/wAKnUqkhLUYoaq6TQFzppHm7KC5NlMQr0suopxKeKijQhQCQnlyakQhF2llNQhSqpEJUIQnM1T2PAPZRJwCgqzSRsnCoUrXfvugH6oJsOt0K3qlfU6Wv9EjT6zKeyMp6i6GVNLDf9\/vqoU1kElTnHOPtNadLlo0AgbKvlT3s0AcCCfSD3SuBtO+9vTZRjkm24\/Vn2\/SgIhSUql02p0TGBTulWQ7C0WVpt8UKHD3QlmgugwucL3SvfmVetZK2qo6j5V2iisksgc3qo0IQrrMhCVIhCEspEIRaEISIUJwCCEApSUKcUhEoASuaoRRSKTIYnZRypmVrEXugpjdN8SawwbDUEfJLRFwm9I6fNWAJt8Le79VBKlgs5TsSQ7LFiLHvpH5qEDZDZ2\/eyYSoATHPs6uZTXulIEZkkqyQTat4UXA7oUNIoSy3K2xSNDchQlIlToTLWCk1CUhIEKapIhCWFKikiE6E1CCEIV3C4FzyJLWD7zzHwGp9wW3R4fhaYk08TiXdmGnT+UuPxCqXAbqwYSuaaJsLnYK3guGVqri2nSe9waXFrWknKIBMepHxXQh2Lj+nhBRZ0ZTDXFukFzud1idSouB+JcRw5xFNhph0Zg9nM6NJLhpc2FlUPsY\/IVjHpOfwQslvBawGZ9M02zGer\/TbPQZ4zHsJKtv8L4iM1MMxDetCo2qR6sYc497VX49xX+YquqxlzAEtkkZhrlknKOwsqFN7mwRIi4I\/Iq2VGLSOYQSCIIMEGxB0IITFvUfFlYgNr5cQ0aCuxtUj0e7nb\/yuCa2tg6vtUqmHd96k7zGevlVTm+FRRatXhlYc3lS06nff6LWd4eLr4etSr\/hzeXU6\/8ADqxmPZhcsqvh303ZKjHMdu1zS0\/A3U4KjLTnCRpvHuTXfL9hNJ+aQ6KUWmEpEiFKUrVATAjUoWjwnDANNV3sNnNb7s2+bdOqEpz6NBdGGMaAXEBY4TolMldLwzhNNuHOJxAOWTkaHR5hiwsJAmTP\/VWe8NFlZoYnSnS3lkk7AdVzzwpaeCqG4Y6ImYgfE2V7hVHz8TTpt\/p5qjQHNJlt7EHr0PVdJxarQo1HUxh3VACP6kuqRYZol0Z5vPoFUvIwFPdhxJvC4w4RwMHKPVzfyKlp4VmrqgHoCf0V7E8Xpmww7Rbf9Iv\/AJKz62IaRAYBpEfOeqsC47ilFRjnfupMlIXzFw72kxsBNverHD8dQp8xpZ3BvKCeXN1dufSwWOVNQwz3+wxzvRpP0UloO6WJCNgtN\/iKubNcGDpTaGD\/AGhUa\/EKrzLqjye7ifzTm8LrH7BHrA+qkHDCPaexvvk\/p81UCMZFK\/8Amd4\/hQ0sfUaIDj8fyWpQ8V4hoAkOERDrg+oNlU\/7Ppf+ePWBHwmUyphKI0rz\/wC2f1UERu3H2Ujvm8\/uFrv8Q4Z7YqYGkXblhNOf9MFXuC8J4fiwWMrVsPVJ5WvLalOToLNDvn8Vy7qFEf8AjE+lM\/mQuu8GcHwdWswjEva8EECA24S3gMbYJHv+1dmp5pwHpV\/Zc\/xvw5icI7\/vFJwbNni7HCdWu0v0MFZQeL8vzIIX0Njg5rfLqNLmb8stcCNRHsx1iF4d4ow7G4p7aZDm9Wtyj0jYxGiIZ9ZohRJDoGoG1QpVWjQkdj+o\/RdLwrjLyzy3htWmNGOaKjR6NM5fUQVz+KwVgWySBBH0KoNcQZEgjfdM0h2UOc+I6XhdwzgOExA\/pk4d\/YmpSPYtcc7fXM70WFxvw3iMMQajJYTaqzmpmfxag9nAFR8P49UYYcBUH4pDvc8X+Mhem+DvElMlradQybHD1i2HdmuPK4fApb3vjychWaxkn0ryB+GIEwq4C9k\/iB4eZiefDMFOsLuoxAf\/AGdHdt9uh8mw+GJqhhBBzQQbEEG4PRXilDwSlSxU4AblXMbXyUadIWzDM+N5Jyj4X+CFW4u+az40Byj0aMv5JExgwqzO1PPTA9Plq1wzBg88ZiGlzad+aD6aala\/HHnEUqYY7lpN5gGwwXuQYuQSR7llUM1EF5Bu3LtBzSC2ZtYaCVfp4iKJY1rmsMDXYEumd7uj\/okPu9Xsuh2cNruzixne+h9fasUszgeKFKsx5AOV030keyTa4DoMdl1dPxEarMkMHMHOqZ4kkA5TrclpI9npc3PFVuVxPw\/VVy0phYHZKyd4Y+HzXQ8WoYd1Qhrso7FrjIiSCDBbM77Fc85sbpiRXa2hSTJJrN0p6VQDYTseinPEakQHEDoLKin5D0UkA7qGvcMBTvxtQ2L3Ef3FQSVIynOpAVii2m3WHepsosDZXDHP3PufhVSnTJMAEnoBKnOAqjWlU\/0O\/RWDxCJyAN\/tt9IUlHjlVohp95mVBLuQ91Ijj5u9gs3ynfdPwK0uDU67KjXsYbEG4gH3myhqcWrH7ZHoohi3TLnF2mt\/qg6iKofPZDe7Drs\/YfyvUj4te1oc9wGVnsZg4axoLgWNwV5tUxpq4g1XAcxvGg2nTRR4vFuq2EwNlTktNjHolRQht+JTZZjYI2BXQPLcxyuA5jIm2p+0dDHSQbKLH8PzGQMrobM2uZiRFjbax2Kz8BicgeD7L25TAE6g2n3\/ALgi7Tr52k7TB3LBqbTzN\/D6m21i0g4VmzNeNLvb5sso0XN1CXz4XSYek2qA115mYNxm0eJ9pvzHRc\/j8A+k4tcNDr1GxClrw40d0TQOhaHMNg\/ZbfCfGNenDKv9akLBrjzt\/sqaj0Mjst+t5ONcMRRdmrtEwQBUfAsyq3RzhtUFjoYtHEVqDfLa8SDmIg72nMP0vqEuHe6nTL2ktcXAAgkEb2IVHRNOW4O3\/UQve1\/FkAavHbIr15KOlTEl1SYk23Lp0SqLFYp9Rxe8y4mSep623QnFpOUls4YKa0HqRZK3MVVD2NYWwGGXPLibv\/D7IMWt0vNor8SrtyiI6QLQ0E29Tqo6lQNlhi0e7qTOp\/fQqlicTmi1hMJQZkLXJKGtcOZ9\/gTq+JDmhsaE3321+CrZyJE66\/VMcklOApc97y42d0iFo4CvTDS2oyZNiAJAcC1xk7ixA6hPqVqLhoGksOjdH+YHbDTJI\/RSqLMBTpWp51DMTALczS0ZL+XJzMN\/aiIPbUSlpVcNyy10jJmkSDDXAx6ktOn2UKVkSlBV7C1qQzZ2yM7SIF8snMAbRaOnuT6damHsloLcpbUhusl3M0bENLelx8RQs7MkWqa9E6tuR92MrjTeHE9RnLXCNAPcWYmtRNOGth+aZjbSNff7kKVnAJVsfzdAzyRr9nl9khpG4vEjS07wKmJrUiwZGEPhsnbQZova7f8AcUIwoKeIjQfv0SOqZjzH99lo1MThyHckHm0Ag8pDSN2mYkaWneANr4fNJaS2RAyxA8wGO5ySD16qKCsXuOCsl7tB0T6NYtMtMFX216EDM37JFhBzZyQZ\/tDW\/wDMTqntrYYOnKSA55iNWuDsovplIZ8ShVUdLGw4GSRc9w43Nx3lXcbixWp8xAI0A63t6LNxZplrcmoDp5Yk5zGunKRudPearHwqGMXa0M7QQ3SdlrVWmo1jBENmG6QCTO97xeyTF4FwpkNgtZzOvzXIEkdBOqzW13A6\/Ndj4LY3EPq03nmfRewdbtjft+SXI4xt1chn590+KpSWjc4+ewXDoV\/G8LqUiczTAMZhBHvjQ9ihPBB2KwljhghR4qtmcYBDdhvHfqVUKCkUgUhzi42UJ0bpFaq4iWBkaez2P2p9fyQgAEGzy+fPGvMWsZgQGZ2GQAzON2FwF+7STZQ4em00qriLtyZTJ3MFWcViH0a+YcpyU7HQjy2SD1EKStSYaVWrSs12QFm7DmG+7SlAkAXzpdWSGN0shYAC3vNTT0a4Bzb9CW\/6nI4do3YIOZhxTbD6uaTfZ5H0uq9SpSaSGsDwPtOLhm7gNIyhaVOv5TcFUIMN82e4LyDHucs\/HcOfTcYGdk8r23BHqN0NOc9fyf6UTRERh8bRfBq4boGNhBqiOJxdZrcAWLogNNxZFOJMObmcRciI367pnFKbW1ajGiAHkC\/QxuruIpx\/LckOIJdDYLucx\/thR8XxdVteqA+o0Z3QJItKGmzjwPM+PqiaFrYHGTB1MyGjnHdVgDr1zSTEtY1tBxZOZri4ZzzEOLRvyiyKbaZovqeU2WvYAMz4ObNP2uyOLyaeHLsxOV8k7850Kbhmn+Urf+pS\/wDugfSD1\/asQ0docwNFd2XZa3fuQ68g1nPn5p+Aw9OrUjL5bch3J5tGm+2YhZr6ZBLSLgwR30VzAtPlV3DTy2g++o39FfqVGua3FkDMBlc371UWa6OmWHe4oLtJ6bev9qg7OyaFvJ2Xk0K0ai00AAODSCBzt3NUeK4MUvLAkks5\/wC4OcC33ae5LhsBmoud9uC5rfwMs8\/P\/Y5T4nDOfQomLg1BfUlz5H1KmfW8mq0eW2GCJ5pcy7XmCYMku23UajVA5z9j+0\/\/AOWPvjJIzTGQzxxrYLN5y3i3xqrmqHBqLX1A1wkFrzqR7LHO29ElGi19J7gMrqeU6mCCcu+hV\/A4N1LGZMpgebHcGm8g\/AqDDRWZ5QAZUmWgWFTsZ3F49SguG42wfylR9mqPu3ga7lbVZJDWUAa5OJI8duahoU2eQ+oWyWvYNSPaDjt6KpWeCZaMo6TN4vr3WphW1G4epAcD51Pa\/sv2VHHNqF2Z4MkC5EacoMbaKzTk55\/oJPaYdMMZA\/1BPCB\/s4WXb3gCqrqqS6bwHiS3F0x1kfELmFseFq2TFUnX9sC2t0TC43DoVn7G7TOw9R911HFMJU8t+Ja3mbUyVWkEhw2OX4A\/HdIncC4011erRqQaVVxDs2kXHqDp8ELAZDHhzb\/j+l0HjU4lrsZ\/K8+QlQumuMkTgU1CEKSo8nUkqenhyY2zTAnWP89VUVlmJIA0toYuJ6KFdpaTx\/Pg+9crUlai8AybCN5Bm1ldxjDTEsa8AspnOHOiXNaTPxcFnOxJII2JmO\/borOOrMecwc7\/AIbGxGpY1rdZ05ZVc2LWtj4xG8t+rFWRY+oGj4fTdUUcS5KnLPs03STJ5mNcb+9HFMNlDHAyHNE9nQC5p73B96MZVpvObO72WCMu7GNb10spzxFuapYlhIcwdHMHKSNxEgqBeCnyCF75Q5wALuE3dfUdgdjgHzB5KvjaRaGSSZBzDo5pPL7hCkotApZ4zcxDhmIyiBlMDrzX7KB9YOpNBJzNc\/3h0HXrMp+DqMa5j5Mg3Zlme09wjNJQezvcUAQNyOGwLObsjNjnmqO0uEDHCocrgGMzRn1Jc1txHdR0mMLajsp5QyBmOpIBumYKq0CpNszIEDfM0\/CyMLiA1lVskFwZBHZ0mVObNdP0o7xjms1V9L7w3fj08h\/5ryBV1t69JgqPyP8ALkZrtzRae0qGhRzVaTHte2XAXJmCYtOibSxjPNp1TILXNLoGuXcdyoMLUaHsJc7KD9kXjtfVVo0fL+VoM8bntsggyXvjTwb3ZA+rwrO6mfWyjmY8axzkdOyMaxjHZQ0zlYQ7Nu5rXfmqlYNgZXE67RCl4jVa58tNsrBcR7LQ38lashZDL\/icDV22vpOKddECt6TaeKINy4j+4odiXGRmMbSSVUQrUFn759VaFc4aD5tOJnOIjXXZU1JS1HqEEWCFEZ0uB8CPyrrcQ+niC4Eh7Xm+8glIouIOmq89TKFTQ1wBITjIY3OaDzP5VVIhCYsycwSQFa\/k\/wAY\/fvU+JoNpOGV7XS3fb\/SoxiT+G\/qoUp9BobLZad5PfZTCPwbBVX4wx9nXvspP5jqWz8tEITjTafuJAQ2Jy3t9f1UP84QTZpv7rCPgn0cUN4BPa2289kIU+YfhufzA\/ymeS38H7Cc14gc7LD97pPN0GZmn021QhJRqAj7M+nonkj8Oh\/RBqD77Nen+Uhqg3zM1+luqEJHvDbnLdK0ASCW3Jv6pr64H2mm+w7a69vmkc8OA52t30HfuhCktb2P2N0xu\/s9Nv2E7zBcZ26x9DOvc\/BVm4lxEWHfe3vQhWC4X9n9yiq+1g0mewUDarhq4H1j9U52IOvL+\/ehCWqzPE5W6qMYIffH796VuKJMw0H3pRiT+H5oRhUnC6atKiGVCS8gQLQYG86hUKkSY0m3opUJ9Z0mewQo5QhWJs2moQhCqhCEIQhCEIQhCEIQrWDa01GioYaXDMe03K0KuHoiq1rnNY3LLwHF7Q6\/KHtzaiL3jMeixUKpFrRHO1jaLAcg56cvLHiOd3ir2LogPqZSC1ryBzaiTETciBqtGvh6Pm0wMgBpuLmh8jzA1+UF+YwC4N3FjeFgIRp6qWTsaSSwGyD5UboY2Iwei0cdRaHuyEZQGH2gbkCQ0\/aAJPuCt06FE1QOWPKDgw1CGmpA5S8m153Giw0I09UNnaHF2gGzdepNDpmtiMZB2VvHNaKjgwy3Mcp6j81UQhSAkOOok1XRCEIUqqEIQhCEIQhCEIQhCVCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQhCEIQv\/Z",
       "sinopsis": "Death stalks the dreams of several young adults to claim its revenge on the killing of Freddy Kruger. Chased and chastised by this finger-bladed demon, it is the awakening of old memories and the denials of a past of retribution that spurns this hellish vision of a dreamlike state and turns death into a nightmare reality.",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Samuel Bayer"
      },
      {
       "id": 11,
@@ -133,7 +142,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8_35.jpg",
       "sinopsis": "Jesse Walsh and his family have moved into Nancy Thompson's old house on Elm Street. No sooner are they moved in than Jesse begins to have horrific nightmares - ones that feature a burned man in a dirty red & green sweater, with knives on the fingers of his right hand. His neighbor & new sweetheart, Lisa, discovers the truth behind Fred Krueger and his horrible murder spree. Freddy vows to take over Jesse's body to continue his vile crimes against the Elm Street residents. Soon, people close to Jesse start dying violently. Will Lisa's love for Jesse be enough to help him overpower the demonic presence inside him?",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Jack Sholder"
      },
      {
       "id": 12,
@@ -145,7 +155,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg",
       "sinopsis": "Picking up where the original Nightmare left off, Nancy has grown up and become a psychiatrist specializing in dream therapy. She meets a group of children at a local hospital facing Freddy Krueger, the same demon she once encountered in her sleep. One of them is Kristen, who has the power to draw other people into her dreams. Working with a male doctor assigned to the case, Nancy helps the kids realize their special abilities within the nightmare world. When Freddy captures one of her charges, she leads a rescue attempt into Krueger's domain, in hopes of putting his spirit to rest once and for all.",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Chuck Russell"
      },
      {
       "id": 13,
@@ -157,7 +168,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg",
       "sinopsis": "Following up the previous Nightmare film, the dream demon Freddy Krueger is resurrected from his apparent demise, and rapidly tracks down and kills all three of the surviving Elm Street kids. However, Kristen Parker (who has the ability to draw others into her dreams) wills her special ability to her new best friend Alice Johnson before her demise. Afterwards, she soon realizes that Freddy is taking advantage of that unknown power she now wields to pull a new group of teenage children into his foul domain. Can Alice embrace her new power to finally defeat Freddy or is it already too late?",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Renny Harlin"
      },
      {
       "id": 14,
@@ -168,7 +180,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/nSIg5QgU4wQ",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img2.acsta.net\/medias\/nmedia\/18\/86\/19\/81\/20420796.jpg",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Stephen Hopkins"
      },
      {
       "id": 15,
@@ -180,7 +193,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg",
       "sinopsis": "In the early 1980's, a psychopath named Fred Krueger - known as the Springwood Slasher - murdered several children with a glove outfitted with straight razor blades attached to the fingers. When a foolish decision by a judge sets Krueger free, an angry mob of parents, whose children he terrorized and murdered, burn Kruger alive in the boiler room where he worked. Years after his death, the living children of the parents responsible for Krueger's death (including Nancy Thompson, daughter of the police officer who arrested Krueger) experience terrifying nightmares involving a burned man wearing a glove with razor blades on the fingers. The ghost of Fred Krueger haunts their dreams, and when Nancy's best friend Tina dies violently in her sleep during a dream confrontation with Krueger, Nancy realizes she must find a way to stop the evil psychopath's reign of terror - or never sleep again.",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Wes Craven"
      },
      {
       "id": 16,
@@ -193,7 +207,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34397_12.jpg",
       "sinopsis": "Un lugar en silencio es una película de terror y aventura que narra la historia de una familia que debe vivir en silencio para evitar ser cazada por unas criaturas que se guían por el sonido. La película está dirigida por John Krasinski, que también actúa junto a Emily Blunt, su esposa en la vida real. La película fue un éxito de crítica y público, y recibió nominaciones a los premios Oscar, Globos de Oro y BAFTA por su banda sonora y sus efectos sonoros. La película tiene una secuela, Un lugar en silencio 2, que se estrenó en 2021.",
-      "universe": "A Quiet Place"
+      "universe": "A Quiet Place",
+      "director": "John Krasinski"
      },
      {
       "id": 17,
@@ -206,7 +221,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_36640_86.jpg",
       "sinopsis": "Un lugar tranquilo 2 es la secuela de la exitosa película de terror de 2018, dirigida y escrita por John Krasinski, que también actúa en un breve papel. La historia continúa con la familia Abbott, formada por Evelyn (Emily Blunt), Regan (Millicent Simmonds), Marcus (Noah Jupe) y el bebé recién nacido, que deben abandonar su granja y enfrentarse a los horrores del mundo exterior, donde unas criaturas ciegas pero sensibles al sonido cazan a los humanos. En su camino, se encuentran con Emmett (Cillian Murphy), un viejo amigo de Lee (John Krasinski), el padre fallecido de la familia, que les ofrece refugio en una antigua fábrica. Allí, Regan descubre una señal de radio que emite una canción y deduce que se trata de un mensaje que indica un lugar seguro. Decidida a encontrarlo, se escapa con el amplificador que su padre le había fabricado para potenciar el sonido de su implante auditivo, que es capaz de aturdir a las criaturas. Evelyn le pide a Emmett que vaya tras ella y la proteja, mientras ella se queda con Marcus y el bebé. Lo que sigue es una trepidante aventura de supervivencia, donde el silencio es la clave para no morir.",
-      "universe": "A Quiet Place"
+      "universe": "A Quiet Place",
+      "director": "John Krasinski"
      },
      {
       "id": 18,
@@ -218,7 +234,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg",
       "sinopsis": "Mudanza mortal es una película de terror y suspense que se estrenó en Netflix en 2021. La trama sigue a una pareja que se muda a una casa donde ocurrió un crimen pasional. Pronto empiezan a sufrir fenómenos extraños que ponen en peligro su relación y sus vidas. La película está basada en hechos reales y explora temas como la infidelidad, el perdón y el abuso doméstico.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Peter Winther"
      },
      {
       "id": 19,
@@ -231,7 +248,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3NZBffzXnL5C0HrgfdEDQHaLH?pid=ImgDet&rs=1",
       "sinopsis": "Alien es una película de ciencia ficción y terror estrenada en 1979 y dirigida por Ridley Scott. La historia se centra en la tripulación de la nave espacial Nostromo, que recibe una señal de socorro desde un planeta desconocido. Al explorar el lugar, uno de los tripulantes es atacado por una criatura que se adhiere a su rostro. De vuelta a la nave, el resto de la tripulación descubre que el alienígena es un organismo letal que puede cambiar de forma y que amenaza con matarlos a todos.",
-      "universe": "Alien"
+      "universe": "Alien",
+      "director": "Ridley Scott"
      },
      {
       "id": 20,
@@ -257,7 +275,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19_38.jpg",
       "sinopsis": "Después de su último descubrimiento, Ellen Ripley aterriza en Fiorina 161, una prisión de máxima seguridad. Cuando una serie de sucesos extraños y mortales ocurren poco después de su llegada, Ripley se da cuenta de que ha traído a un visitante no deseado.",
-      "universe": "Alien"
+      "universe": "Alien",
+      "director": "David Fincher"
      },
      {
       "id": 22,
@@ -283,7 +302,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/78\/65\/69\/20070936.jpg",
       "sinopsis": "En la Antártida, un equipo de exploradores y científicos descubre una misteriosa pirámide que oculta un antiguo secreto: el lugar donde se enfrentan dos de las especies más letales del universo, los aliens y los depredadores. Los humanos se verán atrapados en medio de una guerra sin cuartel, donde solo el más fuerte sobrevivirá. ¿Podrán escapar de este infierno helado o serán el trofeo de alguno de estos monstruos?",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "Paul W.S. Anderson\t"
      },
      {
       "id": 24,
@@ -321,7 +341,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/S\/pv-target-images\/466dff3a850db005c760fc064dae8939eb25a65f4745290d015dd70d24732968._RI_TTW_.jpg",
       "sinopsis": "All Hallows' Eve es una película de terror que narra tres historias escalofriantes protagonizadas por un payaso asesino llamado Art. La primera historia trata sobre una joven que es secuestrada y sometida a un ritual satánico. La segunda historia trata sobre una mujer que se muda a una casa de campo y es atacada por extraterrestres. La tercera historia trata sobre una universitaria que es perseguida y mutilada por Art en una carretera solitaria. La película se basa en dos cortometrajes anteriores del director Damien Leone, The 9th Circle y Terrifier, que también cuentan con la presencia de Art el payaso. All Hallows' Eve es una película que combina el gore, el crimen y el horror sobrenatural, ambientada en la noche de Halloween.",
-      "universe": "Terrifier"
+      "universe": "Terrifier",
+      "director": "Damien Leone"
      },
      {
       "id": 27,
@@ -334,7 +355,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17627_85.jpg",
       "sinopsis": "Belle es una joven que se muda con su familia a la casa de Amityville, donde ocurrieron terribles asesinatos en el pasado. Su objetivo es ahorrar dinero para el tratamiento de su hermano James, que está en coma. Sin embargo, pronto descubre que la casa está poseída por una fuerza maligna que afecta a su hermano y a su madre. Belle tendrá que enfrentarse al horror que se esconde en las paredes de la mansión y descubrir la verdad sobre lo que pasó allí.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Franck Khalfoun"
      },
      {
       "id": 28,
@@ -346,7 +368,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg",
       "sinopsis": "“An American Haunting” is a 2005 horror film directed by Courtney Solomon and starring Donald Sutherland, Sissy Spacek, James D’Arcy, and Rachel Hurd-Wood. The film is based on the novel “The Bell Witch: An American Haunting” by Brent Monahan. The story is based on the legend of the Bell Witch, which is said to have haunted the Bell family in Tennessee during the early 19th century. The film tells the story of John Bell (Donald Sutherland), a farmer who lives with his wife Lucy (Sissy Spacek) and daughter Betsy (Rachel Hurd-Wood) in Red River, Tennessee. Strange things begin to happen in their home, including unexplained noises and objects moving on their own. Betsy is particularly affected by the haunting and begins to experience physical attacks. The family seeks help from a local schoolteacher named Richard Powell (James D’Arcy), who tries to uncover the truth behind the haunting. As he investigates, he discovers that John Bell had a troubled past and that the haunting may be related to his past misdeeds.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Courtney Solomon"
      },
      {
       "id": 29,
@@ -359,7 +382,8 @@ export const data = [
       "gender": "animales",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
       "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Luis Llosa"
      },
      {
       "id": 30,
@@ -372,7 +396,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28260_58.jpg",
       "sinopsis": "Annabelle es una película de terror sobrenatural estrenada en 2014 y dirigida por John R. Leonetti. Es un spin-off de la película The Conjuring y se centra en el origen de la muñeca poseída que aparece en esa película. La historia sigue a John y Mia Form, una pareja que espera su primer hijo y que recibe como regalo una antigua muñeca de porcelana llamada Annabelle. Sin embargo, su vida se convierte en una pesadilla cuando sufren el ataque de unos cultistas satánicos que invocan a un demonio que se adueña de la muñeca. A partir de entonces, la familia Form tendrá que enfrentarse a una serie de fenómenos paranormales cada vez más terroríficos que pondrán en peligro su vida y la de su bebé.",
-      "universe": "The Conjuring"
+      "universe": "The Conjuring",
+      "director": "John R. Leonetti"
      },
      {
       "id": 31,
@@ -385,7 +410,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29741_16.jpg",
       "sinopsis": "Annabelle 2 cuenta la historia de un fabricante de muñecas y su esposa, que pierden a su hija en un trágico accidente. Doce años después, deciden acoger en su casa a una monja y a un grupo de niñas huérfanas. Sin embargo, pronto se darán cuenta de que una de las muñecas de la casa, llamada annabelle, está poseída por un espíritu maligno que quiere atormentar a las niñas. La pelicula es una precuela de la primera entrega de annabelle, y forma parte del universo cinematográfico de El conjuro.",
-      "universe": "The Conjuring"
+      "universe": "The Conjuring",
+      "director": "David F. Sandberg"
      },
      {
       "id": 32,
@@ -398,7 +424,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35169_72.jpg",
       "sinopsis": "Annabelle 3 narra la historia de los demonólogos Ed y Lorraine Warren, que intentan evitar que la muñeca poseída Annabelle cause más estragos. Para ello, la encierran en una vitrina sagrada en su casa, junto a otros objetos malditos. Sin embargo, una noche, Annabelle despierta a los espíritus malignos de la sala y se fija en nuevos objetivos: la hija de los Warren, Judy, su niñera y una amiga de esta. Las tres tendrán que enfrentarse a una serie de terroríficos fenómenos paranormales provocados por la muñeca diabólica.\r",
-      "universe": "The Conjuring"
+      "universe": "The Conjuring",
+      "director": "Gary Dauberman"
      },
      {
       "id": 33,
@@ -411,7 +438,8 @@ export const data = [
       "gender": "science_ficton",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27205_48.jpg",
       "sinopsis": "Annihilation es una pelicula de ciencia ficción y terror basada en la novela homónima de Jeff VanderMeer. La protagonista es Lena, una bióloga que se une a una expedición al Área X, una zona misteriosa y peligrosa donde ocurren fenómenos extraños y alienígenas. Su objetivo es averiguar qué le pasó a su esposo, que fue parte de una misión anterior y regresó sin memoria y gravemente enfermo. En el Área X, Lena y sus compañeras se enfrentarán a amenazas desconocidas que pondrán a prueba su cordura y su supervivencia.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Alex Garland"
      },
      {
       "id": 34,
@@ -424,7 +452,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.yRULzKZxadq9K6fED8mZhAHaLH?pid=ImgDet&rs=1",
       "sinopsis": "Arachnophobia es una película de terror y comedia estrenada en 1990, dirigida por Frank Marshall y producida por Steven Spielberg. La trama gira en torno a una especie de araña venenosa que llega desde Venezuela a un pequeño pueblo de Estados Unidos, donde se reproduce y causa varias muertes. El protagonista es un médico que sufre de aracnofobia y que tendrá que enfrentarse a su peor pesadilla con la ayuda de un excéntrico exterminador. La película combina el suspense con el humor y fue un éxito de taquilla en su momento.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Frank Marshall"
      },
      {
       "id": 35,
@@ -579,7 +608,7 @@ export const data = [
       "clasification": "book",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.HLX8_JaOgVhCx2qcH-08fgHaLb?pid=ImgDet&rs=1",
       "sinopsis": "Church estaba allí otra vez, como Louis Creed temía y deseaba. Porque su hijita Ellie le había encomendado que cuidara del gato, y Church había muerto atropellado. Louis lo había comprobado: el gato estaba muerto, incluso lo había enterrado más allá del cementerio de animales. Sin embargo, Chruch había regresado, y sus ojos eran más crueles y perversos que antes. Pero volvía a estar allí y Ellie no lo lamentaría. Louis Creed sí lo lamentaría. Porque más allá del cementerio de animales, incluso más allá de la valla de troncos que nadie se atrevía a traspasar y de los cuarenta y cinco escalones, el maligno poder del antiguo cementerio indio lo reclamaba con macabra avidez...",
-      "universe": "None"
+      "universe": "Pet Sematary"
      },
      {
       "id": 48,
@@ -592,7 +621,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
       "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama.",
-      "universe": "Pet Sematary"
+      "universe": "Pet Sematary",
+      "director": "Mary Lambert"
      },
      {
       "id": 49,
@@ -605,7 +635,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
       "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre.",
-      "universe": "Pet Sematary"
+      "universe": "Pet Sematary",
+      "director": "Mary Lambert"
      },
      {
       "id": 50,
@@ -617,7 +648,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Children of the Corn is a 2020 American supernatural slasher film directed by Kurt Wimmer. The movie is about a psychopathic twelve-year-old girl in a small town in Nebraska who recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won’t go along with the plan is the town’s only hope of survival",
-      "universe": "None"
+      "universe": "None",
+      "director": "Donald P. Borchers"
      },
      {
       "id": 51,
@@ -630,7 +662,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
       "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective.",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Tom Holland"
      },
      {
       "id": 52,
@@ -643,7 +676,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
       "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "John Lafia"
      },
      {
       "id": 53,
@@ -656,7 +690,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1",
       "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics.",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Jack Bender"
      },
      {
       "id": 54,
@@ -669,7 +704,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg",
       "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Ronny Yu"
      },
      {
       "id": 55,
@@ -682,7 +718,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0",
       "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics.",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Don Mancini"
      },
      {
       "id": 56,
@@ -693,9 +730,10 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
       "clasification": "movie",
       "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22783_69.jpg",
+      "cover": "https:\/\/www.emp.de\/dw\/image\/v2\/BBQV_PRD\/on\/demandware.static\/-\/Sites-master-emp\/default\/dw60367d47\/images\/2\/6\/9\/9\/269958a2-emp.jpg?sfrm=png",
       "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics.",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Don Mancini"
      },
      {
       "id": 57,
@@ -708,7 +746,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg",
       "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics.",
-      "universe": "Chucky"
+      "universe": "Chucky",
+      "director": "Don Mancini"
      },
      {
       "id": 58,
@@ -734,7 +773,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0",
       "sinopsis": "Cloverfield is a 2008 American monster movie directed by Matt Reeves. The movie stars Michael Stahl-David, Mike Vogel, Jessica Lucas, Lizzy Caplan, and T.J. Miller. The plot follows a group of friends who are documenting their farewell party when a monster the size of a skyscraper arrives in New York City. The movie was produced by J. J. Abrams and Bryan Burk and written by Drew Goddard",
-      "universe": "None"
+      "universe": "None",
+      "director": "Matt Reeves"
      },
      {
       "id": 60,
@@ -746,7 +786,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg",
       "sinopsis": "Clown is a 2014 American horror movie directed by Jon Watts. The movie stars Andy Powers, Laura Allen, and Peter Stormare. The plot follows a loving father who dons a clown outfit and makeup to perform at his son’s sixth birthday, only to later discover that the costume - red nose and wig included- will not come off and his own personality changes in a horrific fashion.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Jon Watts"
      },
      {
       "id": 61,
@@ -782,7 +823,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25050_47.jpg",
       "sinopsis": "Crimson Peak is a 2015 American gothic romance film directed by Guillermo del Toro. The movie stars Mia Wasikowska, Tom Hiddleston, Jessica Chastain, Charlie Hunnam, and Jim Beaver. The plot follows an aspiring author who marries a mysterious man and moves into his decaying mansion in the English hills. She discovers that her new home is haunted by ghosts and that her husband is not who he appears to be. ",
-      "universe": "None"
+      "universe": "None",
+      "director": "Guillermo del Toro"
      },
      {
       "id": 64,
@@ -908,7 +950,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg",
       "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "John McTiernan"
      },
      {
       "id": 74,
@@ -921,7 +964,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg",
       "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together.",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "Stephen Hopkins"
      },
      {
       "id": 75,
@@ -934,7 +978,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg",
       "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet.",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "Nimród Antal"
      },
      {
       "id": 76,
@@ -947,7 +992,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg",
       "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "Shane Black"
      },
      {
       "id": 77,
@@ -960,7 +1006,8 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg",
       "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version.",
-      "universe": "Predator"
+      "universe": "Predator",
+      "director": "Dan Trachtenberg"
      },
      {
       "id": 78,
@@ -1163,7 +1210,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
       "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine.",
-      "universe": "The Exorcist"
+      "universe": "The Exorcist",
+      "director": "William Friedkin"
      },
      {
       "id": 95,
@@ -1176,7 +1224,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
       "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
-      "universe": "The Exorcist"
+      "universe": "The Exorcist",
+      "director": "John Boorman - Rospo Pallenberg"
      },
      {
       "id": 96,
@@ -1189,7 +1238,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
       "sinopsis": "A seemingly-endless series of grisly killings that bear the trademark of the mass murderer the Gemini Killer, terrorizes the district of Georgetown. To further complicate matters, although it's been 17 long years since the killer's execution and that fatal night of pure terror in The Exorcist (1973), skeptical police officer Lieutenant William F. Kinderman is still obsessed with solving the baffling case, as the death toll keeps rising. In the meantime, in the city's high-security psychiatric institution, a cryptic inmate who bears an uncanny resemblance to the late Father Damien Karras emerges from his deep catatonic state, claiming that he has all the answers Kinderman needs. But, who is the mysterious Patient X? Does the same unholy force that tormented Regan MacNeil have something to do with the brutal demonic murders?",
-      "universe": "The Exorcist"
+      "universe": "The Exorcist",
+      "director": "William Peter Blatty"
      },
      {
       "id": 97,
@@ -1212,7 +1262,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
-      "universe": "The Exorcist"
+      "universe": "The Exorcist",
+      "director": "Renny Harlin"
      },
      {
       "id": 99,
@@ -1225,7 +1276,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg",
       "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde.",
-      "universe": "The Grudge"
+      "universe": "The Grudge",
+      "director": "Takashi Shimizu"
      },
      {
       "id": 100,
@@ -1238,7 +1290,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg",
       "sinopsis": "In Pasadena, Mrs. Davis sends her daughter Aubrey Davis to Tokyo to bring her sister Karen Davis, who is interned in a hospital after surviving a fire, back to the USA. After their meeting, Karen dies and Aubrey decides to investigate what happened to her and gets herself trapped in the same situation, being chased by the ghost of the house. Meanwhile in Tokyo, the three high school mates Allison, Vanessa and Miyuki visit the famous haunted house and are also chased by the ghost. In Chicago, Trish moves to the apartment of her boyfriend Bill, who lives with his children, the teenager Lacey and boy Jake. On the next door, weird things happen with their neighbor.",
-      "universe": "The Grudge"
+      "universe": "The Grudge",
+      "director": "Takashi Shimizu"
      },
      {
       "id": 101,
@@ -1250,7 +1303,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1",
       "sinopsis": "At a certain house, a son brutally and methodically murders all five of his family members after failing the bar exam. He then hangs himself, leaving behind a cassette recorder at the scene on which he can be heard saying, \"I'll come... I'll come soon\", in unison with a young girl's voice. The child's voice belongs to his sister, a victim of the family massacre and the elementary school best friend of Akane. When Akane and her friend were young they wore yellow hats and red satchels to school. Akane, who is now a teenager, has a strong sense of the supernatural She soon begins seeing visions of a female ghost wearing a yellow hat and red satchel.",
-      "universe": "The Grudge"
+      "universe": "The Grudge",
+      "director": "Mari Asato"
      },
      {
       "id": 102,
