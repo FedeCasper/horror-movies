@@ -72,8 +72,8 @@
           <!-- Card individual model -->
                <div v-cloak v-if="onlyCortos.length != 0"  :class="onlyCortos.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-12 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of onlyCortos">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
-                         <div class="card h-100">
-                              <iframe class="w-100 video py-3" 
+                         <div class="card h-100 bg-dark">
+                              <iframe class="w-100 video" 
                               :srcdoc="`
                                    <style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>
                                    <a href='https://www.youtube.com/embed/${movie.videoId}?modestbranding=1'>
@@ -81,31 +81,17 @@
                                    <span>▶</span>
                                    </a>
                               `"
-                              :src="`${movie.trailer}?showinfo=0`" 
+                              :src="`${movie.trailer}`" 
                               title="YouTube video player"
                               frameborder="0"
                               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                               allowfullscreen>
                               </iframe>
-                              <div class="card-body border-bottom border-bottom-dark">
-                                   <h5 class="card-title">{{movie.title}}</h5>
-                                   <h6 class="fw-lighter fst-italic m-0"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
-                              </div>
-                              <div>
-                                   <ul class="list-group list-group-flush">
-                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
-                                             <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
-                                             <span class="d-flex align-items-center"> 
-                                                  <span class=" text-danger fw-bold pe-1">
-                                                       {{ movie.web_calification ? movie.web_calification :"unknown"}}
-                                                  </span> 
-                                                  / 10 
-                                             </span>
-                                        </li>
-                                   </ul>
-                              </div>
-                              <div class="card-footer py-1">
-                                   <p class="card-text text-small fst-italic recent">{{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update ${movie.add_date}` }}</p>
+                              <div class="card-body border-bottom border-secondary border-opacity-25 pt-0">
+                                   <h5 class="card-title text-light">{{movie.title}}</h5>
+                                   <h6 class="text-danger">{{movie.year}}</h6>
+                                   <p class="small text-light">{{movie.sinopsis}}</p>
+                                   <h6 class="text-secondary fw-lighter fst-italic small">{{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update ${movie.add_date}`}}</h6>
                               </div>
                          </div>
                     </a>
