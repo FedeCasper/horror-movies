@@ -25,6 +25,7 @@ createApp({
           // console.log(params);
           this.captureId = params.get("id")
           // console.log(this.captureId);
+
           this.overAllObject = {
                movies: this.findMovieGlobalIndex("movie"),
                series: this.findMovieGlobalIndex("serie"),

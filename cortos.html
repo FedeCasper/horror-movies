@@ -20,7 +20,7 @@
           <header class="w-100 bg-dark border-bottom p-3 d-flex align-items-center justify-content-between sticky-top shadow d-sm-none" data-bs-theme="dark">
                <div class="d-flex align-items-center">
                     <img src="./assets/ghost2.png" alt="skull">
-                    <h4 class="m-0 text-danger ps-2">Short Film</h4>
+                    <h4 class="m-0 text-danger ps-2">Short</h4>
                </div>
                <div v-cloak class="text-light">Found {{onlyCortos.length}} stories!</div>
           </header>
@@ -50,7 +50,7 @@
                                    <a class="nav-link" href="./series.html">Series</a>
                               </li>
                               <li class="nav-item">
-                                   <a class="nav-link active text-danger fw-bold" href="./cortos.html">Short Films</a>
+                                   <a class="nav-link active text-danger fw-bold" href="./cortos.html">Short</a>
                               </li>
                               <li class="nav-item">
                                    <a class="nav-link" href="./books.html">Books</a>
@@ -70,10 +70,23 @@
      <!-- Cards container section -->
           <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
           <!-- Card individual model -->
-               <div v-cloak v-if="onlyCortos.length != 0"  :class="onlyCortos.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of onlyCortos">
+               <div v-cloak v-if="onlyCortos.length != 0"  :class="onlyCortos.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-12 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of onlyCortos">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100">
-                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
+                              <iframe class="w-100 video py-3" 
+                              :srcdoc="`
+                                   <style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>
+                                   <a href='https://www.youtube.com/embed/${movie.videoId}?modestbranding=1'>
+                                   <img src='https://img.youtube.com/vi/${movie.videoId}/maxresdefault.jpg' alt='YouTube video thumbnail'>
+                                   <span>▶</span>
+                                   </a>
+                              `"
+                              :src="`${movie.trailer}?showinfo=0`" 
+                              title="YouTube video player"
+                              frameborder="0"
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                              allowfullscreen>
+                              </iframe>
                               <div class="card-body border-bottom border-bottom-dark">
                                    <h5 class="card-title">{{movie.title}}</h5>
                                    <h6 class="fw-lighter fst-italic m-0"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
@@ -122,7 +135,7 @@
                               <a class="nav-link" href="./series.html">Series</a>
                          </div>
                          <div class="nav-item">
-                              <a class="nav-link active text-danger fw-bold" href="./cortos.html">Short Films</a>
+                              <a class="nav-link active text-danger fw-bold" href="./cortos.html">Short</a>
                          </div>
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./books.html">Books</a>

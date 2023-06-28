@@ -21,6 +21,18 @@ createApp({
           this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
           this.onlyCortos = this.movies.filter(movie => movie.clasification == "corto")
           console.log(this.onlyCortos);
+
+          this.onlyCortos = this.movies.filter(movie => movie.clasification == "corto")
+          console.log(this.onlyCortos);
+          this.onlyCortos = this.onlyCortos.map(corto => {
+               let videoID = (corto.trailer).slice(30, (corto.trailer).length);
+               console.log(videoID);
+               corto.videoId = videoID
+               console.log(corto);
+               return corto
+          })
+
+          console.log(this.onlyCortos);
      },
      beforeUpdate(){
           this.notFoundObject = {
