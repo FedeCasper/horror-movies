@@ -72,7 +72,7 @@
           <!-- Card individual model -->
                <div v-cloak v-if="onlyCortos.length != 0"  :class="onlyCortos.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-12 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of onlyCortos">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
-                         <div class="card h-100 bg-dark">
+                         <div class="card h-100 bg-dark border-0">
                               <iframe class="w-100 video" 
                               :srcdoc="`
                                    <style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>
