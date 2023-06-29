@@ -886,7 +886,8 @@ export const data = [
       "gender": "Mistery",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg",
       "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Walter Salles"
      },
      {
       "id": 69,
@@ -899,7 +900,8 @@ export const data = [
       "gender": "zombies",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/4200\/4243\/001_m.jpg",
       "sinopsis": "Ana goes home to her peaceful suburban residence, but she is unpleasantly surprised the morning that follows when her husband is brutally attacked by her zombified neighbor. In the chaos of her once picturesque neighborhood, Ana flees and stumbles upon a police officer named Kenneth, along with more survivors who decide that their best chances of survival would be found in the deserted Crossroads Shopping Mall. When supplies begin running low and other trapped survivors need help, the group comes to the realization that they cannot stay put forever at the Shopping Mall and devise a plan to escape.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Zack Snyder"
      },
      {
       "id": 70,
@@ -912,7 +914,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg",
       "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for.",
-      "universe": "None"
+      "universe": "None",
+      "director": "James Wan"
      },
      {
       "id": 71,
@@ -937,7 +940,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg",
       "sinopsis": "In DELIVER US FROM EVIL, New York police officer Ralph Sarchie (Eric Bana), struggling with his own personal issues, begins investigating a series of disturbing and inexplicable crimes. He joins forces with an unconventional priest (Edgar Ramirez), schooled in the rituals of exorcism, to combat the frightening and demonic possessions that are terrorizing their city. Based upon the book, which details Sarchie's bone-chilling real-life cases.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Scott Derrickson"
      },
      {
       "id": 73,
@@ -1031,7 +1035,8 @@ export const data = [
       "gender": "Thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
       "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
-      "universe": "None"
+      "universe": "None",
+      "director": "James Wong"
      },
      {
       "id": 80,
@@ -1055,7 +1060,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg",
       "sinopsis": "CIA Special Agent Daria Francis is assigned to travel to Devil's Gate, a small town in North Dakota, to investigate the disappearance of Maria Pritchard and her son Jonah. Her prime suspect is the husband and father Jackson Pritchard, who lives in a farm in the middle of nowhere. However Sheriff Gruenwell asks Francis to let Jackson alone since he would be a good man. Deputy Conrad 'Colt' Salter heads with Francis to interview Maria's sister and she leaves her house convinced that Jackson may be hiding them. When they arrive at his farm, Jackson assaults Maria and she enters the house to investigate, and finds a weird thing. What is Jackson hiding?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Clay Staub"
      },
      {
       "id": 82,
@@ -1091,7 +1097,8 @@ export const data = [
       "gender": "muñecos",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg",
       "sinopsis": "In Mexico, an archaeologist releases the evil spirit of a devil child from a tomb of an ancient tribe called Sanzia that worshiped Satan on Earth and dies in an accident. Immediately after, an American family with two children arrives to live and reactivate a factory of dolls in a site nearby the archaeological field. Elliot Read invested the savings of his family in this business to manufacture dolls. He finds many dolls left by the previous owners of the factory, and gives one of them, which is possessed by the fiend, to his daughter Jessica Read. The girl changes her behavior, speaks an ancient language and the maid tells to the mother Marilyn Read. Meanwhile, the archaeologist Karl Resnick arrives to investigate the finding of his colleague. However, the demon has been already released, threatening the locals and the Read family.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Maria Lease"
      },
      {
       "id": 85,
@@ -1112,7 +1119,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0",
       "sinopsis": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Andrzej Bartkowiak"
      },
      {
       "id": 87,
@@ -1124,7 +1132,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.poM4d5i5bGS9QvaJy7PQVwHaKr?pid=ImgDet&rs=1",
       "sinopsis": "Christine Brown is a loan officer at a bank but is worried about her lot in life. She's in competition with a competent colleague for an assistant manager position and isn't too sure about her status with a boyfriend. Worried that her boss will think less of her if she shows weakness, she refuses a time extension on a loan to an old woman, Mrs. Ganush, who now faces foreclosure and the loss of her house. In retaliation, the old woman place a curse on her which, she subsequently learns, will result in her being taken to hell in a few days time. With the help of a psychic, she tries to rid herself of the demon, but faces several hurdles in the attempt.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Sam Raimi"
      },
      {
       "id": 88,
@@ -1148,7 +1157,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39314_98.jpg",
       "sinopsis": "Gail is forced to come to terms with Josh, her new stepson, at a remote country home. After stealing an evil talisman from a mysterious neighbor, Josh has sinister dreams of his dead mother, who commands Josh to murder Gail. When Josh's dad returns, he and Gail suspect that their son has been possessed by an ancient, bloodthirsty spirit. Is it too late to save Josh's life or their own?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Lawrence Kasdan"
      },
      {
       "id": 90,
@@ -1184,7 +1194,8 @@ export const data = [
       "gender": "b_serie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1",
       "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Sam Raimi"
      },
      {
       "id": 93,
@@ -1340,7 +1351,8 @@ export const data = [
       "gender": "gore",
       "cover": "https:\/\/1.bp.blogspot.com\/-9SItSmWUtMo\/XtrEYeLIg0I\/AAAAAAAAB-Q\/3Lwaylq8ySI9rrUoYAcc1CBkKxe1F9ViwCK4BGAsYHg\/s1200\/El%2Borfanato.jpg",
       "sinopsis": "Laura es una mujer que regresa al orfanato donde creció con la intención de convertirlo en una residencia para niños discapacitados. Junto con su marido Carlos y su hijo Simón, se instala en la antigua casa, donde empiezan a ocurrir extraños sucesos. Simón dice tener amigos invisibles que le cuentan historias sobre el pasado del orfanato y le hacen un juego de pistas para encontrar un tesoro escondido. Laura sospecha que hay algo oscuro detrás de esos juegos y que tal vez tenga que ver con el origen de Simón, quien fue adoptado. Cuando Simón desaparece misteriosamente, Laura hará todo lo posible por encontrarlo, aunque eso signifique enfrentarse a los fantasmas de su propia infancia.",
-      "universe": "None"
+      "universe": "None",
+      "director": "J.A. Bayona"
      },
      {
       "id": 105,
@@ -1353,7 +1365,8 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41210_56.jpg",
       "sinopsis": "Lucía and her son live far from society in a flat area where there is almost no life. The small family unit made up of mother and son receives hardly any visitors, and their goal is to develop a peaceful existence. At first they succeed, but the appearance of a mysterious and violent creature that begins to haunt their small house will put the relationship that unites them to the test.",
-      "universe": "None"
+      "universe": "None",
+      "director": "David Casademunt"
      },
      {
       "id": 106,
@@ -1366,7 +1379,8 @@ export const data = [
       "gender": "found_footage",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg",
       "sinopsis": "In search of a local legend, three bold amateur documentarians--director, Heather; cameraman, Josh; sound recorder, Mike--hike into Burkittsville's gloomy Black Hills Forest to find a shadow: the fabled Blair Witch. Now, one long year later--after that fateful October of 1994--there's still no sign of the student filmmakers, apart from the raw footage they left behind. Who knows what truly happened during their creepy five-day journey into the mouth of madness? Was there, indeed, an intangible supernatural presence in the dark woods that led to the team's disappearance? Either way, the missing trio must have seen something. Could the nightmarish myth be real?",
-      "universe": "None"
+      "universe": "Blair Witch Project",
+      "director": "Daniel Myrick - Eduardo Sánchez"
      },
      {
       "id": 107,
@@ -1379,7 +1393,7 @@ export const data = [
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg",
       "sinopsis": "To cash in on all of the \"real world\" hype of the events in the first film, a man from Burkitsville, Maryland opens a \"Blair Witch Hunt\" tour, which shows patrons various locations from the original film. A bunch of college students decide to take the tour, and wind up in Rustin Parr's house. There, they decide to camp for the evening, but in the morning, they realize they didn't sleep and they don't remember anything that happened the previous night. From there, they go back to town, and discover that something...or someone has come with them.",
-      "universe": "None"
+      "universe": "Blair Witch Project"
      },
      {
       "id": 108,
@@ -1403,7 +1417,8 @@ export const data = [
       "gender": "Action",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg",
       "sinopsis": "On December 28th, 1999, the citizens of New York City are getting ready for the turn of the millennium. However, the Devil decides to crash the party by coming to the city, inhabiting a man's body, and searching for his chosen bride, a 20-year-old woman named Christine York. If he bears her child between 11:00 PM and midnight on New Year's Eve, the world will end, and the only hope lies within an atheist ex-cop named Jericho Cane, who no longer believes in God because of the murder of his wife and daughter.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Peter Hyams"
      },
      {
       "id": 110,
@@ -1416,7 +1431,8 @@ export const data = [
       "gender": "Sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0",
       "sinopsis": "The year is 2047 and a ship named the Event Horizon has re-appeared after disappearing 7 years prior, in experiments for faster than light travel. A rescue hastily speeds to the returned vessel after a transmission was picked up from the ship, garbled, but vaguely resembling a human voice. As the crew reach the ship, and spend longer on it, it appears that someone or something is toying with them, and more, the question is what has the Event Horizon become?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Paul W.S. Anderson"
      },
      {
       "id": 111,
@@ -1428,7 +1444,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg",
       "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Fede Alvarez"
      },
      {
       "id": 112,
@@ -1441,7 +1458,8 @@ export const data = [
       "gender": "found_footage",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/15\/02\/23\/10\/32\/292870.jpg",
       "sinopsis": "For five friends, it was a chance for a summer getaway - a weekend of camping in the Texas Big Thicket. But visions of a carefree vacation are shattered with an accident on a dark and desolate country road. In the wake of the accident, a bloodcurdling force of nature is unleashed - something not exactly human, but not completely animal - an urban legend come to terrifying life - a Bigfoot seeking murderous revenge for the death of its child.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Eduardo Sánchez"
      },
      {
       "id": 113,
@@ -1454,7 +1472,8 @@ export const data = [
       "gender": "posesiones",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Fifteen year-old Emma Evans has an argument with her mother Lucy since she wants to go to a concert in London with her friends Rose and Alex. Emma immediately has a convulsion and her family takes her to the hospital, but the doctors do not find any physical problem. Then her father John tries to convince his wife to send Emma to school, instead of homeschooling, but she prefers to keep Emma in the family-based education. Lucy sends her daughter to the psychoanalyst believing that she has psychological problems and Emma asks her friend Rose to record her session of hypnosis though the cellular but the doctor dies during the session. When Emma listens to the tape, she believes she is possessed by the devil and asks her parents to be submitted to an exorcism with her uncle, Priest Christopher Taylor. However her skeptical mother is against the ritual and recalls that Chris was responsible for the death of a teenager, Ana, in the past in an unsuccessful exorcism. But when Emma levitates in the kitchen in front of her family, her parents call Chris.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Manuel Carballo"
      },
      {
       "id": 114,
@@ -1466,7 +1485,8 @@ export const data = [
       "clasification": "movie",
       "gender": "aliens",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_27144_67.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Colin Minihan"
      },
      {
       "id": 115,
@@ -1478,7 +1498,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35763_65.jpg",
       "sinopsis": "1994. In Shadyside, the murder capital of the United States, yet another brutal, unmotivated massacre sends shivers down the spine. And, more and more, the unholy name of Sarah Fier, a cursed local witch, keeps popping up. Now, something evil has awoken, forcing a team of five teenage friends to summon up the courage to get to the bottom of a bloody, centuries-old secret and fight tooth and nail against unstoppable supernatural forces to stay alive. But in this dangerous cat-and-mouse game, someone else makes the rules. Can the young defenders lift the town curse and end it all?",
-      "universe": "Fear Street"
+      "universe": "Fear Street",
+      "director": "Leigh Janiak"
      },
      {
       "id": 116,
@@ -1490,7 +1511,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39348_25.jpg",
       "sinopsis": "1978. Against the backdrop of the endless feud between the teenagers of Shadyside and Sunnyvale and the centuries-spanning curse of the doomed witch, Sarah Fier, a spate of brutal axe murders terrorises the unsuspecting campers of Camp Nightwing. Now, after the pitiless killings in Fear Street: Part One - 1994 (2021), a handful of lucky survivors find themselves in dire need of help to link the past to the present and, hopefully, unearth the gruesome truth. But warm, bright-red blood follows. Will Deena and her friends ever find out what happened that horrible July?",
-      "universe": "Fear Street"
+      "universe": "Fear Street",
+      "director": "Leigh Janiak"
      },
      {
       "id": 117,
@@ -1550,7 +1572,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/wYQA4UwVLaI4Sf0d5IXEhGO2Ueh.jpg",
       "sinopsis": "In 1957, at Camp Crystal Lake, young Jason Voorhees drowned. In 1958, two camp counselors were murdered. In 1962, fires and bad water thwarted the camp's reopening. Now, in 1980, Steve Christy finally reopens Camp Crystal Lake with the help of a few new counselors, ignoring the warnings of a crazy old man. The murders start up again while a mysterious stalker prowls the area. Is the killer seeking revenge? Who will survive the nightmare and live to tell the story?",
-      "universe": "Friday the 13th"
+      "universe": "Friday the 13th",
+      "director": "Sean S. Cunningham"
      },
      {
       "id": 122,
@@ -1563,7 +1586,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/4.bp.blogspot.com\/_HQxxwRo0NUo\/TBU6vVTPvFI\/AAAAAAAABCk\/seAg2FYDPw0\/s1600\/friday_the_thirteenth_part_viii_ver2.jpg",
       "sinopsis": "A whole high senior class is finally graduating. For that, they get into a luxury cruise called ''Lazarus''. At the beginning they are all having fun, including our main heroine ''Rennie'' who has a serious problem with the water because of past traumatic events '' Almost got drowned when she was little''. When we get to see all the young teenagers our friend Jason who got on board the ship starts with his killing rampage until we get to see only the main characters of the movie.. After that, they decide to look for the killer and kill him... Unfortunately, Jason got them first... After only a few of them escaped and got off the ship reached N.Y where they now have a bigger problem. Jason managed to get there too! He's cashing the survivors so he can kill them. Now the young teenager couple must escape or die in the dark waters of New York.",
-      "universe": "Friday the 13th"
+      "universe": "Friday the 13th",
+      "director": "Rob Hedden"
      },
      {
       "id": 123,
@@ -1674,7 +1698,7 @@ export const data = [
       "gender": "found_footage",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16162_51.jpg",
       "sinopsis": "Lance Preston and the crew of \"Grave Encounters\", a ghost-hunting reality television show, are shooting an episode inside the abandoned Collingwood Psychiatric Hospital, where unexplained phenomena have been reported for years. All in the name of good television, they voluntarily lock themselves inside the building for the night and begin a paranormal investigation, capturing everything on camera. They quickly realize that the building is more than just haunted - it is alive - and it has no intention of ever letting them leave. They find themselves lost in a labyrinth maze of endless hallways and corridors, terrorized by the ghosts of the former patients. They soon begin to question their own sanity, slipping deeper and deeper into the depths of madness, ultimately discovering the truth behind the hospital's dark past...and taping what turns out to be their final episode.",
-      "universe": "None"
+      "universe": "Grave Encounters"
      },
      {
       "id": 132,
@@ -1687,7 +1711,7 @@ export const data = [
       "gender": "found_footage",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4Thx9-rdGyyzib1MSk7HRQDKEs?pid=ImgDet&rs=1",
       "sinopsis": "For people who don't believe the events of Grave Encounters (2011).Grave Encounters, film student Alex Wright is out to prove them wrong. Alex is as obsessed with the first film as the 20 million people who viewed its viral trailer on YouTube. While he and his friends research the events and visit the real psychiatric hospital depicted in the original film, they find themselves face-to-face with unspeakable evil, banking on the hope that their knowledge of the original film will help them survive the sequel.",
-      "universe": "None"
+      "universe": "Grave Encounters"
      },
      {
       "id": 133,
@@ -1700,7 +1724,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_646_58.jpg",
       "sinopsis": "Minature green monsters tear through the small town of Kingston Falls. Hijinks ensue as a mild-mannered bank teller releases these hideous loonies after gaining a new pet and violating two of three simple rules: No water (violated), no food after midnight (violated), and no bright light. Hilarious mayhem and destruction in a town straight out of Norman Rockwell. So, when your washing machine blows up or your TV goes on the fritz, before you call the repair man, turn on all the lights and look under all the beds. 'Cause you never can tell, there just might be a gremlin in your house.",
-      "universe": "None"
+      "universe": "Gremlins"
      },
      {
       "id": 134,
@@ -1713,7 +1737,7 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/2.bp.blogspot.com\/-9YXw1EN1BLU\/XtakKzhg-fI\/AAAAAAAA3_c\/dBeo74FCF8oQxtOgAYnznUJnZK_sKgzFgCPcBGAsYHg\/w500\/wLpckmLTOh6qsESAikxN1rX6dq7.jpg",
       "sinopsis": "Having survived the destructive Kingston Falls Incident in Gremlins (1984), Billy and Kate move to New York City, eager to wipe the slate clean and start afresh. Instead, orphaned Mogwai Gizmo catches the eye of evil scientist Doctor Catheter in money-grubbing tech mogul Daniel Clamp's colossal high-rise. And once more, a splash of water spawns hordes of mischievous Gremlins. As a result, the pesky little creatures start doing what they do best: wreaking havoc. But the rules were simple. Now the city is about to taste a hearty slice of pure pandemonium. Do they have what it takes to escape the nightmare of the new batch?",
-      "universe": "None"
+      "universe": "Gremlins"
      },
      {
       "id": 135,
@@ -1738,7 +1762,8 @@ export const data = [
       "clasification": "serie",
       "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg",
       "sinopsis": "Guillermo del Toro's Netflix horror anthology series \"Cabinet of Curiosities\" (originally titled \"Guillermo del Toro Presents 10 After Midnight\") has added F. Murray Abraham, Ben Barnes, Elpidia Carrillo, Essie Davis, Hannah Galway, Crispin Glover, Demetrius Grosse, David Hewlett, Andrew Lincoln, Tim Blake Nelson, Luke Roberts, Sebastian Roché, Glynn Turman and Peter Weller to its cast. The prolific Academy-Award-winning Mexican filmmaker behind \"Pan's Labyrinth,\" \"Hellboy,\" \"The Shape of Water\" and \"Pacific Rim\" will executive produce, co-showrun and direct the series - described as a curation of eight unprecedented and genre-defining sinister narratives meant to challenge traditional notions of horror, ranging from the macabre to magical, gothic to grotesque or classically creepy. Two of the eight tales are original works by del Toro.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Cabinet of Curiosities"
      },
      {
       "id": 137,
@@ -1764,7 +1789,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.xQpGKDgkPHifw0mi4U8upgAAAA?pid=ImgDet&rs=1",
       "sinopsis": "October 29, 1998, Langdon, Illinois. It's been two bloody decades since Halloween (1978). Now, the suffocating stranglehold of unstoppable Michael Myers tightens around traumatised Laurie Strode. As a result, Laurie, now the headmistress of Hillcrest Academy, is living in fear, protected under a new identity. However, she is unaware that the masked serial killer has already found her whereabouts, and he is hell-bent on finishing what he has started. This time there is no turning back: Laurie must give her all to stand up for herself and look death in the eye. But does she have what it takes to destroy Michael, the right hand of evil?",
-      "universe": "Halloween"
+      "universe": "Halloween",
+      "director": "Steve Miner"
      },
      {
       "id": 139,
@@ -1777,7 +1803,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg",
       "sinopsis": "After Dr. Samuel Loomis shoots Michael Myers six times, Michael escapes and is now on the loose in Haddonfield. Laurie Strode is taken to the hospital, and Dr. Loomis continues to hunt down Michael with the help of the police. Michael continues killing the citizens of Haddonfield and heads to the hospital to kill Laurie. It's now up to an injured Laurie and Dr. Loomis to stop Michael and his murderous rampage.",
-      "universe": "Halloween"
+      "universe": "Halloween",
+      "director": "Rick Rosenthal"
      },
      {
       "id": 140,
@@ -1789,7 +1816,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_37684_45.jpg",
       "sinopsis": "Minutes after Laurie Strode (Curtis), her daughter Karen (Judy Greer) and granddaughter Allyson (Andi Matichak) left masked monster Michael Myers caged and burning in Laurie's basement, Laurie is rushed to the hospital with life-threatening injuries, believing she finally killed her lifelong tormentor. But when Michael manages to free himself from Laurie's trap, his ritual bloodbath resumes. As Laurie fights her pain and prepares to defend herself against him, she inspires all of Haddonfield to rise up against their unstoppable monster. The Strode women join a group of other survivors of Michael's first rampage who decide to take matters into their own hands, forming a vigilante mob that sets out to hunt Michael down, once and for all. Evil dies tonight.",
-      "universe": "Halloween"
+      "universe": "Halloween",
+      "director": "David Gordon Green"
      },
      {
       "id": 141,
@@ -1824,7 +1852,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_88_3.jpg",
       "sinopsis": "When Kirsty's father, Larry, and stepmother, Julia, move into Larry's childhood home, Kirsty and her boyfriend take a room nearby. Unfortunately for all involved, Larry's house is already occupied: before the family's arrival, Larry's disreputable brother, Frank, used a supernatural puzzle box to summon a gang of other-dimensional demon sadists. Now, Frank requires a series of blood sacrifices to escape the clutches of Pinhead and the cenobites.",
-      "universe": "Hellraiser "
+      "universe": "Hellraiser ",
+      "director": "Clive Barker"
      },
      {
       "id": 144,
@@ -1836,7 +1865,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/hellraiser-255394413-large.jpg",
       "sinopsis": "A take on Clive Barker's 1987 horror classic where a young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
-      "universe": "Hellraiser "
+      "universe": "Hellraiser ",
+      "director": "David Bruckner"
      },
      {
       "id": 145,
@@ -1848,7 +1878,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_943_24.jpg",
       "sinopsis": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned.",
-      "universe": "Hellraiser "
+      "universe": "Hellraiser ",
+      "director": "Tony Randel"
      },
      {
       "id": 146,
@@ -1860,7 +1891,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.44IwZmg0ybO_VhpaI8JMYgHaLG?pid=ImgDet&rs=1",
       "sinopsis": "Two best friends, Steven Craven and Nico Bradley, travel to Mexico to have some fun. They meet a vagrant in a bar that gives a puzzle box to Nico. When he opens the device, he finds that it is a key to hell. Nico brings Pinhead that inflicts pain to him and Steven and the youngsters vanish. Later, in Los Angeles, Dr. Ross Craven, his wife Sarah and their daughter Emma receive Peter and Kate Bradley to have dinner. Both families miss Steven and Nico and they hired a private detective to seek them out, but he only finds Nico's backpack. When Emma snoops around the backpack, she finds the puzzle box and out of the blue, Steven returns covered of blood. But soon they discover that it is not Steven's soul that is inside his body.",
-      "universe": "Hellraiser "
+      "universe": "Hellraiser ",
+      "director": "Víctor Garcia"
      },
      {
       "id": 147,
@@ -2105,7 +2137,7 @@ export const data = [
       "clasification": "book",
       "cover": "https:\/\/i1.wp.com\/literariness.org\/wp-content\/uploads\/2018\/12\/71lZgzNE2kL.jpg",
       "sinopsis": "It (en español, «Eso») es una novela de terror publicada en 1986 por el escritor estadounidense Stephen King. Cuenta la historia, en un juego de correspondencias con el pasado y el presente, de un grupo de siete amigos que son perseguidos por una entidad sobrenatural, al que llaman «Eso», que es capaz de cambiar de forma y se alimenta principalmente del terror que produce en sus víctimas. La narración orbita en torno a la localidad ficticia de Derry (Maine) y la inexplicable aura de horror y muerte que la rodea.",
-      "universe": "None"
+      "universe": "It"
      },
      {
       "id": 167,
@@ -2117,7 +2149,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/19\/07\/30\/09\/09\/0763744.jpg",
       "sinopsis": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways. But when people start disappearing, Mike Hanlon calls the others home for one final stand. Damaged by scars from the past, the united Losers must conquer their deepest fears to destroy the shape-shifting Pennywise -- now more powerful than ever.",
-      "universe": "It"
+      "universe": "It",
+      "director": "Andy Muschietti"
      },
      {
       "id": 168,
@@ -2129,7 +2162,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11567_43.jpg",
       "sinopsis": "Undoubtedly, something is going on in the once-peaceful late-1980s town of Derry, Maine, as a seemingly endless string of violence, murder, and unaccountable child disappearances terrorise the small community. Against the backdrop of anguished remorse after the recent death of the innocent six-year-old, Georgie Denbrough, the close-knit band of school pariahs, or The Losers' Club--Georgie's troubled older brother, Bill; the bullied new classmate, Ben Hanscom; the ill-treated, Beverly Marsh; the playful, Richie Tozier; home school kid, Mike Hanlon; the asthmatic, Eddie Kaspbrak; and the fastidious, Stanley Uris--pluck up the courage to confront their well-hidden childhood fears and the blood-curdling clown-like shape-shifter who lives in their twisted visions. Nevertheless, is the malevolent bright-eyed demon, indeed, the nightmarish creature that horrifies Derry? Either way, the otherworldly entity needs to feed, and the young team of defenders are no match for him. Do they have what it takes to face IT?",
-      "universe": "It"
+      "universe": "It",
+      "director": "Andy Muschietti"
      },
      {
       "id": 169,
@@ -2141,7 +2175,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/93\/62\/24\/20268042.jpg",
       "sinopsis": "In the Year 2008, Jason Vorhees is cryogenically frozen in a Government Facility in Camp Crystal Lake, along with scientist Rowan. Many centuries later, in the year 2455, Earth is uninhabitable, and humans have moved to another planet known as Earth II. However, a team of students awakens both him and Rowan on a spaceship known as the Grendel. Jason begins killing the students and crew of the ship. Along the way, he is upgraded to Uber Jason. It's now up to Rowan and the surviving students to stop Jason, this time on a spaceship.",
-      "universe": "Friday the 13th"
+      "universe": "Friday the 13th",
+      "director": "James Isaac"
      },
      {
       "id": 170,
@@ -2154,7 +2189,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_165_75.jpg",
       "sinopsis": "On their way back home during the spring break, Darry and Patricia Jenner witness a mysterious person dumping something down a tunnel. Deciding to discover what was dumped down there, Darry discovers a huge disturbing hideout full of modified bodies. Darry and Patricia set off to get help, unaware that the individual is now aware of who has been down the tunnel. Darry and Patricia soon realizes that their pursuer is not just a mysterious person, but something even more horrifying, who has more in store than they could possibly imagine",
-      "universe": "Jeepers Creepers"
+      "universe": "Jeepers Creepers",
+      "director": "Victor Salva"
      },
      {
       "id": 171,
@@ -2167,7 +2203,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_212_16.jpg",
       "sinopsis": "Returning home from a championship game, a group of varsity basketball players, cheerleaders, and coaches become stranded on the infamous East 9 Highway--only it's the cunning Creeper who has actually crippled their bus. As its 23 horrifying days of flesh-eating come to an end, the Creeper has embarked on its final voracious feeding frenzy in Poho County. As night falls, the terrified group of young athletes must fight their own fears and prejudices and come together in a seemingly hopeless struggle against a winged nightmare hell-bent on stockpiling as many victims as it can on the ultimate night of its grisly ritual feast.",
-      "universe": "Jeepers Creepers"
+      "universe": "Jeepers Creepers",
+      "director": "Victor Salva"
      },
      {
       "id": 172,
@@ -2180,7 +2217,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8239_23.jpg",
       "sinopsis": "Set between the first and second film, Sgt Davis Tubbs assembles a task force to destroy the Creeper once and for all while growing closer than ever before to learning the secrets of its dark origins, as the monster terrorizes a local farming community.",
-      "universe": "Jeepers Creepers"
+      "universe": "Jeepers Creepers",
+      "director": "Victor Salva"
      },
      {
       "id": 173,
@@ -2192,7 +2230,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9397_74.jpg",
       "sinopsis": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They share even less in common when Jennifer mysteriously gains an appetite for human blood after a disastrous fire at a local bar. As Needy's male classmates are steadily killed in gruesome attacks, the young girl must uncover the truth behind her friend's transformation and find a way to stop the bloodthirsty rampage before it reaches her own boyfriend Chip.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Karyn Kusama"
      },
      {
       "id": 174,
@@ -2204,7 +2243,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21282_34.jpg",
       "sinopsis": "Jessabelle \"Jessie\" Laurent is pregnant and agrees to move to her boyfriend's house to raise their own family. They get into a car accident; her boyfriend and baby die. Jessie survives but is seriously wounded, seriously grieving, and trapped in a wheelchair. The director of the hospital suggests that she contact her estranged father to help her, and Leon Laurent takes his daughter to his home in Louisiana and lodges her in her mother's room. Jessie snoops around the room and finds a videotape where her mother Kate is pregnant and reads tarot cards to her, telling her that she would never leave Louisiana, she is attracted by water, and another woman wants her out of the house. But Leon arrives and destroys the tape. The next morning, while Leon is out of the house, Jessie watches another videotape, in which her mother talks about Moses, the man who taught her to read cards. Jessie is haunted by the ghost of a woman, and her father discovers the two other videotapes she has hidden. When he tries to destroy them, something happens to him and he is burnt to death trapped in a shed. During the funeral, Jessie meets her high-school friend Preston Sanders (Mark Webber), who is unhappily married. Preston decides to help Jessie after watching the videotapes. Who is haunting Jessie?",
-      "universe": "None"
+      "universe": "None",
+      "director": "Kevin Greutert"
      },
      {
       "id": 175,
@@ -2253,7 +2293,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29718_9.jpg",
       "sinopsis": "When his dysfunctional family clashes over the holidays, young Max (Emjay Anthony) gets disillusioned and turns his back on Christmas. Meanwhile, this lack of festive spirit unleashes the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers. All hell breaks loose as beloved holiday icons take on a monstrous life of their own, laying siege to the fractured family's home and forcing them to fight for one another if they hope to survive.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Michael Dougherty"
      },
      {
       "id": 179,
@@ -2390,7 +2431,8 @@ export const data = [
       "clasification": "movie",
       "gender": "monsters",
       "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "David Cronenberg"
      },
      {
       "id": 190,
@@ -2517,7 +2559,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/K61SoAJ8Uto",
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P0OMsZipp2sl-iQFMw6WZgHaKf?pid=ImgDet&rs=1",
-      "universe": "The Hills Have Eyes"
+      "universe": "The Hills Have Eyes",
+      "director": "Wes Craven"
      },
      {
       "id": 202,
@@ -2528,7 +2571,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/xNms2gGtA6c",
       "clasification": "movie",
       "cover": "https:\/\/i.pinimg.com\/736x\/e0\/f3\/3f\/e0f33ff8c190a0099a4b8267bda6a743.jpg",
-      "universe": "The Hills Have Eyes"
+      "universe": "The Hills Have Eyes",
+      "director": "Wes Craven"
      },
      {
       "id": 203,
@@ -3213,7 +3257,8 @@ export const data = [
       "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Xa_gWYoGDl2n74pJZZKLCwHaLH?pid=ImgDet&rs=1",
       "sinopsis": "Scream is a 1996 horror movie directed by Wes Craven and written by Kevin Williamson. The plot follows Sidney Prescott (Neve Campbell), a high school student who becomes the target of a mysterious killer in a ghost mask, who also killed her mother a year ago. The killer follows the rules and clichés of horror movies, and threatens to kill Sidney and her friends unless they can answer trivia questions about the genre. The movie is a satire of slasher films and references many other horror classics.",
-      "universe": "Scream"
+      "universe": "Scream",
+      "director": "Wes Craven"
      },
      {
       "id": 262,
@@ -3225,7 +3270,8 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/41bIWViNrKL._AC_UF894,1000_QL80_.jpg",
-      "universe": "Scream"
+      "universe": "Scream",
+      "director": "Wes Craven"
      },
      {
       "id": 263,
@@ -3237,7 +3283,8 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/pics.filmaffinity.com\/Scream_3-716015756-large.jpg",
-      "universe": "Scream"
+      "universe": "Scream",
+      "director": "Wes Craven"
      },
      {
       "id": 264,
@@ -3249,7 +3296,8 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7958_45.jpg",
-      "universe": "Scream"
+      "universe": "Scream",
+      "director": "Wes Craven"
      },
      {
       "id": 265,
@@ -4304,7 +4352,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg",
-      "universe": "Freddy"
+      "universe": "Freddy",
+      "director": "Wes Craven"
      },
      {
       "id": 357,
@@ -4316,7 +4365,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Geoffrey Sax"
      },
      {
       "id": 358,
@@ -4328,7 +4378,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE",
-      "universe": "None"
+      "universe": "None",
+      "director": "Patrick Lussier"
      },
      {
       "id": 359,
@@ -4340,7 +4391,8 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Michael Spierig - Peter Spierig"
      },
      {
       "id": 360,
@@ -4351,7 +4403,8 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/Sqb8rTnysTQ",
       "clasification": "movie",
       "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Declan O'Brien"
      },
      {
       "id": 361,
@@ -4363,7 +4416,8 @@ export const data = [
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg",
       "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Ti West"
      },
      {
       "id": 362,
@@ -4376,7 +4430,8 @@ export const data = [
       "cover": "https:\/\/i1.wp.com\/cinemedios.com\/wp-content\/uploads\/2016\/10\/ouija2_alta.jpg?resize=640%2C913&ssl=1",
       "sinopsis": "In 1967 Los Angeles, a young widow named Alice Zander works out of her suburban home as a spiritual medium, accompanied by her daughters, 15-year-old Paulina \"Lina\" and 9-year old Doris. The family is still reeling over the recent death of Roger, Alice's husband and the kids' father. At Lina's suggestion, Alice incorporates a Ouija board into her readings. While trying out the board, she unknowingly contacts a spirit named Marcus that begins to possess Doris. Alice receives a notice that the bank intends to foreclose on their home. Doris contacts the board for help, believing she is communicating with her dead father. The spirit leads her to a secret compartment behind the basement wall containing a pouch of cash. When she gives the money to her mother, the family has an Ouija session, believing they can contact Roger. When the board answers a question only Roger would know the answer to, a thrilled Alice begins believing that they are in contact with her dead husband..",
       "add_date": "2023-06-28",
-      "universe": "None"
+      "universe": "None",
+      "director": "Mike Flanagan"
      },
      {
       "id": 363,
@@ -4389,7 +4444,7 @@ export const data = [
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Pr2s5s8Y9pl225jhgQQweQHaK9?pid=ImgDet&rs=1",
       "sinopsis": "1666. An unspeakable evil has cast its unholy shadow over Union, the original settlement before its division into Sunnyvale and Shadyside, ushering in a new era of misfortune and terror. In the aftermath of the brutal mall killings in Fear Street: Part One - 1994 (2021), Deena finds herself plagued by vivid, blood-curdling visions of death and decay, forcing Cindy Berman, the only one who saw the sorceress and survived, after the bloody Camp Nightwing massacre in Fear Street: Part Two - 1978 (2021), to step in. Now, there is no turning back, and until body and hand unite, no one is safe from the fiery curse of damned Sarah Fier. But evil has no boundaries. What will it take to rid Shadyside of the witch's sin?",
       "add_date": "2023-06-28",
-      "universe": "None",
+      "universe": "Fear Street",
       "director": "Leigh Janiak"
      },
      {
