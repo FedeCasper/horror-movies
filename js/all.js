@@ -1,5 +1,5 @@
-import { data } from "./data.js"
-import { storyFilter } from "./module/functions.js"
+import { data } from "../js/data.js"
+import { storyFilter } from "../module/functions.js"
 const { createApp } = Vue
 
 createApp({
