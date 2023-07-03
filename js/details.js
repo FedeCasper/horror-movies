@@ -82,7 +82,7 @@ createApp({
                let storyURL = location.href;
                console.log(storyURL);
                this.url = encodeURIComponent(storyURL);
-               this.message = encodeURIComponent('¡Echa un vistazo a esta aterradora historia en Casper Horror Site!');
+               this.message = encodeURIComponent('¡Mira esta aterradora historia en Casper Horror Site!');
                window.open('https://api.whatsapp.com/send?text=' + this.message + ' ' + this.url);
           }
      },
