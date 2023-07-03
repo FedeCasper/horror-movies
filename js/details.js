@@ -14,14 +14,17 @@ createApp({
                overAllObject:{},
                captureId: 0,
                relatedStories: [],
-               universeStories: []
+               universeStories: [],
+               url: "",
+               message: ""
           }
      },
      created(){
           this.movies = data
           console.log(this.movies);
           this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
-          const params = new URLSearchParams (location.search)
+          let params = new URLSearchParams (location.search)
+
           // console.log(params);
           this.captureId = params.get("id")
           // console.log(this.captureId);
@@ -74,6 +77,13 @@ createApp({
                     }
                     return related
                }
+          },
+          shareContent(){
+               let storyURL = location.href;
+               console.log(storyURL);
+               this.url = encodeURIComponent(storyURL);
+               this.message = encodeURIComponent('¡Echa un vistazo a este increíble contenido en mi página web!');
+               window.open('https://api.whatsapp.com/send?text=' + this.message + ' ' + this.url);
           }
      },
      computed:{
