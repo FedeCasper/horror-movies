@@ -17,6 +17,7 @@ h1,h2,h3,h4,h5,h6{
 a{
      text-decoration: none;
      color: white;
+     cursor: pointer;
 }
 
 #app{
@@ -33,9 +34,7 @@ section{
      padding-bottom: 10vh;
 }
 .cover{
-     background-color: black;
-     height: 20rem;
-     object-fit: contain;
+     height: 19rem !important;
 }
 .returnArrow{
      /* position: fixed; */
@@ -69,4 +68,19 @@ section{
 
 .recent{
      font-size: 9pt;
+}
+.card{
+     transition: all 0.2s ease-in-out;
+}
+
+.card:hover{
+     position: relative;
+     transform: scale(1.1);
+}
+.card > img{
+     transition: all 1s ease-in-out;
+}
+
+.card:hover > img{
+     object-fit:contain !important;
 }
