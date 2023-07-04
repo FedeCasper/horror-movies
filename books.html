@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
      <meta charset="UTF-8">
@@ -18,7 +19,9 @@
 
      <div id="app">
 
-          <header class="w-100 bg-dark border-bottom p-3 d-flex align-items-center justify-content-between sticky-top shadow d-sm-none" data-bs-theme="dark">
+          <header
+               class="w-100 bg-dark border-bottom p-3 d-flex align-items-center justify-content-between sticky-top shadow d-sm-none"
+               data-bs-theme="dark">
                <div class="d-flex align-items-center">
                     <img src="./assets/ghost2.png" alt="skull">
                     <h4 class="m-0 text-danger ps-2">Books</h4>
@@ -30,14 +33,17 @@
 
 
 
-          <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark shadow d-none d-sm-flex" data-bs-theme="dark">
+          <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark shadow d-none d-sm-flex"
+               data-bs-theme="dark">
                <div class="container-fluid">
                     <a class="navbar-brand text-light fw-bold" href="./index.html">
                          <img src="./assets/ghost2.png" alt="skull">
-                         Casper's 
+                         Casper's
                          <span class="text-danger">Horror Movies</span>
                     </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                         aria-expanded="false" aria-label="Toggle navigation">
                          <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -63,7 +69,8 @@
                          </ul>
                          <!-- Input Search -->
                          <div class="d-flex" role="search">
-                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                                   v-model="inputValue">
                          </div>
                     </div>
                </div>
@@ -71,9 +78,30 @@
 
           <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
 
-               <div v-cloak v-if="filteredOnlyBooks.length != 0" :class="filteredOnlyBooks.length == 1 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="book of filteredOnlyBooks">
-                    <a role="button" :href=`./details.html?id=${book.id}` :class="book.details ? 'cardHover' : ''" target="_blank">
-                         <div class="card h-100">
+               <div v-cloak v-if="filteredOnlyBooks.length != 0"
+                    :class="filteredOnlyBooks.length == 1 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-12 col-sm-5 col-lg-4 col-xxl-4 p-1'"
+                    v-for="book of filteredOnlyBooks">
+                    <a role="button" :href=`./details.html?id=${book.id}` :class="book.details ? 'cardHover' : ''"
+                         target="_blank">
+
+                         <div class="card bg-dark mb-3 border-0" style="max-width: 540px;">
+                              <div class="d-flex">
+                                   <div class="col-4">
+                                        <img :src="book.cover ? book.cover : './assets/no-image.png' " class="img-fluid rounded bg-black object-fit-scale h-100 p-1" alt="...">
+                                   </div>
+                                   <div class="col-md-8">
+                                        <div class="card-body">
+                                             <h6 class="card-title text-light border-bottom border-danger border-opacity-50 pb-2">{{book.title}}</h6>
+                                             <p class="card-text small text-light">This is a wider card with supporting text below as a
+                                                  natural lead-in to additional content.</p>
+                                             <p class="card-text text-secondary fst-italic small"><small>Last updated 3 mins
+                                                       ago</small></p>
+                                        </div>
+                                   </div>
+                              </div>
+                         </div>
+
+                         <!-- <div class="card h-100">
                               <img :src="book.cover ? book.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
                               <div class="card-body border-bottom border-bottom-dark">
                                    <h6 class="card-title">{{book.title}}</h6>
@@ -95,7 +123,7 @@
                                         <p class="card-text text-small fst-italic recent">{{checkNewMovies(book.add_date) ? 'Recently updated' : `Las update ${book.add_date}` }}</p>
                                    </div>
                               </div>
-                         </div>
+                         </div> -->
                     </a>
                </div>
                <div v-cloak v-else-if="filteredOnlyBooks.length == 0">
@@ -110,7 +138,8 @@
           </section>
 
           <!-- Nav BOTTOM section -->
-          <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary shadow" data-bs-theme="dark">
+          <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary shadow"
+               data-bs-theme="dark">
                <div class="container-fluid">
                     <div class="d-flex justify-content-evenly gap-3 w-100 align-items-center">
                          <div class="d-flex flex-column align-items-center">
@@ -131,9 +160,12 @@
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./top.html">Top</a>
                          </div>
-                         <i :class="arrowDirection == false ? 'bi bi-arrow-bar-down text-dark' : 'bi bi-arrow-bar-up text-danger'"  title="Back to the top" @click="moveTo"></i>
+                         <i :class="arrowDirection == false ? 'bi bi-arrow-bar-down text-dark' : 'bi bi-arrow-bar-up text-danger'"
+                              title="Back to the top" @click="moveTo"></i>
                          <div class="d-flex gap-3 align-items-center">
-                              <button class="navbar-toggler p-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                              <button class="navbar-toggler p-2" type="button" data-bs-toggle="collapse"
+                                   data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2"
+                                   aria-expanded="false" aria-label="Toggle navigation">
                                    <span class="bi bi-search"></span>
                               </button>
                          </div>
@@ -141,7 +173,8 @@
                     <div class="collapse navbar-collapse mt-4" id="navbarSupportedContent2">
                          <!-- Input Search -->
                          <div class="d-flex mt-3" role="search">
-                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                                   v-model="inputValue">
                          </div>
                     </div>
                </div>

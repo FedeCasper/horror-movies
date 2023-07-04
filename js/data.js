@@ -53,19 +53,6 @@ export const data = [
      },
      {
       "id": 5,
-      "title": "13 Fantasmas",
-      "optional_title": "Thirteen Ghosts",
-      "web_calification": 6.72,
-      "year": 2001,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Q9rX3krvo4o",
-      "clasification": "movie",
-      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
-      "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto.",
-      "universe": "None",
-      "director": "Steve Beck"
-     },
-     {
-      "id": 6,
       "title": "28 Days Later",
       "optional_title": "28 Días Después",
       "web_calification": 7.84,
@@ -79,7 +66,7 @@ export const data = [
       "director": "Steve Beck"
      },
      {
-      "id": 7,
+      "id": 6,
       "title": "28 Weeks Later",
       "optional_title": "28 Semanas Después \/ Exterminio 2",
       "web_calification": 7.48,
@@ -93,21 +80,21 @@ export const data = [
       "director": "Juan Carlos Fresnadillo"
      },
      {
-      "id": 8,
+      "id": 7,
       "title": "30 Days of Nigth",
       "optional_title": "30 Días de Noche",
       "web_calification": 7.06,
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDZepeBxWFc",
       "clasification": "movie",
-      "gender": "vampiros",
+      "gender": "vampires",
       "cover": "https:\/\/i1.wp.com\/moviesandmania.com\/wp-content\/uploads\/2012\/06\/30days.jpg?ssl=1",
       "sinopsis": "La película 30 Days of Night es una película de terror de 2007 dirigida por David Slade y basada en la novela gráfica del mismo nombre de Steve Niles y Ben Templesmith. La película sigue a un grupo de personas que se encuentran en una ciudad de Alaska durante el mes más oscuro del año, cuando los vampiros llegan y comienzan a matar a los residentes. La película está protagonizada por Josh Hartnett, Melissa George y Danny Huston.",
       "universe": "None",
       "director": "David Slade"
      },
      {
-      "id": 9,
+      "id": 8,
       "title": "A Classic Horror Story",
       "optional_title": "La Clásica Historia de Terror",
       "web_calification": 5.51,
@@ -120,7 +107,7 @@ export const data = [
       "director": "Roberto De Feo, Paolo Strippoli"
      },
      {
-      "id": 10,
+      "id": 9,
       "title": "A Nightmare on Elm Street (Remake)",
       "optional_title": "Pesadilla en la Calle del Infierno (Remake) ",
       "web_calification": 6.62,
@@ -133,7 +120,7 @@ export const data = [
       "director": "Samuel Bayer"
      },
      {
-      "id": 11,
+      "id": 10,
       "title": "A Nightmare On Elm Street 2: Freddy's Revenge",
       "optional_title": "Pesadilla en la Calle del Infierno 2: La venganza de Freddy",
       "web_calification": 6.6,
@@ -146,7 +133,7 @@ export const data = [
       "director": "Jack Sholder"
      },
      {
-      "id": 12,
+      "id": 11,
       "title": "A Nightmare On Elm Street 3: Dream Warriors",
       "optional_title": "Pesadilla en la calle del Infierno 3: Guerreros de Sueños",
       "web_calification": 7.73,
@@ -159,7 +146,7 @@ export const data = [
       "director": "Chuck Russell"
      },
      {
-      "id": 13,
+      "id": 12,
       "title": "A Nightmare On Elm Street 4: The Dream Master",
       "optional_title": "Pesadilla en la calle del Infierno 4: El Maestro de los Sueños ",
       "web_calification": 7.25,
@@ -172,7 +159,7 @@ export const data = [
       "director": "Renny Harlin"
      },
      {
-      "id": 14,
+      "id": 13,
       "title": "A Nightmare On Elm Street 5: The Dream Child",
       "optional_title": "Pesadilla en la calle del Infierno 5: El Niño del Sueño",
       "web_calification": 6.48,
@@ -184,7 +171,7 @@ export const data = [
       "director": "Stephen Hopkins"
      },
      {
-      "id": 15,
+      "id": 14,
       "title": "A Nigthmare on Elm Street",
       "optional_title": "Pesadilla en la calle del Infierno ",
       "web_calification": 8.32,
@@ -197,7 +184,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 16,
+      "id": 15,
       "title": "A Quiet Place",
       "optional_title": "Un Lugar Tranquilo",
       "web_calification": 7.29,
@@ -211,7 +198,7 @@ export const data = [
       "director": "John Krasinski"
      },
      {
-      "id": 17,
+      "id": 16,
       "title": "A Quiet Place 2",
       "optional_title": "Un Lugar en Silencio 2",
       "web_calification": 7.33,
@@ -225,7 +212,7 @@ export const data = [
       "director": "John Krasinski"
      },
      {
-      "id": 18,
+      "id": 17,
       "title": "Aftermath",
       "optional_title": "Mudanza Mortal",
       "web_calification": 5.5,
@@ -238,7 +225,7 @@ export const data = [
       "director": "Peter Winther"
      },
      {
-      "id": 19,
+      "id": 18,
       "title": "Alien",
       "optional_title": "Alien 1: El octavo Pasajero",
       "web_calification": 8.57,
@@ -252,7 +239,7 @@ export const data = [
       "director": "Ridley Scott"
      },
      {
-      "id": 20,
+      "id": 19,
       "title": "Alien 2",
       "optional_title": "Alien 2: El Regreso",
       "web_calification": 8.37,
@@ -265,7 +252,7 @@ export const data = [
       "universe": "Alien"
      },
      {
-      "id": 21,
+      "id": 20,
       "title": "Alien 3",
       "optional_title": "Alien 3",
       "web_calification": 6.65,
@@ -279,7 +266,7 @@ export const data = [
       "director": "David Fincher"
      },
      {
-      "id": 22,
+      "id": 21,
       "title": "Alien Abduction",
       "optional_title": "The Morris Family Abduction",
       "web_calification": 5.57,
@@ -292,7 +279,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 23,
+      "id": 22,
       "title": "Alien vs Predator",
       "optional_title": "Alien vs Depredador",
       "web_calification": 6.51,
@@ -306,7 +293,7 @@ export const data = [
       "director": "Paul W.S. Anderson\t"
      },
      {
-      "id": 24,
+      "id": 23,
       "title": "Alien vs Predator 2: Requiem",
       "optional_title": "Alien vs Depredador 2",
       "web_calification": 5.51,
@@ -319,7 +306,7 @@ export const data = [
       "universe": "Predator"
      },
      {
-      "id": 25,
+      "id": 24,
       "title": "Alien: Resurrection",
       "optional_title": "Alien 4: Resurrección",
       "web_calification": 6.87,
@@ -332,7 +319,7 @@ export const data = [
       "universe": "Alien"
      },
      {
-      "id": 26,
+      "id": 25,
       "title": "All Hallows' Eve",
       "optional_title": "La Víspera de Halloween \/ Terrifier el inicio",
       "web_calification": 6.18,
@@ -345,7 +332,7 @@ export const data = [
       "director": "Damien Leone"
      },
      {
-      "id": 27,
+      "id": 26,
       "title": "Amityville: The Awakening",
       "optional_title": "Amitiville: El Despertar",
       "web_calification": 5.87,
@@ -359,34 +346,35 @@ export const data = [
       "director": "Franck Khalfoun"
      },
      {
-      "id": 28,
+      "id": 27,
       "title": "An American Haunting",
       "optional_title": "Maleficio , Apariciones",
       "web_calification": 6.29,
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/8Mr1wMiihKI",
       "clasification": "movie",
+      "gender": "possessions",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3321_43.jpg",
       "sinopsis": "“An American Haunting” is a 2005 horror film directed by Courtney Solomon and starring Donald Sutherland, Sissy Spacek, James D’Arcy, and Rachel Hurd-Wood. The film is based on the novel “The Bell Witch: An American Haunting” by Brent Monahan. The story is based on the legend of the Bell Witch, which is said to have haunted the Bell family in Tennessee during the early 19th century. The film tells the story of John Bell (Donald Sutherland), a farmer who lives with his wife Lucy (Sissy Spacek) and daughter Betsy (Rachel Hurd-Wood) in Red River, Tennessee. Strange things begin to happen in their home, including unexplained noises and objects moving on their own. Betsy is particularly affected by the haunting and begins to experience physical attacks. The family seeks help from a local schoolteacher named Richard Powell (James D’Arcy), who tries to uncover the truth behind the haunting. As he investigates, he discovers that John Bell had a troubled past and that the haunting may be related to his past misdeeds.",
       "universe": "None",
       "director": "Courtney Solomon"
      },
      {
-      "id": 29,
+      "id": 28,
       "title": "Anaconda ",
       "optional_title": "Anaconda",
       "web_calification": 5.87,
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
-      "gender": "animales",
+      "gender": "animals",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
       "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz.",
       "universe": "None",
       "director": "Luis Llosa"
      },
      {
-      "id": 30,
+      "id": 29,
       "title": "Annabelle",
       "optional_title": "The Annabelle Story",
       "web_calification": 5.73,
@@ -400,7 +388,7 @@ export const data = [
       "director": "John R. Leonetti"
      },
      {
-      "id": 31,
+      "id": 30,
       "title": "Annabelle 2: Creación",
       "optional_title": "Annabelle Creation",
       "web_calification": 6.9,
@@ -414,7 +402,7 @@ export const data = [
       "director": "David F. Sandberg"
      },
      {
-      "id": 32,
+      "id": 31,
       "title": "Annabelle 3: Vuelve a Casa",
       "optional_title": "Annabelle Comes Home",
       "web_calification": 6.19,
@@ -428,7 +416,7 @@ export const data = [
       "director": "Gary Dauberman"
      },
      {
-      "id": 33,
+      "id": 32,
       "title": "Annihilation",
       "optional_title": "Aniquilación",
       "web_calification": 6.45,
@@ -442,7 +430,7 @@ export const data = [
       "director": "Alex Garland"
      },
      {
-      "id": 34,
+      "id": 33,
       "title": "Arachnophobia",
       "optional_title": "Aracnofobia",
       "web_calification": 6.74,
@@ -456,7 +444,7 @@ export const data = [
       "director": "Frank Marshall"
      },
      {
-      "id": 35,
+      "id": 34,
       "title": "Archive 81",
       "optional_title": "Archivo 81",
       "web_calification": 6.32,
@@ -466,6 +454,20 @@ export const data = [
       "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp",
       "sinopsis": "Archive 81 es una serie de terror sobrenatural basada en el podcast homónimo. La trama sigue a Dan Turner, un archivista de video que acepta un trabajo misterioso para restaurar unas cintas dañadas que documentan un incendio en un edificio de apartamentos en 1994. Mientras trabaja en las cintas, Dan se obsesiona con la historia de Melody Pendras, una joven que vivía en el edificio y que se vio involucrada en una secta oculta. Dan descubre que las cintas contienen secretos oscuros y peligrosos que amenazan su vida y su cordura.",
       "universe": "None"
+     },
+     {
+      "id": 35,
+      "title": "Army of Darkness",
+      "optional_title": "El Ejercito de las Tinieblas ",
+      "web_calification": 7.73,
+      "year": 1992,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Y_51HrX_LB0",
+      "clasification": "movie",
+      "gender": "b_serie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1",
+      "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?",
+      "universe": "Evil Dead",
+      "director": "Sam Raimi"
      },
      {
       "id": 36,
@@ -511,7 +513,7 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
       "clasification": "movie",
-      "gender": "posesiones",
+      "gender": "possessions",
       "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg",
       "universe": "None"
      },
@@ -535,13 +537,40 @@ export const data = [
       "year": 1998,
       "trailer": "https:\/\/www.youtube.com\/embed\/kaU2A7KyOu4",
       "clasification": "movie",
-      "gender": "vampiros",
+      "gender": "vampires",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5TLlwWWOdZH1KIA6JRoigQHaLF?pid=ImgDet&rs=1",
       "sinopsis": "“Blade” is a 1998 American superhero horror film directed by Stephen Norrington and written by David S. Goyer. The film stars Wesley Snipes in the title role as Blade, a vampire hunter with superhuman strength and agility. The film also stars Stephen Dorff, Kris Kristofferson, and N’Bushe Wright. The film follows Blade as he battles against vampires who are planning to take over the world. Blade is half-human and half-vampire, which gives him the strength and abilities of a vampire but none of their weaknesses. He is aided in his mission by Whistler (Kris Kristofferson), a human who has been helping Blade since he was a child. The film was a commercial success and grossed over $131 million worldwide. It was praised for its action sequences and Snipes’ performance as Blade. The film spawned two sequels, “Blade II” (2002) and “Blade: Trinity” (2004), as well as a television series, “Blade: The Series” (2006).",
       "universe": "None"
      },
      {
       "id": 42,
+      "title": "Blair's Witch Proyect",
+      "optional_title": "El Proyecto de la Bruja de Blair ",
+      "web_calification": 6.91,
+      "year": 1999,
+      "trailer": "https:\/\/www.youtube.com\/embed\/BrDomaqytuQ",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg",
+      "sinopsis": "In search of a local legend, three bold amateur documentarians--director, Heather; cameraman, Josh; sound recorder, Mike--hike into Burkittsville's gloomy Black Hills Forest to find a shadow: the fabled Blair Witch. Now, one long year later--after that fateful October of 1994--there's still no sign of the student filmmakers, apart from the raw footage they left behind. Who knows what truly happened during their creepy five-day journey into the mouth of madness? Was there, indeed, an intangible supernatural presence in the dark woods that led to the team's disappearance? Either way, the missing trio must have seen something. Could the nightmarish myth be real?",
+      "universe": "Blair Witch Project",
+      "director": "Daniel Myrick - Eduardo Sánchez"
+     },
+     {
+      "id": 43,
+      "title": "Blair's Witch Proyect: The Book of Shadows ",
+      "optional_title": "El Proyecto de la Bruja de Blair 2: El Libro de las Sombras",
+      "web_calification": 4.9,
+      "year": 2000,
+      "trailer": "https:\/\/www.youtube.com\/embed\/5U-xXjy8Xfw",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg",
+      "sinopsis": "To cash in on all of the \"real world\" hype of the events in the first film, a man from Burkitsville, Maryland opens a \"Blair Witch Hunt\" tour, which shows patrons various locations from the original film. A bunch of college students decide to take the tour, and wind up in Rustin Parr's house. There, they decide to camp for the evening, but in the morning, they realize they didn't sleep and they don't remember anything that happened the previous night. From there, they go back to town, and discover that something...or someone has come with them.",
+      "universe": "Blair Witch Project"
+     },
+     {
+      "id": 44,
       "title": "Bones",
       "optional_title": "Mansión Diabólica",
       "web_calification": 4.54,
@@ -552,7 +581,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 43,
+      "id": 45,
       "title": "Boogeyman 2",
       "optional_title": "El Hombre de la Bolsa 2",
       "web_calification": 6.19,
@@ -564,7 +593,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 44,
+      "id": 46,
       "title": "Boogeyman: La Puerta del Miedo",
       "optional_title": "El Hombre de la Bolsa : La Puerta del Miedo",
       "web_calification": 5.22,
@@ -576,7 +605,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 45,
+      "id": 47,
       "title": "Burried Alive",
       "optional_title": "Enterrados Vivos ",
       "web_calification": 4.57,
@@ -588,7 +617,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 46,
+      "id": 48,
       "title": "Case 39",
       "optional_title": "Expediente 39 - Caso 39",
       "web_calification": 6.93,
@@ -600,7 +629,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 47,
+      "id": 49,
       "title": "Cementerio de Animales",
       "optional_title": "Cementerio de Animales",
       "web_calification": 7.6,
@@ -611,35 +640,105 @@ export const data = [
       "universe": "Pet Sematary"
      },
      {
-      "id": 48,
-      "title": "Cementerio de Animales ",
-      "optional_title": "Pet Cementery ",
-      "web_calification": 7.61,
-      "year": 1989,
-      "trailer": "https:\/\/www.youtube.com\/embed\/vf7jiH3SFe8",
+      "id": 211,
+      "title": "Child´s Play",
+      "optional_title": "Chucky 1 ",
+      "web_calification": 7.85,
+      "year": 1988,
+      "trailer": "https:\/\/www.youtube.com\/embed\/aOb8i_DE42c",
       "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
-      "sinopsis": "Cementerio de Animales es una película de terror basada en la novela homónima de Stephen King. Cuenta la historia de una familia que se muda a una casa cerca de un misterioso cementerio donde los animales enterrados vuelven a la vida. Cuando una tragedia golpea a la familia, el padre decide enterrar a su hijo en el cementerio, esperando que regrese como el gato de su hija. Pero lo que vuelve no es el mismo niño que conocía, sino una criatura malvada y violenta que pondrá en peligro a todos los que ama.",
-      "universe": "Pet Sematary",
-      "director": "Mary Lambert"
-     },
-     {
-      "id": 49,
-      "title": "Cementerio de Animales 2",
-      "optional_title": "Pet Cementery 2",
-      "web_calification": 6.14,
-      "year": 1992,
-      "trailer": "https:\/\/www.youtube.com\/embed\/cp4VC6zVQsg",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
-      "sinopsis": "Dirigida por Mary Lambert y basada en la novela de Stephen King. La película narra la historia de Jeff Mathews, un adolescente que se muda con su padre a un pueblo de Maine tras la muerte de su madre, una famosa actriz. Allí, Jeff se hace amigo de Drew Gilbert, un chico que tiene problemas con su padrastro, el alguacil del pueblo. Cuando el alguacil mata al perro de Drew, los chicos deciden enterrarlo en un antiguo cementerio indio que se dice que tiene poderes de resurrección. Sin embargo, lo que vuelve a la vida no es el mismo perro que conocían, sino una criatura malvada y violenta. A partir de entonces, una serie de horrores se desatarán en el pueblo, poniendo en peligro la vida de Jeff y su padre.",
-      "universe": "Pet Sematary",
-      "director": "Mary Lambert"
+      "gender": "toys",
+      "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
+      "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective.",
+      "universe": "Chucky",
+      "director": "Tom Holland"
      },
      {
       "id": 50,
+      "title": "Child´s Play 2",
+      "optional_title": "Chucky 2 ",
+      "web_calification": 7.37,
+      "year": 1990,
+      "trailer": "https:\/\/www.youtube.com\/embed\/QQ578YDz-sQ",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
+      "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?",
+      "universe": "Chucky",
+      "director": "John Lafia"
+     },
+     {
+      "id": 51,
+      "title": "Child´s Play 3",
+      "optional_title": "Chucky 3 ",
+      "web_calification": 6.51,
+      "year": 1991,
+      "trailer": "https:\/\/www.youtube.com\/embed\/o6lfVEKUkCk",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics.",
+      "universe": "Chucky",
+      "director": "Jack Bender"
+     },
+     {
+      "id": 52,
+      "title": "Child´s Play 4: Bride of Chucky",
+      "optional_title": "Chucky 4: La novia de Chucky ",
+      "web_calification": 6.42,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/I-WZYQ6nABA",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg",
+      "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll",
+      "universe": "Chucky",
+      "director": "Ronny Yu"
+     },
+     {
+      "id": 53,
+      "title": "Child´s Play 5: Seed of Chucky",
+      "optional_title": "Chucky 5: El hijo de Chucky  ",
+      "web_calification": 4.94,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/mVa67mLsPgQ",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.c1397f5f1b09853be3d7e1bef4e98046?rik=HFbNqFpv7fRS%2fw&riu=http%3a%2f%2fpuui.qpic.cn%2fvcover_vt_pic%2f0%2fe0pig63w9wyutymt1444821940.jpg%2f0&ehk=VvmuGMymLJfsJxIbgVy16r2YoBKd0r8xwEfq%2foSkIuk%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics.",
+      "universe": "Chucky",
+      "director": "Don Mancini"
+     },
+     {
+      "id": 54,
+      "title": "Child´s Play 6: Curse of Chucky",
+      "optional_title": "Chucky 6: La Maldición de Chucky ",
+      "web_calification": 6.97,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/www.emp.de\/dw\/image\/v2\/BBQV_PRD\/on\/demandware.static\/-\/Sites-master-emp\/default\/dw60367d47\/images\/2\/6\/9\/9\/269958a2-emp.jpg?sfrm=png",
+      "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics.",
+      "universe": "Chucky",
+      "director": "Don Mancini"
+     },
+     {
+      "id": 55,
+      "title": "Child´s Play 7: Cult of Chucky",
+      "optional_title": "Chucky 7: Culto a Chucky",
+      "web_calification": 5.59,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/lWBkV2HoH5w",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg",
+      "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics.",
+      "universe": "Chucky",
+      "director": "Don Mancini"
+     },
+     {
+      "id": 56,
       "title": "Children of the Corn: Remake",
       "optional_title": "Los Niños del Maíz: Remake",
       "web_calification": 5.54,
@@ -652,105 +751,7 @@ export const data = [
       "director": "Donald P. Borchers"
      },
      {
-      "id": 51,
-      "title": "Chucky 1",
-      "optional_title": "Child´s Play",
-      "web_calification": 7.85,
-      "year": 1988,
-      "trailer": "https:\/\/www.youtube.com\/embed\/aOb8i_DE42c",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/1.bp.blogspot.com\/--TUtzOpDQWQ\/Xdln0J84muI\/AAAAAAAAAfU\/kl8ZrMYwBNcwtZ_zpF3fnls0N6bPwVtOwCLcBGAsYHQ\/s1600\/5a85cd363c02cff5ca59c3fbec9a4d03.jpg",
-      "sinopsis": "Chucky, el muñeco diabólico, es una película de terror de 1988 que narra la historia de un asesino en serie que transfiere su alma a un muñeco mediante un ritual de vudú. El muñeco, llamado Chucky, es regalado a un niño llamado Andy Barclay, que pronto descubre que su juguete esconde un oscuro secreto. Chucky intenta matar a todos los que se interponen en su camino para volver a ser humano, mientras que Andy y su madre tratan de detenerlo con la ayuda de un detective.",
-      "universe": "Chucky",
-      "director": "Tom Holland"
-     },
-     {
-      "id": 52,
-      "title": "Chucky 2",
-      "optional_title": "Child´s Play 2",
-      "web_calification": 7.37,
-      "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/embed\/QQ578YDz-sQ",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22_6.jpg",
-      "sinopsis": "Chucky 2 es la segunda entrega de la saga de terror protagonizada por el muñeco diabólico que alberga el alma de un asesino en serie. En esta película, Chucky regresa de entre las cenizas cuando una fábrica de juguetes decide reconstruirlo para limpiar su imagen. Sin embargo, el muñeco tiene otros planes y se propone acabar con la vida de Andy Barclay, el niño que logró sobrevivir a sus ataques en la primera película. Chucky se infiltra en la casa de acogida donde vive Andy y comienza una nueva ola de sangrientos asesinatos. ¿Podrá Andy escapar de nuevo de las garras de Chucky?",
-      "universe": "Chucky",
-      "director": "John Lafia"
-     },
-     {
-      "id": 53,
-      "title": "Chucky 3 ",
-      "optional_title": "Child´s Play 3",
-      "web_calification": 6.51,
-      "year": 1991,
-      "trailer": "https:\/\/www.youtube.com\/embed\/o6lfVEKUkCk",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gV3Zjjqlz9081_u-3MTDYgHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "Child’s Play 3 (also known as Chucky 3) is a 1991 American slasher film directed by Jack Bender and written by Don Mancini. The movie is about Chucky, a Good Guy doll possessed by the soul of a serial killer, who is resurrected by a toy factory worker after being melted down in the previous film. Chucky then goes after his old nemesis Andy Barclay, who is now a teenager and attending military school. The movie features a number of horror movie cliches and has received mixed reviews from critics.",
-      "universe": "Chucky",
-      "director": "Jack Bender"
-     },
-     {
-      "id": 54,
-      "title": "Chucky 4: La novia de Chucky",
-      "optional_title": "Bride of Chucky (Child's Play 4)",
-      "web_calification": 6.42,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/I-WZYQ6nABA",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_24_7.jpg",
-      "sinopsis": "Bride of Chucky is a 1998 American black comedy horror film written by Don Mancini and directed by Ronny Yu. The movie is the fourth installment in the Child’s Play franchise and stars Jennifer Tilly, Brad Dourif, John Ritter, Katherine Heigl, and Nick Stabile. The plot follows Chucky, the doll possessed by a serial killer, who discovers the perfect mate to kill and revive into the body of another doll. Tiffany Valentine, a former lover and accomplice of serial killer Charles Lee Ray, bribes a police officer into giving her the dismembered parts of a children’s doll-which Ray’s soul inhabited-from an evidence locker. After being cut apart by the police, killer doll Chucky is resurrected by Tiffany and following an argument, Chucky kills Tiffany and transfers her soul into a bride doll",
-      "universe": "Chucky",
-      "director": "Ronny Yu"
-     },
-     {
-      "id": 55,
-      "title": "Chucky 5: El hijo de Chucky ",
-      "optional_title": "Seed of Chucky (Child's Play 5)",
-      "web_calification": 4.94,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/mVa67mLsPgQ",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.9ae8ba5832aa36e77fc5d1359701ff78?rik=bGTYANq2gltRAg&pid=ImgRaw&r=0",
-      "sinopsis": "The Seed of Chucky is a 2004 American horror comedy film written and directed by Don Mancini. The movie is the fifth installment in the Child’s Play franchise and stars Brad Dourif, Jennifer Tilly, Billy Boyd, Redman, Hannah Spearritt, and John Waters. The plot follows Chucky and Tiffany’s child Glen\/Glenda who becomes tired of being a puppet and goes to Hollywood to discover his origins. Along the way, he meets his parents and kills them both before transferring their souls into dolls. The movie received mixed reviews from critics.",
-      "universe": "Chucky",
-      "director": "Don Mancini"
-     },
-     {
-      "id": 56,
-      "title": "Chucky 6: Curse of Chucky",
-      "optional_title": "La Maldición de Chucky \/ Child's Play 6",
-      "web_calification": 6.97,
-      "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/embed\/9mgFjHyjhi8",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/www.emp.de\/dw\/image\/v2\/BBQV_PRD\/on\/demandware.static\/-\/Sites-master-emp\/default\/dw60367d47\/images\/2\/6\/9\/9\/269958a2-emp.jpg?sfrm=png",
-      "sinopsis": "Curse of Chucky is a 2013 American horror film written and directed by Don Mancini. The movie is the sixth installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Danielle Bisutti, A Martinez, and Brennan Elliott. The plot follows Nica Pierce who is confined to a wheelchair after being paralyzed from the waist down. She lives with her mother Sarah and receives a package containing a Good Guy doll named Chucky. After Sarah’s mysterious death, Nica begins to suspect that Chucky might be responsible. The movie received positive reviews from critics.",
-      "universe": "Chucky",
-      "director": "Don Mancini"
-     },
-     {
       "id": 57,
-      "title": "Chucky 7: Cult of Chucky",
-      "optional_title": "Cult of Chucky",
-      "web_calification": 5.59,
-      "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/embed\/lWBkV2HoH5w",
-      "clasification": "movie",
-      "gender": "muñecos",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28070_79.jpg",
-      "sinopsis": "Cult of Chucky is a 2017 American horror film written and directed by Don Mancini. The movie is the seventh installment in the Child’s Play franchise and stars Brad Dourif, Fiona Dourif, Alex Vincent, Jennifer Tilly, and Summer H. Howell. The plot follows Nica Pierce who is confined to an asylum for the criminally insane after being framed for the murders of her family. She is convinced that she was responsible for their deaths until Tiffany Valentine arrives with a Good Guy doll named Chucky. The movie received mixed reviews from critics.",
-      "universe": "Chucky",
-      "director": "Don Mancini"
-     },
-     {
-      "id": 58,
       "title": "Clinical",
       "optional_title": "Clinical",
       "web_calification": 5,
@@ -763,7 +764,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 59,
+      "id": 58,
       "title": "Cloverfield: Monstruo",
       "optional_title": "Cloverfield",
       "web_calification": 6.99,
@@ -777,7 +778,7 @@ export const data = [
       "director": "Matt Reeves"
      },
      {
-      "id": 60,
+      "id": 59,
       "title": "Clown",
       "optional_title": "El Payaso del Mal",
       "web_calification": 6.7,
@@ -790,7 +791,7 @@ export const data = [
       "director": "Jon Watts"
      },
      {
-      "id": 61,
+      "id": 60,
       "title": "Countdown",
       "optional_title": "Countdown: La Hora de tu Muerte",
       "web_calification": 6.29,
@@ -802,7 +803,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 62,
+      "id": 61,
       "title": "Creep",
       "optional_title": "La Criatura \/ El Laberinto del Terror",
       "web_calification": 6.77,
@@ -814,7 +815,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 63,
+      "id": 62,
       "title": "Crimson Peak",
       "optional_title": "La Cumbre Escarlata",
       "web_calification": 6.72,
@@ -827,41 +828,54 @@ export const data = [
       "director": "Guillermo del Toro"
      },
      {
-      "id": 64,
+      "id": 63,
       "title": "Critters",
       "optional_title": "Critters: Ojo Muerden",
       "web_calification": 7.3,
       "year": 1986,
       "trailer": "https:\/\/www.youtube.com\/embed\/ndm_g5pyRUQ",
       "clasification": "movie",
-      "gender": "Sci-fi",
+      "gender": "sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.c843f86f64b82ce601a5261ec29f7af3?rik=GO3IO0i%2b9cwcKg&riu=http%3a%2f%2fstatic.rogerebert.com%2fuploads%2fmovie%2fmovie_poster%2fcritters-1986%2flarge_wyoyU4RRxBsXRY6bmCl0hnk6cyW.jpg&ehk=9Ff6tEO0SeilMW4SUog9y6FcAHuqZMheHIj8vhF18mA%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Critters is a 1986 American science fiction comedy horror film directed by Stephen Herek in his directorial debut. The movie stars Dee Wallace, M. Emmet Walsh, Billy “Green” Bush and Scott Grimes in his film debut. The plot follows a group of small, furry aliens with carnivorous behavior escaping from two shape-shifting bounty hunters and terrorizing a farm town on eart.",
       "universe": "Critters"
      },
      {
-      "id": 65,
+      "id": 64,
       "title": "Critters 2",
       "optional_title": "Critters: The Main Course",
       "web_calification": 6.72,
       "year": 1988,
       "trailer": "https:\/\/www.youtube.com\/embed\/nkZR_KknAqY",
       "clasification": "movie",
-      "gender": "Sci-fi",
+      "gender": "sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.gck30Wx_JebV7O2fjKbcbwHaLH?pid=ImgDet&rs=1",
       "universe": "Critters"
      },
      {
-      "id": 66,
+      "id": 65,
       "title": "Critters 3",
       "optional_title": "Critters 3",
       "web_calification": 5.7,
       "year": 1991,
       "trailer": "https:\/\/www.youtube.com\/embed\/-rAXqSLSCn4",
       "clasification": "movie",
-      "gender": "Sci-fi",
+      "gender": "sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.64932c0b5fdf31b4ce1a39e44c2fd257?rik=Ekj5J7cC3suabA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2fgdBZtlUvmC4je7RGbpBMI67bhJE.jpg&ehk=OUdnEgiDiMSsieoOf6JkgvVwgLQkmLjetBWT3e4eu0A%3d&risl=&pid=ImgRaw&r=0",
       "universe": "Critters"
+     },
+     {
+      "id": 66,
+      "title": "Cursed",
+      "optional_title": "La Maldición ",
+      "web_calification": 6.05,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ilWWFESP3MI",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OsysUFvV9V2btjaBeDEEJAHaK_?pid=ImgDet&rs=1",
+      "sinopsis": "Ellie has been taking care of her younger brother Jimmy since their parents death. One night after picking him up from a party they are involved in a car accident on Mullholland Drive. While trying to rescue a woman from the other car a creature attacks and kills her, also injuring both Ellie and Jimmy. After some research Jimmy realizes the creature could only have been a werewolf.",
+      "universe": "None"
      },
      {
       "id": 67,
@@ -883,7 +897,7 @@ export const data = [
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/JcpJVEp047Q",
       "clasification": "movie",
-      "gender": "Mistery",
+      "gender": "mistery",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2304_97.jpg",
       "sinopsis": "Dark Water is a 2005 American horror drama film directed by Walter Salles, starring Jennifer Connelly and Tim Roth. The plot follows Dahlia Williams and her daughter Cecelia who move into a rundown apartment on New York’s Roosevelt Island. Her new apartment seems to take on a life of its own. Mysterious noises, persistent leaks of dark water, and strange happenings cause her imagination to run wild, sending her on a puzzling and mystifying pursuit to find out who is behind the endless mind games.",
       "universe": "None",
@@ -911,7 +925,7 @@ export const data = [
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/8b_HVtHmK30",
       "clasification": "movie",
-      "gender": "muñecos",
+      "gender": "toys",
       "cover": "https:\/\/i.pinimg.com\/736x\/9b\/29\/b9\/9b29b9275f19f1714b72caa56a6a2604.jpg",
       "sinopsis": "From the brilliant horror masters that brought us the Saw franchise, we are offered up another taste of true fear. The story takes place after Jamie Ashen comes home to find his wife Lisa disfigured and dead in their apartment just minutes after a mysterious, not to mention creepy, package was left on their doorstep containing an old ventriloquist dummy. With no alibi, a detective is left to assume Jamie as the prime suspect. Driven by an old ghost story, Jamie returns to Ravens Fair, his old hometown to prove his innocence. The story leads him to believe that the vengeful ghost of Mary Shaw was the real murderer. But when Jamie returns to Ravens Fair, he finds out more than he bargained for.",
       "universe": "None",
@@ -931,90 +945,32 @@ export const data = [
      },
      {
       "id": 72,
+      "title": "Deathwatch",
+      "optional_title": "La Sombra del Mal ",
+      "web_calification": 5.85,
+      "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/AQHbSm-KAOI",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.AD9nVu0djtfraLQ0OxmVlAHaKf?pid=ImgDet&rs=1",
+      "sinopsis": "In 1917, in the Western front, a group of survivors of the British Company Y reach the most forward German trench in a foggy night. They capture a German soldier that advises that evil is in the trench, forcing the soldiers to kill each other, and asks them to leave the place. Only the private Charlie Shakespeare listens and helps the prisoner, while a supernatural force scares and makes the soldiers insane.",
+      "universe": "None"
+     },
+     {
+      "id": 73,
       "title": "Deliver Us From Evil",
       "optional_title": "Libranos del Mal",
       "web_calification": 6.87,
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/j1SDtKoTkzc",
       "clasification": "movie",
-      "gender": "posesiones",
+      "gender": "possessions",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_23708_55.jpg",
       "sinopsis": "In DELIVER US FROM EVIL, New York police officer Ralph Sarchie (Eric Bana), struggling with his own personal issues, begins investigating a series of disturbing and inexplicable crimes. He joins forces with an unconventional priest (Edgar Ramirez), schooled in the rituals of exorcism, to combat the frightening and demonic possessions that are terrorizing their city. Based upon the book, which details Sarchie's bone-chilling real-life cases.",
       "universe": "None",
       "director": "Scott Derrickson"
      },
      {
-      "id": 73,
-      "title": "Depredador",
-      "optional_title": "Predator",
-      "web_calification": 8.14,
-      "year": 1987,
-      "trailer": "https:\/\/www.youtube.com\/embed\/_1wDBNHYDv8",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg",
-      "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.",
-      "universe": "Predator",
-      "director": "John McTiernan"
-     },
-     {
       "id": 74,
-      "title": "Depredador 2",
-      "optional_title": "Predator 2",
-      "web_calification": 6.9,
-      "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/embed\/pLe_1SheJms",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg",
-      "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together.",
-      "universe": "Predator",
-      "director": "Stephen Hopkins"
-     },
-     {
-      "id": 75,
-      "title": "Depredador 3",
-      "optional_title": "Depredadores \/ Predators 3 ",
-      "web_calification": 6.65,
-      "year": 2010,
-      "trailer": "https:\/\/www.youtube.com\/embed\/fQmAGtJC5bk",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg",
-      "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet.",
-      "universe": "Predator",
-      "director": "Nimród Antal"
-     },
-     {
-      "id": 76,
-      "title": "Depredador 4: Predator",
-      "optional_title": "The Predator",
-      "web_calification": 5.17,
-      "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/embed\/WaG1KZqrLvM",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg",
-      "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
-      "universe": "Predator",
-      "director": "Shane Black"
-     },
-     {
-      "id": 77,
-      "title": "Depredador: La Presa",
-      "optional_title": "Prey \/ Predator: La Presa",
-      "web_calification": 7.09,
-      "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/embed\/2ywf74nW1CM",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg",
-      "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version.",
-      "universe": "Predator",
-      "director": "Dan Trachtenberg"
-     },
-     {
-      "id": 78,
       "title": "Desesperación",
       "optional_title": "Desesperación",
       "web_calification": 7.15,
@@ -1025,57 +981,58 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 79,
-      "title": "Destino Final",
-      "optional_title": "Final Destination",
-      "web_calification": 7.57,
-      "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/embed\/pCiWxIHw7bQ",
-      "clasification": "movie",
-      "gender": "Thriller",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
-      "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
-      "universe": "None",
-      "director": "James Wong"
-     },
-     {
-      "id": 80,
+      "id": 75,
       "title": "Devil's Due",
       "optional_title": "El Heredero del Diablo",
       "web_calification": 5.15,
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/oJe1KnptjZQ",
       "clasification": "movie",
+      "gender": "possessions",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25860_53.jpg",
       "sinopsis": "After a mysterious, lost night on their honeymoon, a newlywed couple finds themselves dealing with an earlier-than-planned pregnancy. While recording everything for posterity, the husband begins to notice odd behavior in his wife that they initially write off to nerves, but, as the months pass, it becomes evident that the dark changes to her body and mind have a much more sinister origin.",
       "universe": "None"
      },
      {
-      "id": 81,
+      "id": 76,
       "title": "Devil's Gate",
       "optional_title": "Puertas al Infierno",
       "web_calification": 5.81,
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/bEq8Xv4WGwo",
       "clasification": "movie",
+      "gender": "aliens",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2018\/7\/w1280\/t30xW4QF0MlFwiyVokwjZuZDRYe.jpg",
       "sinopsis": "CIA Special Agent Daria Francis is assigned to travel to Devil's Gate, a small town in North Dakota, to investigate the disappearance of Maria Pritchard and her son Jonah. Her prime suspect is the husband and father Jackson Pritchard, who lives in a farm in the middle of nowhere. However Sheriff Gruenwell asks Francis to let Jackson alone since he would be a good man. Deputy Conrad 'Colt' Salter heads with Francis to interview Maria's sister and she leaves her house convinced that Jackson may be hiding them. When they arrive at his farm, Jackson assaults Maria and she enters the house to investigate, and finds a weird thing. What is Jackson hiding?",
       "universe": "None",
       "director": "Clay Staub"
      },
      {
-      "id": 82,
+      "id": 77,
       "title": "Devil´s Island",
       "optional_title": "Isla del Diablo",
       "web_calification": 4.97,
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/7biVTgR3n0Y",
       "clasification": "movie",
+      "gender": "thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_41935.jpg",
       "universe": "None"
      },
      {
-      "id": 83,
+      "id": 78,
+      "title": "Disguise",
+      "web_calification": 0,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/zlpfcKffgDA",
+      "clasification": "corto",
+      "sinopsis": "A woman encounters a malevolent presence in her house that can disguise itself as anything. ",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Tyler Czajkowski"
+     },
+     {
+      "id": 79,
       "title": "Doctor Sleep",
       "optional_title": "Doctor Sueño \/ El Resplandor 2: Doctor Sueño",
       "web_calification": 7.55,
@@ -1087,21 +1044,33 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 84,
+      "id": 80,
       "title": "Dolly, la muñeca asesina",
       "optional_title": "Dolly Dearest",
       "web_calification": 5.97,
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/embed\/x0RgGZthUig",
       "clasification": "movie",
-      "gender": "muñecos",
+      "gender": "toys",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/RsCtzwBTxB1ncKvbqH9vU6Xic.jpg",
       "sinopsis": "In Mexico, an archaeologist releases the evil spirit of a devil child from a tomb of an ancient tribe called Sanzia that worshiped Satan on Earth and dies in an accident. Immediately after, an American family with two children arrives to live and reactivate a factory of dolls in a site nearby the archaeological field. Elliot Read invested the savings of his family in this business to manufacture dolls. He finds many dolls left by the previous owners of the factory, and gives one of them, which is possessed by the fiend, to his daughter Jessica Read. The girl changes her behavior, speaks an ancient language and the maid tells to the mother Marilyn Read. Meanwhile, the archaeologist Karl Resnick arrives to investigate the finding of his colleague. However, the demon has been already released, threatening the locals and the Read family.",
       "universe": "None",
       "director": "Maria Lease"
      },
      {
-      "id": 85,
+      "id": 81,
+      "title": "Don't Peek",
+      "web_calification": 0,
+      "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/S51jIrunYuY",
+      "clasification": "corto",
+      "sinopsis": "Make sure to watch with headphones and don't play video games late at night...\nMade with 3 people and a Blackmagic pocket camera during quarantine!",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Julian Terry"
+     },
+     {
+      "id": 82,
       "title": "Don´t Look Up",
       "optional_title": "La Semilla del Diablo",
       "year": 2009,
@@ -1110,20 +1079,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 86,
+      "id": 83,
       "title": "Doom",
       "optional_title": "Doom: La Puerta del Infierno",
       "web_calification": 5.85,
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/uTCasFeRNQY",
       "clasification": "movie",
+      "gender": "science_ficton",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.b21f3a33592916a75f4f75d08094298c?rik=H8FhjD2EF4x3jg&pid=ImgRaw&r=0",
       "sinopsis": "Something has gone wrong at a remote scientific research station on Mars. All research has ceased. Communication has failed. And the messages that do get through are less than comforting. It's a level 5 quarantine and the only souls allowed in or out are the Rapid Response Tactical Squad - hardened Marines armed to the teeth with enough firepower to neutralize the enemy...or so they think.",
       "universe": "None",
       "director": "Andrzej Bartkowiak"
      },
      {
-      "id": 87,
+      "id": 84,
       "title": "Drag Me To Hell",
       "optional_title": "Arrástrame al Infierno",
       "web_calification": 7.37,
@@ -1136,7 +1106,7 @@ export const data = [
       "director": "Sam Raimi"
      },
      {
-      "id": 88,
+      "id": 85,
       "title": "Dream House",
       "optional_title": "Detrás de las paredes",
       "web_calification": 6.21,
@@ -1148,7 +1118,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 89,
+      "id": 86,
       "title": "Dreamkatcher",
       "optional_title": "El Atrapa Sueños",
       "web_calification": 5.29,
@@ -1161,7 +1131,7 @@ export const data = [
       "director": "Lawrence Kasdan"
      },
      {
-      "id": 90,
+      "id": 87,
       "title": "El Bazar de los Malos Sueños",
       "optional_title": "El Bazar de los Malos Sueños",
       "web_calification": 6.91,
@@ -1172,165 +1142,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 91,
-      "title": "The Raven",
-      "optional_title": " El Cuervo \/ El Enigma del Cuervo",
-      "web_calification": 6.99,
-      "year": 2012,
-      "trailer": "https:\/\/www.youtube.com\/embed\/c3GRFq4TdYY",
-      "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/88\/86\/59\/20134508.jpg",
-      "sinopsis": "This movie is set in the mid 1800s and involves poet Edgar Allan Poe. A serial killer is on the loose and murdering people using Poe's descriptions from his published stories and poems. Poe teams up with Detective Fields, a Baltimore policeman to try and catch the killer by using his knowledge of the descriptions. Even though the stories are fictional, they start to become reality and the killer is a step ahead of them. Then it takes on a personal note as Poe's lover becomes a target. Will they stop the killer in time?",
-      "universe": "None"
-     },
-     {
-      "id": 92,
-      "title": "El Ejercito de las Tinieblas",
-      "optional_title": "Army of Darkness",
-      "web_calification": 7.73,
-      "year": 1992,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Y_51HrX_LB0",
-      "clasification": "movie",
-      "gender": "b_serie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.37m66cPzsE0aSs66Coz4pQHaLQ?pid=ImgDet&rs=1",
-      "sinopsis": "As the unfathomable tentacles of evil spread across time and space, Ash finds himself whisked off to another dimension, right after the supernatural events of Terroríficamente muertos (1987). Now, trapped in the distant Middle Ages, circa 1300 AD, battle-scarred Ash must fight tooth and nail against the same old adversary he confronted in Posesión infernal (1981). However, this time, he is neck-deep in trouble: not one, not two demons, but the entire army of darkness is after Ash, thirsting for his soul. And what's more, there is no turning back. Can the guy with the chainsaw and the 12-gauge double-barrelled shotgun blast evil to smithereens and save both worlds from the curse of the mystical Necronomicon?",
-      "universe": "None",
-      "director": "Sam Raimi"
-     },
-     {
-      "id": 93,
-      "title": "The Exorcism of Emily Rose",
-      "optional_title": "El Exorcismo de Emily Rose",
-      "web_calification": 6.91,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/021-tHmxjEY",
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1",
-      "sinopsis": "The nineteen year old Catholic college girl, Emily Rose, dies a couple of days after being submitted to an exorcism carried out by her parish priest, Father Moore. Emily believed she was possessed by six demons, and although authorized by Emily and her parents, Father Moore is accused of negligent homicide since he had suggested Emily interrupt the use of epilepsy medications. In order to avoid a scandal, the Archdiocese hires the successful, ambitious and agnostic lawyer Erin Bruner, and the prosecution assigns the religious prosecutor Ethan Thomas. This story walks us through a passionate battle between science and religion in the courtroom.",
-      "universe": "None"
-     },
-     {
-      "id": 94,
-      "title": "El Exorcista",
-      "optional_title": "The Exorcist",
-      "web_calification": 8.64,
-      "year": 1973,
-      "trailer": "https:\/\/www.youtube.com\/embed\/RvpP6I11vDk",
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
-      "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine.",
-      "universe": "The Exorcist",
-      "director": "William Friedkin"
-     },
-     {
-      "id": 95,
-      "title": "El Exorcista 2: El Hereje",
-      "optional_title": "Exsorcist 2: The Heretic",
-      "web_calification": 4.77,
-      "year": 1977,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
-      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
-      "universe": "The Exorcist",
-      "director": "John Boorman - Rospo Pallenberg"
-     },
-     {
-      "id": 96,
-      "title": "El Exorcista 3",
-      "optional_title": "The Exorcist 3",
-      "web_calification": 6.23,
-      "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
-      "sinopsis": "A seemingly-endless series of grisly killings that bear the trademark of the mass murderer the Gemini Killer, terrorizes the district of Georgetown. To further complicate matters, although it's been 17 long years since the killer's execution and that fatal night of pure terror in The Exorcist (1973), skeptical police officer Lieutenant William F. Kinderman is still obsessed with solving the baffling case, as the death toll keeps rising. In the meantime, in the city's high-security psychiatric institution, a cryptic inmate who bears an uncanny resemblance to the late Father Damien Karras emerges from his deep catatonic state, claiming that he has all the answers Kinderman needs. But, who is the mysterious Patient X? Does the same unholy force that tormented Regan MacNeil have something to do with the brutal demonic murders?",
-      "universe": "The Exorcist",
-      "director": "William Peter Blatty"
-     },
-     {
-      "id": 97,
-      "title": "El Exorcista Montaje del Director",
-      "optional_title": "The Exsorcist Director's Cut",
-      "year": 2000,
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0",
-      "universe": "The Exorcist"
-     },
-     {
-      "id": 98,
-      "title": "El Exorcista: El Comienzo (versión prohibida)",
-      "optional_title": "Dominion: Prequel To The Exorcist ",
-      "web_calification": 5.58,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
-      "universe": "The Exorcist",
-      "director": "Renny Harlin"
-     },
-     {
-      "id": 99,
-      "title": "The Grudge",
-      "optional_title": "El Grito ",
-      "web_calification": 6.95,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/IITyDuprZYQ",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg",
-      "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde.",
-      "universe": "The Grudge",
-      "director": "Takashi Shimizu"
-     },
-     {
-      "id": 100,
-      "title": "The Grudge 2",
-      "optional_title": "El Grito 2",
-      "web_calification": 6.49,
-      "year": 2006,
-      "trailer": "https:\/\/www.youtube.com\/embed\/7fcJZqJfdfw",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg",
-      "sinopsis": "In Pasadena, Mrs. Davis sends her daughter Aubrey Davis to Tokyo to bring her sister Karen Davis, who is interned in a hospital after surviving a fire, back to the USA. After their meeting, Karen dies and Aubrey decides to investigate what happened to her and gets herself trapped in the same situation, being chased by the ghost of the house. Meanwhile in Tokyo, the three high school mates Allison, Vanessa and Miyuki visit the famous haunted house and are also chased by the ghost. In Chicago, Trish moves to the apartment of her boyfriend Bill, who lives with his children, the teenager Lacey and boy Jake. On the next door, weird things happen with their neighbor.",
-      "universe": "The Grudge",
-      "director": "Takashi Shimizu"
-     },
-     {
-      "id": 101,
-      "title": "Ju-on: White Ghost",
-      "optional_title": "The Grudge 4: The Old White Lady  \/ El Grito 4",
-      "web_calification": 6.43,
-      "year": 2009,
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1",
-      "sinopsis": "At a certain house, a son brutally and methodically murders all five of his family members after failing the bar exam. He then hangs himself, leaving behind a cassette recorder at the scene on which he can be heard saying, \"I'll come... I'll come soon\", in unison with a young girl's voice. The child's voice belongs to his sister, a victim of the family massacre and the elementary school best friend of Akane. When Akane and her friend were young they wore yellow hats and red satchels to school. Akane, who is now a teenager, has a strong sense of the supernatural She soon begins seeing visions of a female ghost wearing a yellow hat and red satchel.",
-      "universe": "The Grudge",
-      "director": "Mari Asato"
-     },
-     {
-      "id": 102,
+      "id": 88,
       "title": "El Hoyo",
       "optional_title": "The Platform",
       "web_calification": 6.86,
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/Ez0rXJfjnsc",
       "clasification": "movie",
+      "gender": "thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_35068_43.jpg",
       "sinopsis": "Goreng wakes up in part of The Hole, a place where food is sent down with The Platform. As people above become selfish and eat whatever they want, people below get less. Goreng learns from the other cellmates that the people below can fall into madness and sanity loss turning into bloody cannibalism, so he starts to get into a plan for The Hole's people.",
       "universe": "None"
      },
      {
-      "id": 103,
+      "id": 89,
       "title": "El Instituto",
       "optional_title": "El Instituto",
       "web_calification": 0,
@@ -1341,7 +1166,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 104,
+      "id": 90,
       "title": "El Orfanato",
       "optional_title": "El Orfanato",
       "web_calification": 7.21,
@@ -1355,7 +1180,7 @@ export const data = [
       "director": "J.A. Bayona"
      },
      {
-      "id": 105,
+      "id": 91,
       "title": "El Páramo",
       "optional_title": "The Wasteland \/ La Bestia",
       "web_calification": 5.27,
@@ -1369,34 +1194,7 @@ export const data = [
       "director": "David Casademunt"
      },
      {
-      "id": 106,
-      "title": "Blair's Witch Proyect",
-      "optional_title": "El Proyecto de la Bruja de Blair ",
-      "web_calification": 6.91,
-      "year": 1999,
-      "trailer": "https:\/\/www.youtube.com\/embed\/BrDomaqytuQ",
-      "clasification": "movie",
-      "gender": "found_footage",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_30411_12.jpg",
-      "sinopsis": "In search of a local legend, three bold amateur documentarians--director, Heather; cameraman, Josh; sound recorder, Mike--hike into Burkittsville's gloomy Black Hills Forest to find a shadow: the fabled Blair Witch. Now, one long year later--after that fateful October of 1994--there's still no sign of the student filmmakers, apart from the raw footage they left behind. Who knows what truly happened during their creepy five-day journey into the mouth of madness? Was there, indeed, an intangible supernatural presence in the dark woods that led to the team's disappearance? Either way, the missing trio must have seen something. Could the nightmarish myth be real?",
-      "universe": "Blair Witch Project",
-      "director": "Daniel Myrick - Eduardo Sánchez"
-     },
-     {
-      "id": 107,
-      "title": "Blair's Witch Proyect: The Book of Shadows ",
-      "optional_title": "El Proyecto de la Bruja de Blair 2: El Libro de las Sombras",
-      "web_calification": 4.9,
-      "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/embed\/5U-xXjy8Xfw",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/ecbjDSyfHkfquInFjLbJBD2r8rV.jpg",
-      "sinopsis": "To cash in on all of the \"real world\" hype of the events in the first film, a man from Burkitsville, Maryland opens a \"Blair Witch Hunt\" tour, which shows patrons various locations from the original film. A bunch of college students decide to take the tour, and wind up in Rustin Parr's house. There, they decide to camp for the evening, but in the morning, they realize they didn't sleep and they don't remember anything that happened the previous night. From there, they go back to town, and discover that something...or someone has come with them.",
-      "universe": "Blair Witch Project"
-     },
-     {
-      "id": 108,
+      "id": 92,
       "title": "Eli",
       "optional_title": "Eli",
       "web_calification": 6.41,
@@ -1407,48 +1205,64 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 109,
+      "id": 93,
       "title": "End Of Days",
       "optional_title": "El Fin de los Dias ",
       "web_calification": 6.32,
       "year": 1999,
       "trailer": "https:\/\/www.youtube.com\/embed\/SzkwtbyiaME",
       "clasification": "movie",
-      "gender": "Action",
+      "gender": "action",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_781_39.jpg",
       "sinopsis": "On December 28th, 1999, the citizens of New York City are getting ready for the turn of the millennium. However, the Devil decides to crash the party by coming to the city, inhabiting a man's body, and searching for his chosen bride, a 20-year-old woman named Christine York. If he bears her child between 11:00 PM and midnight on New Year's Eve, the world will end, and the only hope lies within an atheist ex-cop named Jericho Cane, who no longer believes in God because of the murder of his wife and daughter.",
       "universe": "None",
       "director": "Peter Hyams"
      },
      {
-      "id": 110,
+      "id": 94,
       "title": "Event Horizon",
       "optional_title": "La Nave de la Muerte",
       "web_calification": 7.22,
       "year": 1997,
       "trailer": "https:\/\/www.youtube.com\/embed\/yy6fQReZNIk",
       "clasification": "movie",
-      "gender": "Sci-fi",
+      "gender": "sci-fi",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4b86e6cb208685ec325931ea4ebf24b4?rik=lX%2bRa8XzZXnaoQ&pid=ImgRaw&r=0",
       "sinopsis": "The year is 2047 and a ship named the Event Horizon has re-appeared after disappearing 7 years prior, in experiments for faster than light travel. A rescue hastily speeds to the returned vessel after a transmission was picked up from the ship, garbled, but vaguely resembling a human voice. As the crew reach the ship, and spend longer on it, it appears that someone or something is toying with them, and more, the question is what has the Event Horizon become?",
       "universe": "None",
       "director": "Paul W.S. Anderson"
      },
      {
-      "id": 111,
+      "id": 95,
       "title": "Evil Dead (Remake)",
       "optional_title": "Posesión Infernal (Remake)",
       "web_calification": 7.71,
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/pW-PXPpgt0Y",
       "clasification": "movie",
+      "gender": "possessions",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg",
       "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?",
-      "universe": "None",
+      "universe": "Evil Dead",
       "director": "Fede Alvarez"
      },
      {
-      "id": 112,
+      "id": 96,
+      "title": "Evil Dead Rise",
+      "optional_title": "Evil Dead: El Despertar",
+      "web_calification": 6.7,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pzq-wnji9ug",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/leganerd.com\/wp-content\/uploads\/2023\/01\/evil-dead-rise-poster.jpg",
+      "sinopsis": "As an unstoppable force of nature destroys the awkward reunion of two sisters, a strange book emerges. Now, single mum Ellie's Los Angeles apartment complex becomes part of the mysterious tome's dark history, unearthing its ancient, blood-curdling secrets. But the unimaginable menace that has emerged now demands blood. And as possession opens the gates to a nightmarish dimension of evil wonders and pain, the shattered family must answer a crucial question. What would you do if mummy wanted to kill you?",
+      "add_date": "2023-07-03",
+      "universe": "Evil Dead",
+      "director": "Lee Cronin"
+     },
+     {
+      "id": 97,
       "title": "Exists ",
       "optional_title": "Existe",
       "web_calification": 6.22,
@@ -1462,21 +1276,49 @@ export const data = [
       "director": "Eduardo Sánchez"
      },
      {
-      "id": 113,
+      "id": 98,
       "title": "Exorcismus",
       "optional_title": "La Posesión de Ema Evans",
       "web_calification": 5.78,
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/1H19QzPfdqA",
       "clasification": "movie",
-      "gender": "posesiones",
+      "gender": "possessions",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4adfd6bd6687f339b6f305b51e804652?rik=diiN8QDqgoHWrg&riu=http%3a%2f%2fwww.cineycine.com%2farchivos%2f2013%2f10%2flaposesiondeemmaevans_poster.jpg&ehk=irAuGkiZfUlUXPRGtC%2bjj%2frwdqUl%2fkV1hW%2b2Nw08MpM%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Fifteen year-old Emma Evans has an argument with her mother Lucy since she wants to go to a concert in London with her friends Rose and Alex. Emma immediately has a convulsion and her family takes her to the hospital, but the doctors do not find any physical problem. Then her father John tries to convince his wife to send Emma to school, instead of homeschooling, but she prefers to keep Emma in the family-based education. Lucy sends her daughter to the psychoanalyst believing that she has psychological problems and Emma asks her friend Rose to record her session of hypnosis though the cellular but the doctor dies during the session. When Emma listens to the tape, she believes she is possessed by the devil and asks her parents to be submitted to an exorcism with her uncle, Priest Christopher Taylor. However her skeptical mother is against the ritual and recalls that Chris was responsible for the death of a teenager, Ana, in the past in an unsuccessful exorcism. But when Emma levitates in the kitchen in front of her family, her parents call Chris.",
       "universe": "None",
       "director": "Manuel Carballo"
      },
      {
-      "id": 114,
+      "id": 99,
+      "title": "Exorcist: The Beginning",
+      "optional_title": "El Exorcista: El Comienzo ",
+      "web_calification": 5.1,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
+      "universe": "The Exorcist",
+      "director": "Renny Harlin"
+     },
+     {
+      "id": 100,
+      "title": "Exsorcist 2: The Heretic",
+      "optional_title": "El Exorcista 2: El Hereje ",
+      "web_calification": 4.77,
+      "year": 1977,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
+      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
+      "universe": "The Exorcist",
+      "director": "John Boorman - Rospo Pallenberg"
+     },
+     {
+      "id": 101,
       "title": "Extraterrestrial",
       "optional_title": "Extraterrestres",
       "web_calification": 5.64,
@@ -1489,7 +1331,7 @@ export const data = [
       "director": "Colin Minihan"
      },
      {
-      "id": 115,
+      "id": 102,
       "title": "Fear Street",
       "optional_title": "La Calle del Terror - Parte 1: 1994",
       "web_calification": 6.03,
@@ -1502,7 +1344,7 @@ export const data = [
       "director": "Leigh Janiak"
      },
      {
-      "id": 116,
+      "id": 103,
       "title": "Fear Street 2",
       "optional_title": "La Calle del Terror - Parte 2: 1978",
       "web_calification": 6.42,
@@ -1515,7 +1357,21 @@ export const data = [
       "director": "Leigh Janiak"
      },
      {
-      "id": 117,
+      "id": 104,
+      "title": "Fear Street: 1666",
+      "optional_title": "Fear Street: Part Three - 1666",
+      "web_calification": 6.6,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Ot5H2MFp_dw",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Pr2s5s8Y9pl225jhgQQweQHaK9?pid=ImgDet&rs=1",
+      "sinopsis": "1666. An unspeakable evil has cast its unholy shadow over Union, the original settlement before its division into Sunnyvale and Shadyside, ushering in a new era of misfortune and terror. In the aftermath of the brutal mall killings in Fear Street: Part One - 1994 (2021), Deena finds herself plagued by vivid, blood-curdling visions of death and decay, forcing Cindy Berman, the only one who saw the sorceress and survived, after the bloody Camp Nightwing massacre in Fear Street: Part Two - 1978 (2021), to step in. Now, there is no turning back, and until body and hand unite, no one is safe from the fiery curse of damned Sarah Fier. But evil has no boundaries. What will it take to rid Shadyside of the witch's sin?",
+      "add_date": "2023-06-28",
+      "universe": "Fear Street",
+      "director": "Leigh Janiak"
+     },
+     {
+      "id": 105,
       "title": "Fertile Ground",
       "optional_title": "La Mansión Poseída",
       "web_calification": 5.3,
@@ -1527,7 +1383,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 118,
+      "id": 106,
+      "title": "Final Destination",
+      "optional_title": "Destino Final ",
+      "web_calification": 7.57,
+      "year": 2000,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pCiWxIHw7bQ",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_710_98.jpg",
+      "sinopsis": "Alex is boarding a plane to France on a school trip, when he suddenly gets a premonition that the plane will explode. Shortly after Alex, a group of students, and his teacher are thrown off the plane, to their horror, the plane does in fact explode. Alex must now work out Death's plan, as each of the survivors falls victim. Whilst trying to prevent the next death, Alex must also dodge the FBI, who believe that he caused the explosion.",
+      "universe": "None",
+      "director": "James Wong"
+     },
+     {
+      "id": 107,
       "title": "Fingerprints",
       "optional_title": "Huella Dactilar",
       "web_calification": 5.93,
@@ -1538,7 +1408,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 119,
+      "id": 108,
       "title": "Freddy vs Jason",
       "optional_title": "Freddy Contra Jason",
       "web_calification": 6.86,
@@ -1551,7 +1421,7 @@ export const data = [
       "universe": "Freddy"
      },
      {
-      "id": 120,
+      "id": 109,
       "title": "Freddy's Dead: The Final Nightmare ",
       "optional_title": "Pesadilla en la calle del Infierno 6: La Muerte de Freddy",
       "web_calification": 6.03,
@@ -1563,7 +1433,7 @@ export const data = [
       "universe": "Freddy"
      },
      {
-      "id": 121,
+      "id": 110,
       "title": "Friday the 13th",
       "optional_title": "Viernes 13",
       "web_calification": 6.21,
@@ -1576,7 +1446,7 @@ export const data = [
       "director": "Sean S. Cunningham"
      },
      {
-      "id": 122,
+      "id": 111,
       "title": "Friday the 13th Part 8: Jason Takes Manhattan ",
       "optional_title": "Viernes 13 Parte 8: Jason toma Manhattan",
       "web_calification": 5.85,
@@ -1590,7 +1460,7 @@ export const data = [
       "director": "Rob Hedden"
      },
      {
-      "id": 123,
+      "id": 112,
       "title": "Gallows Hill",
       "optional_title": "Encerrada \/ La cabaña del diablo",
       "web_calification": 5.81,
@@ -1602,33 +1472,33 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 124,
+      "id": 113,
       "title": "Gerald's Game",
       "optional_title": "El Juego de Gerald",
       "web_calification": 6.55,
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/FFzoqmAD-Rg",
       "clasification": "movie",
-      "gender": "Thriller",
+      "gender": "thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8365_81.jpg",
       "sinopsis": "As a last resort to save their tattered marriage, Gerald and Jessie Burlingame set off on a weekend adventure at their secluded lakeside retreat, in the hope of rekindling the long-lost affection in their relationship. Everything is taken care of: the fridge is well-stocked, and there's not a soul in the area to disturb the couple, as Gerald intends on playing a harmless but kinky sex game with a pair of handcuffs and a lot of imagination. But instead, when an unforeseen situation leaves Jessie handcuffed to their sturdy wooden bed, an entirely different game will commence--one that requires perseverance, a clear mind, and above all, a strong will to survive.",
       "universe": "None"
      },
      {
-      "id": 125,
+      "id": 114,
       "title": "Get Out",
       "optional_title": "Huye \/ Déjame Salir",
       "web_calification": 7.29,
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/X-tg05cAVwE",
       "clasification": "movie",
-      "gender": "Thriller",
+      "gender": "thriller",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31793_51.jpg",
       "sinopsis": "Rose Armitage is taking her boyfriend, Chris Washington, to meet her parents for the first time. He's a bit uneasy about how they'll treat him, as they're white and he's black. However, her parents turn out to be unfazed and everything seems to be going fine. Chris then starts to notice some weird behavioral traits with the African-American staff at the house. The Armitages throw a huge party and Chris ends up in some awkward conversations with the guests. Initially, he just puts it down to the racial difference, but then the guests', and Armitages', motives start to appear more sinister. Chris decides it is time to get out.",
       "universe": "None"
      },
      {
-      "id": 126,
+      "id": 115,
       "title": "Ghost Ship",
       "optional_title": "Barco Fantasma",
       "web_calification": 6.21,
@@ -1640,19 +1510,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 127,
+      "id": 116,
       "title": "Gin Gwai",
       "optional_title": "El ojo",
       "web_calification": 7.32,
       "year": 2002,
       "trailer": "https:\/\/www.youtube.com\/embed\/rxxxzC-bgCs",
       "clasification": "movie",
+      "gender": "asian_horror",
       "cover": "https:\/\/movieposterfactory.com\/wp-content\/uploads\/2020\/05\/2002_HO_gin_gwai_1_2003_resultat.jpg",
       "sinopsis": "A blind girl gets a cornea transplant so that she would be able to see again. However, she got more than what she bargained for when she realised she could even see ghosts. And some of these ghosts are down right unfriendly. So she embarks on a journey to find the origins of her cornea and to reveal the history of the previous dead owner.",
       "universe": "None"
      },
      {
-      "id": 128,
+      "id": 117,
       "title": "Girl on the Third Floor",
       "optional_title": "La Chica del Tercer Piso \/ Maldición en el Tercer Pïso",
       "web_calification": 5.14,
@@ -1664,19 +1535,19 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 129,
+      "id": 118,
       "title": "Goodnight Mommy",
       "optional_title": "Buenas Noches, Mamá",
       "web_calification": 6.13,
       "year": 2022,
       "trailer": "https:\/\/www.youtube.com\/embed\/gANfrj-G4D8",
       "clasification": "movie",
-      "gender": "Mistery",
+      "gender": "mistery",
       "cover": "https:\/\/1.bp.blogspot.com\/-ldaXfaOt7Jg\/Vmnrrmp7zWI\/AAAAAAAACE0\/kr5QLhSX_Lo\/s1600\/tumblr_nycubxfdgn1t2kfnqo1_500.jpg",
       "universe": "None"
      },
      {
-      "id": 130,
+      "id": 119,
       "title": "Gothica ",
       "optional_title": "En compañia del miedo",
       "web_calification": 6.24,
@@ -1688,7 +1559,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 131,
+      "id": 120,
       "title": "Grave Encounters",
       "optional_title": "Encuentros de Ultratumba \/ Encuentros Paranormales",
       "web_calification": 7.18,
@@ -1701,7 +1572,7 @@ export const data = [
       "universe": "Grave Encounters"
      },
      {
-      "id": 132,
+      "id": 121,
       "title": "Grave Encounters 2",
       "optional_title": "Encuentros de Ultratumba 2 \/ Encuentros Paranormales 2",
       "web_calification": 5.41,
@@ -1714,7 +1585,7 @@ export const data = [
       "universe": "Grave Encounters"
      },
      {
-      "id": 133,
+      "id": 122,
       "title": "Gremlins ",
       "optional_title": "Gremlins",
       "web_calification": 7.98,
@@ -1727,7 +1598,7 @@ export const data = [
       "universe": "Gremlins"
      },
      {
-      "id": 134,
+      "id": 123,
       "title": "Gremlins 2: The New Batch",
       "optional_title": "Gremlins 2: La Nueva Generación",
       "web_calification": 7.22,
@@ -1740,7 +1611,7 @@ export const data = [
       "universe": "Gremlins"
      },
      {
-      "id": 135,
+      "id": 124,
       "title": "Grimcutty",
       "optional_title": "El Meme Maldito \/ Asesino Implacable",
       "web_calification": 5.43,
@@ -1753,7 +1624,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 136,
+      "id": 125,
       "title": "Guillermo Del Toro's Cabinet of Curiosities",
       "optional_title": "El gabinete de curiosidades ",
       "web_calification": 7.47,
@@ -1766,7 +1637,7 @@ export const data = [
       "director": "Cabinet of Curiosities"
      },
      {
-      "id": 137,
+      "id": 126,
       "title": "Gwoemul",
       "optional_title": "El Huésped \/ The Host",
       "web_calification": 6.93,
@@ -1779,7 +1650,22 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 138,
+      "id": 127,
+      "title": "Halloween Ends",
+      "optional_title": "Halloween: El Final",
+      "web_calification": 5,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/F90MmnTnSUQ",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/posterspy.com\/wp-content\/uploads\/2022\/08\/Halloween-Ends-twitter.jpg",
+      "sinopsis": "Four years after the events of last year's Halloween Kills, Laurie is living with her granddaughter Allyson and is finishing writing her memoir. Michael Myers hasn't been seen since. Laurie, after allowing the specter of Michael to determine and drive her reality for decades, has decided to liberate herself from fear and rage and embrace life. But when a young man, Corey Cunningham, is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can't control, once and for all.",
+      "add_date": "2023-07-03",
+      "universe": "Halloween",
+      "director": "David Gordon Green"
+     },
+     {
+      "id": 128,
       "title": "Halloween H20: 20 Años después",
       "optional_title": "Halloween H20: 20 Years Later  ",
       "web_calification": 7.17,
@@ -1793,7 +1679,7 @@ export const data = [
       "director": "Steve Miner"
      },
      {
-      "id": 139,
+      "id": 129,
       "title": "Halloween II",
       "optional_title": "Halloween el inicio 2",
       "web_calification": 6.85,
@@ -1807,7 +1693,7 @@ export const data = [
       "director": "Rick Rosenthal"
      },
      {
-      "id": 140,
+      "id": 130,
       "title": "Halloween Kills",
       "web_calification": 6.85,
       "year": 2021,
@@ -1820,19 +1706,20 @@ export const data = [
       "director": "David Gordon Green"
      },
      {
-      "id": 141,
+      "id": 131,
       "title": "Hansel & Gretel: Witch Hunters",
       "optional_title": "Hansel & Gretel: Cazadores de Brujas",
       "web_calification": 6.78,
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/LsUZXsTskUs",
       "clasification": "movie",
+      "gender": "action",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.__LhqgZiur8ZcVvfMbhLVwHaLn?pid=ImgDet&rs=1",
       "sinopsis": "Siblings Hansel and Gretel are left alone in the woods by their father and captured by a dark witch in a candy house, but they kill the witch and escape. Years later, the orphans have become famous witch hunters. When 11 children go missing in a small village, the Mayor summons Hansel and Gretel to rescue them, and they save red-haired Mina from the local sheriff who wants to burn her for being a witch. Soon they discover that the Blood Moon will approach in three days and that powerful dark witch Muriel is responsible for all the abductions; she intends to use the children with a secret ingredient in a broth that will protect the coven of witches against the fire. Meanwhile, Hansel and Gretel discover secrets about their parents.",
       "universe": "None"
      },
      {
-      "id": 142,
+      "id": 132,
       "title": "Haunt",
       "optional_title": "La invocación",
       "web_calification": 5.27,
@@ -1843,7 +1730,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 143,
+      "id": 133,
       "title": "Hellraiser ",
       "optional_title": "Hellraiser: Los que traen el Infierno ",
       "web_calification": 7.71,
@@ -1856,7 +1743,7 @@ export const data = [
       "director": "Clive Barker"
      },
      {
-      "id": 144,
+      "id": 134,
       "title": "Hellraiser (She)",
       "optional_title": "Hellraiser: Ella",
       "web_calification": 7,
@@ -1869,7 +1756,7 @@ export const data = [
       "director": "David Bruckner"
      },
      {
-      "id": 145,
+      "id": 135,
       "title": "Hellraiser 2: Hellbound",
       "optional_title": "Hellraiser: Camino al Infierno",
       "web_calification": 7.18,
@@ -1882,7 +1769,7 @@ export const data = [
       "director": "Tony Randel"
      },
      {
-      "id": 146,
+      "id": 136,
       "title": "Hellraiser: Revelations",
       "optional_title": "Hellraiser: Revelaciones",
       "web_calification": 3.29,
@@ -1895,20 +1782,20 @@ export const data = [
       "director": "Víctor Garcia"
      },
      {
-      "id": 147,
+      "id": 137,
       "title": "Hide & Seek ",
       "optional_title": "El Escondite",
       "web_calification": 6.19,
       "year": 2005,
       "trailer": "https:\/\/www.youtube.com\/embed\/8GYVM8-tOSs",
       "clasification": "movie",
-      "gender": "terror_psicologico",
+      "gender": "psicologic",
       "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/yXAjO0Lj3ZF9qsbsZk6fZzEjTCh.jpg",
       "sinopsis": "After her mother commits suicide in the bathtub, Emily Callaway is taken to live upstate in new surroundings to forget her traumatic past. Psychologist David, her father, learns that his daughter has a new friend, the enigmatic, never to be seen, imaginary (or not?) Charlie. A deadly game of hide-and-seek ensues. Who is Charlie? And what is troubling David in his dreams?",
       "universe": "None"
      },
      {
-      "id": 148,
+      "id": 138,
       "title": "Horns",
       "optional_title": "Cuernos",
       "web_calification": 6.71,
@@ -1920,7 +1807,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 149,
+      "id": 139,
       "title": "Hostel",
       "optional_title": "Hostal: El Rincón de las Torturas",
       "web_calification": 7.11,
@@ -1933,7 +1820,7 @@ export const data = [
       "universe": "Hostel"
      },
      {
-      "id": 150,
+      "id": 140,
       "title": "Hostel 2",
       "web_calification": 6.59,
       "year": 2007,
@@ -1945,31 +1832,7 @@ export const data = [
       "universe": "Hostel"
      },
      {
-      "id": 151,
-      "title": "Vacancy",
-      "optional_title": "Hotel sin Salida ",
-      "web_calification": 7.12,
-      "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/embed\/H1hoZxgwYtw",
-      "clasification": "movie",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/w300\/4KrmTQBQhHk0N0KGM6fIbBNbXOo.jpg",
-      "sinopsis": "David and Amy Fox find themselves stranded in the middle of nowhere when their car breaks down. Luckily, they come across a motel with a TV to entertain them during their overnight stay. However, there's something very strange and familiar about the Grade-Z slasher movies that the motel broadcasts for its guests' enjoyment. They all appear to be filmed in the very same room they occupy! Realizing that they are trapped in their room with hidden cameras now aimed at them filming their every move, David and Amy desperately find a means of escape through locked doors, crawlspaces and underground tunnels before they too become the newest stars of the mystery filmmaker's next cult classic!",
-      "universe": "None"
-     },
-     {
-      "id": 152,
-      "title": "Vacancy 2: The First Cut",
-      "optional_title": "Hotel sin Salida 2: El Comienzo ",
-      "web_calification": 5.73,
-      "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/embed\/I50jQDlPKiA",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg",
-      "sinopsis": "In 2004, the managers of the Meadow View Motel Gordon and Reece use room 6 to videotape the intimacy of the guests to sell porn movies. When the mysterious Mr. Smith checks in with a young woman, they witness the sadistic psychopath guest stabbing and killing his mate. The footage is a success and they decide to make other snuff movies with Smith. When Caleb, who is traveling from Chicago with his fiancée Jessica and his best friend Tanner, decides to rest in Meadow View, they have a nightmarish night and try to survive from the sick intention of the gang.",
-      "universe": "None"
-     },
-     {
-      "id": 153,
+      "id": 141,
       "title": "House",
       "optional_title": "Una Casa Alucinante",
       "web_calification": 7.04,
@@ -1981,7 +1844,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 154,
+      "id": 142,
       "title": "House at the End of the Street",
       "optional_title": "La Casa al Final de la Calle",
       "web_calification": 5.97,
@@ -1993,7 +1856,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 155,
+      "id": 143,
       "title": "House of Bones",
       "optional_title": "La Casa de los Huesos",
       "web_calification": 5.6,
@@ -2004,7 +1867,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 156,
+      "id": 144,
       "title": "Hush",
       "optional_title": "Silencio",
       "web_calification": 6.7,
@@ -2015,7 +1878,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 157,
+      "id": 145,
+      "title": "I know what you did last summer",
+      "optional_title": "Se lo que Hiciste el Verano Pasado ",
+      "web_calification": 6.99,
+      "year": 1997,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_y6H2ybiEvs",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/2.bp.blogspot.com\/-dbXJOsiSD3g\/V6gBwCGXRRI\/AAAAAAAABmM\/7Ykxq2XbZRQwd0B6zDD9vOHdb_68nnN3gCLcB\/s1600\/Se%2BLo%2BQue%2BHicieron%2BEl%2BVerano%2BPasado.jpg",
+      "sinopsis": "When four friends accidentally hit and kill a man on a road at night, they start to panic and decide to dump the body into the sea. A year later, they all try to settle down again, but one of the friends receives a note in the post, with the words 'I know what you did last summer'. As each of the friends gains their own reminder, they finally accept the one thing they feared the most; someone knows what happened that night, and now they're out for revenge.",
+      "universe": "None",
+      "director": "Jim Gillespie"
+     },
+     {
+      "id": 146,
       "title": "I see you",
       "optional_title": "Te veo",
       "web_calification": 7.81,
@@ -2027,7 +1904,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 158,
+      "id": 147,
       "title": "I Still Know What You Did Last Summer",
       "optional_title": "Todavia Se lo que Hiciste el Verano Pasado ",
       "web_calification": 6.17,
@@ -2040,7 +1917,19 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 159,
+      "id": 148,
+      "title": "Ignore it",
+      "web_calification": 0,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/hs3paMLb9Qg",
+      "clasification": "corto",
+      "sinopsis": "A family struggles to live with a spirit that becomes deadly if its presence is acknowledged. ",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Sam Evenson"
+     },
+     {
+      "id": 149,
       "title": "In the Tall Grass",
       "optional_title": "En la Hierba Alta",
       "web_calification": 5.8,
@@ -2053,7 +1942,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 160,
+      "id": 150,
       "title": "Incarnate",
       "optional_title": "La Reencarnacion \/ El Exterminador",
       "web_calification": 5.67,
@@ -2065,7 +1954,31 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 161,
+      "id": 151,
+      "title": "Inferno",
+      "web_calification": 0,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/x2c39v5NMj4",
+      "clasification": "corto",
+      "sinopsis": "A woman awakens from a horrible nightmare. But, the nightmare is real. Trapped within a decrepit, run-down motel, the woman begins to piece together the horror she faces, only for creaking doors, broken glass, a rifle and a fateful encounter in the backseat of her car to bring her face-to-face with a monster from hell.",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Bishal Dutta"
+     },
+     {
+      "id": 152,
+      "title": "Insecticide",
+      "web_calification": 0,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Y8bbq5Y5JIg",
+      "clasification": "corto",
+      "sinopsis": "A visual manifestation of anxiety disorder and lockdown-induced paranoia with music from Alex Mackay of Mogwai. The film follows a germaphobic woman desperately trying to quarantine herself from a shape shifting bug-like disease.",
+      "add_date": "2023-07-03",
+      "universe": "None",
+      "director": "Bryan M. Ferguson"
+     },
+     {
+      "id": 153,
       "title": "Insidious",
       "optional_title": "La Noche del Demonio",
       "web_calification": 7.52,
@@ -2078,7 +1991,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 162,
+      "id": 154,
       "title": "Insidious Chapter 2",
       "optional_title": "La Noche del Demonio 2",
       "web_calification": 7.32,
@@ -2091,7 +2004,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 163,
+      "id": 155,
       "title": "Insidious Chapter 3",
       "optional_title": "La Noche del Demonio 3",
       "web_calification": 6.59,
@@ -2104,7 +2017,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 164,
+      "id": 156,
       "title": "Insidious Chapter 4: The Last Key",
       "optional_title": "La Noche del Demonio 4: La Última Llave",
       "web_calification": 5.79,
@@ -2117,7 +2030,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 165,
+      "id": 157,
       "title": "It",
       "optional_title": "Eso",
       "web_calification": 7.65,
@@ -2129,7 +2042,7 @@ export const data = [
       "universe": "It"
      },
      {
-      "id": 166,
+      "id": 158,
       "title": "It",
       "optional_title": "Eso",
       "web_calification": 7.95,
@@ -2140,7 +2053,7 @@ export const data = [
       "universe": "It"
      },
      {
-      "id": 167,
+      "id": 159,
       "title": "It: Chapter Two",
       "optional_title": "It: Capítulo 2",
       "web_calification": 6.71,
@@ -2153,7 +2066,7 @@ export const data = [
       "director": "Andy Muschietti"
      },
      {
-      "id": 168,
+      "id": 160,
       "title": "It: Remake",
       "optional_title": "Eso: Remake",
       "web_calification": 7.81,
@@ -2166,7 +2079,7 @@ export const data = [
       "director": "Andy Muschietti"
      },
      {
-      "id": 169,
+      "id": 161,
       "title": "Jason X ",
       "web_calification": 5.31,
       "year": 2001,
@@ -2179,7 +2092,7 @@ export const data = [
       "director": "James Isaac"
      },
      {
-      "id": 170,
+      "id": 162,
       "title": "Jeepers Creepers",
       "optional_title": "El Demonio",
       "web_calification": 7.4,
@@ -2193,7 +2106,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 171,
+      "id": 163,
       "title": "Jeepers Creepers 2",
       "optional_title": "El Demonio 2",
       "web_calification": 6.78,
@@ -2207,7 +2120,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 172,
+      "id": 164,
       "title": "Jeepers Creepers 3",
       "optional_title": "El Regreso del Demonio",
       "web_calification": 4.63,
@@ -2221,7 +2134,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 173,
+      "id": 165,
       "title": "Jennifer's Body",
       "optional_title": "Diabolica Tentación",
       "web_calification": 5.72,
@@ -2234,7 +2147,7 @@ export const data = [
       "director": "Karyn Kusama"
      },
      {
-      "id": 174,
+      "id": 166,
       "title": "Jessabelle",
       "optional_title": "Jessabelle",
       "web_calification": 5.64,
@@ -2247,7 +2160,7 @@ export const data = [
       "director": "Kevin Greutert"
      },
      {
-      "id": 175,
+      "id": 167,
       "title": "Jinn",
       "optional_title": "Jinn",
       "web_calification": 4.82,
@@ -2259,20 +2172,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 176,
-      "title": "Vampires",
-      "optional_title": "Vampiros",
-      "web_calification": 6.88,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/iLMnslWrM2s",
+      "id": 168,
+      "title": "Ju-on: White Ghost",
+      "optional_title": "The Grudge 4: The Old White Lady  \/ El Grito 4",
+      "web_calification": 6.43,
+      "year": 2009,
       "clasification": "movie",
-      "gender": "vampiros",
-      "cover": "https:\/\/www.ecartelera.com\/carteles\/9500\/9551\/001_m.jpg",
-      "sinopsis": "A bunch of vampire hunters aided by the Vatican are asked to hunt down a master vampire and his goons of vampires who are ripping and tearing humans apart. While the leader of the vampire hunter does the slaying and takes orders from the Vatican as his parents were killed by vampires and he was raised by the Church, the Church has an agenda of their own regarding a centuries-old cross from falling into the hands of the master vampire.",
-      "universe": "None"
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Mk8ieahH6yK9tZ1BLHz8NwHaKV?pid=ImgDet&w=762&h=1063&rs=1",
+      "sinopsis": "At a certain house, a son brutally and methodically murders all five of his family members after failing the bar exam. He then hangs himself, leaving behind a cassette recorder at the scene on which he can be heard saying, \"I'll come... I'll come soon\", in unison with a young girl's voice. The child's voice belongs to his sister, a victim of the family massacre and the elementary school best friend of Akane. When Akane and her friend were young they wore yellow hats and red satchels to school. Akane, who is now a teenager, has a strong sense of the supernatural She soon begins seeing visions of a female ghost wearing a yellow hat and red satchel.",
+      "universe": "The Grudge",
+      "director": "Mari Asato"
      },
      {
-      "id": 177,
+      "id": 169,
       "title": "Juego Siniestro",
       "optional_title": "Cementerio General 2 \/ Sinister Circle",
       "web_calification": 4.5,
@@ -2284,7 +2197,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 178,
+      "id": 170,
       "title": "Krampus",
       "optional_title": "Krampus: Maldita Navidad",
       "web_calification": 6.53,
@@ -2297,19 +2210,89 @@ export const data = [
       "director": "Michael Dougherty"
      },
      {
-      "id": 179,
-      "title": "The House of Wax",
-      "optional_title": "La Casa de Cera",
-      "web_calification": 7.05,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/-DnFKwVcM10",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2267_53.jpg",
-      "sinopsis": "Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles, so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town, the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax.",
+      "id": 171,
+      "title": "La Torre Oscura I: el pistolero",
+      "optional_title": "La Torre Oscura I: el pistolero",
+      "web_calification": 7,
+      "year": 1982,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-7HbCaeZLEJW21rcljZc_gHaLZ?pid=ImgDet&rs=1",
       "universe": "None"
      },
      {
-      "id": 180,
+      "id": 172,
+      "title": "La Torre Oscura II: la llegada de los tres",
+      "optional_title": "La Torre Oscura II: la llegada de los tres",
+      "web_calification": 7.84,
+      "year": 1987,
+      "clasification": "book",
+      "cover": "https:\/\/imagessl8.casadellibro.com\/a\/l\/t0\/78\/9788401336478.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 173,
+      "title": "La torre oscura III: las tierras baldías",
+      "optional_title": "La torre oscura III: las tierras baldías",
+      "web_calification": 7.76,
+      "year": 1991,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9fQDQlqdrWvt8mzhdrYS4AHaLX?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 174,
+      "title": "La Torre Oscura IV: mago y cristal",
+      "optional_title": "La Torre Oscura IV: mago y cristal",
+      "web_calification": 7.88,
+      "year": 1997,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.O_uihY0D7ESoqzDc6fnXgAHaLb?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 175,
+      "title": "La Torre Oscura V: lobos del Calla",
+      "optional_title": "La Torre Oscura V: lobos del Calla",
+      "web_calification": 7.75,
+      "year": 2003,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZYRuv7iO834TXFb4DfEn1gAAAA?pid=ImgDet&w=323&h=500&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 176,
+      "title": "La Torre Oscura VI: canción de Susannah",
+      "optional_title": "La Torre Oscura VI: canción de Susannah",
+      "web_calification": 7.33,
+      "year": 2004,
+      "clasification": "book",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ivsRJOBFd2Sdfmo7jINnnQHaLT?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 177,
+      "title": "La Trampa del Mal \/ La Reunión del Diablo",
+      "optional_title": "The Night Chronicles: Devil ",
+      "web_calification": 6.74,
+      "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_E0Hc7CBWs4",
+      "clasification": "movie",
+      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 178,
+      "title": "La Ultima Puerta",
+      "optional_title": "The Ninth Gate \/ La Novena Puerta",
+      "web_calification": 6.57,
+      "year": 1999,
+      "trailer": "https:\/\/www.youtube.com\/embed\/6QdBiSIgtg4",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.reRORfr5ldDFvBnMArm9JwAAAA?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 179,
       "title": "Lady in the Water ",
       "optional_title": "La Dama en el Agua",
       "web_calification": 5.6,
@@ -2321,271 +2304,19 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 181,
-      "title": "The Island of Dr. Moreau ",
-      "optional_title": "La Isla del Doctor Moreau ",
-      "web_calification": 5.35,
-      "year": 1996,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ukpB6MtLdLA",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1",
-      "sinopsis": "Set in the year 2010, Dr. Moreau has successfully combined human and animal DNA to make a crossbreed animal. Well, as usual, something goes wrong and David Thewlis must try to stop it before it is too late. Originally rated R, but cut by Frankenheimer to allow \"a wider audience\".",
-      "universe": "None"
-     },
-     {
-      "id": 182,
-      "title": "The Ring",
-      "optional_title": "La Llamada \/ La Señal \/ El Aro",
-      "web_calification": 7.69,
-      "year": 2002,
-      "trailer": "https:\/\/www.youtube.com\/embed\/S2CFb2T8so4",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg",
-      "sinopsis": "Rachel Keller is a journalist who decides to go undercover on the mysterious death of her niece and her three friends, who seemed to all died on the same day at the same time- 10:00 PM. After being told that her niece was found in a closet with a horrifying look on her face, she searches through her room and finds some pictures, pictures of the cabin where her niece and her friends had stayed a week before the deaths. Rachel finds the cabin and finds an unknown video there. She decides to watch it there, and now has only a limited time to live. She and her divorced husband, Noah, research about the video and find facts about Anna Morgan and her daughter, Samara Morgan, the maker of this video. With only a week left, Rachel and Noah discover the unknown secrets of the life of Samara Morgan, and, hopefully for them, a way to break the curse.",
-      "universe": "The Ring"
-     },
-     {
-      "id": 183,
-      "title": "The Ring 2 ",
-      "optional_title": "La Llamada 2 \/ La Señal \/ El Aro 2",
-      "web_calification": 6.72,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/NbHRP43ocWQ",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg",
-      "sinopsis": "A high school student named Jake tries to make his girlfriend Emily watch a cursed tape. But then Jake finds out that Emily covered her eyes and didn't watch the tape, and then Jake is killed by Samara Morgan (from the first The Ring movie). Rachel Keller learns of Jake's death and finds his twisted body in the back of an ambulance. Rachel then realizes she once again has to save her son Aidan from Samara the evil ghost child.",
-      "universe": "The Ring"
-     },
-     {
-      "id": 184,
-      "title": "The Skeleton Key",
-      "optional_title": "La Llave del Mal ",
-      "web_calification": 7.01,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/tuXqAwktYRw",
-      "clasification": "movie",
-      "cover": "https:\/\/i.pinimg.com\/originals\/b4\/69\/2f\/b4692f8a962b7348455750084f298fb5.jpg",
-      "sinopsis": "Nurse Caroline Ellis quits her job to take care of elderly Ben Devereux who had a stroke and can't talk. When she gets to his house in Terrebonne Parish, Louisiana, she meets Ben's wife Violet, who acts suspicious and creepy. The family's lawyer, Luke Marshall, convinces Caroline to stay. She goes to the attic and finds a secret room there full of spells, hair, and bones used to practice Hoodoo, but Violet says she has never seen this secret room. Caroline wants to help Ben, thinking that Violet has put a spell on him. She knows Hoodoo can't hurt someone who doesn't believe in it. Can Caroline save Ben, or will she end up being the one who needs to be saved?",
-      "universe": "None"
-     },
-     {
-      "id": 185,
-      "title": "Cursed",
-      "optional_title": "La Maldición ",
-      "web_calification": 6.05,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ilWWFESP3MI",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OsysUFvV9V2btjaBeDEEJAHaK_?pid=ImgDet&rs=1",
-      "sinopsis": "Ellie has been taking care of her younger brother Jimmy since their parents death. One night after picking him up from a party they are involved in a car accident on Mullholland Drive. While trying to rescue a woman from the other car a creature attacks and kills her, also injuring both Ellie and Jimmy. After some research Jimmy realizes the creature could only have been a werewolf.",
-      "universe": "None"
-     },
-     {
-      "id": 186,
-      "title": "The Texas Chainsaw Massacre: 3D",
-      "optional_title": "La Masacre de Texas 3D ",
-      "web_calification": 6.08,
-      "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/embed\/cUoTGnADapU",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12798_83.jpg",
-      "sinopsis": "After the first massacre in 1974, the townspeople suspected that the Sawyer family were responsible. A vigilante mob of enraged locals surrounded the Sawyer house, burning it to the ground and killing every last member of the family. Decades later, a young woman named Heather learns that she has inherited a Texas estate from her grandmother. She decides to bring her friends along on the road trip to investigate her inheritance. On arrival, she discovers she has inherited a mansion, but is yet to uncover the terrors that lurk in the basement underneath it.",
-      "universe": "The Texas Chainsaw Massacre"
-     },
-     {
-      "id": 187,
-      "title": "The Texas Chainsaw Massacre: The Beginning ",
-      "optional_title": "La Masacre de Texas: El Inicio ",
-      "web_calification": 7.44,
-      "year": 2006,
-      "trailer": "https:\/\/www.youtube.com\/embed\/L5ZipRCX0MA",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ee7fX1Y1ozozUJfvDKG1-QHaKk?pid=ImgDet&rs=1",
-      "sinopsis": "In August, 1939, a worker goes into labor while working in a slaughterhouse and dies after a complicated labor, though the deformed child survives. The possibly orphaned baby is dumped in a garbage container and found by a beggar later, who brings him home. Along the years, the mentally retarded and disturbed boy called Thomas is raised by the Hewitt family in spite of having psychological problems as well as suffering from an unnamed skin disorder, later working in a meat packing plant. In July, 1969, when the facility is closed, the inhabitants move to other places, but the deformed, mentally childlike Thomas flies into a rage after being insulted and kills the foreman. His deranged brother (considered his uncle due to their age difference) executes the sheriff that is going to arrest Thomas, and assumes his identity, wearing his clothes,driving his car though the roads in Texas and entitling himself as Sheriff Hoyt. Meanwhile, the brothers Eric and Dean are traveling in a Jeep with their girlfriends Christie and Bailey, Eric to serve in Vietnam and Dean escaping to Mexico. When the group has a car accident, Hoyt arrests Eric, Dean and Bailey and brings them to his house. Christie follows them trying to rescue the trio, trapped in the house of sadistic and insane cannibals, in a trip of horror and gore.",
-      "universe": "The Texas Chainsaw Massacre"
-     },
-     {
-      "id": 188,
-      "title": "The Texas Chainsaw Massacre: Remake ",
-      "optional_title": "La Masacre de Texas Remake",
-      "web_calification": 7.5,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/53q2omQy3xQ",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1_50.jpg",
-      "sinopsis": "Driving through the backwoods of Texas, five youths pick up a traumatized hitchhiker, who shoots herself in their van. Shaken by the suicide, the group seeks help from the locals, but their situation becomes even more surreal when they knock on the door of a remote homestead. It's quickly apparent the residents are a family of inbred psychopaths, and the unlucky youths suddenly find themselves running for their lives. In hot pursuit is a disfigured, chainsaw-wielding cannibal known as Leatherface.",
-      "universe": "The Texas Chainsaw Massacre"
-     },
-     {
-      "id": 189,
-      "title": "La Mosca",
-      "optional_title": "The Fly",
-      "web_calification": 7.91,
-      "year": 1986,
-      "trailer": "https:\/\/www.youtube.com\/embed\/QLK0wXXayhs",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg",
-      "universe": "None",
-      "director": "David Cronenberg"
-     },
-     {
-      "id": 190,
-      "title": "La profecía del no nacido",
-      "optional_title": "The Unborn \/ La Semilla del Mal",
-      "web_calification": 5.6,
-      "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ulfj7hyGdck",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 191,
-      "title": "La Rebelion de las Maquinas",
-      "optional_title": "Maximum Overdrive ",
-      "web_calification": 6.35,
-      "year": 1986,
-      "trailer": "https:\/\/www.youtube.com\/embed\/HgIgYhaqKeo",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_275_74.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 192,
-      "title": "Deathwatch",
-      "optional_title": "La Sombra del Mal ",
-      "web_calification": 5.85,
-      "year": 2002,
-      "trailer": "https:\/\/www.youtube.com\/embed\/AQHbSm-KAOI",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.AD9nVu0djtfraLQ0OxmVlAHaKf?pid=ImgDet&rs=1",
-      "sinopsis": "In 1917, in the Western front, a group of survivors of the British Company Y reach the most forward German trench in a foggy night. They capture a German soldier that advises that evil is in the trench, forcing the soldiers to kill each other, and asks them to leave the place. Only the private Charlie Shakespeare listens and helps the prisoner, while a supernatural force scares and makes the soldiers insane.",
-      "universe": "None"
-     },
-     {
-      "id": 193,
-      "title": "La Torre Oscura I: el pistolero",
-      "optional_title": "La Torre Oscura I: el pistolero",
-      "web_calification": 7,
-      "year": 1982,
-      "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-7HbCaeZLEJW21rcljZc_gHaLZ?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 194,
-      "title": "La Torre Oscura II: la llegada de los tres",
-      "optional_title": "La Torre Oscura II: la llegada de los tres",
-      "web_calification": 7.84,
-      "year": 1987,
-      "clasification": "book",
-      "cover": "https:\/\/imagessl8.casadellibro.com\/a\/l\/t0\/78\/9788401336478.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 195,
-      "title": "La torre oscura III: las tierras baldías",
-      "optional_title": "La torre oscura III: las tierras baldías",
-      "web_calification": 7.76,
-      "year": 1991,
-      "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9fQDQlqdrWvt8mzhdrYS4AHaLX?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 196,
-      "title": "La Torre Oscura IV: mago y cristal",
-      "optional_title": "La Torre Oscura IV: mago y cristal",
-      "web_calification": 7.88,
-      "year": 1997,
-      "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.O_uihY0D7ESoqzDc6fnXgAHaLb?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 197,
-      "title": "La Torre Oscura V: lobos del Calla",
-      "optional_title": "La Torre Oscura V: lobos del Calla",
-      "web_calification": 7.75,
-      "year": 2003,
-      "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZYRuv7iO834TXFb4DfEn1gAAAA?pid=ImgDet&w=323&h=500&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 198,
-      "title": "La Torre Oscura VI: canción de Susannah",
-      "optional_title": "La Torre Oscura VI: canción de Susannah",
-      "web_calification": 7.33,
-      "year": 2004,
-      "clasification": "book",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ivsRJOBFd2Sdfmo7jINnnQHaLT?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 199,
-      "title": "La Trampa del Mal \/ La Reunión del Diablo",
-      "optional_title": "The Night Chronicles: Devil ",
-      "web_calification": 6.74,
-      "year": 2010,
-      "trailer": "https:\/\/www.youtube.com\/embed\/_E0Hc7CBWs4",
-      "clasification": "movie",
-      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 200,
-      "title": "La Ultima Puerta",
-      "optional_title": "The Ninth Gate \/ La Novena Puerta",
-      "web_calification": 6.57,
-      "year": 1999,
-      "trailer": "https:\/\/www.youtube.com\/embed\/6QdBiSIgtg4",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.reRORfr5ldDFvBnMArm9JwAAAA?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 201,
-      "title": "Las Colinas Tienen Ojos",
-      "optional_title": "The Hills Have Eyes: Remake",
-      "web_calification": 7.86,
-      "year": 2006,
-      "trailer": "https:\/\/www.youtube.com\/embed\/K61SoAJ8Uto",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P0OMsZipp2sl-iQFMw6WZgHaKf?pid=ImgDet&rs=1",
-      "universe": "The Hills Have Eyes",
-      "director": "Wes Craven"
-     },
-     {
-      "id": 202,
-      "title": "Las Colinas Tienen Ojos 2",
-      "optional_title": "The Hills Have Eyes 2",
-      "web_calification": 6.61,
-      "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/embed\/xNms2gGtA6c",
-      "clasification": "movie",
-      "cover": "https:\/\/i.pinimg.com\/736x\/e0\/f3\/3f\/e0f33ff8c190a0099a4b8267bda6a743.jpg",
-      "universe": "The Hills Have Eyes",
-      "director": "Wes Craven"
-     },
-     {
-      "id": 203,
+      "id": 180,
       "title": "Legado en los Huesos",
+      "optional_title": "The Legacy of the Bones",
       "web_calification": 6.46,
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/jFdiGLktDME",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_34395_100.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Fernando González Molina"
      },
      {
-      "id": 204,
+      "id": 181,
       "title": "Lights Out ",
       "optional_title": "Nunca Apagues la Luz ",
       "web_calification": 6.62,
@@ -2596,18 +2327,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 205,
-      "title": "Los Mensajeros",
-      "optional_title": "The Messengers",
-      "web_calification": 6.44,
-      "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/embed\/UYfy8pYXXko",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.c5cd42a41fdbadc0d736f0c904825e91?rik=2V%2f667hZb89dgQ&pid=ImgRaw&r=0",
-      "universe": "None"
-     },
-     {
-      "id": 206,
+      "id": 182,
       "title": "Los Ojos de Julia",
       "optional_title": "Julia's Eyes",
       "web_calification": 7.05,
@@ -2616,45 +2336,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/3900\/3917\/002_m.jpg",
-      "universe": "None"
+      "sinopsis": "After the death of the blind Sara, who hanged herself in the basement of her house, her twin sister Julia suspects that she was actually murdered. Julia has a degenerative problem with her eyes and is losing her sight, and she temporarily moves with her husband Isaac to Sara's house to arrange her funeral. Julia goes to the Centro Baumann for the blind, which Sara frequented, and she learns from other members that Sara had a boyfriend. Julia is chased by a mysterious man, but police inspector Dimas does not believe her. Julia follows Sara's last steps trying to find the identity of her secret lover. Julia is surrounded by deaths and weird events while she loses her sight.",
+      "universe": "None",
+      "director": "Guillem Morales"
      },
      {
-      "id": 207,
-      "title": "Los Otros",
-      "optional_title": "The Others",
-      "web_calification": 7.84,
-      "year": 2001,
-      "trailer": "https:\/\/www.youtube.com\/embed\/vON5kiGf1TI",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png",
-      "universe": "None"
-     },
-     {
-      "id": 208,
-      "title": "Los Renegados del Diablo",
-      "optional_title": "The Devil's Rejects",
-      "web_calification": 7.33,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/WgtaQZr6YiM",
-      "clasification": "movie",
-      "gender": "gore",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 209,
-      "title": "Los Testigos",
-      "optional_title": "The Gathering",
-      "web_calification": 6.59,
-      "year": 2002,
-      "trailer": "https:\/\/www.youtube.com\/embed\/JXeyML5OWys",
-      "clasification": "movie",
-      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 210,
+      "id": 183,
       "title": "Madhouse",
       "optional_title": "La Casa Maldita",
       "web_calification": 5.91,
@@ -2665,7 +2352,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 211,
+      "id": 184,
       "title": "Maggie",
       "web_calification": 5.41,
       "year": 2015,
@@ -2677,7 +2364,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 212,
+      "id": 185,
       "title": "Malasaña 32",
       "optional_title": "Malasaña 32",
       "web_calification": 6.13,
@@ -2690,7 +2377,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 213,
+      "id": 186,
       "title": "Malignant ",
       "optional_title": "Maligno",
       "web_calification": 6.85,
@@ -2703,7 +2390,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 214,
+      "id": 187,
       "title": "Mama",
       "optional_title": "Mamá",
       "web_calification": 6.65,
@@ -2714,7 +2401,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 215,
+      "id": 188,
       "title": "Marianne",
       "optional_title": "Marianne",
       "web_calification": 7.52,
@@ -2725,7 +2412,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 216,
+      "id": 189,
+      "title": "Maximum Overdrive ",
+      "optional_title": "La Rebelion de las Maquinas ",
+      "web_calification": 6.35,
+      "year": 1986,
+      "trailer": "https:\/\/www.youtube.com\/embed\/HgIgYhaqKeo",
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_275_74.jpg",
+      "sinopsis": "For 8 days in 1986, the earth passed through the tail of a mysterious Rhea-M rogue comet. During that time, machines on earth suddenly come to life and terrorize their human creators. A small group of people in a truck stop, surrounded by \"alive\" semi-trailers, set out to stop the machines before the machines stop them.",
+      "universe": "None",
+      "director": "Stephen King"
+     },
+     {
+      "id": 190,
       "title": "Mercy Black",
       "optional_title": "La posesión de Mercy Black",
       "web_calification": 5.64,
@@ -2736,19 +2436,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 217,
+      "id": 191,
       "title": "Midnight Mass",
       "optional_title": "Misa de Medianoche",
       "web_calification": 7.44,
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/jmrfoOyoswE",
       "clasification": "serie",
-      "gender": "vampiros",
+      "gender": "vampires",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3841_93.jpg",
+      "sinopsis": "The tale of a small, isolated island community whose existing divisions are amplified by the return of a disgraced young man and the arrival of a charismatic priest. When Father Paul's appearance on Crockett Island coincides with unexplained and seemingly miraculous events, a renewed religious fervor takes hold of the community - but do these miracles come at a price?",
       "universe": "None"
      },
      {
-      "id": 218,
+      "id": 192,
       "title": "Mirrors",
       "optional_title": "Reflejos",
       "web_calification": 6.86,
@@ -2756,21 +2457,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/fBrWgL061Kk",
       "clasification": "movie",
       "cover": "https:\/\/www.ecartelera.com\/carteles\/2300\/2330\/001_m.jpg",
-      "universe": "None"
+      "sinopsis": "In New York, the former NYPD detective Ben Carson is hired to work as night watch of the remains of the Mayflower Department Store that was partially destroyed by fire many years ago. Ben became alcoholic and was retired from the police force after killing a man in a shooting. His marriage was also destroyed and now he is living in the apartment of his younger sister Angie. However he has not been drinking for three months and sees the employment as a chance to rebuild his life. When he goes to the rounds in his first night, he finds that the mirrors are impeccably clean and his colleague explains that the former night watch was obsessed with the mirrors. After a couple of nights, Ben sees weird images in the mirrors, but due to the lack of credibility of his past, his ex-wife Amy believes he has hallucinations as a side effect of his medication. When Angie is found brutally murdered in her bathtub, Ben discovers that there is an evil force in the mirror that is chasing him and jeopardizing his family.",
+      "universe": "None",
+      "director": "Alexandre Aja"
      },
      {
-      "id": 219,
-      "title": "Mothman, The Prophecy",
-      "optional_title": "El Mensajero De La Oscuridad",
-      "web_calification": 6.38,
-      "year": 2002,
-      "trailer": "https:\/\/www.youtube.com\/embed\/hVP6sBN07L8",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_136_76.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 220,
+      "id": 193,
       "title": "Mr. Harrigan's Phone",
       "optional_title": "El Teléfono del Señor Harrigan",
       "web_calification": 5.35,
@@ -2779,10 +2471,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_40686_83.jpg",
-      "universe": "None"
+      "sinopsis": "Craig, a young boy living in a small town, befriends older, reclusive billionaire, Mr. Harrigan. The two form a bond over books and an iPhone, but when the man passes away, the boy discovers that not everything dead is gone, and finds himself able to communicate with his friend from the grave through the iPhone that was buried with him.",
+      "universe": "None",
+      "director": "John Lee Hancock"
      },
      {
-      "id": 221,
+      "id": 194,
       "title": "Neverlake",
       "web_calification": 4.9,
       "year": 2013,
@@ -2792,7 +2486,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 222,
+      "id": 195,
       "title": "Nothing Left to Fear",
       "optional_title": "El Llanto del Diablo",
       "web_calification": 4.51,
@@ -2800,10 +2494,11 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/nwLfy8Akw3c",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19860_93.jpg",
-      "universe": "None"
+      "universe": "None",
+      "director": "Anthony Leonardi III"
      },
      {
-      "id": 223,
+      "id": 196,
       "title": "Oculus",
       "optional_title": "Oculus el Espejo del Mal",
       "web_calification": 6.73,
@@ -2811,10 +2506,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/PaN0PV85URA",
       "clasification": "movie",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22215_74.jpg",
-      "universe": "None"
+      "sinopsis": "The 21-year-old Timothy \"Tim\" Allen Russell is discharged from a mental institution by his psychiatrist, Dr. Shawn Graham, completely healed from a childhood trauma where his father purportedly tortured and killed his mother before being killed himself by Tim. His sister Kaylie welcomes him in the parking area and brings him home. Then she tells that they need to destroy an ancient mirror that she has found through working at an auction house. She then steals the mirror and the reluctant Tim follows his sister and has fragmented recollections from their childhood, going back to when his father Alan buys a mirror for the home office of their new family home. Kaylie and Tim see a woman with their father in his office and the behaviors of Alan and Marie change, ending in a family tragedy. Kaylie blames the mirror and now she wants to destroy it with Tim. Will they succeed?",
+      "universe": "None",
+      "director": "Mike Flanagan"
      },
      {
-      "id": 224,
+      "id": 197,
       "title": "Ouija",
       "web_calification": 5.27,
       "year": 2014,
@@ -2822,10 +2519,26 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17042_64.jpg",
-      "universe": "None"
+      "sinopsis": "Laine losses her best friend in a very mysterious way. She is then challenged with a point of view to look into the dark side of things and understand why her best friend died. During this event, Laine is then challenged with unknown forces to uncover a deep dark secret about her best friend. Something in the house may have a part in the mystery of her best friends death. Or is it something else.....",
+      "universe": "None",
+      "director": "Stiles White"
      },
      {
-      "id": 225,
+      "id": 198,
+      "title": "Ouija: Origin of Evil",
+      "optional_title": "Ouija: El comienzo",
+      "web_calification": 6.2,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/MJIcZGEjjwo",
+      "clasification": "movie",
+      "cover": "https:\/\/i1.wp.com\/cinemedios.com\/wp-content\/uploads\/2016\/10\/ouija2_alta.jpg?resize=640%2C913&ssl=1",
+      "sinopsis": "In 1967 Los Angeles, a young widow named Alice Zander works out of her suburban home as a spiritual medium, accompanied by her daughters, 15-year-old Paulina \"Lina\" and 9-year old Doris. The family is still reeling over the recent death of Roger, Alice's husband and the kids' father. At Lina's suggestion, Alice incorporates a Ouija board into her readings. While trying out the board, she unknowingly contacts a spirit named Marcus that begins to possess Doris. Alice receives a notice that the bank intends to foreclose on their home. Doris contacts the board for help, believing she is communicating with her dead father. The spirit leads her to a secret compartment behind the basement wall containing a pouch of cash. When she gives the money to her mother, the family has an Ouija session, believing they can contact Roger. When the board answers a question only Roger would know the answer to, a thrilled Alice begins believing that they are in contact with her dead husband..",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Mike Flanagan"
+     },
+     {
+      "id": 199,
       "title": "Paranormal Activity",
       "optional_title": "Actividad Paranormal",
       "web_calification": 6.24,
@@ -2838,7 +2551,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 226,
+      "id": 200,
       "title": "Paranormal Activity (Final Alternativo)",
       "optional_title": "Actividad Paranomal (Final Alternativo)",
       "year": 2007,
@@ -2847,7 +2560,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 227,
+      "id": 201,
       "title": "Paranormal Activity 2",
       "optional_title": "Actividad Paranormal 2",
       "web_calification": 6.08,
@@ -2859,7 +2572,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 228,
+      "id": 202,
       "title": "Paranormal Activity 3",
       "optional_title": "Actividad Paranormal 3",
       "web_calification": 6.27,
@@ -2870,7 +2583,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 229,
+      "id": 203,
       "title": "Paranormal Activity 4",
       "optional_title": "Actividad Paramormal 4",
       "web_calification": 5.13,
@@ -2882,7 +2595,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 230,
+      "id": 204,
       "title": "Paranormal Activity 5: The Ghost Dimension",
       "optional_title": "Actividad Paranormal 5: Dimensión Fantasma",
       "web_calification": 5.23,
@@ -2894,7 +2607,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 231,
+      "id": 205,
       "title": "Paranormal Activity 7: Next of Kin\"",
       "optional_title": "Actividad Paranormal: Vínculos Familiares",
       "web_calification": 5.71,
@@ -2906,7 +2619,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 232,
+      "id": 206,
       "title": "Pay the Ghost",
       "optional_title": "La Maldición de Charlie",
       "web_calification": 5.91,
@@ -2917,7 +2630,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 233,
+      "id": 207,
       "title": "Perturbados",
       "optional_title": "Disturbing Behavior \/ Comportamiento Perturbado",
       "web_calification": 6.22,
@@ -2928,8 +2641,22 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 234,
+      "id": 208,
       "title": "Pet Sematary",
+      "optional_title": "Cementerio de Animales ",
+      "web_calification": 7.61,
+      "year": 1989,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vf7jiH3SFe8",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_221_69.jpg",
+      "sinopsis": "Eager to start afresh, the young doctor, Louis Creed, and his family--his wife, Rachel, their daughter, Ellie, and their three-year-old toddler, Gage--move to their new home in the small rural town of Ludlow, Maine, alarmingly close to a busy highway. However, after the inadvertent death of Rachel's cherished tomcat in an awful accident, reluctantly, a desperate Louis will take his friendly neighbour's advice to bury it in an ancient Micmac graveyard: a mystical burial ground imbued with alleged reanimating powers. Now, despite the terrible results and the insistent warnings from a recently deceased, tragedy-stricken Louis has no other choice but to go back to the Indian cemetery, in high hopes that, this time, things will be different. Nevertheless, can the dead truly return from the grave?",
+      "universe": "Pet Sematary",
+      "director": "Mary Lambert"
+     },
+     {
+      "id": 209,
+      "title": "Pet Sematary (Remake)",
       "optional_title": "Cementerio de Animales",
       "web_calification": 6.16,
       "year": 2019,
@@ -2937,11 +2664,25 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10009_6.jpg",
-      "sinopsis": "The movie tells the story of Dr. Louis Creed (Jason Clarke), who moves with his wife Rachel (Amy Seimetz) and their two young children from Boston to a remote area of Maine. There, they discover a mysterious pet cemetery hidden in the deep forest, near their new home. When their beloved cat Church is killed by a truck, Louis and his neighbor Jud Crandall (John Lithgow) bury it in the pet cemetery, hoping to bring it back to life. However, they soon realize that the cemetery has a dark power that can resurrect the dead, but with a sinister twist. The cat returns, but it is more aggressive and dirty than before. Things get worse when a tragic accident claims the life of one of Louis' children, and he decides to use the cemetery again, despite Jud's warnings. Louis will have to face the terrible consequences of his actions, as he unleashes an evil force that threatens his family and his sanity.",
+      "sinopsis": "Eager to slow down a little bit, Louis and Rachel Creed--along with their children, Ellie, and toddler, Gage--relocate to Maine, on the outskirts of the sleepy rural town of Ludlow. With their new home being alarmingly near to a busy country road, Louis will soon learn firsthand the otherworldly power of the mist-capped burial ground beyond the strange pet cemetery in the woods, when tragedy strikes the Creed family. Now, a grief-smitten Louis has no other choice but to believe in the dark force of the old Indian necropolis' stony and sour soil; however, some boundaries are not meant to be broken. Is it true that, on the mystical hilltop, death has no power?",
       "universe": "Pet Sematary"
      },
      {
-      "id": 235,
+      "id": 210,
+      "title": "Pet Sematary 2",
+      "optional_title": "Cementerio de Animales 2 ",
+      "web_calification": 6.14,
+      "year": 1992,
+      "trailer": "https:\/\/www.youtube.com\/embed\/cp4VC6zVQsg",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.8Fvbid4M6ygkB7C3O5-mWAHaLG?pid=ImgDet&rs=1",
+      "sinopsis": "After the horrible electrocution of his divorced mother in a freakish film-set accident, the troubled thirteen-year-old boy, Jeff Matthews, and his father, Chase, move to his hometown of Ludlow, Maine, to make a fresh start. However, as Jeff struggles to leave the bad memories behind him, his only friend, Drew Gilbert, tells him about the ancient Indian burial site with the otherworldly reanimating powers, intent on testing it on his loyal dog, Zowie. Indeed, the myth is real; nevertheless, what would happen if Jeff buried his beloved mother's dead body in the graveyard's stony soil? Can the dead truly return from the grave?",
+      "universe": "Pet Sematary",
+      "director": "Mary Lambert"
+     },
+     {
+      "id": 212,
       "title": "Playback",
       "optional_title": "Posesiones",
       "web_calification": 4.21,
@@ -2952,7 +2693,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 236,
+      "id": 213,
       "title": "POD",
       "web_calification": 5.12,
       "year": 2015,
@@ -2961,7 +2702,19 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 237,
+      "id": 214,
+      "title": "Polaroid",
+      "web_calification": 0,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ck1NO9MyQsM",
+      "clasification": "corto",
+      "sinopsis": "Created in our apartment for less than $500.",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Joey Greene"
+     },
+     {
+      "id": 215,
       "title": "Poltergeist ",
       "web_calification": 8,
       "year": 1982,
@@ -2969,10 +2722,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg",
-      "universe": "Poltergeist "
+      "sinopsis": "The Freelings are a typical suburban family. Husband Steve sells real estate in their ever expanding subdivision and Diane is a stay at home mom caring for their three kids, Dana, Robbie and little Carol Anne. Strange things being to happen in the house however: cupboard doors open on their own, furniture rearranges itself and chairs go sliding across the kitchen floor. It's a bit of whimsy at first but soon becomes deadly serious when Carol Anne vanishes into a nether world where, oddly, she can only be communicated with through the white noise on their television. A team of paranormal investigators move into the house but the forces that kidnapped are evil and powerful requiring the services of Tangina, a woman who has dealt with this situation before.",
+      "universe": "Poltergeist ",
+      "director": "Tobe Hooper"
      },
      {
-      "id": 238,
+      "id": 216,
       "title": "Poltergeist (Remake)",
       "web_calification": 5.02,
       "year": 2015,
@@ -2980,10 +2735,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8482_32.jpg",
-      "universe": "Poltergeist "
+      "sinopsis": "The unemployed Eric Bowen moves with his wife Amy and their children Kendra, Griffin and Madison to a house in the suburb. Soon strange events happen in the house and when Eric and Amy go to a dinner party, they learn that the house was built on an old cemetery but the bodies were moved to another cemetery. Meanwhile Kendra, Griffin and Madison are haunted by ghosts and the little girl vanishes. Eric and Amy do not go to the police since there is no feasible explanation for what has happened, but Amy goes to the Paranormal Research Department of the university. The team goes to the house and their leader Dr. Brooke Powell summons the specialist Carrigan Burke. Will they be capable to rescue Madison?",
+      "universe": "Poltergeist ",
+      "director": "Gil Kenan"
      },
      {
-      "id": 239,
+      "id": 217,
       "title": "Poltergeist 2: The Other Side",
       "optional_title": "Polstergeist 2: La Otra Puerta",
       "web_calification": 6.68,
@@ -2992,10 +2749,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/qfnJ40Aa7Tpo27YV3y1b8bACIcU.jpg",
-      "universe": "Poltergeist "
+      "sinopsis": "The Freeling family move in with Diane's mother in an effort to escape the trauma and aftermath of Carol Anne's abduction by the Beast. But the Beast is not to be put off so easily and appears in a ghostly apparition as the Reverend Kane, a religeous zealot responsible for the deaths of his many followers. His goal is simple - he wants the angelic Carol Anne; but the love of her family and the power of psychic Tangina once again unite, along with an elderly native American, to fight for her life.",
+      "universe": "Poltergeist ",
+      "director": "Brian Gibson"
      },
      {
-      "id": 240,
+      "id": 218,
       "title": "Poltergeist 3",
       "web_calification": 6.17,
       "year": 1988,
@@ -3003,10 +2762,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7NP6Rdzvh9PQ8E2vtheRRC86Le4.jpg",
-      "universe": "Poltergeist "
+      "sinopsis": "Carol Anne has been sent to live with her Aunt and Uncle in an effort to hide her from the clutches of the ghostly Reverend Kane, but he tracks her down and terrorises her in her relatives' appartment in a tall glass building. Will he finally achieve his target and capture Carol Anne again, or will Tangina be able, yet again, to thwart him?",
+      "universe": "Poltergeist ",
+      "director": "Gary Sherman"
      },
      {
-      "id": 241,
+      "id": 219,
       "title": "Posesión",
       "optional_title": "Posesión",
       "web_calification": 6.64,
@@ -3017,7 +2778,49 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 242,
+      "id": 220,
+      "title": "Predator",
+      "optional_title": "Depredador",
+      "web_calification": 8.14,
+      "year": 1987,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_1wDBNHYDv8",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_701_34.jpg",
+      "sinopsis": "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.",
+      "universe": "Predator",
+      "director": "John McTiernan"
+     },
+     {
+      "id": 221,
+      "title": "Predator 2",
+      "optional_title": "Depredador 2 ",
+      "web_calification": 6.9,
+      "year": 1990,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pLe_1SheJms",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/92Lqy293CqAExYXlqDc456eYCWp.jpg",
+      "sinopsis": "LAPD lieutenant Mike Harrigan (Danny Glover) and his cocky detective partner Jerry Lambert (Bill Paxton) soon realize that what seemed a bloody feud between voodoo high priest King Willie's (Calvin Lockhart) Jamaican gangs and Ramon Vega's (Corey Rand) Colombian drug gang is actually the work of a scary third party. Peter Keyes's (Gary Busey) federal team shields the crime scene even for the LAPD, but after forensics proves it must be an alien, who keeps making victims, the chase brings them all together.",
+      "universe": "Predator",
+      "director": "Stephen Hopkins"
+     },
+     {
+      "id": 222,
+      "title": "Predators",
+      "optional_title": "Depredadores \/ Predators 3 ",
+      "web_calification": 6.65,
+      "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/fQmAGtJC5bk",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/4.bp.blogspot.com\/-DfO0cZGCy6M\/VZfx3Q3YM-I\/AAAAAAAAPQs\/nY9sy4xiTrg\/s1600\/predators_5178.jpg",
+      "sinopsis": "When a group of people find themselves in a jungle, they realize that they are on a completely different planet and it's home to a race of extraterrestrial hunters. The group consists of a mercenary known as Royce, an IDF sniper known as Isabelle, a Russian Spetsnaz known as Nikolai, a drug cartel enforcer known as Cuchillo, an RUF officer known as Mombasa, a death row inmate known as Stans, a Yakuza assassin known as Hanzo, and an American doctor known as Edwin. It's up to these 8 individuals to stop their hunters and get off the planet.",
+      "universe": "Predator",
+      "director": "Nimród Antal"
+     },
+     {
+      "id": 223,
       "title": "Premonition",
       "optional_title": "Yogen",
       "web_calification": 6.31,
@@ -3028,7 +2831,36 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 243,
+      "id": 224,
+      "title": "Prey",
+      "optional_title": "Depredador: La Presa",
+      "web_calification": 7.09,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/2ywf74nW1CM",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_38181_100.jpg",
+      "sinopsis": "Set in the Comanche Nation 300 years ago, this is the story of Naru, a fierce and highly skilled warrior, raised in the shadow of legendary hunters who roam the Great Plains. When danger threatens her camp, she sets out to protect her people. The prey she stalks: a highly evolved alien predator with a technically advanced arsenal. \"Prey\" is making history as the first film dubbed in Comanche and the first time a film has premiered in a Native language alongside the English version.",
+      "universe": "Predator",
+      "director": "Dan Trachtenberg"
+     },
+     {
+      "id": 225,
+      "title": "Prey for the Devil",
+      "optional_title": "La Luz del Diablo",
+      "web_calification": 5.3,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/JCTRixNpWl0",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.c8--0abXvBKPxQf6tPOD1gHaK-?pid=ImgDet&rs=1",
+      "sinopsis": "Sister Ann (Jacqueline Byers) believes she is answering a calling to be the first female exorcist... but who, or what, called her? In response to a global rise in demonic possessions, Ann seeks out a place at an exorcism school reopened by the Catholic Church. Until now these schools have only trained priests in the Rite of Exorcism - but a professor (Colin Salmon) recognizes Sister Ann's gifts and agrees to train her. Thrust onto the spiritual frontline with fellow student Father Dante (Christian Navarro), Sister Ann finds herself in a battle for the soul of a young girl, who Sister Ann believes is possessed by the same demon that tormented her own mother years ago. Determined to root out the evil, Ann soon realizes the Devil has her right where he wants her.",
+      "add_date": "2023-07-03",
+      "universe": "None",
+      "director": "Daniel Stamm"
+     },
+     {
+      "id": 226,
       "title": "Prom Night",
       "optional_title": "Noche de Graduacion Sangrienta",
       "web_calification": 5.28,
@@ -3039,7 +2871,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 244,
+      "id": 227,
       "title": "Quarentine",
       "optional_title": "Aullidos",
       "web_calification": 5.71,
@@ -3052,7 +2884,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 245,
+      "id": 228,
       "title": "Quarentine 2:Terminal",
       "optional_title": "Cuarentena 2: Terminal",
       "web_calification": 5.34,
@@ -3064,7 +2896,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 246,
+      "id": 229,
       "title": "Realms",
       "optional_title": "Dominios Oscuros",
       "web_calification": 4.54,
@@ -3075,7 +2907,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 247,
+      "id": 230,
       "title": "REC",
       "optional_title": "REC",
       "web_calification": 8.01,
@@ -3088,7 +2920,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 248,
+      "id": 231,
       "title": "REC 2",
       "optional_title": "REC 2",
       "web_calification": 6.89,
@@ -3101,7 +2933,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 249,
+      "id": 232,
       "title": "Resident Evil",
       "optional_title": "Residen Evil 1",
       "web_calification": 7.45,
@@ -3110,10 +2942,12 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.dec8526151c4f34209dd8b6c48f0b9b4?rik=%2f5cWC02zCw%2bQJw&riu=http%3a%2f%2faquipelis.net%2fwp-content%2fuploads%2f2013%2f12%2fresident-evil-1.jpg&ehk=pubSToUGvCteGuH2LOxwrczPgSe8Di3Dgfu409hPQhk%3d&risl=&pid=ImgRaw&r=0",
-      "universe": "Resident Evil"
+      "sinopsis": "A virus has escaped in a secret facility called \"The Hive,\" turning the staff into hungry zombies and releasing the mutated Lab \"Animals\" that they were studying. The complex computer shuts down the base to prevent infection. The parent corporation sends in an elite military unit, where they meet Alice, who is suffering from amnesia due to exposure to nerve gas. The military team must shut down the computer and get out, fighting their way past zombies, mutants, and the computer itself, before the virus escapes and infects the rest of the world. Alice must also come to terms with her slowly-returning memories.",
+      "universe": "Resident Evil",
+      "director": "Paul W.S. Anderson"
      },
      {
-      "id": 250,
+      "id": 233,
       "title": "Resident Evil: Afterlife",
       "optional_title": "Resident Evil 4: La resurreción",
       "web_calification": 6.82,
@@ -3122,10 +2956,12 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.4c27865d486e7f1a82fbc4720e2a36ae?rik=fnjMJNct0rj94A&riu=http%3a%2f%2f3.bp.blogspot.com%2f_secDOmtewS4%2fTJaySxKHYdI%2fAAAAAAAAGp0%2f711PM0-7_v4%2fs1600%2fresident_evil_afterlife.jpg&ehk=peKlEAvTgUmKXfX%2flCsHHidH37E6RAdW4ce4EGFVUAM%3d&risl=&pid=ImgRaw&r=0",
-      "universe": "Resident Evil"
+      "sinopsis": "In a world ravaged by a virus infection, turning its victims into the Undead, Alice (Jovovich), continues on her journey to find survivors and lead them to safety. Her deadly battle with the Umbrella Corporation reaches new heights, but Alice gets some unexpected help from an old friend. A new lead that promises a safe haven from the Undead takes them to Los Angeles, but when they arrive the city is overrun by thousands of Undead - and Alice and her comrades are about to step into a deadly trap.",
+      "universe": "Resident Evil",
+      "director": "Paul W.S. Anderson"
      },
      {
-      "id": 251,
+      "id": 234,
       "title": "Resident Evil: Apocalipsis",
       "optional_title": "Resident Evil 2: Apocalipsis",
       "web_calification": 7.2,
@@ -3134,10 +2970,12 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.rUE6klkJW-Na59WY4upxZAHaLH?pid=ImgDet&rs=1",
-      "universe": "Resident Evil"
+      "sinopsis": "When Major Cain reopens The Hive, there is an outbreak of the T-Virus in Raccoon City. The Umbrella leader closes the gateway to the city and traps the survivals with the contaminated zombies, and releases Nemesis to destroy the STARS members to test how powerful this deadly weapon is. Meanwhile, Alice, Jill Valentine and Carlos Oliviera try to find Angela, the little daughter of Dr. Ashford, who is trapped in Raccoon City, as the means to escape from the siege of the city.",
+      "universe": "Resident Evil",
+      "director": "Alexander Witt"
      },
      {
-      "id": 252,
+      "id": 235,
       "title": "Resident Evil: Extinction",
       "optional_title": "Resident Evil 3: Extinción",
       "web_calification": 6.81,
@@ -3146,23 +2984,12 @@ export const data = [
       "clasification": "movie",
       "gender": "zombies",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.7ba6f9bf8d3b682e264bed0557dce3ae?rik=PxKf5FDJDIAk3A&pid=ImgRaw&r=0",
-      "universe": "Resident Evil"
+      "sinopsis": "Years after the Raccoon City disaster, Alice is on her own; aware that she has become a liability and could endanger those around her, she is struggling to survive and bring down the Umbrella Corporation led by the sinister Albert Wesker and head researcher Dr. Isaacs. Meanwhile, traveling through the Nevada Desert and the ruins of Las Vegas, Carlos Olivera, L.J., and new survivors K-Mart, Claire Redfield, and Nurse Betty must fight to survive extinction against hordes of zombies, killer crows and the most terrifying creatures created as a result of the deadly T-Virus that has killed millions.",
+      "universe": "Resident Evil",
+      "director": "Russell Mulcahy"
      },
      {
-      "id": 253,
-      "title": "Revelaciones",
-      "optional_title": "What Lies Beneath",
-      "web_calification": 6.67,
-      "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Vm4Fw2QElA4",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg",
-      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death.",
-      "universe": "None"
-     },
-     {
-      "id": 254,
+      "id": 236,
       "title": "Rings",
       "optional_title": "Rings \/ El aro 3",
       "web_calification": 5.11,
@@ -3171,10 +2998,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/17\/02\/03\/10\/37\/196315.jpg",
-      "universe": "None"
+      "sinopsis": "On an airplane bound for Seattle, a man reveals that he has watched Samara Morgan's cursed videotape. Another passenger reveals she has seen the tape too, and asks the man if he made a copy. After learning he did not, Samara causes the airplane to crash. Two years later in 2015, college professor Gabriel Brown buys a VCR, discovering the videotape inside. Elsewhere, student Julia sees her boyfriend Holt off to college but grows concerned when he falls out of contact. She is inspired to find him when a panicked girl, Skye, contacts her, asking for Holt's whereabouts. Julia meets Gabriel and finds a group of people known as the Sevens, who are involved in an experiment involving the cursed video. The group film themselves watching the video before passing the footage to another person, called a \"tail\"..",
+      "universe": "The Ring",
+      "director": "F. Javier Gutiérrez"
      },
      {
-      "id": 255,
+      "id": 237,
       "title": "Sam Was Here",
       "optional_title": "Sam Estuvo Aquí",
       "web_calification": 5.14,
@@ -3186,7 +3015,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 256,
+      "id": 238,
       "title": "Saw",
       "optional_title": "El juego del Miedo",
       "web_calification": 8.13,
@@ -3195,11 +3024,12 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/89\/75\/36\/20065254.jpg",
-      "sinopsis": "Dos hombres se despiertan encadenados en un baño sucio y abandonado. Entre ellos hay un cadáver con una pistola y una grabadora. Pronto descubren que son víctimas de un sádico asesino que los ha puesto en un juego mortal. Para escapar, tendrán que seguir las pistas que les ha dejado y enfrentarse a sus propios pecados. Mientras tanto, un detective intenta atrapar al criminal antes de que sea demasiado tarde.",
-      "universe": "Saw"
+      "sinopsis": "Two strangers, freelance photographer Adam Stanheight and Dr. Lawrence Gordon, awaken in a dilapidated bathroom with no memory of how they ended up there. Both men find a tape recording each in their pockets, and not long after listening to them, realize they have been trapped in a \"game\" perpetrated by the infamous Jigsaw Killer. Escape seems unlikely at first, but Adam and Lawrence soon realize they may have a chance. But at what cost? And are they alone?",
+      "universe": "Saw",
+      "director": "James Wan"
      },
      {
-      "id": 257,
+      "id": 239,
       "title": "Saw 2",
       "optional_title": "El juego del Miedo 2",
       "web_calification": 7.58,
@@ -3208,10 +3038,12 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gGIbEacuiSmsvvNX5RrHLeH0UdS.jpg",
-      "universe": "Saw"
+      "sinopsis": "Detective Eric Matthews, along with fellow police officers and a SWAT Team, locate Jigsaw's lair and go to arrest him, but discover that his arrest is only a part of Jigsaw's plan. Matthews soon learns that eight people are trapped in an old house and are playing one of Jigsaw's games. One of them is his own son, Daniel Matthews. Eric learns that if he wants to see his son again, he must play one of Jigsaw's games as well.",
+      "universe": "Saw",
+      "director": "Darren Lynn Bousman"
      },
      {
-      "id": 258,
+      "id": 240,
       "title": "Saw 3",
       "optional_title": "El juego del Miedo 3",
       "web_calification": 7.38,
@@ -3220,10 +3052,12 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/i.pinimg.com\/736x\/d5\/8b\/1a\/d58b1ab2dca0d3f186fc5d8a72cedb3e.jpg",
-      "universe": "Saw"
+      "sinopsis": "Jeff is an anguished man who grieves and misses his son, who was killed by a drunk driver in a car accident. He has become obsessed for revenge against the drunk driver, judge, and only witness who refused to testify; he has also become neglectful of his daughter. Lynn Denlon is a skilled surgeon that is cheating on her husband and suffering from depression. Both are abducted and brought to Jigsaw's warehouse, where they must play two separate games: Jeff must choose whether to save or let the people he holds responsible for the death of his son die, while Lynn must keep Jigsaw alive until Jeff completes his tests, or face the deadly consequences.",
+      "universe": "Saw",
+      "director": "Darren Lynn Bousman"
      },
      {
-      "id": 259,
+      "id": 241,
       "title": "Saw 4",
       "optional_title": "El juego del Miedo 4",
       "web_calification": 7.04,
@@ -3232,10 +3066,12 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.BJwrLycbhWuokG98IbfL9AHaLO?pid=ImgDet&rs=1",
-      "universe": "Saw"
+      "sinopsis": "Jigsaw and his apprentice Amanda are dead. Now, upon the news of Detective Kerry's murder, two seasoned FBI profilers, Agent Strahm and Agent Perez, arrive in the terrified community to assist the veteran Detective Hoffman in sifting through Jigsaw's latest grisly remains and piecing together the puzzle. However, when SWAT Commander Rigg is abducted and thrust into a game, the last officer untouched by Jigsaw has but ninety minutes to overcome a series of demented traps and save an old friend or face the deadly consequences.",
+      "universe": "Saw",
+      "director": "Darren Lynn Bousman"
      },
      {
-      "id": 260,
+      "id": 242,
       "title": "Saw 5",
       "optional_title": "El juego del Miedo 5",
       "web_calification": 6.99,
@@ -3244,10 +3080,12 @@ export const data = [
       "clasification": "movie",
       "gender": "gore",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7820_54.jpg",
-      "universe": "Saw"
+      "sinopsis": "Detective Mark Hoffman is deemed a hero after he saves a young girl and \"escapes\" one of Jigsaw's games, or so it seems. Special Agent Peter Strahm is suspicious of him after an injured Special Agent Lindsay Perez says Hoffman's name. Meanwhile, five people face a series of tests set up by Jigsaw.",
+      "universe": "Saw",
+      "director": "David Hackl"
      },
      {
-      "id": 261,
+      "id": 243,
       "title": "Scream 1",
       "optional_title": "La Máscara de la Muerte",
       "web_calification": 7.79,
@@ -3261,7 +3099,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 262,
+      "id": 244,
       "title": "Scream 2",
       "optional_title": "La Máscara de la Muerte 2",
       "web_calification": 7.16,
@@ -3270,11 +3108,12 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/41bIWViNrKL._AC_UF894,1000_QL80_.jpg",
+      "sinopsis": "Two years after the events of Scream, Sidney Prescott and Randy are attending Windsor college. They are trying to get on with their lives...Until a new Ghostface killing spree begins. With the help of Dewey and Gale, Sidney must find out who's behind the murders. As the body count goes up, the list of suspects goes down.",
       "universe": "Scream",
       "director": "Wes Craven"
      },
      {
-      "id": 263,
+      "id": 245,
       "title": "Scream 3",
       "optional_title": "La Máscara de la Muerte 3",
       "web_calification": 6.78,
@@ -3283,11 +3122,12 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/pics.filmaffinity.com\/Scream_3-716015756-large.jpg",
+      "sinopsis": "Sidney is hibernating in the woods, her whereabouts are unknown to everyone but Dewey. After a number of murders that seem to be related to the Woodsboro case take place on the set of Stab 3, Sid comes to Hollywood to be terrorized, find out more about her mother's death, and put together the final pieces of the Scream mystery.",
       "universe": "Scream",
       "director": "Wes Craven"
      },
      {
-      "id": 264,
+      "id": 246,
       "title": "Scream 4",
       "optional_title": "La Máscara de la Muerte 4",
       "web_calification": 7.26,
@@ -3296,35 +3136,23 @@ export const data = [
       "clasification": "movie",
       "gender": "slasher",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_7958_45.jpg",
+      "sinopsis": "Sidney Prescott, now the author of a self-help book, returns home to Woodsboro on the last stop of her book tour. There she reconnects with Sheriff Dewey and Gale, who are now married, as well as her cousin Jill and her Aunt Kate. Unfortunately, Sidney's appearance also brings about the return of Ghostface, putting Sidney, Gale, and Dewey, along with Jill, her friends, and the whole town of Woodsboro in danger.",
       "universe": "Scream",
       "director": "Wes Craven"
      },
      {
-      "id": 265,
-      "title": "Se lo que Hiciste el Verano Pasado",
-      "optional_title": "I know what you did last summer",
-      "web_calification": 6.99,
-      "year": 1997,
-      "trailer": "https:\/\/www.youtube.com\/embed\/_y6H2ybiEvs",
-      "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-dbXJOsiSD3g\/V6gBwCGXRRI\/AAAAAAAABmM\/7Ykxq2XbZRQwd0B6zDD9vOHdb_68nnN3gCLcB\/s1600\/Se%2BLo%2BQue%2BHicieron%2BEl%2BVerano%2BPasado.jpg",
+      "id": 247,
+      "title": "Shutter",
+      "web_calification": 0,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pC9DkDw93OU",
+      "clasification": "corto",
+      "sinopsis": "When a man's printer begins printing disturbing images of him in his home, he comes to the chilling realisation that he isn’t alone.",
+      "add_date": "2023-06-28",
       "universe": "None"
      },
      {
-      "id": 266,
-      "title": "Señales",
-      "optional_title": "Sings",
-      "web_calification": 6.84,
-      "year": 2002,
-      "trailer": "https:\/\/www.youtube.com\/embed\/cJ3PXxuWBac",
-      "clasification": "movie",
-      "gender": "aliens",
-      "cover": "https:\/\/pics.filmaffinity.com\/Seanales-997351418-large.jpg",
-      "sinopsis": "Preacher Graham Hess loses his faith in God after his wife dies in a brutal car accident. He lives with his children and brother in a farmhouse. Crop circles start to appear in their cornfields; Graham dismisses them as mischief by miscreants. After hearing strange noises and watching news coverage on crop circles appearing all over the world, the family grows suspicious of alien activities. Now they must stick together as a family and believe, to survive and escape the ordeal",
-      "universe": "None"
-     },
-     {
-      "id": 267,
+      "id": 248,
       "title": "Silent Hill",
       "optional_title": "Terror en Silent Hill",
       "web_calification": 7.51,
@@ -3336,7 +3164,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 268,
+      "id": 249,
       "title": "Silent Hill 2: Revelations",
       "optional_title": "Terror en Silent Hill 2: Revelaciones",
       "web_calification": 6.69,
@@ -3348,7 +3176,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 269,
+      "id": 250,
       "title": "Silent House",
       "optional_title": "La Casa Muda, La Casa Silenciosa",
       "web_calification": 6.06,
@@ -3359,7 +3187,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 270,
+      "id": 251,
+      "title": "Sings",
+      "optional_title": "Señales ",
+      "web_calification": 6.84,
+      "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/cJ3PXxuWBac",
+      "clasification": "movie",
+      "gender": "aliens",
+      "cover": "https:\/\/pics.filmaffinity.com\/Seanales-997351418-large.jpg",
+      "sinopsis": "Preacher Graham Hess loses his faith in God after his wife dies in a brutal car accident. He lives with his children and brother in a farmhouse. Crop circles start to appear in their cornfields; Graham dismisses them as mischief by miscreants. After hearing strange noises and watching news coverage on crop circles appearing all over the world, the family grows suspicious of alien activities. Now they must stick together as a family and believe, to survive and escape the ordeal",
+      "universe": "None",
+      "director": "M. Night Shyamalan"
+     },
+     {
+      "id": 252,
       "title": "Sinister",
       "optional_title": "Siniestro",
       "web_calification": 7.48,
@@ -3370,7 +3212,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 271,
+      "id": 253,
+      "title": "Sinister 2",
+      "optional_title": "Sinister 2",
+      "web_calification": 5.3,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/fChx_YZUAR0",
+      "clasification": "movie",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
+      "sinopsis": "In a farmhouse near a corn field where Ellison Oswait lived, the boy Dylan has nightmares and is visited by ghostly children led by the boy Milo. Dylan lives with his mother Courtney Collins, who has just left her abusive husband, and his brother Zach and is forced by the ghosts to go to the basement to watch home films in Super 8 of families being slaughtered. Ex-Deputy So & So is investigating the crime spree of Bughuul and burning down the houses where the deceased families lived to protect other families. He travels to the farmhouse and finds Courtney and her sons living there. He tells that he is a private investigator and he protects her against a bluff of her ex-husband to keep the children with him. Then he begins a love affair with Courtney. Meanwhile Dylan tells to the ghosts that he will not see any video again but Zach, who is the real choice of the ghosts, replaces him. When their father succeeds in getting a court order to have the custody of the children, Courtney is forced to go with the children. What will happen to the Collins family?",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Ciarán Foy"
+     },
+     {
+      "id": 254,
       "title": "Sleepy Hollow",
       "optional_title": "La leyenda del jinete sin cabeza ",
       "web_calification": 7.74,
@@ -3382,7 +3238,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 272,
+      "id": 255,
       "title": "Slender Man",
       "optional_title": "Slender Man",
       "web_calification": 4.65,
@@ -3395,7 +3251,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 273,
+      "id": 256,
       "title": "Smile",
       "optional_title": "Sonríe",
       "web_calification": 6.68,
@@ -3406,7 +3262,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 274,
+      "id": 257,
       "title": "Solstice",
       "optional_title": "Solticio",
       "web_calification": 6.17,
@@ -3417,7 +3273,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 275,
+      "id": 258,
       "title": "Stigmata",
       "optional_title": "Estigma",
       "web_calification": 6.75,
@@ -3426,10 +3282,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/Stigmata-565498823-large.jpg",
-      "universe": "None"
+      "sinopsis": "A priest from the Vatican is sent to Sao Paulo, Brazil to investigate the appearance of the face of the Virgin Mary on the side of a building. While there he hears of a statue of the Virgin Mary bleeding tears in a small town outside of the city. Meanwhile, a young woman in the U.S. begins to show signs of stigmata, the wounds of Christ. The priest from the Vatican links up with her and cares for her as she is increasingly afflicted by the stigmata. Her ranting and raving finally begins to make sense to the priest who starts to question what his religion has stood for for the last 1900 years.",
+      "universe": "None",
+      "director": "Rupert Wainwright"
      },
      {
-      "id": 276,
+      "id": 259,
       "title": "Stir Of Echoes",
       "optional_title": "Ecos Mortales \/ El Último Escalón",
       "web_calification": 7.08,
@@ -3437,10 +3295,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/E9tFPHabEx4",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2NTEwZWYtYzcxYi00MzZhLTg0NDMtNTBhMTM3MjEyMmU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
-      "universe": "None"
+      "sinopsis": "A man is hypnotized at a party by his sister-in law. He soon has visions and dreams of a ghost of a girl. Trying to avoid this, nearly pushes him to brink of insanity as the ghost wants something from him - to find out how she died. The only way he can get his life back is finding out the truth behind her death. The more he digs, the more he lets her in, the shocking truth behind her death puts his whole family in danger.",
+      "universe": "None",
+      "director": "David Koepp"
      },
      {
-      "id": 277,
+      "id": 260,
       "title": "Stir Of Echoes 2",
       "optional_title": "Ecos Mortales 2 \/ El último Escalón 2",
       "web_calification": 6.05,
@@ -3451,7 +3311,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 278,
+      "id": 261,
       "title": "Stranger Things",
       "optional_title": "Montauk",
       "web_calification": 8.12,
@@ -3462,7 +3322,19 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 279,
+      "id": 262,
+      "title": "Tanatria",
+      "web_calification": 0,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/llxSYQNxMGM",
+      "clasification": "corto",
+      "sinopsis": "Daniel faces his first guard as a resident of the old hospital when strange events begin to occur.",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Sergio Sánchez"
+     },
+     {
+      "id": 263,
       "title": "Temple",
       "optional_title": "Temple",
       "web_calification": 4.96,
@@ -3473,7 +3345,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 280,
+      "id": 264,
       "title": "Terrifier",
       "optional_title": "Terrifier",
       "web_calification": 7.08,
@@ -3481,10 +3353,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/8Q6fAAvCdKs",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/Terrifier-643530005-large.jpg",
-      "universe": "Terrifier"
+      "sinopsis": "Named one of the scariest clowns on screen by BloodyDisgusting.com, Art The Clown returns and sets his sights on three young women, along with anyone else that gets in his way. Terrifier is based on a character from the successful horror anthology franchise All Hallows Eve.",
+      "universe": "Terrifier",
+      "director": "Damien Leone"
      },
      {
-      "id": 281,
+      "id": 265,
       "title": "Terrifier 2",
       "optional_title": "Terrifier 2",
       "web_calification": 6.91,
@@ -3492,10 +3366,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/JtIeafFBhgE",
       "clasification": "movie",
       "cover": "https:\/\/es.web.img3.acsta.net\/pictures\/22\/12\/27\/12\/24\/4448854.jpg",
-      "universe": "Terrifier"
+      "sinopsis": "In Miles County, Art the Clown is mysteriously revived in the morgue and kills the coroner, in the beginning of his crime wave in the Halloween night. The teenagers Sienna and her brother Jonathan are hunted down by Art and his partner, The Little Pale Girl.",
+      "universe": "Terrifier",
+      "director": "Damien Leone"
      },
      {
-      "id": 282,
+      "id": 266,
       "title": "The Amityville Horror: Remake",
       "optional_title": "Terror en Amityville ",
       "web_calification": 7.04,
@@ -3506,7 +3382,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 283,
+      "id": 267,
       "title": "The Boy",
       "optional_title": "El Niño ",
       "web_calification": 6.64,
@@ -3514,10 +3390,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/juYvhcgleRI",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc1MjcxNzcwMV5BMl5BanBnXkFtZTgwMTE0NTE2NzE@._V1_.jpg",
-      "universe": "None"
+      "sinopsis": "Greta, a young American woman, takes a job as a nanny in a remote English village and discovers that the family's 8-year-old is a life-sized doll that the parents care for just like a real boy as a way to cope with the death of their actual son 20 years ago. When she violates a list of strict rules, her worst nightmare is brought to life by a series of disturbing, inexplicable events and she comes to believe that the doll is alive.",
+      "universe": "The Boy",
+      "director": "William Brent Bell"
      },
      {
-      "id": 284,
+      "id": 268,
       "title": "The Boy II: Brahms",
       "optional_title": "El Niño 2: La Maldición de Brahms",
       "web_calification": 5.41,
@@ -3525,10 +3403,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/GmEudoOozUc",
       "clasification": "movie",
       "cover": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/brahms-the-boy-ii-poster-1578477710.jpeg",
-      "universe": "None"
+      "sinopsis": "After a burglary in their house in London, Liza and her son Jude are traumatized: Lisa becomes frigid with her husband Sean and Jude a speechless boy. Liza and Sean decide to rekindle their lives moving to a house in the countryside nearby the Heelshire Mansion and Jude's psychiatrist Dr. Lawrence agrees that it would be benefit for him. While walking through the woods with Liza, Jude finds a buried porcelain doll and decides to keep it. Then they meet the groundkeeper Joseph and his dog Oz that walks with Liza and Jude home. Jude becomes obsessed for the doll that he calls Brahms and shows rules to be followed by the family that Brahms told him. Further, he changes his behavior and weird things happen in the house.",
+      "universe": "The Boy",
+      "director": "William Brent Bell"
      },
      {
-      "id": 285,
+      "id": 269,
       "title": "The Cabin in the Woods",
       "optional_title": "La Cabaña del Terror \/ La Cabaña en el Bosque",
       "web_calification": 7.46,
@@ -3536,10 +3416,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/EdRoP4fj5-g",
       "clasification": "movie",
       "cover": "https:\/\/horrornews.net\/wp-content\/uploads\/2018\/12\/The-Cabin-in-the-Woods-2012-movie-Joss-Whedon-Drew-Goddard-5.jpg",
-      "universe": "None"
+      "sinopsis": "Five teenagers head off for a weekend at a secluded cabin in the woods. They arrive to find they are quite isolated with no means of communicating with the outside world. When the cellar door flings itself open, they of course go down to investigate. They find an odd assortment of relics and curios, but when one of the women, Dana, reads from a book, she awakens a family of deadly zombie killers. However, there's far more going on than meets the eye.",
+      "universe": "None",
+      "director": "Drew Goddard"
      },
      {
-      "id": 286,
+      "id": 270,
       "title": "The Cell",
       "optional_title": "La Célula",
       "web_calification": 6.21,
@@ -3547,10 +3429,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/-eCD5Nuoyi4",
       "clasification": "movie",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMDY1NmVmOTItYWU0NC00OGU2LWIyNTctYTU3NTY3ZjJkOWJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-      "universe": "None"
+      "sinopsis": "Catharine Deane is a psychotherapist who is part of a revolutionary new treatment which allows her mind to literally enter the mind of her patients. Her experience in this method takes an unexpected turn when an F.B.I. Agent comes to ask for a desperate favor. They had just tracked down a notorious serial killer, Carl Stargher, whose method of operation is to abduct women one at a time and place them in a secret area where they are kept for about forty hours until they are slowly drowned. Unfortunately, the killer has fallen into an irreversible coma which means he cannot confess where he has taken his latest victim before she dies. Now, Catherine Deane must race against time to explore the twisted mind of the killer to get the information she needs, but Stargher's damaged personality poses dangers that threaten to overwhelm her.",
+      "universe": "None",
+      "director": "Tarsem Singh"
      },
      {
-      "id": 287,
+      "id": 271,
       "title": "The Conjuring",
       "optional_title": "El Conjuro \/ The Warrren Files  \/ Expediente Warren",
       "web_calification": 7.98,
@@ -3559,11 +3443,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/www.gbhbl.com\/wp-content\/uploads\/2014\/01\/Conjur.jpg",
-      "sinopsis": "The Conjuring es una película de terror de 2013 basada en una historia real de los parapsicólogos Ed y Lorraine Warren, que investigaron los fenómenos paranormales que sufría la familia Perron en su granja de Rhode Island en los años 70. La película muestra cómo los Warren se enfrentan a una entidad maligna que acecha a los Perron y amenaza con destruirlos. The Conjuring fue dirigida por James Wan y protagonizada por Vera Farmiga, Patrick Wilson, Ron Livingston y Lili Taylor. La película fue un éxito de crítica y público, y dio lugar a una saga de películas y spin-offs ambientados en el mismo universo.",
-      "universe": "The Conjuring"
+      "sinopsis": "In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.",
+      "universe": "The Conjuring",
+      "director": "James Wan"
      },
      {
-      "id": 288,
+      "id": 272,
       "title": "The Conjuring II",
       "optional_title": "El Conjuro II \/ Expediente Warren: El Caso Enfield",
       "web_calification": 7.86,
@@ -3572,10 +3457,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg",
-      "universe": "The Conjuring"
+      "sinopsis": "In 1977, paranormal investigators Ed and Lorraine Warren travel to London, England, where single mother Peggy Hodgson believes that something evil is in her home. When Peggy's youngest daughter starts showing signs of demonic possession, Ed and Lorraine attempt to help the besieged girl, only to find themselves targeted by the malicious spirits.",
+      "universe": "The Conjuring",
+      "director": "James Wan"
      },
      {
-      "id": 289,
+      "id": 273,
       "title": "The Conjuring III: The Devil Made me Do it",
       "optional_title": "Expediente Warren: obligado por el demonio",
       "web_calification": 6.44,
@@ -3584,10 +3471,12 @@ export const data = [
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/images.moviesanywhere.com\/a4d68b895ddea9e52e345e2f0c6838ab\/423fc271-7a33-4155-92db-3c926d8c1af3.jpg",
-      "universe": "The Conjuring"
+      "sinopsis": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "universe": "The Conjuring",
+      "director": "Michael Chaves"
      },
      {
-      "id": 290,
+      "id": 274,
       "title": "The Darkness",
       "optional_title": "6 Miranda Drive \/ Maldicion Ancestral",
       "web_calification": 4.75,
@@ -3595,10 +3484,12 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/FDhoqY1grJY",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2016\/5\/w1280\/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg",
-      "universe": "None"
+      "sinopsis": "Peter and Bronny Taylor go on a trip to the Grand Canyon with their daughter, Stephanie, and Mikey, their autistic son. Mikey discovers a small cavern, where he finds rocks with glyphs on them. He takes the rocks, keeping a secret untold. When the Taylors return home, strange things begin to happen..",
+      "universe": "None",
+      "director": "Greg McLean"
      },
      {
-      "id": 291,
+      "id": 275,
       "title": "The Descent",
       "optional_title": "El descenso",
       "web_calification": 7.7,
@@ -3609,7 +3500,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 292,
+      "id": 276,
       "title": "The Devi's Tomb",
       "optional_title": "La Tumba del Diablo",
       "web_calification": 4.75,
@@ -3620,7 +3511,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 293,
+      "id": 277,
       "title": "The Devil Inside",
       "optional_title": "Con el Diablo Dentro",
       "web_calification": 5.21,
@@ -3631,18 +3522,34 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 294,
+      "id": 278,
+      "title": "The Devil's Rejects",
+      "optional_title": "Los Renegados del Diablo ",
+      "web_calification": 7.33,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/WgtaQZr6YiM",
+      "clasification": "movie",
+      "gender": "gore",
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGU4NWMxZTQtNjYwYy00Mjg1LTg4YjQtYTk5M2ZhNTFiMzAxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+      "sinopsis": "In Ruggsville, Texas, the police under the command of Sheriff John Quincy Wydell attack the house of the sadistic serial killers Firefly family (a.k.a. The Devil's Reject) and they arrest mother Firefly, but Otis B. Driftwood and Baby Firefly escape from the siege. Tiny is wandering nearby the house and also escapes. Otis and Baby call their patriarch, the mad clown Captain Spaulding and they schedule to reunite at an isolated motel in the desert. When Otis and Baby arrive, they kidnap two families of singers, using sadism and violence against the harmless persons. Meanwhile, Sheriff Wydell promises to capture and kill the runaways, seeking revenge for the death of his brother, the Deputy George Wydell.",
+      "universe": "None",
+      "director": "Rob Zombie"
+     },
+     {
+      "id": 279,
       "title": "The Devil's tail",
       "optional_title": "La cola del diablo",
-      "web_calification": 5.97,
+      "web_calification": 3.6,
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/BeU_TQH-bCA",
       "clasification": "movie",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg",
-      "universe": "None"
+      "sinopsis": "A young nurse begins her shift at an old city hospital. After a strange apparition, one of the oldest nurses tells her that a patient, Mr. Moore, entered the hospital a few years ago, with his body completely burned after a fire. Mr. Moore was operated on urgently by the doctors, but no one wanted to assist him. The pain and drugs had driven him mad - One night one of the nurses went to his room but his bed was empty. Nothing was heard from him anymore. A bell interrupts the story. The call comes from Mr. Moore's room.",
+      "universe": "None",
+      "director": "Nicole Goode - Carlota Pereda - Taz Pereyra - Erica Scoggins - Samantha Timms -Laurel Vail"
      },
      {
-      "id": 295,
+      "id": 280,
       "title": "The Disappoinments Room",
       "optional_title": "La Casa del Pánico \/ El Ático ",
       "web_calification": 5.09,
@@ -3653,7 +3560,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 296,
+      "id": 281,
       "title": "The Echo: Remake",
       "optional_title": "El eco",
       "web_calification": 5.95,
@@ -3664,7 +3571,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 297,
+      "id": 282,
       "title": "The Empty Man",
       "optional_title": "The Empty Man: El Mensajero del último Día",
       "web_calification": 5.87,
@@ -3676,7 +3583,34 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 298,
+      "id": 283,
+      "title": "The Exorcism of Emily Rose",
+      "optional_title": "El Exorcismo de Emily Rose",
+      "web_calification": 6.91,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/021-tHmxjEY",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.04A3hf9lhaVJdMz7YhvxFgHaKX?pid=ImgDet&rs=1",
+      "sinopsis": "The nineteen year old Catholic college girl, Emily Rose, dies a couple of days after being submitted to an exorcism carried out by her parish priest, Father Moore. Emily believed she was possessed by six demons, and although authorized by Emily and her parents, Father Moore is accused of negligent homicide since he had suggested Emily interrupt the use of epilepsy medications. In order to avoid a scandal, the Archdiocese hires the successful, ambitious and agnostic lawyer Erin Bruner, and the prosecution assigns the religious prosecutor Ethan Thomas. This story walks us through a passionate battle between science and religion in the courtroom.",
+      "universe": "None"
+     },
+     {
+      "id": 284,
+      "title": "The Exorcist",
+      "optional_title": "El Exorcista ",
+      "web_calification": 8.64,
+      "year": 1973,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RvpP6I11vDk",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
+      "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine.",
+      "universe": "The Exorcist",
+      "director": "William Friedkin"
+     },
+     {
+      "id": 285,
       "title": "The Exorcist ",
       "optional_title": "El Exorcista",
       "web_calification": 7.74,
@@ -3688,7 +3622,31 @@ export const data = [
       "universe": "The Exorcist"
      },
      {
-      "id": 299,
+      "id": 286,
+      "title": "The Exorcist 3",
+      "optional_title": "El Exorcista 3 ",
+      "web_calification": 6.23,
+      "year": 1990,
+      "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
+      "sinopsis": "A seemingly-endless series of grisly killings that bear the trademark of the mass murderer the Gemini Killer, terrorizes the district of Georgetown. To further complicate matters, although it's been 17 long years since the killer's execution and that fatal night of pure terror in The Exorcist (1973), skeptical police officer Lieutenant William F. Kinderman is still obsessed with solving the baffling case, as the death toll keeps rising. In the meantime, in the city's high-security psychiatric institution, a cryptic inmate who bears an uncanny resemblance to the late Father Damien Karras emerges from his deep catatonic state, claiming that he has all the answers Kinderman needs. But, who is the mysterious Patient X? Does the same unholy force that tormented Regan MacNeil have something to do with the brutal demonic murders?",
+      "universe": "The Exorcist",
+      "director": "William Peter Blatty"
+     },
+     {
+      "id": 287,
+      "title": "The Exorcist Director's Cut",
+      "optional_title": "El Exorcista Montaje del Director ",
+      "year": 2000,
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "The Exorcist"
+     },
+     {
+      "id": 288,
       "title": "The Eye",
       "optional_title": "El Ojo ",
       "web_calification": 7.39,
@@ -3701,7 +3659,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 300,
+      "id": 289,
+      "title": "The Fly",
+      "optional_title": "La Mosca ",
+      "web_calification": 7.91,
+      "year": 1986,
+      "trailer": "https:\/\/www.youtube.com\/embed\/QLK0wXXayhs",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/i.pinimg.com\/originals\/1d\/40\/01\/1d400110b495338e5598495022540f5c.jpg",
+      "universe": "None",
+      "director": "David Cronenberg"
+     },
+     {
+      "id": 290,
       "title": "The Fog",
       "optional_title": "Terror en la Niebla",
       "web_calification": 4.74,
@@ -3712,7 +3683,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 301,
+      "id": 291,
       "title": "The Forgotten Ones",
       "optional_title": "La Isla de los Caníbales \/ The Tribe \/ La Tribu",
       "web_calification": 5.45,
@@ -3723,7 +3694,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 302,
+      "id": 292,
       "title": "The Fourth Kind (The 4th Kind)",
       "optional_title": "Contactos de Cuarto Tipo \/ El Cuarto Contacto",
       "web_calification": 6.69,
@@ -3736,7 +3707,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 303,
+      "id": 293,
       "title": "The Gallows",
       "optional_title": "La Horca ",
       "web_calification": 5.65,
@@ -3747,7 +3718,62 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 304,
+      "id": 294,
+      "title": "The Gathering",
+      "optional_title": "Los Testigos",
+      "web_calification": 6.59,
+      "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/JXeyML5OWys",
+      "clasification": "movie",
+      "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2001\/6\/w1280\/1naDbrrcE0hIG1f3CuU9HzHsz1d.jpg",
+      "sinopsis": "While going to the town of Ashby Wake, the drifter Cassie is hit by a car driven by Marion Kirkman and loses her memory. Marion invites Cassie to stay in her huge old house with her family, while recovering from the trauma. Cassie becomes very close to Michael, the young son of Marion's husband Simon Kirkman. He is researching a recently discovered buried church from the First Century, with images of the crucifixion of Jesus and many anonymous persons watching it. Cassie starts having visions and premonitions with some locals, and decides to investigate the weird and nasty mechanic Frederick Michael Argyle. Her findings about who she is and the mystery relative to the locals and the town surprises her.",
+      "universe": "None",
+      "director": "Brian Gilbert"
+     },
+     {
+      "id": 295,
+      "title": "The Grudge",
+      "optional_title": "El Grito ",
+      "web_calification": 6.95,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/IITyDuprZYQ",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1819_29.jpg",
+      "sinopsis": "El Grito es una película de terror basada en el éxito japonés Ju-On: The Grudge. La historia se centra en una casa de Tokio que está maldita por una plaga sobrenatural que mata a todos los que entran en contacto con ella. Karen, una estudiante estadounidense de trabajo social, se ve involucrada en el círculo de muerte cuando visita la casa para cuidar a una anciana enferma. Allí descubre el origen de la maldición y trata de detenerla antes de que sea demasiado tarde.",
+      "universe": "The Grudge",
+      "director": "Takashi Shimizu"
+     },
+     {
+      "id": 296,
+      "title": "The Grudge 2",
+      "optional_title": "El Grito 2",
+      "web_calification": 6.49,
+      "year": 2006,
+      "trailer": "https:\/\/www.youtube.com\/embed\/7fcJZqJfdfw",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3834_98.jpg",
+      "sinopsis": "In Pasadena, Mrs. Davis sends her daughter Aubrey Davis to Tokyo to bring her sister Karen Davis, who is interned in a hospital after surviving a fire, back to the USA. After their meeting, Karen dies and Aubrey decides to investigate what happened to her and gets herself trapped in the same situation, being chased by the ghost of the house. Meanwhile in Tokyo, the three high school mates Allison, Vanessa and Miyuki visit the famous haunted house and are also chased by the ghost. In Chicago, Trish moves to the apartment of her boyfriend Bill, who lives with his children, the teenager Lacey and boy Jake. On the next door, weird things happen with their neighbor.",
+      "universe": "The Grudge",
+      "director": "Takashi Shimizu"
+     },
+     {
+      "id": 297,
+      "title": "The Hallow",
+      "optional_title": "Los Hijos del Diablo",
+      "web_calification": 5.7,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/dH3NCjfr7n4",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.utC1A4YjVk0L0Dh-7HmFOgHaK8?pid=ImgDet&rs=1",
+      "sinopsis": "A couple and their infant move into the backwoods. The husband, an expert in microbiology, has come to inspect the trees for clearance. He is warned by the locals not to trespass the forests as the \"hallows\" will trespass into his house and steal his baby. One night the window of the infant's room is broken, but the local cop assures the couple not to worry, some bird must have done it. But things get dreadful as the mystery unfolds.",
+      "add_date": "2023-06-28",
+      "universe": "None",
+      "director": "Corin Hardy"
+     },
+     {
+      "id": 298,
       "title": "The Haunting ",
       "optional_title": "La Maldición \/ La Guarida",
       "web_calification": 6.23,
@@ -3758,7 +3784,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 305,
+      "id": 299,
       "title": "The Haunting in Connecticut",
       "optional_title": "Exorcismo en Connecticut",
       "web_calification": 6.72,
@@ -3769,7 +3795,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 306,
+      "id": 300,
       "title": "The Haunting of Bly Manor ",
       "optional_title": "La Maldición de Bly Manor",
       "web_calification": 7.72,
@@ -3781,7 +3807,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 307,
+      "id": 301,
       "title": "The Haunting of Hill House ",
       "optional_title": "La Maldición de Hill House",
       "web_calification": 8.12,
@@ -3794,7 +3820,46 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 308,
+      "id": 302,
+      "title": "The Hills Have Eyes 2",
+      "optional_title": "Las Colinas Tienen Ojos 2 ",
+      "web_calification": 5.1,
+      "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/xNms2gGtA6c",
+      "clasification": "movie",
+      "cover": "https:\/\/i.pinimg.com\/736x\/e0\/f3\/3f\/e0f33ff8c190a0099a4b8267bda6a743.jpg",
+      "sinopsis": "A team of trainees of the National Guard brings supply to the New Mexico Desert for a group of soldiers and scientists that are installing a monitoring system in Sector 16. They do not find anybody in the camp, and they receive a blurred distress signal from the hills. Their sergeant gathers a rescue team, and they are attacked and trapped by deformed cannibals, having to fight to survive.",
+      "universe": "The Hills Have Eyes",
+      "director": "Martin Weisz"
+     },
+     {
+      "id": 303,
+      "title": "The Hills Have Eyes: Remake",
+      "optional_title": "Las Colinas Tienen Ojos",
+      "web_calification": 6.4,
+      "year": 2006,
+      "trailer": "https:\/\/www.youtube.com\/embed\/K61SoAJ8Uto",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.P0OMsZipp2sl-iQFMw6WZgHaKf?pid=ImgDet&rs=1",
+      "sinopsis": "While celebrating their 30th wedding anniversary, a couple are traveling through the desert with their 3 children, son in law and their baby granddaughter. While the rest of the family agrees there are plenty of better and more appropriate things to do to celebrate an anniversary, they make do with what they have, but things take a turn after a sketchy gas station attendant informs them about a \"short cut\" that will take them in between a series of hills in the desert. It doesn't take too long before they realize they're not alone and the hills indeed do have eyes.",
+      "universe": "The Hills Have Eyes",
+      "director": "Alexandre Aja"
+     },
+     {
+      "id": 304,
+      "title": "The House of Wax",
+      "optional_title": "La Casa de Cera",
+      "web_calification": 7.05,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/-DnFKwVcM10",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2267_53.jpg",
+      "sinopsis": "Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles, so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town, the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax.",
+      "universe": "None"
+     },
+     {
+      "id": 305,
       "title": "The Houses That October Built",
       "web_calification": 4.64,
       "year": 2014,
@@ -3805,7 +3870,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 309,
+      "id": 306,
       "title": "The Invisible Man",
       "optional_title": "El Hombre Invisible",
       "web_calification": 6.81,
@@ -3816,7 +3881,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 310,
+      "id": 307,
       "title": "The Invitation",
       "optional_title": "La Invitación",
       "web_calification": 6.8,
@@ -3824,22 +3889,38 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/6AoDnFGrWxM",
       "clasification": "movie",
       "cover": "https:\/\/pics.filmaffinity.com\/La_invitaciaon-305606357-large.jpg",
+      "sinopsis": "Will and Eden were once a loving couple. After a tragedy took their son, Eden disappeared. Two years later, out of the blue, she returns with a new husband... and as a different person, eerily changed and eager to reunite with her ex and those she left behind. Over the course of a dinner party in the house that was once his, the haunted Will is gripped by mounting evidence that Eden and her new friends have a mysterious and terrifying agenda. But can we trust Will's hold on reality? Or will he be the unwitting catalyst of the doom he senses?",
+      "universe": "None",
+      "director": "Karyn Kusama"
+     },
+     {
+      "id": 308,
+      "title": "The Island of Dr. Moreau ",
+      "optional_title": "La Isla del Doctor Moreau ",
+      "web_calification": 5.35,
+      "year": 1996,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ukpB6MtLdLA",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Set in the year 2010, Dr. Moreau has successfully combined human and animal DNA to make a crossbreed animal. Well, as usual, something goes wrong and David Thewlis must try to stop it before it is too late. Originally rated R, but cut by Frankenheimer to allow \"a wider audience\".",
       "universe": "None"
      },
      {
-      "id": 311,
+      "id": 309,
       "title": "The Last Exorcism",
       "optional_title": "El ultimo exoscirmo",
       "web_calification": 5.87,
       "year": 2010,
       "trailer": "https:\/\/www.youtube.com\/embed\/odn_ElyHcj4",
       "clasification": "movie",
-      "gender": "posesiones",
+      "gender": "possessions",
       "cover": "https:\/\/alchetron.com\/cdn\/The-Last-Exorcism-images-196e7b89-2e6e-47fa-a4ba-d4e915fa011.jpg",
-      "universe": "None"
+      "sinopsis": "In Baton Rouge, Louisiana, the evangelical Reverend Cotton Marcus was raised by his father to be a preacher. He agrees that the filmmaker Iris Reisen and the cameraman Daniel Moskowitz make a documentary about his life. Cotton tells that when his wife Shanna Marcus had troubles in the delivery of their son Justin, he prioritized the doctor help to God and since then he questions his faith. Further, he tells that exorcisms are frauds but the results are good for the believers because they believe it is true. When Cotton is summoned by the farmer Louis Sweetzer to perform an exorcism in his daughter Nell, Cotton sees the chance to prove to the documentary crew what he has just told. They head to Ivanwood and they have a hostile reception from Louis's son Caleb. Cotton performs the exorcism in Nell, exposing his tricks to the camera, but sooner they learn that the dysfunctional Sweetzer family has serious problems.",
+      "universe": "None",
+      "director": "Daniel Stamm"
      },
      {
-      "id": 312,
+      "id": 310,
       "title": "The last of us",
       "optional_title": "The last of us",
       "web_calification": 8.02,
@@ -3848,10 +3929,12 @@ export const data = [
       "clasification": "serie",
       "gender": "zombies",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg",
-      "universe": "None"
+      "sinopsis": "20 years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal heartbreaking journey as they both must traverse the U.S. and depend on each other for survival.",
+      "universe": "None",
+      "director": "Neil Druckmann - Craig Mazin"
      },
      {
-      "id": 313,
+      "id": 311,
       "title": "The Manor",
       "optional_title": "The Manor",
       "web_calification": 6.04,
@@ -3861,7 +3944,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 314,
+      "id": 312,
       "title": "The Maus",
       "optional_title": "Maus",
       "web_calification": 4.36,
@@ -3873,7 +3956,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 315,
+      "id": 313,
       "title": "The Medium",
       "optional_title": "The Medium",
       "web_calification": 6.2,
@@ -3883,7 +3966,20 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 316,
+      "id": 314,
+      "title": "The Messengers",
+      "optional_title": "Los Mensajeros ",
+      "web_calification": 6.44,
+      "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/UYfy8pYXXko",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.c5cd42a41fdbadc0d736f0c904825e91?rik=2V%2f667hZb89dgQ&pid=ImgRaw&r=0",
+      "sinopsis": "It's been six years since the Rollins family just up and left and now the troubled Solomon family has come from Chicago, to rebuild their lives following their sons hospitalization due to their daughter's drunk driving accident. But as they start to settle in something odd and strange begins to occur to their son. Could something supernatural be at work, and did the previous family just leave...or are they still here? Trapped in the only place they've ever known? And what did cause their deaths? Most of all...is this 'killer' still very much alive?",
+      "universe": "None",
+      "director": "Danny Pang - Oxide Chun Pang"
+     },
+     {
+      "id": 315,
       "title": "The Monster",
       "web_calification": 5.9,
       "year": 2016,
@@ -3892,6 +3988,20 @@ export const data = [
       "gender": "monsters",
       "cover": "https:\/\/cdn.flickeringmyth.com\/wp-content\/uploads\/2018\/09\/The-Monster-1.jpg",
       "universe": "None"
+     },
+     {
+      "id": 316,
+      "title": "The Mothman Prophecies",
+      "optional_title": "El Mensajero De La Oscuridad",
+      "web_calification": 6.38,
+      "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/hVP6sBN07L8",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_136_76.jpg",
+      "sinopsis": "John Klein (Richard Gere) is involved in a car accident with his wife, but while he is unharmed, his wife mentions a moth-shaped creature appearing. After her death, John begins to investigate the secrets behind this mentioned Mothman. It takes him to the small town of Point Pleasant, West Virginia, where he discovers a connection with the same problem. Here he meets Connie Mills (Laura Linney), while he continues to unravel the mystery of what the Mothman really is",
+      "universe": "None",
+      "director": "Mark Pellington"
      },
      {
       "id": 317,
@@ -3919,536 +4029,6 @@ export const data = [
      },
      {
       "id": 319,
-      "title": "The Orphan",
-      "optional_title": "La Huérfana",
-      "web_calification": 7.57,
-      "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/embed\/gsHuk7EARdA",
-      "clasification": "movie",
-      "gender": "Thriller",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg",
-      "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009.",
-      "universe": "None"
-     },
-     {
-      "id": 320,
-      "title": "The Other Side of the Door ",
-      "optional_title": "El Otro Lado de la Puerta ",
-      "web_calification": 5.64,
-      "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/embed\/_y2R8deSAl0",
-      "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 321,
-      "title": "The Posession",
-      "optional_title": "The Posession: El Origen del Mal \/ Posesión Satánica",
-      "web_calification": 6.44,
-      "year": 2012,
-      "clasification": "movie",
-      "gender": "posesiones",
-      "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 322,
-      "title": "The Quiet Ones",
-      "optional_title": "It's Always the Quiet Ones (Hush)",
-      "web_calification": 5.4,
-      "year": 2010,
-      "trailer": "https:\/\/www.youtube.com\/embed\/1GNyQusclgw",
-      "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 323,
-      "title": "The Relic",
-      "web_calification": 6.34,
-      "year": 1995,
-      "trailer": "https:\/\/www.youtube.com\/embed\/wWOvGPP3itc",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 324,
-      "title": "The Rite",
-      "optional_title": "El Rito",
-      "web_calification": 6.43,
-      "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/embed\/iUUk0UxajAU",
-      "clasification": "movie",
-      "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 325,
-      "title": "The Ruins",
-      "optional_title": "Las Ruinas",
-      "web_calification": 6.67,
-      "year": 2008,
-      "trailer": "https:\/\/www.youtube.com\/embed\/BpuHvtZjOBM",
-      "clasification": "movie",
-      "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 326,
-      "title": "The Shining",
-      "optional_title": "El Resplandor ",
-      "web_calification": 8.45,
-      "year": 1980,
-      "trailer": "https:\/\/www.youtube.com\/embed\/-Nbez_uIpwA",
-      "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg",
-      "sinopsis": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?",
-      "universe": "None"
-     },
-     {
-      "id": 327,
-      "title": "The Silent House",
-      "optional_title": "La Casa Muda ",
-      "web_calification": 5.75,
-      "year": 2011,
-      "trailer": "https:\/\/www.youtube.com\/embed\/VD88EFBFuos",
-      "clasification": "movie",
-      "gender": "Mistery",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.SyYovuKrndfeOL9EcPU6ZgHaK-?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 328,
-      "title": "The Sixth Sense",
-      "optional_title": "Sexto Sentido ",
-      "web_calification": 8.04,
-      "year": 1999,
-      "trailer": "https:\/\/www.youtube.com\/embed\/qGvYZ6Uccmg",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/imgc.allpostersimages.com\/img\/print\/u-g-ELCPO0.jpg?w=550&h=550&p=0",
-      "sinopsis": "The Sixth Sense is a 1999 American supernatural thriller film written and directed by M. Night Shyamalan. It stars Bruce Willis as a child psychologist who tries to help a young boy who claims to see dead people. The film explores themes of death, grief, faith and redemption, and features a twist ending that shocked audiences and critics alike. The Sixth Sense was a huge commercial and critical success, becoming one of the highest-grossing films of all time and earning six Academy Award nominations, including Best Picture, Best Director and Best Original Screenplay.",
-      "universe": "None"
-     },
-     {
-      "id": 329,
-      "title": "The Sphere",
-      "optional_title": "Esfera",
-      "web_calification": 6.45,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/hUzlUSUCWDU",
-      "clasification": "movie",
-      "cover": "https:\/\/m.media-amazon.com\/images\/I\/71sKDn3FxnL._AC_UF894,1000_QL80_.jpg",
-      "sinopsis": "La película The Sphere del año 2022 es un remake de la película homónima de 1998, basada en la novela de Michael Crichton. La trama gira en torno a un grupo de científicos que son enviados a investigar una misteriosa esfera metálica que se encuentra en el fondo del océano Pacífico. La esfera resulta ser una nave espacial extraterrestre que tiene el poder de materializar los pensamientos y los miedos de las personas que entran en contacto con ella. Los científicos tendrán que enfrentarse a sus propios demonios y a los peligros que acechan en las profundidades marinas, mientras intentan descubrir el origen y el propósito de la esfera.",
-      "universe": "None"
-     },
-     {
-      "id": 330,
-      "title": "The Strangers",
-      "optional_title": "Los Extraños",
-      "web_calification": 6.49,
-      "year": 2008,
-      "trailer": "https:\/\/www.youtube.com\/embed\/VWFxJzsfKX8",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 331,
-      "title": "The Tag-Along",
-      "web_calification": 5.49,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/jKKTgYrCOHM",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 332,
-      "title": "The Turning",
-      "optional_title": "Otra Vuelta de Tuerca \/ Presencias del Mal",
-      "web_calification": 4.31,
-      "year": 2020,
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.JVhU4lyjxShXx2P-V1rfogHaLu?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 333,
-      "title": "The Uninvited",
-      "optional_title": "La Maldición de las Hermanas \/ Presencias Extrañas",
-      "web_calification": 6.86,
-      "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/embed\/GjGnCa0XYhY",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 334,
-      "title": "The Veil",
-      "optional_title": "El Velo",
-      "web_calification": 5.66,
-      "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/embed\/KfAV8eVhtmY",
-      "clasification": "movie",
-      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/1\/8\/0\/8\/7\/2\/180872-the-veil-0-460-0-690-crop.jpg?k=a8ec65a801",
-      "universe": "None"
-     },
-     {
-      "id": 335,
-      "title": "The Village",
-      "optional_title": "La Aldea ",
-      "web_calification": 6.49,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/TpyU0hOqJUI",
-      "clasification": "movie",
-      "gender": "terror_psicologico",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_147_26.jpg",
-      "sinopsis": "M Night Shyamalan's The Village revolves around a desolate town in Pennsylvania. The residents of this town live by strict rules - They are not to leave the village or the monsters beyond their boundaries will surely attack them. Lucius and Ivy have an attraction - a strong one. But when Noah - a man with an intellectual disability and who also has feelings for Ivy, finds out that the two are In love, Noah attacks Lucius. He will die if brave Ivy (who is blind) does not breach the borders and find help to save Lucius.",
-      "universe": "None"
-     },
-     {
-      "id": 336,
-      "title": "The Visit",
-      "optional_title": "La Visita \/ Los Huéspedes",
-      "web_calification": 6.38,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/m4aRBXsZ2I4",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd32ddd0df71bd2db7b97c307f9a01b3?rik=mvG2Rw0nvlNvlw&pid=ImgRaw&r=0",
-      "universe": "None"
-     },
-     {
-      "id": 337,
-      "title": "The Wicker Man (Remake)",
-      "optional_title": "Culto Siniestro \/ El Hombre de Mimbre",
-      "web_calification": 5.25,
-      "year": 2006,
-      "trailer": "https:\/\/www.youtube.com\/embed\/rMUVNtKYOpU",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&rs=1",
-      "sinopsis": "A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.",
-      "universe": "None"
-     },
-     {
-      "id": 338,
-      "title": "The Wishmaster",
-      "web_calification": 6.81,
-      "year": 1997,
-      "trailer": "https:\/\/www.youtube.com\/embed\/aJgl3uoxXc0",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/sNhUI2F0nepQMkCIMu6whVixj6F.jpg",
-      "sinopsis": "La película The Wishmaster del año 2022 es un remake del clásico de terror de 1997, que narra el regreso a la tierra de un demonio maligno llamado Djinn. El Djinn es liberado accidentalmente por una mujer que encuentra una antigua joya en una subasta. El Djinn comienza a conceder deseos terribles y a sembrar el caos, mientras busca a la mujer que lo liberó para cumplir su deseo final y desatar el infierno en la tierra. La única esperanza para detenerlo es un experto en antigüedades que conoce el origen y el poder de la joya maldita. La película está protagonizada por Tom Hardy como el Djinn, Emily Blunt como la mujer que lo libera y Benedict Cumberbatch como el experto en antigüedades.",
-      "universe": "None"
-     },
-     {
-      "id": 339,
-      "title": "The Wishmaster 2: Evil Never Dies",
-      "optional_title": "Wishmaster 2: El Mal Nunca Muere",
-      "web_calification": 5.62,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/9ZbEvMdPh5A",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 340,
-      "title": "The Woman in Black",
-      "optional_title": "La Dama de Negro",
-      "web_calification": 6.83,
-      "year": 2012,
-      "trailer": "https:\/\/www.youtube.com\/embed\/k5pw1I95DLk",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&rs=1",
-      "sinopsis": "In London, solicitor Arthur Kipps still grieves over the death of his beloved wife Stella on the delivery of their son Joseph four years before. His employer gives him a last chance to keep his job, and he is assigned to travel to the remote village of Crythin Gifford to examine the documentation of the Eel Marsh House that belonged to the recently deceased Mrs. Drablow. Arthur befriends Daily on the train and the man offers a ride to him to the Gifford Arms inn. Arthur has a cold reception and the owner of the inn tells that he did not receive the request of reservation and there is no available room. The next morning, Arthur meets solicitor Jerome who advises him to return to London. However, Arthur goes to the isolated manor and soon he finds that Eel Marsh House is haunted by the vengeful ghost of a woman dressed in black. He also learns that the woman lost her son, drowned in the marsh, and she seeks revenge, taking the children of the terrified locals.",
-      "universe": "The Woman in Black"
-     },
-     {
-      "id": 341,
-      "title": "The Woman in Black 2: Angels to Death",
-      "optional_title": "La Dama de Negro 2: Angel de la Muerte",
-      "web_calification": 4.98,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/UoSfwAYFWbo",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg",
-      "sinopsis": "40 years after Arthur Kipps' experience at Eel Marsh house, a group of children under the care of two women, escaping from war-torn London, arrive to the house and become the next target for The Woman in Black. With the help of a fellow soldier, the women and children must fend off the spirit, and end her presence once and for all.",
-      "universe": "The Woman in Black"
-     },
-     {
-      "id": 342,
-      "title": "There's Someone Inside Your House",
-      "optional_title": "Hay Alguien en tu Casa ",
-      "web_calification": 5.03,
-      "year": 2021,
-      "trailer": "https:\/\/www.youtube.com\/embed\/g0zWb60b-W4",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&pid=ImgRaw&r=0",
-      "universe": "None"
-     },
-     {
-      "id": 343,
-      "title": "Tremors",
-      "optional_title": "Temblores",
-      "web_calification": 7.49,
-      "year": 1990,
-      "trailer": "https:\/\/www.youtube.com\/embed\/BFX0y6rR2mg",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&rs=1",
-      "sinopsis": "Trying to escape their dead-end life in the desert town of Perfection, Nevada, Valentine \"Val\" McKee and Earl Bassett find themselves sidetracked when corpses mysteriously start piling up around them. When Val and Earl have a run-in with some creepy tentacled creatures that have made lunch out of a road crew, they retreat back to the town to spread the news. Although these monsters are not exactly intellectuals, their mental powers are still mind-boggling. Detecting a human hiding in a car, they dig under the vehicle, causing it to sink into the earth. Val and Earl get help from several townspeople. With the help of Rhonda, Val and Earl kill one of the monsters. But there are three of them left, and they are each about 30 feet long. Walter starts calling the monsters graboids. When the survivors think they have outwitted the graboids by taking refuge atop the roofs of buildings, the graboids merely destroy the buildings' foundations, killing two people. The graboids are quick learners when it comes to stalking their prey, and the humans must continually be on their toes if they are to stay alive while they try to find a way to defeat the graboids.",
-      "universe": "None"
-     },
-     {
-      "id": 344,
-      "title": "Una Llamada Perdida (Remake)",
-      "optional_title": "One Miss Call (Remake)",
-      "web_calification": 5.62,
-      "year": 2008,
-      "trailer": "https:\/\/www.youtube.com\/embed\/I1F7hJNsi5M",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&rs=1",
-      "sinopsis": "After the death of their friend Shelley, Leann Cole receives a voice mail from the future of the date and time when she would die. On the scheduled day, Leann sees weird things and in the precise informed hour, Leann is attacked by a supernatural force on a footbridge over a train station while talking to her friend Beth Raymond. Beth meets Leann's boyfriend Brian, who also received a call, and witnesses his death on the street. When her roommate Taylor Anthony receives a call, Beth befriends Det. Jack Andrews, who tells her that his sister was the first victim of the phone call. They decide to investigate the connections of Jack's sister and find the name of Marie Layton, who apparently abused of her daughters. Jack and Beth run against time trying to save Beth from her fate.",
-      "universe": "None"
-     },
-     {
-      "id": 345,
-      "title": "Unfriended",
-      "optional_title": "Eliminado \/ Eliminar Amigo \/ Cybernatural",
-      "web_calification": 5.85,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/v6xkax8f6ls",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 346,
-      "title": "Unrest",
-      "optional_title": "Sin Descanso",
-      "web_calification": 4.78,
-      "year": 2006,
-      "trailer": "https:\/\/www.youtube.com\/embed\/VUgL_EF8V2E",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&pid=ImgRaw&r=0",
-      "universe": "None"
-     },
-     {
-      "id": 347,
-      "title": "Urban Leyend",
-      "optional_title": "Leyendas Urbanas",
-      "web_calification": 6.93,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/vVLD7BdzxbM",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/4\/6\/7\/5\/6\/46756-urban-legend-0-460-0-690-crop.jpg?k=b0aa7edc52",
-      "universe": "None"
-     },
-     {
-      "id": 348,
-      "title": "Urban Leyend 2",
-      "optional_title": "Leyendas Urbanas 2",
-      "web_calification": 5.69,
-      "year": 2000,
-      "trailer": "https:\/\/www.youtube.com\/embed\/uKXUYqKEhxk",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 349,
-      "title": "V\/H\/S",
-      "optional_title": "Las Crónicas del miedo",
-      "web_calification": 6.27,
-      "year": 2012,
-      "trailer": "https:\/\/www.youtube.com\/embed\/M0qXz2YjJKI",
-      "clasification": "movie",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
-      "sinopsis": "This is an anthology of horror episodes that are tied together with one main story. It's about a group of guys who go round filming their crimes on tape. They are hired to do a \"job\" for an unknown accomplice. They have to break in to a house and steal a V\/H\/S tape with something on it, but they aren't told what it is. While in the said house they find way more than just one tape, so they grab as many as they can and they start watching them while in the house. But what they see on these tapes is more than they can handle, and it's also hard to believe. But will it cost them more than they bargained for?",
-      "universe": "None"
-     },
-     {
-      "id": 350,
-      "title": "V\/H\/S 2",
-      "optional_title": "Las Crónicas del miedo 2",
-      "web_calification": 6.82,
-      "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/embed\/pDohVEonZ7A",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1",
-      "sinopsis": "Continuing the saga of POV madness, dread, and gore documented in V\/H\/S (2012), this new found-footage horror anthology delves deeper into terrifying uncharted territories. Starting with \"Tape 49\", a team of private investigators breaks into the house of a missing student, only to discover a mountain of VHS tapes brimming with disturbing raw footage. Then, in \"Phase I Clinical Trials\", a state-of-the-art optical implant bestows poor Herman with unwanted supernatural-detecting abilities, and in \"A Ride in the Park\", an extreme biking enthusiast finds himself confronted with an all-out zombie apocalypse. Next, in \"Safe Haven\", a four-member film crew infiltrates a secret Indonesian cult and unearths horrific, reality-defying revelations. Finally, in \"Slumber Party Alien Abduction\", a sleepover at a lakeside house goes awry when malevolent extraterrestrials crash the party.",
-      "universe": "None"
-     },
-     {
-      "id": 351,
-      "title": "Valentine",
-      "optional_title": "Un San Valentín de muerte",
-      "web_calification": 6.25,
-      "year": 2001,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ax6kqQQ7qAk",
-      "clasification": "movie",
-      "gender": "slasher",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 352,
-      "title": "Van Helsing",
-      "web_calification": 6.68,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/fWSmGESmvOM",
-      "clasification": "movie",
-      "gender": "monsters",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 353,
-      "title": "Vanishing on 7th street",
-      "optional_title": "La Oscuridad",
-      "web_calification": 5.53,
-      "year": 2010,
-      "clasification": "movie",
-      "cover": "https:\/\/2.bp.blogspot.com\/-dEjOP48dtM8\/TY9MSArSWsI\/AAAAAAAAAIg\/tQQHvLiidZg\/s1600\/Vanishing+on+7th+Street+%25282010%2529.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 354,
-      "title": "Verónica",
-      "optional_title": "Verónica",
-      "web_calification": 6.9,
-      "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/embed\/wNlMIvKnjOQ",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&rs=1",
-      "universe": "None"
-     },
-     {
-      "id": 355,
-      "title": "Viaje a las Tinieblas",
-      "optional_title": "Riding the Bullet",
-      "web_calification": 6.24,
-      "year": 2004,
-      "trailer": "https:\/\/www.youtube.com\/embed\/RdlCnaz4AAA",
-      "clasification": "movie",
-      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg",
-      "universe": "None"
-     },
-     {
-      "id": 356,
-      "title": "Wes Craven's New Nightmare",
-      "optional_title": "Pesadilla 7 La Ultima Pesadilla ",
-      "web_calification": 6.37,
-      "year": 1994,
-      "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
-      "clasification": "movie",
-      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg",
-      "universe": "Freddy",
-      "director": "Wes Craven"
-     },
-     {
-      "id": 357,
-      "title": "White Noise",
-      "optional_title": "Voces del más allá",
-      "web_calification": 6.06,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/-9Qi9EoMuh8",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg",
-      "universe": "None",
-      "director": "Geoffrey Sax"
-     },
-     {
-      "id": 358,
-      "title": "White Noise 2",
-      "optional_title": "Voces del más allá 2",
-      "web_calification": 6.21,
-      "year": 2007,
-      "trailer": "https:\/\/www.youtube.com\/embed\/jEM9UAFcpLo",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE",
-      "universe": "None",
-      "director": "Patrick Lussier"
-     },
-     {
-      "id": 359,
-      "title": "Winchester: The House that Ghosts Built ",
-      "optional_title": "Winchester: La Casa que Construyeron los Espíritus",
-      "web_calification": 5.3,
-      "year": 2018,
-      "trailer": "https:\/\/www.youtube.com\/embed\/29ki8Op2lSQ",
-      "clasification": "movie",
-      "gender": "paranormal",
-      "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg",
-      "universe": "None",
-      "director": "Michael Spierig - Peter Spierig"
-     },
-     {
-      "id": 360,
-      "title": "Wrong Turn 3 - Left for Dead",
-      "optional_title": "Camino Sangirneto 3 \/ Camino hacia el Terror 3",
-      "web_calification": 6.21,
-      "year": 2009,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Sqb8rTnysTQ",
-      "clasification": "movie",
-      "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg",
-      "universe": "None",
-      "director": "Declan O'Brien"
-     },
-     {
-      "id": 361,
-      "title": "X",
-      "optional_title": "X",
-      "web_calification": 6.66,
-      "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Awg3cWuHfoc",
-      "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg",
-      "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección.",
-      "universe": "None",
-      "director": "Ti West"
-     },
-     {
-      "id": 362,
-      "title": "Ouija: Origin of Evil",
-      "optional_title": "Ouija: El comienzo",
-      "web_calification": 6.2,
-      "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/embed\/MJIcZGEjjwo",
-      "clasification": "movie",
-      "cover": "https:\/\/i1.wp.com\/cinemedios.com\/wp-content\/uploads\/2016\/10\/ouija2_alta.jpg?resize=640%2C913&ssl=1",
-      "sinopsis": "In 1967 Los Angeles, a young widow named Alice Zander works out of her suburban home as a spiritual medium, accompanied by her daughters, 15-year-old Paulina \"Lina\" and 9-year old Doris. The family is still reeling over the recent death of Roger, Alice's husband and the kids' father. At Lina's suggestion, Alice incorporates a Ouija board into her readings. While trying out the board, she unknowingly contacts a spirit named Marcus that begins to possess Doris. Alice receives a notice that the bank intends to foreclose on their home. Doris contacts the board for help, believing she is communicating with her dead father. The spirit leads her to a secret compartment behind the basement wall containing a pouch of cash. When she gives the money to her mother, the family has an Ouija session, believing they can contact Roger. When the board answers a question only Roger would know the answer to, a thrilled Alice begins believing that they are in contact with her dead husband..",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Mike Flanagan"
-     },
-     {
-      "id": 363,
-      "title": "Fear Street: 1666",
-      "optional_title": "Fear Street: Part Three - 1666",
-      "web_calification": 6.6,
-      "year": 2021,
-      "trailer": "https:\/\/www.youtube.com\/embed\/Ot5H2MFp_dw",
-      "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Pr2s5s8Y9pl225jhgQQweQHaK9?pid=ImgDet&rs=1",
-      "sinopsis": "1666. An unspeakable evil has cast its unholy shadow over Union, the original settlement before its division into Sunnyvale and Shadyside, ushering in a new era of misfortune and terror. In the aftermath of the brutal mall killings in Fear Street: Part One - 1994 (2021), Deena finds herself plagued by vivid, blood-curdling visions of death and decay, forcing Cindy Berman, the only one who saw the sorceress and survived, after the bloody Camp Nightwing massacre in Fear Street: Part Two - 1978 (2021), to step in. Now, there is no turning back, and until body and hand unite, no one is safe from the fiery curse of damned Sarah Fier. But evil has no boundaries. What will it take to rid Shadyside of the witch's sin?",
-      "add_date": "2023-06-28",
-      "universe": "Fear Street",
-      "director": "Leigh Janiak"
-     },
-     {
-      "id": 364,
       "title": "The Open House",
       "optional_title": "Puertas Abiertas",
       "web_calification": 3.3,
@@ -4461,59 +4041,637 @@ export const data = [
       "director": "Matt Angel - Suzanne Coote"
      },
      {
-      "id": 365,
-      "title": "The Hallow",
-      "optional_title": "Los Hijos del Diablo",
-      "web_calification": 5.7,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/dH3NCjfr7n4",
+      "id": 320,
+      "title": "The Orphan",
+      "optional_title": "La Huérfana",
+      "web_calification": 7.57,
+      "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/gsHuk7EARdA",
       "clasification": "movie",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.utC1A4YjVk0L0Dh-7HmFOgHaK8?pid=ImgDet&rs=1",
-      "sinopsis": "A couple and their infant move into the backwoods. The husband, an expert in microbiology, has come to inspect the trees for clearance. He is warned by the locals not to trespass the forests as the \"hallows\" will trespass into his house and steal his baby. One night the window of the infant's room is broken, but the local cop assures the couple not to worry, some bird must have done it. But things get dreadful as the mystery unfolds.",
-      "add_date": "2023-06-28",
+      "gender": "thriller",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/q8icPVro0MYLTXbttS1KMpdQntP.jpg",
+      "sinopsis": "The Orphan is a psychological horror movie from 2009 directed by Jaume Collet-Serra and starring Vera Farmiga, Peter Sarsgaard and Isabelle Fuhrman. The film tells the story of a couple who adopt a girl but behind her sweet appearance, she hides a dark secret. The Orphan was produced by Joel Silver and Susan Downey, from Dark Castle Entertainment, by Leonardo DiCaprio and Jennifer Davisson Killoran, from Appian Way Productions. The movie was released in theaters in the United States on July 24, 2009.",
+      "universe": "None"
+     },
+     {
+      "id": 321,
+      "title": "The Other Side of the Door ",
+      "optional_title": "El Otro Lado de la Puerta ",
+      "web_calification": 5.64,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_y2R8deSAl0",
+      "clasification": "movie",
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjE2MTk4NzkzOF5BMl5BanBnXkFtZTgwNjk3OTAyODE@._V1_FMjpg_UX1000_.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 322,
+      "title": "The Others",
+      "optional_title": "Los Otros ",
+      "web_calification": 7.84,
+      "year": 2001,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vON5kiGf1TI",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/media.filmelier.com\/images\/filmes\/cartaz\/1868-the-others.png",
+      "sinopsis": "A woman named Grace retires with her two children to a mansion on Jersey, towards the end of the Second World War, where she's waiting for her husband to come back from battle. The children have a disease which means they cannot be touched by direct sunlight without being hurt in some way. They will live alone there with oppressive, strange and almost religious rules, until she needs to hire a group of servants for them. Their arrival will accidentally begin to break the rules with unexpected consequences.",
       "universe": "None",
-      "director": "Corin Hardy"
+      "director": "Alejandro Amenábar"
+     },
+     {
+      "id": 323,
+      "title": "The Posession",
+      "optional_title": "The Posession: El Origen del Mal \/ Posesión Satánica",
+      "web_calification": 6.44,
+      "year": 2012,
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/i.blogs.es\/b26625\/possession-movie-poster-389x600\/450_1000.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 324,
+      "title": "The Predator",
+      "optional_title": "Depredador 4: Predator ",
+      "web_calification": 5.17,
+      "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/WaG1KZqrLvM",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29399_0.jpg",
+      "sinopsis": "From the outer reaches of space to the small-town streets of suburbia, the hunt comes home. Now, the universe's most lethal hunters are stronger, smarter and deadlier than ever before, having genetically upgraded themselves with DNA from other species. When a young boy accidentally triggers their return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.",
+      "universe": "Predator",
+      "director": "Shane Black"
+     },
+     {
+      "id": 325,
+      "title": "The Quiet Ones",
+      "optional_title": "It's Always the Quiet Ones (Hush)",
+      "web_calification": 5.4,
+      "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/1GNyQusclgw",
+      "clasification": "movie",
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BODViMmNiMjEtYjU1Yy00NjliLWFjZGYtM2FlZDI2YWQ0YmY2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 326,
+      "title": "The Raven",
+      "optional_title": " El Cuervo \/ El Enigma del Cuervo",
+      "web_calification": 6.99,
+      "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/c3GRFq4TdYY",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/88\/86\/59\/20134508.jpg",
+      "sinopsis": "This movie is set in the mid 1800s and involves poet Edgar Allan Poe. A serial killer is on the loose and murdering people using Poe's descriptions from his published stories and poems. Poe teams up with Detective Fields, a Baltimore policeman to try and catch the killer by using his knowledge of the descriptions. Even though the stories are fictional, they start to become reality and the killer is a step ahead of them. Then it takes on a personal note as Poe's lover becomes a target. Will they stop the killer in time?",
+      "universe": "None"
+     },
+     {
+      "id": 327,
+      "title": "The Relic",
+      "web_calification": 6.34,
+      "year": 1995,
+      "trailer": "https:\/\/www.youtube.com\/embed\/wWOvGPP3itc",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BNjQyMWQ0MWItY2QxZi00NjQ5LTk3OGQtZjU4NTljMjY1ZWJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "sinopsis": "A detective is puzzled after recent spate of deaths involving decapitations. He visits a museum when a new victim is found murdered in the same way. In the museum, he encounters an evolutionary biologist who herself is puzzled after discovering a mutated beetle that possesses both insect and reptilian DNA. The detective finds a common link between the murders, hypothalamus missing from the brains of the victims. Together they both try to defeat a monster\/killer who is on a killing spree",
+      "universe": "None",
+      "director": "Peter Hyams"
+     },
+     {
+      "id": 328,
+      "title": "The Ring",
+      "optional_title": "La Llamada \/ La Señal \/ El Aro",
+      "web_calification": 7.69,
+      "year": 2002,
+      "trailer": "https:\/\/www.youtube.com\/embed\/S2CFb2T8so4",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg",
+      "sinopsis": "Rachel Keller is a journalist who decides to go undercover on the mysterious death of her niece and her three friends, who seemed to all died on the same day at the same time- 10:00 PM. After being told that her niece was found in a closet with a horrifying look on her face, she searches through her room and finds some pictures, pictures of the cabin where her niece and her friends had stayed a week before the deaths. Rachel finds the cabin and finds an unknown video there. She decides to watch it there, and now has only a limited time to live. She and her divorced husband, Noah, research about the video and find facts about Anna Morgan and her daughter, Samara Morgan, the maker of this video. With only a week left, Rachel and Noah discover the unknown secrets of the life of Samara Morgan, and, hopefully for them, a way to break the curse.",
+      "universe": "The Ring"
+     },
+     {
+      "id": 329,
+      "title": "The Ring 2 ",
+      "optional_title": "La Llamada 2 \/ La Señal \/ El Aro 2",
+      "web_calification": 6.72,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/NbHRP43ocWQ",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_3457_60.jpg",
+      "sinopsis": "A high school student named Jake tries to make his girlfriend Emily watch a cursed tape. But then Jake finds out that Emily covered her eyes and didn't watch the tape, and then Jake is killed by Samara Morgan (from the first The Ring movie). Rachel Keller learns of Jake's death and finds his twisted body in the back of an ambulance. Rachel then realizes she once again has to save her son Aidan from Samara the evil ghost child.",
+      "universe": "The Ring"
+     },
+     {
+      "id": 330,
+      "title": "The Rite",
+      "optional_title": "El Rito",
+      "web_calification": 6.43,
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/iUUk0UxajAU",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/images.moviesanywhere.com\/04d9170d4ad9838e87983b7821db0b2c\/e19db9ce-d5b6-4fc1-a3b8-9968507eb338.jpg",
+      "universe": "None",
+      "director": "Mikael Håfström"
+     },
+     {
+      "id": 331,
+      "title": "The Ruins",
+      "optional_title": "Las Ruinas",
+      "web_calification": 6.67,
+      "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/BpuHvtZjOBM",
+      "clasification": "movie",
+      "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 332,
+      "title": "The Shining",
+      "optional_title": "El Resplandor ",
+      "web_calification": 8.45,
+      "year": 1980,
+      "trailer": "https:\/\/www.youtube.com\/embed\/-Nbez_uIpwA",
+      "clasification": "movie",
+      "cover": "https:\/\/2.bp.blogspot.com\/-CfTiLimJJSU\/UL4fmdIvJ9I\/AAAAAAAAL9c\/l7bLMM7bmfcfapX1Yd6o6NgPXWqg7BPKgCPcB\/s1600\/6626_54621.jpg",
+      "sinopsis": "Haunted by a persistent writer's block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorado's secluded Overlook Hotel after taking up a job as an off-season caretaker. As the cavernous hotel shuts down for the season, the manager gives Jack a grand tour, and the facility's chef, the ageing Mr Hallorann, has a fascinating chat with Danny about a rare psychic gift called \"The Shining\", making sure to warn him about the hotel's abandoned rooms, and, in particular, the off-limits Room 237. However, instead of overcoming the dismal creative rut, little by little, Jack starts losing his mind, trapped in an unforgiving environment of seemingly endless snowstorms, and a gargantuan silent prison riddled with strange occurrences and eerie visions. Now, the incessant voices inside Jack's head demand sacrifice. Is Jack capable of murder?",
+      "universe": "None",
+      "director": "Stanley Kubrick"
+     },
+     {
+      "id": 333,
+      "title": "The Silent House",
+      "optional_title": "La Casa Muda ",
+      "web_calification": 5.75,
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/VD88EFBFuos",
+      "clasification": "movie",
+      "gender": "mistery",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.SyYovuKrndfeOL9EcPU6ZgHaK-?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 334,
+      "title": "The Sixth Sense",
+      "optional_title": "Sexto Sentido ",
+      "web_calification": 8.04,
+      "year": 1999,
+      "trailer": "https:\/\/www.youtube.com\/embed\/qGvYZ6Uccmg",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/imgc.allpostersimages.com\/img\/print\/u-g-ELCPO0.jpg?w=550&h=550&p=0",
+      "sinopsis": "The Sixth Sense is a 1999 American supernatural thriller film written and directed by M. Night Shyamalan. It stars Bruce Willis as a child psychologist who tries to help a young boy who claims to see dead people. The film explores themes of death, grief, faith and redemption, and features a twist ending that shocked audiences and critics alike. The Sixth Sense was a huge commercial and critical success, becoming one of the highest-grossing films of all time and earning six Academy Award nominations, including Best Picture, Best Director and Best Original Screenplay.",
+      "universe": "None"
+     },
+     {
+      "id": 335,
+      "title": "The Skeleton Key",
+      "optional_title": "La Llave del Mal ",
+      "web_calification": 7.01,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/tuXqAwktYRw",
+      "clasification": "movie",
+      "cover": "https:\/\/i.pinimg.com\/originals\/b4\/69\/2f\/b4692f8a962b7348455750084f298fb5.jpg",
+      "sinopsis": "Nurse Caroline Ellis quits her job to take care of elderly Ben Devereux who had a stroke and can't talk. When she gets to his house in Terrebonne Parish, Louisiana, she meets Ben's wife Violet, who acts suspicious and creepy. The family's lawyer, Luke Marshall, convinces Caroline to stay. She goes to the attic and finds a secret room there full of spells, hair, and bones used to practice Hoodoo, but Violet says she has never seen this secret room. Caroline wants to help Ben, thinking that Violet has put a spell on him. She knows Hoodoo can't hurt someone who doesn't believe in it. Can Caroline save Ben, or will she end up being the one who needs to be saved?",
+      "universe": "None"
+     },
+     {
+      "id": 336,
+      "title": "The Sphere",
+      "optional_title": "Esfera",
+      "web_calification": 6.45,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/hUzlUSUCWDU",
+      "clasification": "movie",
+      "cover": "https:\/\/m.media-amazon.com\/images\/I\/71sKDn3FxnL._AC_UF894,1000_QL80_.jpg",
+      "sinopsis": "La película The Sphere del año 2022 es un remake de la película homónima de 1998, basada en la novela de Michael Crichton. La trama gira en torno a un grupo de científicos que son enviados a investigar una misteriosa esfera metálica que se encuentra en el fondo del océano Pacífico. La esfera resulta ser una nave espacial extraterrestre que tiene el poder de materializar los pensamientos y los miedos de las personas que entran en contacto con ella. Los científicos tendrán que enfrentarse a sus propios demonios y a los peligros que acechan en las profundidades marinas, mientras intentan descubrir el origen y el propósito de la esfera.",
+      "universe": "None"
+     },
+     {
+      "id": 337,
+      "title": "The Strangers",
+      "optional_title": "Los Extraños",
+      "web_calification": 6.49,
+      "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/VWFxJzsfKX8",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0GNX-COvJX3o5KiQwYK3WAHaK-?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 338,
+      "title": "The Tag-Along",
+      "web_calification": 5.49,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/jKKTgYrCOHM",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w600_and_h900_bestv2\/lrnKOsJoJeEDb7MlD2eoy9XQfp4.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 339,
+      "title": "The Texas Chainsaw Massacre: 3D",
+      "optional_title": "La Masacre de Texas 3D ",
+      "web_calification": 6.08,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/cUoTGnADapU",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_12798_83.jpg",
+      "sinopsis": "After the first massacre in 1974, the townspeople suspected that the Sawyer family were responsible. A vigilante mob of enraged locals surrounded the Sawyer house, burning it to the ground and killing every last member of the family. Decades later, a young woman named Heather learns that she has inherited a Texas estate from her grandmother. She decides to bring her friends along on the road trip to investigate her inheritance. On arrival, she discovers she has inherited a mansion, but is yet to uncover the terrors that lurk in the basement underneath it.",
+      "universe": "The Texas Chainsaw Massacre"
+     },
+     {
+      "id": 340,
+      "title": "The Texas Chainsaw Massacre: Remake ",
+      "optional_title": "La Masacre de Texas Remake",
+      "web_calification": 7.5,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/53q2omQy3xQ",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_1_50.jpg",
+      "sinopsis": "Driving through the backwoods of Texas, five youths pick up a traumatized hitchhiker, who shoots herself in their van. Shaken by the suicide, the group seeks help from the locals, but their situation becomes even more surreal when they knock on the door of a remote homestead. It's quickly apparent the residents are a family of inbred psychopaths, and the unlucky youths suddenly find themselves running for their lives. In hot pursuit is a disfigured, chainsaw-wielding cannibal known as Leatherface.",
+      "universe": "The Texas Chainsaw Massacre"
+     },
+     {
+      "id": 341,
+      "title": "The Texas Chainsaw Massacre: The Beginning ",
+      "optional_title": "La Masacre de Texas: El Inicio ",
+      "web_calification": 7.44,
+      "year": 2006,
+      "trailer": "https:\/\/www.youtube.com\/embed\/L5ZipRCX0MA",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ee7fX1Y1ozozUJfvDKG1-QHaKk?pid=ImgDet&rs=1",
+      "sinopsis": "In August, 1939, a worker goes into labor while working in a slaughterhouse and dies after a complicated labor, though the deformed child survives. The possibly orphaned baby is dumped in a garbage container and found by a beggar later, who brings him home. Along the years, the mentally retarded and disturbed boy called Thomas is raised by the Hewitt family in spite of having psychological problems as well as suffering from an unnamed skin disorder, later working in a meat packing plant. In July, 1969, when the facility is closed, the inhabitants move to other places, but the deformed, mentally childlike Thomas flies into a rage after being insulted and kills the foreman. His deranged brother (considered his uncle due to their age difference) executes the sheriff that is going to arrest Thomas, and assumes his identity, wearing his clothes,driving his car though the roads in Texas and entitling himself as Sheriff Hoyt. Meanwhile, the brothers Eric and Dean are traveling in a Jeep with their girlfriends Christie and Bailey, Eric to serve in Vietnam and Dean escaping to Mexico. When the group has a car accident, Hoyt arrests Eric, Dean and Bailey and brings them to his house. Christie follows them trying to rescue the trio, trapped in the house of sadistic and insane cannibals, in a trip of horror and gore.",
+      "universe": "The Texas Chainsaw Massacre"
+     },
+     {
+      "id": 342,
+      "title": "The Trunk",
+      "web_calification": 0,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/jzsMXkkfoXI",
+      "clasification": "corto",
+      "sinopsis": "A father and daughter find a chained up old chest hidden in the woods. They bring it home with plans to sell its contents, but quickly discover that what's inside was locked up for a reason.",
+      "add_date": "2023-07-03",
+      "universe": "None",
+      "director": "Travis Laidlaw"
+     },
+     {
+      "id": 343,
+      "title": "The Turning",
+      "optional_title": "Otra Vuelta de Tuerca \/ Presencias del Mal",
+      "web_calification": 4.31,
+      "year": 2020,
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.JVhU4lyjxShXx2P-V1rfogHaLu?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 344,
+      "title": "The Unborn",
+      "optional_title": " La profecía del no nacido  \/ La Semilla del Mal",
+      "web_calification": 5.6,
+      "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ulfj7hyGdck",
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9517_93.jpg",
+      "sinopsis": "While babysitting a boy and his infant brother, Casey Beldon has a dreadful nightmare involving a weird dog and an evil child, and she tells her best friend Romy over the phone. Casey is haunted by this boy, and when she goes to the ophthalmologist, he asks if she has a twin brother or sister. She asks her father and discovers that her mother lost a son that died in the womb. Casey suspects that she is haunted by the spirit of her brother. She finds a letter addressed to a woman called Sofi Kozma and a creepy picture at home that belonged to her mother. She goes with Romy to a retirement home to meet Sofi, a survivor of the experiments during the Holocaust. But Sofi tells Casey that she had never met her mother and later calls Casey to tell her she is in great danger.",
+      "universe": "None",
+      "director": "David S. Goyer"
+     },
+     {
+      "id": 345,
+      "title": "The Uninvited",
+      "optional_title": "La Maldición de las Hermanas \/ Presencias Extrañas",
+      "web_calification": 6.86,
+      "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/GjGnCa0XYhY",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/7Aw5L42HcyUTEeKNNRqGtoBI7sX.jpg",
+      "universe": "None",
+      "director": "Charles Guard - Thomas Guard"
+     },
+     {
+      "id": 346,
+      "title": "The Veil",
+      "optional_title": "El Velo",
+      "web_calification": 5.66,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/KfAV8eVhtmY",
+      "clasification": "movie",
+      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/1\/8\/0\/8\/7\/2\/180872-the-veil-0-460-0-690-crop.jpg?k=a8ec65a801",
+      "universe": "None"
+     },
+     {
+      "id": 347,
+      "title": "The Village",
+      "optional_title": "La Aldea ",
+      "web_calification": 6.49,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/TpyU0hOqJUI",
+      "clasification": "movie",
+      "gender": "psicologic",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_147_26.jpg",
+      "sinopsis": "M Night Shyamalan's The Village revolves around a desolate town in Pennsylvania. The residents of this town live by strict rules - They are not to leave the village or the monsters beyond their boundaries will surely attack them. Lucius and Ivy have an attraction - a strong one. But when Noah - a man with an intellectual disability and who also has feelings for Ivy, finds out that the two are In love, Noah attacks Lucius. He will die if brave Ivy (who is blind) does not breach the borders and find help to save Lucius.",
+      "universe": "None",
+      "director": "M. Night Shyamalan"
+     },
+     {
+      "id": 348,
+      "title": "The Visit",
+      "optional_title": "La Visita \/ Los Huéspedes",
+      "web_calification": 6.38,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/m4aRBXsZ2I4",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.bd32ddd0df71bd2db7b97c307f9a01b3?rik=mvG2Rw0nvlNvlw&pid=ImgRaw&r=0",
+      "sinopsis": "Teenage Becca and her younger brother Tyler live with their single mother, who left home 15 years ago and is estranged from her parents. Now they've found her online and want to meet their grandchildren, so they invite them to spend a week at their farm while their mother goes off with her boyfriend Miguel. Wannabe rapper and aspiring filmmaker Becca are welcomed by their grandparents and Becca decides to make a documentary of their visit. Soon they see strange behaviors and discover dark, disturbing secrets about their grandparents.",
+      "universe": "None",
+      "director": "M. Night Shyamalan"
+     },
+     {
+      "id": 349,
+      "title": "The Wicker Man (Remake)",
+      "optional_title": "Culto Siniestro \/ El Hombre de Mimbre",
+      "web_calification": 5.25,
+      "year": 2006,
+      "trailer": "https:\/\/www.youtube.com\/embed\/rMUVNtKYOpU",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.DK3gGxl2Zwe3KjnjPpDSnQHaKc?pid=ImgDet&rs=1",
+      "sinopsis": "A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.",
+      "universe": "None"
+     },
+     {
+      "id": 350,
+      "title": "The Wishmaster",
+      "web_calification": 6.81,
+      "year": 1997,
+      "trailer": "https:\/\/www.youtube.com\/embed\/aJgl3uoxXc0",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/sNhUI2F0nepQMkCIMu6whVixj6F.jpg",
+      "sinopsis": "La película The Wishmaster del año 2022 es un remake del clásico de terror de 1997, que narra el regreso a la tierra de un demonio maligno llamado Djinn. El Djinn es liberado accidentalmente por una mujer que encuentra una antigua joya en una subasta. El Djinn comienza a conceder deseos terribles y a sembrar el caos, mientras busca a la mujer que lo liberó para cumplir su deseo final y desatar el infierno en la tierra. La única esperanza para detenerlo es un experto en antigüedades que conoce el origen y el poder de la joya maldita. La película está protagonizada por Tom Hardy como el Djinn, Emily Blunt como la mujer que lo libera y Benedict Cumberbatch como el experto en antigüedades.",
+      "universe": "None"
+     },
+     {
+      "id": 351,
+      "title": "The Wishmaster 2: Evil Never Dies",
+      "optional_title": "Wishmaster 2: El Mal Nunca Muere",
+      "web_calification": 5.62,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/9ZbEvMdPh5A",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.eDXS4jIHm7T05tHKzSmZ3wHaLH?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 352,
+      "title": "The Woman in Black",
+      "optional_title": "La Dama de Negro",
+      "web_calification": 6.83,
+      "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/k5pw1I95DLk",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.KdJENrSPoCsk_fMh_fTmFgHaK4?pid=ImgDet&rs=1",
+      "sinopsis": "In London, solicitor Arthur Kipps still grieves over the death of his beloved wife Stella on the delivery of their son Joseph four years before. His employer gives him a last chance to keep his job, and he is assigned to travel to the remote village of Crythin Gifford to examine the documentation of the Eel Marsh House that belonged to the recently deceased Mrs. Drablow. Arthur befriends Daily on the train and the man offers a ride to him to the Gifford Arms inn. Arthur has a cold reception and the owner of the inn tells that he did not receive the request of reservation and there is no available room. The next morning, Arthur meets solicitor Jerome who advises him to return to London. However, Arthur goes to the isolated manor and soon he finds that Eel Marsh House is haunted by the vengeful ghost of a woman dressed in black. He also learns that the woman lost her son, drowned in the marsh, and she seeks revenge, taking the children of the terrified locals.",
+      "universe": "The Woman in Black"
+     },
+     {
+      "id": 353,
+      "title": "The Woman in Black 2: Angels to Death",
+      "optional_title": "La Dama de Negro 2: Angel de la Muerte",
+      "web_calification": 4.98,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/UoSfwAYFWbo",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/2110gY8s9VClt064nFvsobk5MmC.jpg",
+      "sinopsis": "40 years after Arthur Kipps' experience at Eel Marsh house, a group of children under the care of two women, escaping from war-torn London, arrive to the house and become the next target for The Woman in Black. With the help of a fellow soldier, the women and children must fend off the spirit, and end her presence once and for all.",
+      "universe": "The Woman in Black"
+     },
+     {
+      "id": 354,
+      "title": "There's Someone Inside Your House",
+      "optional_title": "Hay Alguien en tu Casa ",
+      "web_calification": 5.03,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/g0zWb60b-W4",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.6fdfe651417c695bbe9695bd630bf3a2?rik=yHTTIbh1u8ayYA&pid=ImgRaw&r=0",
+      "universe": "None"
+     },
+     {
+      "id": 355,
+      "title": "Thirteen Ghosts",
+      "optional_title": "13 Fantasmas",
+      "web_calification": 6.72,
+      "year": 2001,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Q9rX3krvo4o",
+      "clasification": "movie",
+      "cover": "https:\/\/1.bp.blogspot.com\/-OjtLMkZZ68w\/XwkTvAAmahI\/AAAAAAAAAmA\/CUzrutWOAdUVNl5obdDHYWnCsfBg4C43ACLcBGAsYHQ\/s1600\/20076426.jpg",
+      "sinopsis": "Arthur y sus dos hijos, Kathy y Bobby, sólo se tienen los unos a los otros tras haberlo perdido todo. Jean, mujer de Arthur y madre de sus hijos, murió en un incendio, dejando a la familia sin nada. De repente, Arthur hereda una extraña casa de su misterioso y excéntrico tío Cyrus. La casa está hecha de acero y cristal y es una maravilla de la arquitectura moderna, con muchos espacios abiertos, impoluta y de líneas rectas. Al llegar a la nueva casa, a Arthur y los chicos les cuesta creer en su golpe de buena suerte al admirar la elegancia de sus paredes de cristal, pero lo que no saben es que la casa de la luz guarda un oscuro y terrorífico secreto.",
+      "universe": "None",
+      "director": "Steve Beck"
+     },
+     {
+      "id": 356,
+      "title": "Tremors",
+      "optional_title": "Temblores",
+      "web_calification": 7.49,
+      "year": 1990,
+      "trailer": "https:\/\/www.youtube.com\/embed\/BFX0y6rR2mg",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.PrEecu8cnKdFtFDyH62oXwAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Trying to escape their dead-end life in the desert town of Perfection, Nevada, Valentine \"Val\" McKee and Earl Bassett find themselves sidetracked when corpses mysteriously start piling up around them. When Val and Earl have a run-in with some creepy tentacled creatures that have made lunch out of a road crew, they retreat back to the town to spread the news. Although these monsters are not exactly intellectuals, their mental powers are still mind-boggling. Detecting a human hiding in a car, they dig under the vehicle, causing it to sink into the earth. Val and Earl get help from several townspeople. With the help of Rhonda, Val and Earl kill one of the monsters. But there are three of them left, and they are each about 30 feet long. Walter starts calling the monsters graboids. When the survivors think they have outwitted the graboids by taking refuge atop the roofs of buildings, the graboids merely destroy the buildings' foundations, killing two people. The graboids are quick learners when it comes to stalking their prey, and the humans must continually be on their toes if they are to stay alive while they try to find a way to defeat the graboids.",
+      "universe": "None"
+     },
+     {
+      "id": 357,
+      "title": "Una Llamada Perdida (Remake)",
+      "optional_title": "One Miss Call (Remake)",
+      "web_calification": 5.62,
+      "year": 2008,
+      "trailer": "https:\/\/www.youtube.com\/embed\/I1F7hJNsi5M",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.J8fPmzMBkdFD7w6fKn7t5QHaKf?pid=ImgDet&rs=1",
+      "sinopsis": "After the death of their friend Shelley, Leann Cole receives a voice mail from the future of the date and time when she would die. On the scheduled day, Leann sees weird things and in the precise informed hour, Leann is attacked by a supernatural force on a footbridge over a train station while talking to her friend Beth Raymond. Beth meets Leann's boyfriend Brian, who also received a call, and witnesses his death on the street. When her roommate Taylor Anthony receives a call, Beth befriends Det. Jack Andrews, who tells her that his sister was the first victim of the phone call. They decide to investigate the connections of Jack's sister and find the name of Marie Layton, who apparently abused of her daughters. Jack and Beth run against time trying to save Beth from her fate.",
+      "universe": "None"
+     },
+     {
+      "id": 358,
+      "title": "Unfriended",
+      "optional_title": "Eliminado \/ Eliminar Amigo \/ Cybernatural",
+      "web_calification": 5.85,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/v6xkax8f6ls",
+      "clasification": "movie",
+      "gender": "suspense",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w440_and_h660_face\/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 359,
+      "title": "Unrest",
+      "optional_title": "Sin Descanso",
+      "web_calification": 4.78,
+      "year": 2006,
+      "trailer": "https:\/\/www.youtube.com\/embed\/VUgL_EF8V2E",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.6cd5fa9b867da4d5187697afb42bed1a?rik=IvTqrzeUZDr%2bcQ&pid=ImgRaw&r=0",
+      "universe": "None"
+     },
+     {
+      "id": 360,
+      "title": "Urban Leyend",
+      "optional_title": "Leyendas Urbanas",
+      "web_calification": 6.93,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/vVLD7BdzxbM",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/a.ltrbxd.com\/resized\/film-poster\/4\/6\/7\/5\/6\/46756-urban-legend-0-460-0-690-crop.jpg?k=b0aa7edc52",
+      "universe": "None"
+     },
+     {
+      "id": 361,
+      "title": "Urban Leyend 2",
+      "optional_title": "Leyendas Urbanas 2",
+      "web_calification": 5.69,
+      "year": 2000,
+      "trailer": "https:\/\/www.youtube.com\/embed\/uKXUYqKEhxk",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.XL0_5f9u5IpFzc8-5xlFTgHaJ7?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 362,
+      "title": "V\/H\/S",
+      "optional_title": "Las Crónicas del miedo",
+      "web_calification": 6.27,
+      "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/M0qXz2YjJKI",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+      "sinopsis": "This is an anthology of horror episodes that are tied together with one main story. It's about a group of guys who go round filming their crimes on tape. They are hired to do a \"job\" for an unknown accomplice. They have to break in to a house and steal a V\/H\/S tape with something on it, but they aren't told what it is. While in the said house they find way more than just one tape, so they grab as many as they can and they start watching them while in the house. But what they see on these tapes is more than they can handle, and it's also hard to believe. But will it cost them more than they bargained for?",
+      "universe": "None"
+     },
+     {
+      "id": 363,
+      "title": "V\/H\/S 2",
+      "optional_title": "Las Crónicas del miedo 2",
+      "web_calification": 6.82,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pDohVEonZ7A",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1",
+      "sinopsis": "Continuing the saga of POV madness, dread, and gore documented in V\/H\/S (2012), this new found-footage horror anthology delves deeper into terrifying uncharted territories. Starting with \"Tape 49\", a team of private investigators breaks into the house of a missing student, only to discover a mountain of VHS tapes brimming with disturbing raw footage. Then, in \"Phase I Clinical Trials\", a state-of-the-art optical implant bestows poor Herman with unwanted supernatural-detecting abilities, and in \"A Ride in the Park\", an extreme biking enthusiast finds himself confronted with an all-out zombie apocalypse. Next, in \"Safe Haven\", a four-member film crew infiltrates a secret Indonesian cult and unearths horrific, reality-defying revelations. Finally, in \"Slumber Party Alien Abduction\", a sleepover at a lakeside house goes awry when malevolent extraterrestrials crash the party.",
+      "universe": "None"
+     },
+     {
+      "id": 364,
+      "title": "Vacancy",
+      "optional_title": "Hotel sin Salida ",
+      "web_calification": 7.12,
+      "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/H1hoZxgwYtw",
+      "clasification": "movie",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/w300\/4KrmTQBQhHk0N0KGM6fIbBNbXOo.jpg",
+      "sinopsis": "David and Amy Fox find themselves stranded in the middle of nowhere when their car breaks down. Luckily, they come across a motel with a TV to entertain them during their overnight stay. However, there's something very strange and familiar about the Grade-Z slasher movies that the motel broadcasts for its guests' enjoyment. They all appear to be filmed in the very same room they occupy! Realizing that they are trapped in their room with hidden cameras now aimed at them filming their every move, David and Amy desperately find a means of escape through locked doors, crawlspaces and underground tunnels before they too become the newest stars of the mystery filmmaker's next cult classic!",
+      "universe": "None"
+     },
+     {
+      "id": 365,
+      "title": "Vacancy 2: The First Cut",
+      "optional_title": "Hotel sin Salida 2: El Comienzo ",
+      "web_calification": 5.73,
+      "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/I50jQDlPKiA",
+      "clasification": "movie",
+      "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/jJvn1HK7QMORHPojgGXzKrjZklS.jpg",
+      "sinopsis": "In 2004, the managers of the Meadow View Motel Gordon and Reece use room 6 to videotape the intimacy of the guests to sell porn movies. When the mysterious Mr. Smith checks in with a young woman, they witness the sadistic psychopath guest stabbing and killing his mate. The footage is a success and they decide to make other snuff movies with Smith. When Caleb, who is traveling from Chicago with his fiancée Jessica and his best friend Tanner, decides to rest in Meadow View, they have a nightmarish night and try to survive from the sick intention of the gang.",
+      "universe": "None"
      },
      {
       "id": 366,
-      "title": "Sinister 2",
-      "optional_title": "Sinister 2",
-      "web_calification": 5.3,
-      "year": 2015,
-      "trailer": "https:\/\/www.youtube.com\/embed\/fChx_YZUAR0",
+      "title": "Valentine",
+      "optional_title": "Un San Valentín de muerte",
+      "web_calification": 6.25,
+      "year": 2001,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ax6kqQQ7qAk",
       "clasification": "movie",
-      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/hF6ORyihtAWHqKkIQI8BSpLQyON.jpg",
-      "sinopsis": "In a farmhouse near a corn field where Ellison Oswait lived, the boy Dylan has nightmares and is visited by ghostly children led by the boy Milo. Dylan lives with his mother Courtney Collins, who has just left her abusive husband, and his brother Zach and is forced by the ghosts to go to the basement to watch home films in Super 8 of families being slaughtered. Ex-Deputy So & So is investigating the crime spree of Bughuul and burning down the houses where the deceased families lived to protect other families. He travels to the farmhouse and finds Courtney and her sons living there. He tells that he is a private investigator and he protects her against a bluff of her ex-husband to keep the children with him. Then he begins a love affair with Courtney. Meanwhile Dylan tells to the ghosts that he will not see any video again but Zach, who is the real choice of the ghosts, replaces him. When their father succeeds in getting a court order to have the custody of the children, Courtney is forced to go with the children. What will happen to the Collins family?",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Ciarán Foy"
+      "gender": "slasher",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP._w4CjwmeZrQvepudze9BtgHaK9?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 367,
-      "title": "Inferno",
-      "web_calification": 0,
-      "year": 2021,
-      "trailer": "https:\/\/www.youtube.com\/embed\/x2c39v5NMj4",
-      "clasification": "corto",
-      "sinopsis": "A woman awakens from a horrible nightmare. But, the nightmare is real. Trapped within a decrepit, run-down motel, the woman begins to piece together the horror she faces, only for creaking doors, broken glass, a rifle and a fateful encounter in the backseat of her car to bring her face-to-face with a monster from hell.",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Bishal Dutta"
+      "title": "Vampires",
+      "optional_title": "Vampiros",
+      "web_calification": 6.88,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/iLMnslWrM2s",
+      "clasification": "movie",
+      "gender": "vampires",
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/9500\/9551\/001_m.jpg",
+      "sinopsis": "A bunch of vampire hunters aided by the Vatican are asked to hunt down a master vampire and his goons of vampires who are ripping and tearing humans apart. While the leader of the vampire hunter does the slaying and takes orders from the Vatican as his parents were killed by vampires and he was raised by the Church, the Church has an agenda of their own regarding a centuries-old cross from falling into the hands of the master vampire.",
+      "universe": "None"
      },
      {
       "id": 368,
-      "title": "Ignore it",
-      "web_calification": 0,
-      "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/embed\/hs3paMLb9Qg",
-      "clasification": "corto",
-      "sinopsis": "A family struggles to live with a spirit that becomes deadly if its presence is acknowledged. ",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Sam Evenson"
+      "title": "Van Helsing",
+      "web_calification": 6.68,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/fWSmGESmvOM",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.6ONtrKrRIj_LobH6QPUfqgHaKB?pid=ImgDet&rs=1",
+      "universe": "None"
      },
      {
       "id": 369,
+      "title": "Vanishing on 7th street",
+      "optional_title": "La Oscuridad",
+      "web_calification": 5.53,
+      "year": 2010,
+      "clasification": "movie",
+      "cover": "https:\/\/2.bp.blogspot.com\/-dEjOP48dtM8\/TY9MSArSWsI\/AAAAAAAAAIg\/tQQHvLiidZg\/s1600\/Vanishing+on+7th+Street+%25282010%2529.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 370,
+      "title": "Verónica",
+      "optional_title": "Verónica",
+      "web_calification": 6.9,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/wNlMIvKnjOQ",
+      "clasification": "movie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.-3_G2y4lmeEALM2_mFtOJQHaKi?pid=ImgDet&rs=1",
+      "universe": "None"
+     },
+     {
+      "id": 371,
+      "title": "Viaje a las Tinieblas",
+      "optional_title": "Riding the Bullet",
+      "web_calification": 6.24,
+      "year": 2004,
+      "trailer": "https:\/\/www.youtube.com\/embed\/RdlCnaz4AAA",
+      "clasification": "movie",
+      "cover": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41q9egjpWNL._AC_.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 372,
       "title": "Vicious",
       "web_calification": 0,
       "year": 2019,
@@ -4524,62 +4682,93 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 370,
-      "title": "Shutter",
-      "web_calification": 0,
-      "year": 2022,
-      "trailer": "https:\/\/www.youtube.com\/embed\/pC9DkDw93OU",
-      "clasification": "corto",
-      "sinopsis": "When a man's printer begins printing disturbing images of him in his home, he comes to the chilling realisation that he isn’t alone.",
-      "add_date": "2023-06-28",
-      "universe": "None"
-     },
-     {
-      "id": 371,
-      "title": "Don't Peek",
-      "web_calification": 0,
-      "year": 2020,
-      "trailer": "https:\/\/www.youtube.com\/embed\/S51jIrunYuY",
-      "clasification": "corto",
-      "sinopsis": "Make sure to watch with headphones and don't play video games late at night...\nMade with 3 people and a Blackmagic pocket camera during quarantine!",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Julian Terry"
-     },
-     {
-      "id": 372,
-      "title": "Tanatria",
-      "web_calification": 0,
-      "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/embed\/llxSYQNxMGM",
-      "clasification": "corto",
-      "sinopsis": "Daniel faces his first guard as a resident of the old hospital when strange events begin to occur.",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Sergio Sánchez"
-     },
-     {
       "id": 373,
-      "title": "Disguise",
-      "web_calification": 0,
-      "year": 2023,
-      "trailer": "https:\/\/www.youtube.com\/embed\/zlpfcKffgDA",
-      "clasification": "corto",
-      "sinopsis": "A woman encounters a malevolent presence in her house that can disguise itself as anything. ",
-      "add_date": "2023-06-28",
-      "universe": "None",
-      "director": "Tyler Czajkowski"
+      "title": "Wes Craven's New Nightmare",
+      "optional_title": "Pesadilla 7 La Ultima Pesadilla ",
+      "web_calification": 6.37,
+      "year": 1994,
+      "trailer": "https:\/\/www.youtube.com\/embed\/mhkK4GOW92M",
+      "clasification": "movie",
+      "cover": "https:\/\/es.web.img3.acsta.net\/medias\/nmedia\/18\/91\/38\/18\/20142427.jpg",
+      "universe": "Freddy",
+      "director": "Wes Craven"
      },
      {
       "id": 374,
-      "title": "Polaroid",
-      "web_calification": 0,
-      "year": 2017,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ck1NO9MyQsM",
-      "clasification": "corto",
-      "sinopsis": "Created in our apartment for less than $500.",
-      "add_date": "2023-06-28",
+      "title": "What Lies Beneath",
+      "optional_title": "Revelaciones ",
+      "web_calification": 6.67,
+      "year": 2000,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Vm4Fw2QElA4",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/pics.filmaffinity.com\/what_lies_beneath-688494617-large.jpg",
+      "sinopsis": "“What Lies Beneath” is a 2000 American supernatural horror film directed by Robert Zemeckis and starring Harrison Ford and Michelle Pfeiffer. The movie tells the story of a couple who experience strange occurrences after the wife believes she sees a ghost of a young woman in their home. The movie was released on July 21, 2000, and received mixed reviews from critics. The plot revolves around Claire Spencer (Michelle Pfeiffer), who is haunted by the ghost of Madison Elizabeth Frank (Amber Valletta), a young woman who disappeared after an affair with Claire’s husband Norman Spencer (Harrison Ford). As Claire investigates the mystery surrounding Madison’s death, she begins to suspect that her husband may be responsible for her death.",
       "universe": "None",
-      "director": "Joey Greene"
+      "director": "Robert Zemeckis"
+     },
+     {
+      "id": 375,
+      "title": "White Noise",
+      "optional_title": "Voces del más allá",
+      "web_calification": 6.06,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/-9Qi9EoMuh8",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/i.pinimg.com\/736x\/89\/23\/f7\/8923f70ea1b3f9d322f708512335233c.jpg",
+      "universe": "None",
+      "director": "Geoffrey Sax"
+     },
+     {
+      "id": 376,
+      "title": "White Noise 2",
+      "optional_title": "Voces del más allá 2",
+      "web_calification": 6.21,
+      "year": 2007,
+      "trailer": "https:\/\/www.youtube.com\/embed\/jEM9UAFcpLo",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/lh5.googleusercontent.com\/proxy\/xrUAd5DBOEa0z9M1azES2fMyw2_fRSDcqtL2bi1zy6S5wl4kYRIJr5EQVWvS2bT_Ur0bQxTT5W7sbT6Ut7rKzLkzy0NjQt6mYWfouVWiRe3RwrE",
+      "universe": "None",
+      "director": "Patrick Lussier"
+     },
+     {
+      "id": 377,
+      "title": "Winchester: The House that Ghosts Built ",
+      "optional_title": "Winchester: La Casa que Construyeron los Espíritus",
+      "web_calification": 5.3,
+      "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/29ki8Op2lSQ",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/clzmovies.r.sizr.io\/core\/covers\/lg\/0d\/0d_491242_0_WinchesterTheHouseThatGhostsBu.jpg",
+      "universe": "None",
+      "director": "Michael Spierig - Peter Spierig"
+     },
+     {
+      "id": 378,
+      "title": "Wrong Turn 3 - Left for Dead",
+      "optional_title": "Camino Sangirneto 3 \/ Camino hacia el Terror 3",
+      "web_calification": 6.21,
+      "year": 2009,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Sqb8rTnysTQ",
+      "clasification": "movie",
+      "cover": "https:\/\/4.bp.blogspot.com\/-PtPo4FPQxeo\/UR3Br-wglaI\/AAAAAAAABDc\/CdKmdLQ5JHY\/s1600\/WrongTurn3.jpg",
+      "universe": "None",
+      "director": "Declan O'Brien"
+     },
+     {
+      "id": 379,
+      "title": "X",
+      "optional_title": "X",
+      "web_calification": 6.66,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Awg3cWuHfoc",
+      "clasification": "movie",
+      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42051_76.jpg",
+      "sinopsis": "La película X, estrenada en 2022, es un slasher dirigido por Ti West y protagonizado por Mia Goth, Jenna Ortega y Brittany Snow. La trama sigue a un grupo de jóvenes que intentan filmar una película para adultos en una granja de Texas, pero se ven amenazados por una pareja de ancianos que ocultan un oscuro secreto. La película es un homenaje al cine de terror de los años 70 y ha recibido críticas positivas por su atmósfera, actuaciones y dirección.",
+      "universe": "None",
+      "director": "Ti West"
      }
     ]

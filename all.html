@@ -72,18 +72,18 @@
           <!-- Card individual model -->
                <div v-cloak v-if="filteredMovies.length != 0"  :class="filteredMovies.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
-                         <div class="card h-100">
-                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
-                              <div class="card-body border-bottom border-bottom-dark">
-                                   <h6 class="card-title">{{movie.title}}</h6>
-                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
+                         <div class="card h-100 bg-secondary p-2 text-dark bg-opacity-10 border-0">
+                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top object-fit-cover cover rounded shadow h-100" alt="...">
+                              <div class="card-body">
+                                   <h6 class="card-title text-light">{{movie.title}}</h6>
+                                   <h6 class="fw-lighter fst-italic m-0 small text-secondary"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
                               </div>
                               <div>
                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
-                                             <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
-                                             <span class="d-flex align-items-center"> 
-                                                  <span class=" text-danger fw-bold pe-1">
+                                        <li class="list-group-item bg-dark d-flex justify-content-between py-1 px-3 ">
+                                             <span class="d-flex align-items-center text-secondary"> 
+                                                  <i class="bi bi-star-half text-secondary me-2"></i>
+                                                  <span class=" text-danger fw-bold pe-1 ">
                                                        {{ movie.web_calification ? movie.web_calification :"unknown"}}
                                                   </span> 
                                                   / 10 
@@ -91,8 +91,8 @@
                                         </li>
                                    </ul>
                               </div>
-                              <div class="card-footer py-1">
-                                   <p class="card-text text-small fst-italic recent">{{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update ${movie.add_date}` }}</p>
+                              <div class="card-footer py-1 border-0">
+                                   <p class="card-text text-small fst-italic recent text-light ">{{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update ${movie.add_date}` }}</p>
                               </div>
                          </div>
                     </a>
