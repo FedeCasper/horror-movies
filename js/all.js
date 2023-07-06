@@ -16,8 +16,14 @@ createApp({
      },
      created(){
           this.movies = data
-          // console.log(this.movies);
+          console.log(this.movies);
           this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
+          let categories = this.movies.map( movie => movie.gender ? movie.gender : "none")
+          let setCategories = [...new Set(categories)].slice(1, categories.length)
+          console.log(categories);
+          console.log(setCategories);
+          let array = setCategories.map( category => this.movies.filter(movie => movie.gender == category))
+          console.log(array);
      },
      beforeUpdate(){
           this.notFoundObject = {
