@@ -69,8 +69,31 @@
 
      <!-- Cards container section -->
           <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
+               <!-- Universe section --> 
+               <div  class="list-group-item d-flex flex-column">
+                    <h4 class="my-2 text-light">Movies Categories</h4>
+                    <div class="d-flex gap-2  flex-column">
+                         <div class="w-100 d-flex flex-column" v-for="(object, index) in arrayOfObjectCategories" >
+                              <h4 class="text-light">{{object[0].gender}}</h4>
+                              <div class="d-flex overflow-x-auto gap-3 mb-5">
+                                   <div v-for="movie of object" class="text-light ">
+                                        <a :href=`./details.html?id=${movie.id}` class="text-danger">
+                                             <img class="object-fit-cover rounded" :src="movie.cover" alt="" srcset="" style="height: 15rem;">
+                                        </a>
+                                   </div>
+                              </div>
+
+                              <!-- 
+                                   <img :src="story.cover" class="object-fit-sm-contain border rounded" style="height: 15rem; width: 10rem;" alt="...">
+                              </a>
+                              <div class="card-body d-flex justify-content-center">
+                                   <h6 class="small fw-bold">{{story.title}}</h6>
+                              </div> -->
+                         </div>
+                    </div>
+               </div>
           <!-- Card individual model -->
-               <div v-cloak v-if="filteredMovies.length != 0"  :class="filteredMovies.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start z-3' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 z-3'" v-for="movie of filteredMovies">
+               <!-- <div v-cloak v-if="filteredMovies.length != 0"  :class="filteredMovies.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start z-3' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 z-3'" v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100 bg-light text-dark border-0">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top object-fit-cover cover rounded-top-2 shadow h-100 z-1" alt="...">
@@ -99,15 +122,15 @@
 
                          </div>
                     </a>
-               </div>
-               <div v-cloak v-else-if="filteredMovies.length == 0">
+               </div> -->
+               <!-- <div v-cloak >
                     <div class="d-flex flex-column justify-content-start h3 text-center gap-3">
                          <span class="text-light fst-italic">There is no movie with taht name</span>
                          <img class="notFoundImg justify-content-center" src="./assets/skull.png" alt="ghost icon">
                          <span class="text-danger">" {{inputValue}} "</span>
                          <span class="text-light fst-italic">Please try again</span>
                     </div>
-               </div>
+               </div> -->
 
           </section>
 
