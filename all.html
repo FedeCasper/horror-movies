@@ -67,28 +67,19 @@
                </div>
           </nav>
 
-     <!-- Cards container section -->
-          <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
-               <!-- Universe section --> 
-               <div  class="list-group-item d-flex flex-column">
-                    <h4 class="my-2 text-light">Movies Categories</h4>
-                    <div class="d-flex gap-2  flex-column">
-                         <div class="w-100 d-flex flex-column" v-for="(object, index) in arrayOfObjectCategories" >
-                              <h4 class="text-light">{{object[0].gender}}</h4>
-                              <div class="d-flex overflow-x-auto gap-3 mb-5">
-                                   <div v-for="movie of object" class="text-light ">
-                                        <a :href=`./details.html?id=${movie.id}` class="text-danger">
-                                             <img class="object-fit-cover rounded" :src="movie.cover" alt="" srcset="" style="height: 15rem;">
-                                        </a>
-                                   </div>
+     <!-- Container section -->
+          <section v-if="filteredMovies.length !== 0" class="row justify-content-center pt-4 px-2 w-100 mx-0">
+               <!-- Container of Categories section --> 
+               <div  class="list-group-item d-flex flex-column gap-2">
+                    <div class="w-100 d-flex flex-column" v-for="(object, index) in arrayOfObjectCategories" >
+                         <h4 class="text-light mb-3">{{(object[0].gender).toUpperCase()}}</h4>
+                         <!-- Container of Cards section --> 
+                         <div class="d-flex overflow-x-auto gap-3 mb-5">
+                              <div v-for="movie of object" class="text-light ">
+                                   <a :href=`./details.html?id=${movie.id}` class="text-danger">
+                                        <img class="object-fit-cover rounded shadow" :src="movie.cover" alt="" srcset="" style="height: 15rem;">
+                                   </a>
                               </div>
-
-                              <!-- 
-                                   <img :src="story.cover" class="object-fit-sm-contain border rounded" style="height: 15rem; width: 10rem;" alt="...">
-                              </a>
-                              <div class="card-body d-flex justify-content-center">
-                                   <h6 class="small fw-bold">{{story.title}}</h6>
-                              </div> -->
                          </div>
                     </div>
                </div>
