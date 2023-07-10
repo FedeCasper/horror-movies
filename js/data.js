@@ -190,7 +190,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/lNa_xB20YhA",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/southwestreview.com\/wp-content\/uploads\/2022\/04\/515bD2WvJkL._AC_-1.jpg",
+      "cover": "https:\/\/grandcentralmarket.com\/wp-content\/uploads\/2022\/10\/0-1-1.jpg",
       "sinopsis": "In the early 1980's, a psychopath named Fred Krueger - known as the Springwood Slasher - murdered several children with a glove outfitted with straight razor blades attached to the fingers. When a foolish decision by a judge sets Krueger free, an angry mob of parents, whose children he terrorized and murdered, burn Kruger alive in the boiler room where he worked. Years after his death, the living children of the parents responsible for Krueger's death (including Nancy Thompson, daughter of the police officer who arrested Krueger) experience terrifying nightmares involving a burned man wearing a glove with razor blades on the fingers. The ghost of Fred Krueger haunts their dreams, and when Nancy's best friend Tina dies violently in her sleep during a dream confrontation with Krueger, Nancy realizes she must find a way to stop the evil psychopath's reign of terror - or never sleep again.",
       "universe": "Freddy",
       "director": "Wes Craven"
@@ -381,7 +381,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/LDFNFWbquLY",
       "clasification": "movie",
       "gender": "animals",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_615_51.jpg",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.5ODa3uAhB8fVD4z6QFdEnAHaLH?pid=ImgDet&rs=1",
       "sinopsis": "Anaconda es una película de terror y aventura estrenada en 1997. La trama sigue a un equipo de documentalistas que viajan al Amazonas para filmar a una tribu indígena, pero se encuentran con un cazador obsesionado con capturar una anaconda gigante. La película combina escenas de acción, suspenso y efectos especiales para crear una atmósfera de tensión y peligro. El reparto incluye a Jennifer Lopez, Ice Cube, Jon Voight y Eric Stoltz.",
       "universe": "None",
       "director": "Luis Llosa"
@@ -796,7 +796,7 @@ export const data = [
       "year": 2008,
       "trailer": "https:\/\/www.youtube.com\/embed\/wxqSIsxMlYQ",
       "clasification": "movie",
-      "gender": "monsters",
+      "gender": "found_footage",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.ef647fa3226cf21dc76a1d06865e0021?rik=DUNswwyIDSaqVQ&pid=ImgRaw&r=0",
       "sinopsis": "Cloverfield is a 2008 American monster movie directed by Matt Reeves. The movie stars Michael Stahl-David, Mike Vogel, Jessica Lucas, Lizzy Caplan, and T.J. Miller. The plot follows a group of friends who are documenting their farewell party when a monster the size of a skyscraper arrives in New York City. The movie was produced by J. J. Abrams and Bryan Burk and written by Drew Goddard",
       "universe": "None",
@@ -1075,8 +1075,8 @@ export const data = [
      },
      {
       "id": 80,
-      "title": "Dolly, la muñeca asesina",
-      "optional_title": "Dolly Dearest",
+      "title": "Dolly Dearest",
+      "optional_title": "Dolly, la muñeca asesina ",
       "web_calification": 5.97,
       "year": 1992,
       "trailer": "https:\/\/www.youtube.com\/embed\/x0RgGZthUig",
@@ -1274,7 +1274,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/pW-PXPpgt0Y",
       "clasification": "movie",
       "gender": "possessions",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_8078.jpg",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.6154b844a4c683cc378024dfd7200ac8?rik=KmZmLk6ll%2fnlCA&riu=http%3a%2f%2fcovers.box.sk%2fnewsimg%2fdvdmov%2fmax1375152990-back-cover.jpg&ehk=CV3BUVabj0xEcKD04kEmXmhOWkZuxvY9QHQjOoK%2bX1A%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "A long, challenging rehabilitation weekend awaits young opiate addict Mia, who has one last chance to kick the habit for good in the isolated family cabin in the thick woods. However, as Mia's estranged brother David and his girlfriend Natalie meet up with David's old friends, Olivia and Eric, a hair-raising discovery in the cellar will soon lead to a frantic night of demonic possession and madness. Now, an ancient malevolent force demands blood and the precious souls of the living. Who can stop the ever-growing evil of the encircling forest?",
       "universe": "Evil Dead",
       "director": "Fede Alvarez"
@@ -1345,7 +1345,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
       "clasification": "movie",
       "gender": "possessions",
-      "cover": "https:\/\/i.pinimg.com\/originals\/a2\/f0\/3c\/a2f03c37e3a015bd9e33036d19494818.jpg",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Wdfq6G0nuXQT2HPmIRKKwwHaLH?pid=ImgDet&rs=1",
       "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
       "universe": "The Exorcist",
       "director": "John Boorman - Rospo Pallenberg"
@@ -1727,7 +1727,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/qGK-9-ZKr2Q",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_244_94.jpg",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
       "sinopsis": "After Dr. Samuel Loomis shoots Michael Myers six times, Michael escapes and is now on the loose in Haddonfield. Laurie Strode is taken to the hospital, and Dr. Loomis continues to hunt down Michael with the help of the police. Michael continues killing the citizens of Haddonfield and heads to the hospital to kill Laurie. It's now up to an injured Laurie and Dr. Loomis to stop Michael and his murderous rampage.",
       "universe": "Halloween",
       "director": "Rick Rosenthal"
@@ -1998,6 +1998,7 @@ export const data = [
       "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/Z06Ozi21rPg",
       "clasification": "movie",
+      "gender": "science_ficton",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_28003_6.jpg",
       "sinopsis": "In New York, the boy Cameron lives with his Dutch mother Lindsey that is divorced from his alcoholic father Dan. One night, Cameron overhears a noise in the kitchen and is attacked by a homeless woman: however he kills the woman, breaking her neck. The Vatican representative Camilla summons the scientist Dr. Ember to help the boy that is possessed and the exorcism is not effective. Dr. Ember has the ability to enter in the mind of people possessed by demons and bring them back to reality in a dangerous procedure with the support of his team composed by Oliver and Riley. When Dr. Ember visits Cameron, he realizes that the boy is possessed by the insidious demon Maggie, who killed his wife and son in a car accident. Will Dr. Ember succeed in destroying Maggie and saving Cameron?",
       "universe": "None"
@@ -2204,6 +2205,7 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/1vNtpNWi6Lk",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21282_34.jpg",
       "sinopsis": "Jessabelle \"Jessie\" Laurent is pregnant and agrees to move to her boyfriend's house to raise their own family. They get into a car accident; her boyfriend and baby die. Jessie survives but is seriously wounded, seriously grieving, and trapped in a wheelchair. The director of the hospital suggests that she contact her estranged father to help her, and Leon Laurent takes his daughter to his home in Louisiana and lodges her in her mother's room. Jessie snoops around the room and finds a videotape where her mother Kate is pregnant and reads tarot cards to her, telling her that she would never leave Louisiana, she is attracted by water, and another woman wants her out of the house. But Leon arrives and destroys the tape. The next morning, while Leon is out of the house, Jessie watches another videotape, in which her mother talks about Moses, the man who taught her to read cards. Jessie is haunted by the ghost of a woman, and her father discovers the two other videotapes she has hidden. When he tries to destroy them, something happens to him and he is burnt to death trapped in a shed. During the funeral, Jessie meets her high-school friend Preston Sanders (Mark Webber), who is unhappily married. Preston decides to help Jessie after watching the videotapes. Who is haunting Jessie?",
       "universe": "None",
@@ -2217,6 +2219,7 @@ export const data = [
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/6vjmhspZRIs",
       "clasification": "movie",
+      "gender": "fantasy",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_17966_57.jpg",
       "sinopsis": "Shawn, an automotive designer, enjoys an idyllic life with his new wife Jasmine until it is interrupted by a cryptic message. The message warns of imminent danger and a curse that has afflicted his family for generations. Having lost his parents as a child, Shawn doesn't believe this unsettling revelation of his past....until strange things start to happen. Unable to explain the threats and fearing for his life, Shawn turns to Gabriel and Father Westhoff, a mysterious duo claiming to have answers. With their help, and the aid of Ali, a shackled mental patient, Shawn discovers that there is far more to this world than he ever imagined. These revelations set Shawn on a collision course with the unknown, and he alone must find the strength protect his family and confront the ancient evil that is hunting them.",
       "universe": "None"
@@ -2254,6 +2257,7 @@ export const data = [
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/h6cVyoMH4QE",
       "clasification": "movie",
+      "gender": "monsters",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29718_9.jpg",
       "sinopsis": "When his dysfunctional family clashes over the holidays, young Max (Emjay Anthony) gets disillusioned and turns his back on Christmas. Meanwhile, this lack of festive spirit unleashes the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers. All hell breaks loose as beloved holiday icons take on a monstrous life of their own, laying siege to the fractured family's home and forcing them to fight for one another if they hope to survive.",
       "universe": "None",
@@ -2536,7 +2540,7 @@ export const data = [
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/tuLJrNqhlPc",
       "clasification": "movie",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_29254_17.jpg",
+      "cover": "https:\/\/fwcdn.pl\/fpo\/99\/95\/709995\/7706065.3.jpg",
       "universe": "None"
      },
      {
@@ -2708,7 +2712,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/a9zfBcp6AxA",
       "clasification": "movie",
       "gender": "thriller",
-      "cover": "https:\/\/www.themoviedb.org\/t\/p\/w500\/xwzdR3KecnAUtZSPNCfuRq2q4j5.jpg",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.8a64903bf85a1250bd86916e5dfe7771?rik=27H5%2fq4a%2fezpAA&riu=http%3a%2f%2fwww.impawards.com%2f1998%2fposters%2fdisturbing_behavior_ver2.jpg&ehk=pVopQY6KUcv16HF30COirrlK2UPagcHvc%2fkSK3DC2ko%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "After the suicide of the teenager Allen Clark, his family decides to move from Chicago to the quiet Cradle Bay Island seeking a peaceful life for the siblings Steve and Lindsay Clark. When Steve joins the local high-school, the outcast Gavin Strick befriends Steve and introduces his also rejected friend Rachel Wagner to the newcomer. Gavin exposes to Steve in the refectory the punks, the nerds and the different tribes of the school and he defends the weird theory that a sinister force changes the behavior of the annoyingly perfect \"Blue Ribbons\", a group of good students that wear identical jackets and gather in the Yogurt Shoppe. Further he tells that he had witnessed the blue ribbon Andy Efkin killing their schoolmate Mary Jo that is missing and the local Officer Cox covering the murder. Steve does not believe in Gavin's words, but when his friend is submitted to the treatment of Dr. Edgar Caldicott and immediately changes his behavior, joining the Blue Ribbons, Steve and Rachel decides to investigate the mystery discovering the dark secret of the perfect behavior.",
       "universe": "None",
       "director": "David Nutter"
@@ -2796,7 +2800,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/9eZgEKjYJqA",
       "clasification": "movie",
       "gender": "paranormal",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25_100.jpg",
+      "cover": "https:\/\/m.media-amazon.com\/images\/I\/81yuQrgfhYL._AC_SL1500_.jpg",
       "sinopsis": "The Freelings are a typical suburban family. Husband Steve sells real estate in their ever expanding subdivision and Diane is a stay at home mom caring for their three kids, Dana, Robbie and little Carol Anne. Strange things being to happen in the house however: cupboard doors open on their own, furniture rearranges itself and chairs go sliding across the kitchen floor. It's a bit of whimsy at first but soon becomes deadly serious when Carol Anne vanishes into a nether world where, oddly, she can only be communicated with through the white noise on their television. A team of paranormal investigators move into the house but the forces that kidnapped are evil and powerful requiring the services of Tangina, a woman who has dealt with this situation before.",
       "universe": "Poltergeist ",
       "director": "Tobe Hooper"
@@ -3711,7 +3715,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/RvpP6I11vDk",
       "clasification": "movie",
       "gender": "possessions",
-      "cover": "https:\/\/cinedemiedo.files.wordpress.com\/2011\/06\/el-exorcista.jpg?w=450",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/oWyQdmhVgUIbNuRpn272ShJrrcZ.jpg",
       "sinopsis": "El exorcista es una película de terror que se basa en la novela homónima de William Peter Blatty, inspirada en un caso real de posesión diabólica ocurrido en 1949. La trama se centra en Regan, una niña de doce años que empieza a manifestar extraños síntomas y comportamientos que la medicina no puede explicar. Su madre, desesperada, recurre a la ayuda de dos sacerdotes que intentarán liberarla del demonio que la habita mediante un exorcismo. La película fue un éxito de crítica y público, y se convirtió en un clásico del género y en una obra de culto. Ganó dos premios Oscar y cuatro Globos de Oro, y fue nominada a muchos otros galardones. Es considerada una de las películas más terroríficas e influyentes de la historia del cine.",
       "universe": "The Exorcist",
       "director": "William Friedkin"
@@ -3737,7 +3741,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/OUdcl5vwO7A",
       "clasification": "movie",
       "gender": "possessions",
-      "cover": "https:\/\/pics.filmaffinity.com\/the_exorcist_iii-919394076-large.jpg",
+      "cover": "https:\/\/image.tmdb.org\/t\/p\/original\/bl6nSPcyqz6xD2Igd2VQvz8qWo0.jpg",
       "sinopsis": "A seemingly-endless series of grisly killings that bear the trademark of the mass murderer the Gemini Killer, terrorizes the district of Georgetown. To further complicate matters, although it's been 17 long years since the killer's execution and that fatal night of pure terror in The Exorcist (1973), skeptical police officer Lieutenant William F. Kinderman is still obsessed with solving the baffling case, as the death toll keeps rising. In the meantime, in the city's high-security psychiatric institution, a cryptic inmate who bears an uncanny resemblance to the late Father Damien Karras emerges from his deep catatonic state, claiming that he has all the answers Kinderman needs. But, who is the mysterious Patient X? Does the same unholy force that tormented Regan MacNeil have something to do with the brutal demonic murders?",
       "universe": "The Exorcist",
       "director": "William Peter Blatty"
@@ -4023,7 +4027,7 @@ export const data = [
       "trailer": "https:\/\/www.youtube.com\/embed\/ukpB6MtLdLA",
       "clasification": "movie",
       "gender": "science_ficton",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.0URve2S5i6Wkjn66WY61twAAAA?pid=ImgDet&rs=1",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.3824786597aceaefaceb7ed245baf29e?rik=1K3icYrLiuoNqA&riu=http%3a%2f%2fwww.moriareviews.com%2frongulator%2fwp-content%2fuploads%2fIsland-of-Dr-Moreau-1996-poster.jpg&ehk=%2fO%2fQdy%2fH1XH1x5J8zStAuxCBDqJH81CXGNzfnAWCfzE%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Set in the year 2010, Dr. Moreau has successfully combined human and animal DNA to make a crossbreed animal. Well, as usual, something goes wrong and David Thewlis must try to stop it before it is too late. Originally rated R, but cut by Frankenheimer to allow \"a wider audience\".",
       "universe": "None"
      },
