@@ -443,6 +443,20 @@ export const data = [
       "director": "Alex Garland"
      },
      {
+      "id": 381,
+      "title": "Apollo 18",
+      "optional_title": "Apollo 18",
+      "web_calification": 5.2,
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/2YPEdDCEYuc",
+      "clasification": "movie",
+      "gender": "aliens",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.WpvqSY8smtgvX0oaWBz2QQHaKe?pid=ImgDet&rs=1",
+      "sinopsis": "Cmndr Walker, Cptn. Anderson and Lt. Col. Grey are assigned to a secret mission to the moon. Walker and Anderson land, while Grey stays in orbit. As they collect samples, they find footprints...and the body of a Soviet cosmonaut on the moon. Soon they hear weird noises and find they're not alone.",
+      "universe": "None",
+      "director": "Gonzalo López-Gallego"
+     },
+     {
       "id": 33,
       "title": "Arachnophobia",
       "optional_title": "Aracnofobia",
@@ -523,20 +537,6 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 39,
-      "title": "The Bell Witch Haunting",
-      "optional_title": "The Bell Witch Hunting",
-      "web_calification": 4.71,
-      "year": 2013,
-      "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
-      "clasification": "movie",
-      "gender": "found_footage",
-      "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg",
-      "sinopsis": "Found-footage horror. The Robertson County Sheriff's Department has released videos found on the bodies of the Sawyer family's cell phones and video cameras. What was first thought to be a murder-suicide is now believed to be the return of a centuries-old demon responsible for America's most famous paranormal event.",
-      "universe": "None",
-      "director": "Glenn Miller"
-     },
-     {
       "id": 40,
       "title": "Bird Box",
       "optional_title": "A Ciegas",
@@ -547,7 +547,21 @@ export const data = [
       "gender": "post_apocaliptic",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_25824_23.jpg",
       "sinopsis": "En un mundo postapocalíptico, una mujer y sus dos hijos deben atravesar un río con los ojos vendados para llegar a un refugio seguro. La razón es que hay unas criaturas misteriosas que al ser vistas provocan el suicidio de las personas. La mujer tendrá que confiar en su instinto y en el sonido para sobrevivir a este peligroso viaje.",
-      "universe": "None"
+      "universe": "Bird Box"
+     },
+     {
+      "id": 385,
+      "title": "Bird Box: Barcelona",
+      "optional_title": "A Ciegas: Barcelona",
+      "web_calification": 5.3,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/dyotdtUtKu0",
+      "clasification": "movie",
+      "gender": "science_ficton",
+      "cover": "https:\/\/movieplayer.net-cdn.it\/t\/images\/2023\/06\/29\/bird-box-barcelona_jpg_1400x0_crop_q85.jpg",
+      "sinopsis": "After a mysterious force decimates the world's population by causing all who see it to take their lives, Sebastian and his young daughter Anna must navigate their own journey of survival through the desolate streets of Barcelona. But as they form an uneasy alliance with other survivors and make their way toward a safe haven, a threat more sinister than the unseen creatures grows.",
+      "universe": "Bird Box",
+      "director": "David Pastor - Àlex Pastor"
      },
      {
       "id": 41,
@@ -816,6 +830,20 @@ export const data = [
       "director": "Jon Watts"
      },
      {
+      "id": 384,
+      "title": "Come Play",
+      "optional_title": "Ven a Jugar",
+      "web_calification": 5.7,
+      "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/OK6WWWt9NQs",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.HbfQ25Z8Mx2WX1axGul9yQHaKj?pid=ImgDet&rs=1",
+      "sinopsis": "Oliver is a lonely young boy who feels different from everyone else. Desperate for a friend, he seeks solace and refuge in his ever-present cell phone and tablet. When a mysterious creature uses Oliver's devices against him to break into our world, Oliver's parents must fight to save their son from the monster beyond the screen.",
+      "universe": "None",
+      "director": "Jacob Chase"
+     },
+     {
       "id": 60,
       "title": "Countdown",
       "optional_title": "Countdown: La Hora de tu Muerte",
@@ -1000,6 +1028,20 @@ export const data = [
       "director": "Scott Derrickson"
      },
      {
+      "id": 382,
+      "title": "Demonic",
+      "optional_title": "En la Mente del Diablo",
+      "web_calification": 4.3,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/EYXLKC5xd7Q",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/es.web.img2.acsta.net\/pictures\/21\/07\/01\/10\/41\/2900966.jpg",
+      "sinopsis": "Carly learns from her former childhood friend Martin that her estranged mother Angela is in coma in a state-of-art clinic and the doctors responsible for her treatment want to talk to her. Dr. Michael calls her and schedules a meeting with Carly on the next morning. She meets Dr. Michael and his colleague, Dr. Daniel, and they explain that they need her in an advanced treatment using an avatar to enter into Angela's mind and learn how she is responding the treatment. Carly accepts to participate in the experiment, but she feels affected by Angela's mind and the doctors interrupt her journey. Affected by the experiment, Carly tells her best friend Sam how he was her journey. But the doctors summon her again on the next day and Carly learns why her mother became a killer on spree years ago. Now she wants to help Angela, but Carly is deeply affected by a demon and Martin tries to help her.",
+      "universe": "None",
+      "director": "Neill Blomkamp"
+     },
+     {
       "id": 74,
       "title": "Desesperación",
       "optional_title": "Desesperación",
@@ -1060,6 +1102,20 @@ export const data = [
       "add_date": "2023-06-28",
       "universe": "None",
       "director": "Tyler Czajkowski"
+     },
+     {
+      "id": 207,
+      "title": "Disturbing Behavior",
+      "optional_title": "Comportamiento Perturbado \/ Perturbados ",
+      "web_calification": 5.6,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/a9zfBcp6AxA",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.8a64903bf85a1250bd86916e5dfe7771?rik=27H5%2fq4a%2fezpAA&riu=http%3a%2f%2fwww.impawards.com%2f1998%2fposters%2fdisturbing_behavior_ver2.jpg&ehk=pVopQY6KUcv16HF30COirrlK2UPagcHvc%2fkSK3DC2ko%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "After the suicide of the teenager Allen Clark, his family decides to move from Chicago to the quiet Cradle Bay Island seeking a peaceful life for the siblings Steve and Lindsay Clark. When Steve joins the local high-school, the outcast Gavin Strick befriends Steve and introduces his also rejected friend Rachel Wagner to the newcomer. Gavin exposes to Steve in the refectory the punks, the nerds and the different tribes of the school and he defends the weird theory that a sinister force changes the behavior of the annoyingly perfect \"Blue Ribbons\", a group of good students that wear identical jackets and gather in the Yogurt Shoppe. Further he tells that he had witnessed the blue ribbon Andy Efkin killing their schoolmate Mary Jo that is missing and the local Officer Cox covering the murder. Steve does not believe in Gavin's words, but when his friend is submitted to the treatment of Dr. Edgar Caldicott and immediately changes his behavior, joining the Blue Ribbons, Steve and Rachel decides to investigate the mystery discovering the dark secret of the perfect behavior.",
+      "universe": "None",
+      "director": "David Nutter"
      },
      {
       "id": 79,
@@ -1323,34 +1379,6 @@ export const data = [
       "director": "Manuel Carballo"
      },
      {
-      "id": 99,
-      "title": "The Exorcist: The Beginning",
-      "optional_title": "El Exorcista: El Comienzo ",
-      "web_calification": 5.1,
-      "year": 2005,
-      "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
-      "clasification": "movie",
-      "gender": "possessions",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
-      "universe": "The Exorcist",
-      "director": "Renny Harlin"
-     },
-     {
-      "id": 100,
-      "title": "The Exorcist 2: The Heretic",
-      "optional_title": "El Exorcista 2: El Hereje ",
-      "web_calification": 4.77,
-      "year": 1977,
-      "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
-      "clasification": "movie",
-      "gender": "possessions",
-      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Wdfq6G0nuXQT2HPmIRKKwwHaLH?pid=ImgDet&rs=1",
-      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
-      "universe": "The Exorcist",
-      "director": "John Boorman - Rospo Pallenberg"
-     },
-     {
       "id": 101,
       "title": "Extraterrestrial",
       "optional_title": "Extraterrestres",
@@ -1363,6 +1391,20 @@ export const data = [
       "sinopsis": "A group of friends on a weekend trip to a cabin in the woods find themselves terrorized by alien visitors.",
       "universe": "None",
       "director": "Colin Minihan"
+     },
+     {
+      "id": 383,
+      "title": "Fallen",
+      "optional_title": "Poseídos",
+      "web_calification": 7,
+      "year": 1998,
+      "trailer": "https:\/\/www.youtube.com\/embed\/JC-ykURLzSg",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/www.movieartarena.com\/imgs\/fallenff.jpg",
+      "sinopsis": "Det. John Hobbes is convinced that when killer Edgar Reese is executed, all of his troubles are over. But when people he knows and people on the street start to sing the same tune that Reese sang in the gas chamber, and those same people taunt him, he is told that maybe the cursed fallen angel Azazel is behind it all. Azazel is cursed to roam the Earth without a form, and he can switch bodies by any contact, making him hard to track. When Hobbes is forced to kill a man possessed by Azazel, he must clear his name while protecting his family and others from the evil, vengeful Azazel.",
+      "universe": "None",
+      "director": "Gregory Hoblit"
      },
      {
       "id": 102,
@@ -1810,6 +1852,20 @@ export const data = [
       "sinopsis": "Doctor Channard is sent a new patient, a girl warning of the terrible creatures that have destroyed her family, Cenobites who offer the most intense sensations of pleasure and pain. But Channard has been searching for the doorway to Hell for years, and Kirsty must follow him to save her father and witness the power struggles among the newly damned.",
       "universe": "Hellraiser ",
       "director": "Tony Randel"
+     },
+     {
+      "id": 380,
+      "title": "Hellraiser III: Hell on Earth",
+      "optional_title": "Hellraiser III: Infierno en la tierra",
+      "web_calification": 5.5,
+      "year": 1992,
+      "trailer": "https:\/\/www.youtube.com\/embed\/CbGozPL5BeA",
+      "clasification": "movie",
+      "gender": "gore",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.cH8iE-6QVL-lgh3j_6EbaQHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "After the \"Big Confrontation\" in the previous installment \"Hellbound\", Pinhead - the Black Pope of Hell - is trapped inside a block of black marble. This dark marble block contains both Pinhead and the LeMarchand puzzle cube, and is purchased by a young playboy to serve as a decorative sculpture in his nightclub. But Pinhead soon tries to break free... by instigating the playboy to lure victims into his proximity... so that he can obtain their blood. Once freed, Pinhead vehemently seeks to destroy the cube... so he need never return to Hell again. But a female journalist starts investigating these grisly murders, and is determined to stand in his nefarious way.",
+      "universe": "Hellraiser ",
+      "director": "Anthony Hickox"
      },
      {
       "id": 136,
@@ -2324,17 +2380,6 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 177,
-      "title": "The Night Chronicles: Devil ",
-      "optional_title": "La Trampa del Mal \/ La Reunión del Diablo",
-      "web_calification": 6.74,
-      "year": 2010,
-      "trailer": "https:\/\/www.youtube.com\/embed\/_E0Hc7CBWs4",
-      "clasification": "movie",
-      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg",
-      "universe": "None"
-     },
-     {
       "id": 178,
       "title": "La Ultima Puerta",
       "optional_title": "The Ninth Gate \/ La Novena Puerta",
@@ -2702,20 +2747,6 @@ export const data = [
       "sinopsis": "One year after Mike Lawford's young son disappeared during a Halloween carnival, he is haunted by ghostly images and terrifying messages he can't explain. Together with his estranged wife, he will stop at nothing to unravel the mystery and find their son-and, in doing so, he unearths the legend of the crying woman who refuses to remain buried in the past.",
       "universe": "None",
       "director": "Uli Edel"
-     },
-     {
-      "id": 207,
-      "title": "Disturbing Behavior",
-      "optional_title": "Comportamiento Perturbado \/ Perturbados ",
-      "web_calification": 5.6,
-      "year": 1998,
-      "trailer": "https:\/\/www.youtube.com\/embed\/a9zfBcp6AxA",
-      "clasification": "movie",
-      "gender": "thriller",
-      "cover": "https:\/\/th.bing.com\/th\/id\/R.8a64903bf85a1250bd86916e5dfe7771?rik=27H5%2fq4a%2fezpAA&riu=http%3a%2f%2fwww.impawards.com%2f1998%2fposters%2fdisturbing_behavior_ver2.jpg&ehk=pVopQY6KUcv16HF30COirrlK2UPagcHvc%2fkSK3DC2ko%3d&risl=&pid=ImgRaw&r=0",
-      "sinopsis": "After the suicide of the teenager Allen Clark, his family decides to move from Chicago to the quiet Cradle Bay Island seeking a peaceful life for the siblings Steve and Lindsay Clark. When Steve joins the local high-school, the outcast Gavin Strick befriends Steve and introduces his also rejected friend Rachel Wagner to the newcomer. Gavin exposes to Steve in the refectory the punks, the nerds and the different tribes of the school and he defends the weird theory that a sinister force changes the behavior of the annoyingly perfect \"Blue Ribbons\", a group of good students that wear identical jackets and gather in the Yogurt Shoppe. Further he tells that he had witnessed the blue ribbon Andy Efkin killing their schoolmate Mary Jo that is missing and the local Officer Cox covering the murder. Steve does not believe in Gavin's words, but when his friend is submitted to the treatment of Dr. Edgar Caldicott and immediately changes his behavior, joining the Blue Ribbons, Steve and Rachel decides to investigate the mystery discovering the dark secret of the perfect behavior.",
-      "universe": "None",
-      "director": "David Nutter"
      },
      {
       "id": 208,
@@ -3484,6 +3515,20 @@ export const data = [
       "director": "Andrew Douglas"
      },
      {
+      "id": 39,
+      "title": "The Bell Witch Haunting",
+      "optional_title": "The Bell Witch Hunting",
+      "web_calification": 4.71,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/FTQ9ENU97WU",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/images.jdmagicbox.com\/comp\/jd_social\/news\/2018aug03\/image-183825-o6fldahdfh.jpg",
+      "sinopsis": "Found-footage horror. The Robertson County Sheriff's Department has released videos found on the bodies of the Sawyer family's cell phones and video cameras. What was first thought to be a murder-suicide is now believed to be the return of a centuries-old demon responsible for America's most famous paranormal event.",
+      "universe": "None",
+      "director": "Glenn Miller"
+     },
+     {
       "id": 267,
       "title": "The Boy",
       "optional_title": "El Niño ",
@@ -3733,6 +3778,20 @@ export const data = [
       "universe": "The Exorcist"
      },
      {
+      "id": 100,
+      "title": "The Exorcist 2: The Heretic",
+      "optional_title": "El Exorcista 2: El Hereje ",
+      "web_calification": 4.77,
+      "year": 1977,
+      "trailer": "https:\/\/www.youtube.com\/embed\/ZEnaYHPDxyg",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.Wdfq6G0nuXQT2HPmIRKKwwHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "El exorcista 2: El hereje es una película de terror estadounidense de 1977 que continúa la historia de la primera parte, El exorcista. La película se centra en Regan MacNeil, una adolescente que todavía sufre las secuelas de la posesión demoníaca que padeció cuatro años atrás. El padre Philip Lamont, un sacerdote que investiga la muerte del padre Merrin, el exorcista que liberó a Regan, intenta ayudarla a través de una máquina hipnótica que le permite entrar en su mente. Sin embargo, al hacerlo, despierta al demonio Pazuzu, que busca vengarse de Regan y del padre Lamont. La película fue dirigida por John Boorman y protagonizada por Linda Blair, Richard Burton, Louise Fletcher y James Earl Jones, entre otros. La película fue muy criticada por su guion confuso y su alejamiento del estilo de la original, pero con el tiempo ha adquirido cierto estatus de culto y ha sido reivindicada por algunos críticos y cineastas.",
+      "universe": "The Exorcist",
+      "director": "John Boorman - Rospo Pallenberg"
+     },
+     {
       "id": 286,
       "title": "The Exorcist 3",
       "optional_title": "El Exorcista 3 ",
@@ -3755,6 +3814,20 @@ export const data = [
       "gender": "possessions",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.5e4d38cbfa38b5db7e9a00b229a5858b?rik=eA9%2b8G2Wx4j5oA&riu=http%3a%2f%2fes.web.img3.acsta.net%2fmedias%2fnmedia%2f18%2f91%2f84%2f94%2f20166197.jpg&ehk=u6oVgyxOMfHlLaU3vi3aGFe5i1ZZNuP3%2fGF5lKdOH00%3d&risl=&pid=ImgRaw&r=0",
       "universe": "The Exorcist"
+     },
+     {
+      "id": 99,
+      "title": "The Exorcist: The Beginning",
+      "optional_title": "El Exorcista: El Comienzo ",
+      "web_calification": 5.1,
+      "year": 2005,
+      "trailer": "https:\/\/www.youtube.com\/embed\/eHJEMIYNFFY",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.df74ab9d31643d0d36d9ec04048e38a5?rik=FkMlvsD%2fohZIfA&riu=http%3a%2f%2fimage.tmdb.org%2ft%2fp%2foriginal%2frscNJc3SREIjKy8dwgA9KOQZPxm.jpg&ehk=%2ba6ZAaOOqD552qCkdoBdPhrKcTXv13sEp3MSr%2fMn%2fgA%3d&risl=&pid=ImgRaw&r=0",
+      "sinopsis": "Archeologist Lankester Merrin is asked to go to East Africa to excavate a church that has been found completely buried in sand. Merrin is also an ordained Roman Catholic priest who, still haunted by what he was forced to do during World War II in his native Holland, eschews any religion or belief. He's fascinated by what he finds and that it dates hundred of years before Christianity was introduced to the area. Accompanied by a young priest, Father Francis, to keep an eye on the religious elements of what they find, Merrin makes his way to the camp. There he meets a young doctor, Sarah and soon realizes there is an air of gloom that envelops the entire site. Workmen go mad and a young boy is mauled by a pack of hyenas while completely ignoring his younger brother Joseph. Inside the church itself they find signs of desecration. Merrin is forced to re-examine his lack of faith and come face to face with the devil.",
+      "universe": "The Exorcist",
+      "director": "Renny Harlin"
      },
      {
       "id": 288,
@@ -4142,6 +4215,17 @@ export const data = [
       "clasification": "movie",
       "gender": "psicologic",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Neon_Demon-386448800-large.jpg",
+      "universe": "None"
+     },
+     {
+      "id": 177,
+      "title": "The Night Chronicles: Devil ",
+      "optional_title": "La Trampa del Mal \/ La Reunión del Diablo",
+      "web_calification": 6.74,
+      "year": 2010,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_E0Hc7CBWs4",
+      "clasification": "movie",
+      "cover": "https:\/\/www.darkveins.com\/wp-content\/uploads\/2018\/02\/devil-poster.jpg",
       "universe": "None"
      },
      {
