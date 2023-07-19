@@ -69,7 +69,7 @@ section{
 .recent{
      font-size: 9pt;
 }
-.card{
+/* .card{
      transition: all 0.2s ease-in-out;
 }
 
@@ -83,4 +83,4 @@ section{
 
 .card:hover > img{
      object-fit:contain !important;
-}
+} */
