@@ -59,7 +59,7 @@ createApp({
                console.log(arrayWithCategoryNone);
                let categoriesNoRepeat = [...new Set(arrayWithCategoryNone)]
                console.log(categoriesNoRepeat);
-               let auxiliarArray = categoriesNoRepeat.map( category => this.movies.filter(movie => movie.gender == category))
+               let auxiliarArray = categoriesNoRepeat.map( category => this.movies.filter(movie => movie.gender == category && (movie.clasification === "movie" || movie.clasification === "serie")))
                console.log(auxiliarArray);
                let arrayOfCategories = auxiliarArray.reduce( (acc, actual, index) => {
                     acc[actual[0].gender] = actual;
