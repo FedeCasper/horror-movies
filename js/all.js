@@ -61,7 +61,7 @@ createApp({
                console.log(categoriesNoRepeat);
                let auxiliarArray = categoriesNoRepeat.map( category => this.movies.filter(movie => movie.gender == category && (movie.clasification === "movie" || movie.clasification === "serie")))
                console.log(auxiliarArray);
-               let arrayOfCategories = auxiliarArray.reduce( (acc, actual, index) => {
+               let arrayOfCategories = auxiliarArray.reduce( (acc, actual) => {
                     acc[actual[0].gender] = actual;
                     return acc
                }, {})
@@ -72,6 +72,7 @@ createApp({
      computed:{
           filter(){
                this.filteredMovies = storyFilter(this.inputValue, this.movies)
+               console.log(this.filteredMovies);
           }
      }
 }).mount('#app')

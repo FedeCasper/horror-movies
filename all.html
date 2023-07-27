@@ -72,7 +72,7 @@
                <!-- Container of Categories section --> 
                <div  class="list-group-item d-flex flex-column gap-2">
                     <div class="w-100 d-flex flex-column" v-for="(object, index) in arrayOfObjectCategories" >
-                         <h4 class="text-light mb-3"><span class="fw-bold text-danger me-2">|</span>{{(object[0].gender).toUpperCase()}}</h4>
+                         <h4 v-cloak class="text-light mb-3"><span  class="fw-bold text-danger me-2">|</span>{{(object[0].gender).toUpperCase()}}</h4>
                          <!-- Container of Cards section --> 
                          <div class="d-flex overflow-x-auto gap-3 mb-5">
                               <div v-for="movie of object" class="text-light ">
@@ -84,7 +84,7 @@
                     </div>
                </div>
           <!-- Card individual model -->
-               <!-- <div v-cloak v-if="filteredMovies.length != 0"  :class="filteredMovies.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start z-3' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 z-3'" v-for="movie of filteredMovies">
+               <!-- <div  v-if="filteredMovies.length != 0"  :class="filteredMovies.length <= 3 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start z-3' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 z-3'" v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100 bg-light text-dark border-0">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top object-fit-cover cover rounded-top-2 shadow h-100 z-1" alt="...">
