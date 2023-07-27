@@ -72,7 +72,7 @@
                <div v-cloak v-if="filteredOnlyMovies.length != 0" :class="filteredOnlyMovies.length == 1 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1'" v-for="movie of filteredOnlyMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100">
-                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
+                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1 object-fit-cover" :alt="movie.title">
                               <div class="card-body border-bottom border-bottom-dark">
                                    <h6 class="card-title">{{movie.title}}</h6>
                                    <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
