@@ -65,21 +65,21 @@
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
                     <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="preventNullInputText" title="click to search"></i></button>
                </div>
-               <h6 v-cloak class="text-light pt-3">
-                    <span class="text-danger px-2">{{dataObject.movies}}</span> movies,
-                    <span class="text-danger px-2">{{dataObject.series}}</span> series,
-                    <span class="text-danger px-2">{{dataObject.books}}</span> books.
-                    <span class="text-danger px-2">{{dataObject.cortos}}</span> cortos.
+               <h6 class="d-flex text-light pt-3">
+                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.movies}}</span> movies,</div>
+                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.series}}</span> series,</div>
+                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.cortos}}</span> cortos,</div>
+                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.books}}</span> books.</div>
                </h6>
           </section>
 
      <!-- Cards container section -->
-          <section v-if="initializer === false" :class="filteredMovies.length == 1 ? 'row justify-content-center align-items-center pt-4 px-2 w-100 mx-0' : 'row justify-content-center pt-4 px-2 w-100 mx-0'">
+          <section v-if="initializer === false" :class="filteredMovies.length <= 3 ? 'row justify-content-center align-items-center pt-4 px-2 w-100 mx-0' : 'row justify-content-center pt-4 px-2 w-100 mx-0'">
                <!-- Card individual model -->
                <div v-cloak v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100">
-                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
+                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1 object-fit-cover" alt="...">
                               <div class="card-body border-bottom border-bottom-dark">
                                    <h6 class="card-title">{{movie.title}}</h6>
                                    <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
