@@ -1,4 +1,3 @@
-import { data } from "../js/data.js"
 import { storyFilter } from "../module/functions.js"
 const { createApp } = Vue
 
@@ -16,13 +15,19 @@ createApp({
      },
 
      created(){
-          this.movies = data
-          console.log(this.movies);
-          this.filteredSeries = this.movies.filter(movie => movie.clasification === "serie")
-          console.log(this.filteredSeries);
-          this.filteredOnlySeries = this.filteredSeries
-          console.log(this.filteredOnlySeries);
-          this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
+          const url = "./js/data.json"
+          fetch(url)
+          .then(response => response.json())
+          .then(data => {
+               console.log(data);
+               this.movies = data
+               console.log(this.movies);
+               this.filteredSeries = this.movies.filter(movie => movie.clasification === "serie")
+               console.log(this.filteredSeries);
+               this.filteredOnlySeries = this.filteredSeries
+               console.log(this.filteredOnlySeries);
+               this.filteredSeries.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
+          })
      },
 
      beforeUpdate(){

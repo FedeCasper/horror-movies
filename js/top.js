@@ -1,4 +1,3 @@
-import { data } from "../js/data.js"
 const { createApp } = Vue
 
 createApp({
@@ -13,16 +12,23 @@ createApp({
           }
      },
      created(){
-          this.movies = data
-          console.log(this.movies);
-          let onlyMovies = this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification)
-          console.log(onlyMovies);
-          this.topMovies = this.bestOnes(onlyMovies)
-          let onlySeries = this.movies.filter(movie => movie.clasification == "serie" && movie.web_calification)
-          this.topSeries = this.bestOnes(onlySeries)
-          console.log(this.topMovies);
-          let onlyBooks = this.movies.filter(movie => movie.clasification == "book" && movie.web_calification)
-          this.topBooks = this.bestOnes(onlyBooks)
+          const url = "./js/data.json"
+          fetch(url)
+          .then(response => response.json())
+          .then(data => {
+               console.log(data);
+               this.movies = data
+               console.log(this.movies);
+               let onlyMovies = this.movies.filter(movie => movie.clasification == "movie" && movie.web_calification)
+               console.log(onlyMovies);
+               this.topMovies = this.bestOnes(onlyMovies)
+               let onlySeries = this.movies.filter(movie => movie.clasification == "serie" && movie.web_calification)
+               this.topSeries = this.bestOnes(onlySeries)
+               console.log(this.topMovies);
+               let onlyBooks = this.movies.filter(movie => movie.clasification == "book" && movie.web_calification)
+               this.topBooks = this.bestOnes(onlyBooks)
+          })
+
      },
      methods:{
           bestOnes(array){

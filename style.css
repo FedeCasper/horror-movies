@@ -69,18 +69,3 @@ section{
 .recent{
      font-size: 9pt;
 }
-/* .card{
-     transition: all 0.2s ease-in-out;
-}
-
-.card:hover{
-     position: relative;
-     transform: scale(1.1);
-}
-.card > img{
-     transition: all 1s ease-in-out;
-}
-
-.card:hover > img{
-     object-fit:contain !important;
-} */
