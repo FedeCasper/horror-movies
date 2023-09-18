@@ -1,4 +1,3 @@
-import { data } from "../js/data.js"
 const { createApp } = Vue
 
 createApp({
@@ -20,20 +19,25 @@ createApp({
           }
      },
      created(){
-          this.movies = data
-          console.log(this.movies);
-          this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
-          let params = new URLSearchParams (location.search)
+          const url = "./js/data.json"
+          fetch(url)
+          .then(response => response.json())
+          .then(data => {
+               this.movies = data
+               console.log(this.movies);
+               this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no_optional_title" : movie.optional_title)
 
+               this.overAllObject = {
+                    movies: this.findMovieGlobalIndex("movie"),
+                    series: this.findMovieGlobalIndex("serie"),
+                    books: this.findMovieGlobalIndex("book")
+               }
+          })
+
+          let params = new URLSearchParams (location.search)
           // console.log(params);
           this.captureId = params.get("id")
           // console.log(this.captureId);
-
-          this.overAllObject = {
-               movies: this.findMovieGlobalIndex("movie"),
-               series: this.findMovieGlobalIndex("serie"),
-               books: this.findMovieGlobalIndex("book")
-          }
 
           this.universeStories = this.getStoryUniverse()
           console.log(this.universeStories);

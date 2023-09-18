@@ -1,4 +1,3 @@
-import { data } from "../js/data.js"
 import { storyFilter } from "../module/functions.js"
 
 const { createApp } = Vue
@@ -18,10 +17,18 @@ createApp({
      },
 
      created() {
-          this.movies = data
-          // console.log(this.movies);
-          this.onlyBooks = this.movies.filter(movie => movie.clasification == "book")
-          // console.log(this.onlyBooks);
+          const url = "./js/data.json"
+          fetch(url)
+          .then(response => response.json())
+          .then(data => {
+               console.log(data);
+               this.movies = data
+               console.log(this.movies)
+
+               this.onlyBooks = this.movies.filter(movie => movie.clasification == "book")
+               // console.log(this.onlyBooks);
+          });
+
      },
 
      mounted(){

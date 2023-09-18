@@ -1,4 +1,3 @@
-import { data } from "../js/data.js"
 import { storyFilter } from "../module/functions.js"
 const { createApp } = Vue
 
@@ -24,7 +23,7 @@ createApp({
                this.movies = data
                console.log(this.movies);
 
-               this.lengthClasificationCalculator();
+               this.dataObject = this.lengthClasificationCalculator();
 
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
           })
@@ -62,7 +61,7 @@ createApp({
           lengthClasificationCalculator(){
                const noRepeatClasification = [...new Set(this.movies.map(movie => movie.clasification))]
                const arrayOfClasification = noRepeatClasification.map( clasification => this.movies.filter( movie => movie.clasification == clasification) )
-               this.dataObject = {
+               return {
                     movies: arrayOfClasification[0].length,
                     series: arrayOfClasification[1].length,
                     books: arrayOfClasification[2].length,
