@@ -238,6 +238,18 @@ export const data = [
      },
      {
       "id": 18,
+      "title": "Alexia",
+      "optional_title": "Alexia",
+      "web_calification": 6.2,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/sV8UnfFmD-Y?si=LW1TsYCLFkSCJG_T",
+      "clasification": "corto",
+      "sinopsis": "Franco's ex-girlfriend Alexia had committed suicide some time ago, but he still feels her presence because her social network profile has not yet been taken down. On the day of her birthday, he visits her page and feels guilty over the fact she had taken her own life. When Franco's new girlfriend finally convinces him to delete Alexia from his contacts and move on with his life, his computer starts to malfunction and some thing strange and sinister manifests through the web and into his life. Maybe a CLICK isn't enough to leave the past behind.",
+      "universe": "None",
+      "director": "Andrés Borghi"
+     },
+     {
+      "id": 19,
       "title": "Alien",
       "optional_title": "Alien 1: El octavo Pasajero",
       "web_calification": 8.57,
@@ -251,7 +263,7 @@ export const data = [
       "director": "Ridley Scott"
      },
      {
-      "id": 19,
+      "id": 20,
       "title": "Alien 2",
       "optional_title": "Alien 2: El Regreso",
       "web_calification": 8.37,
@@ -264,7 +276,7 @@ export const data = [
       "universe": "Alien"
      },
      {
-      "id": 20,
+      "id": 21,
       "title": "Alien 3",
       "optional_title": "Alien 3",
       "web_calification": 6.65,
@@ -278,7 +290,7 @@ export const data = [
       "director": "David Fincher"
      },
      {
-      "id": 21,
+      "id": 22,
       "title": "Alien Abduction",
       "optional_title": "The Morris Family Abduction",
       "web_calification": 5.57,
@@ -291,7 +303,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 22,
+      "id": 23,
       "title": "Alien vs Predator",
       "optional_title": "Alien vs Depredador",
       "web_calification": 6.51,
@@ -305,7 +317,7 @@ export const data = [
       "director": "Paul W.S. Anderson\t"
      },
      {
-      "id": 23,
+      "id": 24,
       "title": "Alien vs Predator 2: Requiem",
       "optional_title": "Alien vs Depredador 2",
       "web_calification": 5.51,
@@ -318,7 +330,21 @@ export const data = [
       "universe": "Predator"
      },
      {
-      "id": 24,
+      "id": 25,
+      "title": "Alien: Covenant",
+      "optional_title": "Alien: Covenant",
+      "web_calification": 6.4,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/svnAD0TApb8?si=0JvCVY-M_feP-sBY",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/i.pinimg.com\/736x\/5d\/c1\/6c\/5dc16c499990576744de0c2acb8def49.jpg",
+      "sinopsis": "In 2104, almost eleven years after the disastrous expedition to the distant moon, LV-223, in Prometheus (2012), the deep-space colonisation vessel, USCSS Covenant, is on course for the remote planet, Origae-6, with more than 2,000 colonists in cryogenic hibernation to build a new world. Instead, a rogue transmission entices the crew to a nearby habitable planet which resembles Earth. As a result, the unsuspecting crewmembers of the Covenant will have to cope with biological foes beyond human comprehension. Now, what started as a peaceful exploratory mission, will soon turn into a desperate rescue operation in uncharted space. Is there an escape from the treacherous, mysterious planet?",
+      "universe": "Alien",
+      "director": "Ridley Scott"
+     },
+     {
+      "id": 26,
       "title": "Alien: Resurrection",
       "optional_title": "Alien 4: Resurrección",
       "web_calification": 6.87,
@@ -331,7 +357,7 @@ export const data = [
       "universe": "Alien"
      },
      {
-      "id": 25,
+      "id": 27,
       "title": "All Hallows' Eve",
       "optional_title": "La Víspera de Halloween \/ Terrifier el inicio",
       "web_calification": 6.18,
@@ -345,7 +371,7 @@ export const data = [
       "director": "Damien Leone"
      },
      {
-      "id": 26,
+      "id": 28,
       "title": "Amityville: The Awakening",
       "optional_title": "Amitiville: El Despertar",
       "web_calification": 5.87,
@@ -359,7 +385,7 @@ export const data = [
       "director": "Franck Khalfoun"
      },
      {
-      "id": 27,
+      "id": 29,
       "title": "An American Haunting",
       "optional_title": "Maleficio , Apariciones",
       "web_calification": 6.29,
@@ -373,7 +399,7 @@ export const data = [
       "director": "Courtney Solomon"
      },
      {
-      "id": 28,
+      "id": 30,
       "title": "Anaconda ",
       "optional_title": "Anaconda",
       "web_calification": 5.87,
@@ -387,7 +413,7 @@ export const data = [
       "director": "Luis Llosa"
      },
      {
-      "id": 29,
+      "id": 31,
       "title": "Annabelle",
       "optional_title": "The Annabelle Story",
       "web_calification": 5.73,
@@ -401,7 +427,7 @@ export const data = [
       "director": "John R. Leonetti"
      },
      {
-      "id": 30,
+      "id": 32,
       "title": "Annabelle 2: Creación",
       "optional_title": "Annabelle Creation",
       "web_calification": 6.9,
@@ -415,7 +441,7 @@ export const data = [
       "director": "David F. Sandberg"
      },
      {
-      "id": 31,
+      "id": 33,
       "title": "Annabelle 3: Vuelve a Casa",
       "optional_title": "Annabelle Comes Home",
       "web_calification": 6.19,
@@ -429,7 +455,7 @@ export const data = [
       "director": "Gary Dauberman"
      },
      {
-      "id": 32,
+      "id": 34,
       "title": "Annihilation",
       "optional_title": "Aniquilación",
       "web_calification": 6.45,
@@ -443,7 +469,7 @@ export const data = [
       "director": "Alex Garland"
      },
      {
-      "id": 381,
+      "id": 35,
       "title": "Apollo 18",
       "optional_title": "Apollo 18",
       "web_calification": 5.2,
@@ -457,7 +483,7 @@ export const data = [
       "director": "Gonzalo López-Gallego"
      },
      {
-      "id": 33,
+      "id": 36,
       "title": "Arachnophobia",
       "optional_title": "Aracnofobia",
       "web_calification": 6.74,
@@ -471,7 +497,7 @@ export const data = [
       "director": "Frank Marshall"
      },
      {
-      "id": 34,
+      "id": 37,
       "title": "Archive 81",
       "optional_title": "Archivo 81",
       "web_calification": 6.32,
@@ -484,7 +510,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 35,
+      "id": 38,
       "title": "Army of Darkness",
       "optional_title": "El Ejercito de las Tinieblas ",
       "web_calification": 7.73,
@@ -498,7 +524,7 @@ export const data = [
       "director": "Sam Raimi"
      },
      {
-      "id": 36,
+      "id": 39,
       "title": "As Above So Below",
       "optional_title": "Asi en la tierra como en el infierno",
       "web_calification": 6.59,
@@ -511,7 +537,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 37,
+      "id": 40,
       "title": "Aterrados",
       "optional_title": "Aterrados",
       "web_calification": 6.37,
@@ -524,7 +550,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 38,
+      "id": 41,
       "title": "Babadook",
       "optional_title": "Babadook",
       "web_calification": 6.57,
@@ -537,7 +563,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 40,
+      "id": 42,
       "title": "Bird Box",
       "optional_title": "A Ciegas",
       "web_calification": 6.81,
@@ -550,7 +576,7 @@ export const data = [
       "universe": "Bird Box"
      },
      {
-      "id": 385,
+      "id": 43,
       "title": "Bird Box: Barcelona",
       "optional_title": "A Ciegas: Barcelona",
       "web_calification": 5.3,
@@ -564,7 +590,7 @@ export const data = [
       "director": "David Pastor - Àlex Pastor"
      },
      {
-      "id": 41,
+      "id": 44,
       "title": "Blade",
       "optional_title": "Blade: Cazavampiros",
       "web_calification": 7.44,
@@ -577,7 +603,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 42,
+      "id": 45,
       "title": "Blair's Witch Proyect",
       "optional_title": "El Proyecto de la Bruja de Blair ",
       "web_calification": 6.91,
@@ -591,7 +617,7 @@ export const data = [
       "director": "Daniel Myrick - Eduardo Sánchez"
      },
      {
-      "id": 43,
+      "id": 46,
       "title": "Blair's Witch Proyect: The Book of Shadows ",
       "optional_title": "El Proyecto de la Bruja de Blair 2: El Libro de las Sombras",
       "web_calification": 4.9,
@@ -604,7 +630,7 @@ export const data = [
       "universe": "Blair Witch Project"
      },
      {
-      "id": 44,
+      "id": 47,
       "title": "Bones",
       "optional_title": "Mansión Diabólica",
       "web_calification": 4.4,
@@ -617,7 +643,7 @@ export const data = [
       "director": "Ernest R. Dickerson"
      },
      {
-      "id": 45,
+      "id": 48,
       "title": "Boogeyman 2",
       "optional_title": "El Hombre de la Bolsa 2",
       "web_calification": 6.19,
@@ -630,7 +656,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 46,
+      "id": 49,
       "title": "Boogeyman: La Puerta del Miedo",
       "optional_title": "El Hombre de la Bolsa : La Puerta del Miedo",
       "web_calification": 5.22,
@@ -643,7 +669,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 47,
+      "id": 50,
       "title": "Burried Alive",
       "optional_title": "Enterrados Vivos ",
       "web_calification": 4.57,
@@ -655,7 +681,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 48,
+      "id": 51,
       "title": "Case 39",
       "optional_title": "Expediente 39 - Caso 39",
       "web_calification": 6.93,
@@ -668,7 +694,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 49,
+      "id": 52,
       "title": "Cementerio de Animales",
       "optional_title": "Cementerio de Animales",
       "web_calification": 7.6,
@@ -679,7 +705,7 @@ export const data = [
       "universe": "Pet Sematary"
      },
      {
-      "id": 211,
+      "id": 53,
       "title": "Child´s Play",
       "optional_title": "Chucky 1 ",
       "web_calification": 7.85,
@@ -693,7 +719,7 @@ export const data = [
       "director": "Tom Holland"
      },
      {
-      "id": 50,
+      "id": 54,
       "title": "Child´s Play 2",
       "optional_title": "Chucky 2 ",
       "web_calification": 7.37,
@@ -707,7 +733,7 @@ export const data = [
       "director": "John Lafia"
      },
      {
-      "id": 51,
+      "id": 55,
       "title": "Child´s Play 3",
       "optional_title": "Chucky 3 ",
       "web_calification": 6.51,
@@ -721,7 +747,7 @@ export const data = [
       "director": "Jack Bender"
      },
      {
-      "id": 52,
+      "id": 56,
       "title": "Child´s Play 4: Bride of Chucky",
       "optional_title": "Chucky 4: La novia de Chucky ",
       "web_calification": 6.42,
@@ -735,7 +761,7 @@ export const data = [
       "director": "Ronny Yu"
      },
      {
-      "id": 53,
+      "id": 57,
       "title": "Child´s Play 5: Seed of Chucky",
       "optional_title": "Chucky 5: El hijo de Chucky  ",
       "web_calification": 4.94,
@@ -749,7 +775,7 @@ export const data = [
       "director": "Don Mancini"
      },
      {
-      "id": 54,
+      "id": 58,
       "title": "Child´s Play 6: Curse of Chucky",
       "optional_title": "Chucky 6: La Maldición de Chucky ",
       "web_calification": 6.97,
@@ -763,7 +789,7 @@ export const data = [
       "director": "Don Mancini"
      },
      {
-      "id": 55,
+      "id": 59,
       "title": "Child´s Play 7: Cult of Chucky",
       "optional_title": "Chucky 7: Culto a Chucky",
       "web_calification": 5.59,
@@ -777,7 +803,7 @@ export const data = [
       "director": "Don Mancini"
      },
      {
-      "id": 56,
+      "id": 60,
       "title": "Children of the Corn: Remake",
       "optional_title": "Los Niños del Maíz: Remake",
       "web_calification": 5.54,
@@ -790,7 +816,7 @@ export const data = [
       "director": "Donald P. Borchers"
      },
      {
-      "id": 57,
+      "id": 61,
       "title": "Clinical",
       "optional_title": "Clinical",
       "web_calification": 5,
@@ -803,7 +829,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 58,
+      "id": 62,
       "title": "Cloverfield: Monstruo",
       "optional_title": "Cloverfield",
       "web_calification": 6.99,
@@ -817,7 +843,7 @@ export const data = [
       "director": "Matt Reeves"
      },
      {
-      "id": 59,
+      "id": 63,
       "title": "Clown",
       "optional_title": "El Payaso del Mal",
       "web_calification": 6.7,
@@ -830,7 +856,7 @@ export const data = [
       "director": "Jon Watts"
      },
      {
-      "id": 384,
+      "id": 64,
       "title": "Come Play",
       "optional_title": "Ven a Jugar",
       "web_calification": 5.7,
@@ -844,7 +870,7 @@ export const data = [
       "director": "Jacob Chase"
      },
      {
-      "id": 60,
+      "id": 65,
       "title": "Countdown",
       "optional_title": "Countdown: La Hora de tu Muerte",
       "web_calification": 6.29,
@@ -856,7 +882,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 61,
+      "id": 66,
       "title": "Creep",
       "optional_title": "La Criatura \/ El Laberinto del Terror",
       "web_calification": 6.77,
@@ -868,7 +894,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 62,
+      "id": 67,
       "title": "Crimson Peak",
       "optional_title": "La Cumbre Escarlata",
       "web_calification": 6.72,
@@ -882,7 +908,7 @@ export const data = [
       "director": "Guillermo del Toro"
      },
      {
-      "id": 63,
+      "id": 68,
       "title": "Critters",
       "optional_title": "Critters: Ojo Muerden",
       "web_calification": 7.3,
@@ -895,7 +921,7 @@ export const data = [
       "universe": "Critters"
      },
      {
-      "id": 64,
+      "id": 69,
       "title": "Critters 2",
       "optional_title": "Critters: The Main Course",
       "web_calification": 6.72,
@@ -909,7 +935,7 @@ export const data = [
       "director": "Mick Garris"
      },
      {
-      "id": 65,
+      "id": 70,
       "title": "Critters 3",
       "optional_title": "Critters 3",
       "web_calification": 5.7,
@@ -923,7 +949,7 @@ export const data = [
       "director": "Kristine Peterson"
      },
      {
-      "id": 66,
+      "id": 71,
       "title": "Cursed",
       "optional_title": "La Maldición ",
       "web_calification": 6.05,
@@ -936,7 +962,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 67,
+      "id": 72,
       "title": "Dark Skies",
       "optional_title": "Los Elegidos",
       "web_calification": 6.95,
@@ -948,7 +974,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 68,
+      "id": 73,
       "title": "Dark Water",
       "optional_title": "Agua Turbia",
       "web_calification": 5.75,
@@ -962,7 +988,7 @@ export const data = [
       "director": "Walter Salles"
      },
      {
-      "id": 69,
+      "id": 74,
       "title": "Dawn of the Dead",
       "optional_title": "El Amanecer de los Muertos",
       "web_calification": 7.98,
@@ -976,7 +1002,7 @@ export const data = [
       "director": "Zack Snyder"
      },
      {
-      "id": 70,
+      "id": 75,
       "title": "Dead Silence",
       "optional_title": "El Títere \/ Silencio Mortal",
       "web_calification": 7.49,
@@ -990,7 +1016,7 @@ export const data = [
       "director": "James Wan"
      },
      {
-      "id": 71,
+      "id": 76,
       "title": "Death Note",
       "optional_title": "Nota Mortal",
       "web_calification": 5.35,
@@ -1002,7 +1028,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 72,
+      "id": 77,
       "title": "Deathwatch",
       "optional_title": "La Sombra del Mal ",
       "web_calification": 5.85,
@@ -1014,7 +1040,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 73,
+      "id": 78,
       "title": "Deliver Us From Evil",
       "optional_title": "Libranos del Mal",
       "web_calification": 6.87,
@@ -1028,7 +1054,7 @@ export const data = [
       "director": "Scott Derrickson"
      },
      {
-      "id": 382,
+      "id": 79,
       "title": "Demonic",
       "optional_title": "En la Mente del Diablo",
       "web_calification": 4.3,
@@ -1042,7 +1068,7 @@ export const data = [
       "director": "Neill Blomkamp"
      },
      {
-      "id": 74,
+      "id": 80,
       "title": "Desesperación",
       "optional_title": "Desesperación",
       "web_calification": 7.15,
@@ -1053,7 +1079,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 75,
+      "id": 81,
       "title": "Devil's Due",
       "optional_title": "El Heredero del Diablo",
       "web_calification": 5.15,
@@ -1066,7 +1092,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 76,
+      "id": 82,
       "title": "Devil's Gate",
       "optional_title": "Puertas al Infierno",
       "web_calification": 5.81,
@@ -1080,7 +1106,7 @@ export const data = [
       "director": "Clay Staub"
      },
      {
-      "id": 77,
+      "id": 83,
       "title": "Devil´s Island",
       "optional_title": "Isla del Diablo",
       "web_calification": 4.97,
@@ -1092,7 +1118,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 78,
+      "id": 84,
       "title": "Disguise",
       "web_calification": 0,
       "year": 2023,
@@ -1104,7 +1130,7 @@ export const data = [
       "director": "Tyler Czajkowski"
      },
      {
-      "id": 207,
+      "id": 85,
       "title": "Disturbing Behavior",
       "optional_title": "Comportamiento Perturbado \/ Perturbados ",
       "web_calification": 5.6,
@@ -1118,7 +1144,7 @@ export const data = [
       "director": "David Nutter"
      },
      {
-      "id": 79,
+      "id": 86,
       "title": "Doctor Sleep",
       "optional_title": "Doctor Sueño \/ El Resplandor 2: Doctor Sueño",
       "web_calification": 7.55,
@@ -1130,7 +1156,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 80,
+      "id": 87,
       "title": "Dolly Dearest",
       "optional_title": "Dolly, la muñeca asesina ",
       "web_calification": 5.97,
@@ -1144,7 +1170,7 @@ export const data = [
       "director": "Maria Lease"
      },
      {
-      "id": 81,
+      "id": 88,
       "title": "Don't Peek",
       "web_calification": 0,
       "year": 2020,
@@ -1156,7 +1182,7 @@ export const data = [
       "director": "Julian Terry"
      },
      {
-      "id": 82,
+      "id": 89,
       "title": "Don´t Look Up",
       "optional_title": "La Semilla del Diablo",
       "web_calification": 3.1,
@@ -1169,7 +1195,7 @@ export const data = [
       "director": "Fruit Chan"
      },
      {
-      "id": 83,
+      "id": 90,
       "title": "Doom",
       "optional_title": "Doom: La Puerta del Infierno",
       "web_calification": 5.85,
@@ -1183,7 +1209,7 @@ export const data = [
       "director": "Andrzej Bartkowiak"
      },
      {
-      "id": 84,
+      "id": 91,
       "title": "Drag Me To Hell",
       "optional_title": "Arrástrame al Infierno",
       "web_calification": 7.37,
@@ -1196,7 +1222,7 @@ export const data = [
       "director": "Sam Raimi"
      },
      {
-      "id": 85,
+      "id": 92,
       "title": "Dream House",
       "optional_title": "Detrás de las paredes",
       "web_calification": 6.21,
@@ -1208,7 +1234,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 86,
+      "id": 93,
       "title": "Dreamkatcher",
       "optional_title": "El Atrapa Sueños",
       "web_calification": 5.29,
@@ -1221,7 +1247,7 @@ export const data = [
       "director": "Lawrence Kasdan"
      },
      {
-      "id": 87,
+      "id": 94,
       "title": "El Bazar de los Malos Sueños",
       "optional_title": "El Bazar de los Malos Sueños",
       "web_calification": 6.91,
@@ -1232,7 +1258,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 88,
+      "id": 95,
       "title": "El Hoyo",
       "optional_title": "The Platform",
       "web_calification": 6.86,
@@ -1245,7 +1271,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 89,
+      "id": 96,
       "title": "El Instituto",
       "optional_title": "El Instituto",
       "web_calification": 0,
@@ -1256,7 +1282,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 90,
+      "id": 97,
       "title": "El Orfanato",
       "optional_title": "El Orfanato",
       "web_calification": 7.21,
@@ -1270,7 +1296,7 @@ export const data = [
       "director": "J.A. Bayona"
      },
      {
-      "id": 91,
+      "id": 98,
       "title": "El Páramo",
       "optional_title": "The Wasteland \/ La Bestia",
       "web_calification": 5.27,
@@ -1284,7 +1310,7 @@ export const data = [
       "director": "David Casademunt"
      },
      {
-      "id": 92,
+      "id": 99,
       "title": "Eli",
       "optional_title": "Eli",
       "web_calification": 6.41,
@@ -1295,7 +1321,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 93,
+      "id": 100,
       "title": "End Of Days",
       "optional_title": "El Fin de los Dias ",
       "web_calification": 6.32,
@@ -1309,7 +1335,7 @@ export const data = [
       "director": "Peter Hyams"
      },
      {
-      "id": 94,
+      "id": 101,
       "title": "Event Horizon",
       "optional_title": "La Nave de la Muerte",
       "web_calification": 7.22,
@@ -1323,7 +1349,7 @@ export const data = [
       "director": "Paul W.S. Anderson"
      },
      {
-      "id": 95,
+      "id": 102,
       "title": "Evil Dead (Remake)",
       "optional_title": "Posesión Infernal (Remake)",
       "web_calification": 7.71,
@@ -1337,7 +1363,7 @@ export const data = [
       "director": "Fede Alvarez"
      },
      {
-      "id": 96,
+      "id": 103,
       "title": "Evil Dead Rise",
       "optional_title": "Evil Dead: El Despertar",
       "web_calification": 6.7,
@@ -1352,7 +1378,7 @@ export const data = [
       "director": "Lee Cronin"
      },
      {
-      "id": 97,
+      "id": 104,
       "title": "Exists ",
       "optional_title": "Existe",
       "web_calification": 6.22,
@@ -1366,7 +1392,7 @@ export const data = [
       "director": "Eduardo Sánchez"
      },
      {
-      "id": 98,
+      "id": 105,
       "title": "Exorcismus",
       "optional_title": "La Posesión de Ema Evans",
       "web_calification": 5.78,
@@ -1380,7 +1406,7 @@ export const data = [
       "director": "Manuel Carballo"
      },
      {
-      "id": 101,
+      "id": 106,
       "title": "Extraterrestrial",
       "optional_title": "Extraterrestres",
       "web_calification": 5.64,
@@ -1394,7 +1420,7 @@ export const data = [
       "director": "Colin Minihan"
      },
      {
-      "id": 383,
+      "id": 107,
       "title": "Fallen",
       "optional_title": "Poseídos",
       "web_calification": 7,
@@ -1408,7 +1434,7 @@ export const data = [
       "director": "Gregory Hoblit"
      },
      {
-      "id": 102,
+      "id": 108,
       "title": "Fear Street",
       "optional_title": "La Calle del Terror - Parte 1: 1994",
       "web_calification": 6.03,
@@ -1422,7 +1448,7 @@ export const data = [
       "director": "Leigh Janiak"
      },
      {
-      "id": 103,
+      "id": 109,
       "title": "Fear Street 2",
       "optional_title": "La Calle del Terror - Parte 2: 1978",
       "web_calification": 6.42,
@@ -1436,7 +1462,7 @@ export const data = [
       "director": "Leigh Janiak"
      },
      {
-      "id": 104,
+      "id": 110,
       "title": "Fear Street: 1666",
       "optional_title": "Fear Street: Part Three - 1666",
       "web_calification": 6.6,
@@ -1451,7 +1477,7 @@ export const data = [
       "director": "Leigh Janiak"
      },
      {
-      "id": 105,
+      "id": 111,
       "title": "Fertile Ground",
       "optional_title": "La Mansión Poseída",
       "web_calification": 5.3,
@@ -1463,7 +1489,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 106,
+      "id": 112,
       "title": "Final Destination",
       "optional_title": "Destino Final ",
       "web_calification": 7.57,
@@ -1477,7 +1503,7 @@ export const data = [
       "director": "James Wong"
      },
      {
-      "id": 107,
+      "id": 113,
       "title": "Fingerprints",
       "optional_title": "Huella Dactilar",
       "web_calification": 5.93,
@@ -1490,7 +1516,7 @@ export const data = [
       "director": "Harry Basil"
      },
      {
-      "id": 108,
+      "id": 114,
       "title": "Freddy vs Jason",
       "optional_title": "Freddy Contra Jason",
       "web_calification": 6.86,
@@ -1503,7 +1529,7 @@ export const data = [
       "universe": "Freddy"
      },
      {
-      "id": 109,
+      "id": 115,
       "title": "Freddy's Dead: The Final Nightmare ",
       "optional_title": "Pesadilla en la calle del Infierno 6: La Muerte de Freddy",
       "web_calification": 6.03,
@@ -1516,7 +1542,7 @@ export const data = [
       "universe": "Freddy"
      },
      {
-      "id": 110,
+      "id": 116,
       "title": "Friday the 13th",
       "optional_title": "Viernes 13",
       "web_calification": 6.21,
@@ -1530,7 +1556,7 @@ export const data = [
       "director": "Sean S. Cunningham"
      },
      {
-      "id": 111,
+      "id": 117,
       "title": "Friday the 13th Part 8: Jason Takes Manhattan ",
       "optional_title": "Viernes 13 Parte 8: Jason toma Manhattan",
       "web_calification": 5.85,
@@ -1544,7 +1570,7 @@ export const data = [
       "director": "Rob Hedden"
      },
      {
-      "id": 112,
+      "id": 118,
       "title": "Gallows Hill",
       "optional_title": "Encerrada \/ La cabaña del diablo",
       "web_calification": 5.81,
@@ -1556,7 +1582,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 113,
+      "id": 119,
       "title": "Gerald's Game",
       "optional_title": "El Juego de Gerald",
       "web_calification": 6.55,
@@ -1569,7 +1595,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 114,
+      "id": 120,
       "title": "Get Out",
       "optional_title": "Huye \/ Déjame Salir",
       "web_calification": 7.29,
@@ -1582,7 +1608,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 115,
+      "id": 121,
       "title": "Ghost Ship",
       "optional_title": "Barco Fantasma",
       "web_calification": 6.21,
@@ -1594,7 +1620,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 116,
+      "id": 122,
       "title": "Gin Gwai",
       "optional_title": "El ojo",
       "web_calification": 7.32,
@@ -1607,7 +1633,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 117,
+      "id": 123,
       "title": "Girl on the Third Floor",
       "optional_title": "La Chica del Tercer Piso \/ Maldición en el Tercer Pïso",
       "web_calification": 5.14,
@@ -1619,7 +1645,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 118,
+      "id": 124,
       "title": "Goodnight Mommy",
       "optional_title": "Buenas Noches, Mamá",
       "web_calification": 6.13,
@@ -1631,7 +1657,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 119,
+      "id": 125,
       "title": "Gothica ",
       "optional_title": "En compañia del miedo",
       "web_calification": 6.24,
@@ -1643,7 +1669,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 120,
+      "id": 126,
       "title": "Grave Encounters",
       "optional_title": "Encuentros de Ultratumba \/ Encuentros Paranormales",
       "web_calification": 7.18,
@@ -1656,7 +1682,7 @@ export const data = [
       "universe": "Grave Encounters"
      },
      {
-      "id": 121,
+      "id": 127,
       "title": "Grave Encounters 2",
       "optional_title": "Encuentros de Ultratumba 2 \/ Encuentros Paranormales 2",
       "web_calification": 5.41,
@@ -1669,7 +1695,7 @@ export const data = [
       "universe": "Grave Encounters"
      },
      {
-      "id": 122,
+      "id": 128,
       "title": "Gremlins ",
       "optional_title": "Gremlins",
       "web_calification": 7.98,
@@ -1682,7 +1708,7 @@ export const data = [
       "universe": "Gremlins"
      },
      {
-      "id": 123,
+      "id": 129,
       "title": "Gremlins 2: The New Batch",
       "optional_title": "Gremlins 2: La Nueva Generación",
       "web_calification": 7.22,
@@ -1695,7 +1721,7 @@ export const data = [
       "universe": "Gremlins"
      },
      {
-      "id": 124,
+      "id": 130,
       "title": "Grimcutty",
       "optional_title": "El Meme Maldito \/ Asesino Implacable",
       "web_calification": 5.43,
@@ -1708,7 +1734,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 125,
+      "id": 131,
       "title": "Guillermo Del Toro's Cabinet of Curiosities",
       "optional_title": "El gabinete de curiosidades ",
       "web_calification": 7.47,
@@ -1721,7 +1747,7 @@ export const data = [
       "director": "Cabinet of Curiosities"
      },
      {
-      "id": 126,
+      "id": 132,
       "title": "Gwoemul",
       "optional_title": "El Huésped \/ The Host",
       "web_calification": 6.93,
@@ -1734,7 +1760,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 127,
+      "id": 133,
       "title": "Halloween Ends",
       "optional_title": "Halloween: El Final",
       "web_calification": 5,
@@ -1749,7 +1775,7 @@ export const data = [
       "director": "David Gordon Green"
      },
      {
-      "id": 128,
+      "id": 134,
       "title": "Halloween H20: 20 Años después",
       "optional_title": "Halloween H20: 20 Years Later  ",
       "web_calification": 7.17,
@@ -1763,7 +1789,7 @@ export const data = [
       "director": "Steve Miner"
      },
      {
-      "id": 129,
+      "id": 135,
       "title": "Halloween II",
       "optional_title": "Halloween el inicio 2",
       "web_calification": 6.85,
@@ -1777,7 +1803,7 @@ export const data = [
       "director": "Rick Rosenthal"
      },
      {
-      "id": 130,
+      "id": 136,
       "title": "Halloween Kills",
       "web_calification": 6.85,
       "year": 2021,
@@ -1790,7 +1816,7 @@ export const data = [
       "director": "David Gordon Green"
      },
      {
-      "id": 131,
+      "id": 137,
       "title": "Hansel & Gretel: Witch Hunters",
       "optional_title": "Hansel & Gretel: Cazadores de Brujas",
       "web_calification": 6.78,
@@ -1803,7 +1829,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 132,
+      "id": 138,
       "title": "Haunt",
       "optional_title": "La invocación",
       "web_calification": 5.27,
@@ -1814,7 +1840,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 133,
+      "id": 139,
+      "title": "Hell House LLC",
+      "optional_title": "Hell House LLC",
+      "web_calification": 6.4,
+      "year": 2015,
+      "trailer": "https:\/\/www.youtube.com\/embed\/gIYyWAXF5bA?si=RVdoPLljpJVxAJS-",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.daIo7EI6HJVemC6SzC42VAHaKe?pid=ImgDet&rs=1",
+      "sinopsis": "The tragedy of that horrible October back in 2009 during a Halloween haunted house tour is still surrounded in mystery. Sadly, what led to the death of fifteen people, both crew and customers alike who paid to experience original scares in a controlled environment, remains small town Abaddon's greatest secret. However, as both the locals and the authorities claim that the harrowing incident was a result of an unprecedented and unfortunate malfunction, in the meantime, a documentary crew determined to dig for answers in the derelict hotel where it all started, gathers testimonies, photographs and amateur video material; all fragments of an intricate, yet gruesome puzzle. Eventually, five years later, that night's sole survivor, Sara, will provide the documentary filmmakers with personal raw footage but is the crew prepared to witness the terror firsthand?",
+      "universe": "None",
+      "director": "Stephen Cognetti"
+     },
+     {
+      "id": 140,
       "title": "Hellraiser ",
       "optional_title": "Hellraiser: Los que traen el Infierno ",
       "web_calification": 7.71,
@@ -1828,7 +1868,7 @@ export const data = [
       "director": "Clive Barker"
      },
      {
-      "id": 134,
+      "id": 141,
       "title": "Hellraiser (She)",
       "optional_title": "Hellraiser: Ella",
       "web_calification": 7,
@@ -1842,7 +1882,7 @@ export const data = [
       "director": "David Bruckner"
      },
      {
-      "id": 135,
+      "id": 142,
       "title": "Hellraiser 2: Hellbound",
       "optional_title": "Hellraiser: Camino al Infierno",
       "web_calification": 7.18,
@@ -1856,7 +1896,7 @@ export const data = [
       "director": "Tony Randel"
      },
      {
-      "id": 380,
+      "id": 143,
       "title": "Hellraiser III: Hell on Earth",
       "optional_title": "Hellraiser III: Infierno en la tierra",
       "web_calification": 5.5,
@@ -1870,7 +1910,7 @@ export const data = [
       "director": "Anthony Hickox"
      },
      {
-      "id": 136,
+      "id": 144,
       "title": "Hellraiser: Revelations",
       "optional_title": "Hellraiser: Revelaciones",
       "web_calification": 3.29,
@@ -1884,7 +1924,7 @@ export const data = [
       "director": "Víctor Garcia"
      },
      {
-      "id": 137,
+      "id": 145,
       "title": "Hide & Seek ",
       "optional_title": "El Escondite",
       "web_calification": 6.19,
@@ -1897,7 +1937,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 138,
+      "id": 146,
       "title": "Horns",
       "optional_title": "Cuernos",
       "web_calification": 6.71,
@@ -1910,7 +1950,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 139,
+      "id": 147,
       "title": "Hostel",
       "optional_title": "Hostal: El Rincón de las Torturas",
       "web_calification": 7.11,
@@ -1923,7 +1963,7 @@ export const data = [
       "universe": "Hostel"
      },
      {
-      "id": 140,
+      "id": 148,
       "title": "Hostel 2",
       "web_calification": 6.59,
       "year": 2007,
@@ -1935,7 +1975,7 @@ export const data = [
       "universe": "Hostel"
      },
      {
-      "id": 141,
+      "id": 149,
       "title": "House",
       "optional_title": "Una Casa Alucinante",
       "web_calification": 7.04,
@@ -1947,7 +1987,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 142,
+      "id": 150,
       "title": "House at the End of the Street",
       "optional_title": "La Casa al Final de la Calle",
       "web_calification": 5.97,
@@ -1960,7 +2000,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 143,
+      "id": 151,
       "title": "House of Bones",
       "optional_title": "La Casa de los Huesos",
       "web_calification": 5.6,
@@ -1972,7 +2012,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 144,
+      "id": 152,
       "title": "Hush",
       "optional_title": "Silencio",
       "web_calification": 6.7,
@@ -1984,7 +2024,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 145,
+      "id": 153,
       "title": "I know what you did last summer",
       "optional_title": "Se lo que Hiciste el Verano Pasado ",
       "web_calification": 6.99,
@@ -1998,7 +2038,7 @@ export const data = [
       "director": "Jim Gillespie"
      },
      {
-      "id": 146,
+      "id": 154,
       "title": "I see you",
       "optional_title": "Te veo",
       "web_calification": 7.81,
@@ -2011,7 +2051,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 147,
+      "id": 155,
       "title": "I Still Know What You Did Last Summer",
       "optional_title": "Todavia Se lo que Hiciste el Verano Pasado ",
       "web_calification": 6.17,
@@ -2024,7 +2064,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 148,
+      "id": 156,
       "title": "Ignore it",
       "web_calification": 0,
       "year": 2022,
@@ -2036,7 +2076,7 @@ export const data = [
       "director": "Sam Evenson"
      },
      {
-      "id": 149,
+      "id": 157,
       "title": "In the Tall Grass",
       "optional_title": "En la Hierba Alta",
       "web_calification": 5.8,
@@ -2049,7 +2089,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 150,
+      "id": 158,
       "title": "Incarnate",
       "optional_title": "La Reencarnacion \/ El Exterminador",
       "web_calification": 5.67,
@@ -2062,7 +2102,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 151,
+      "id": 159,
       "title": "Inferno",
       "web_calification": 0,
       "year": 2021,
@@ -2074,7 +2114,7 @@ export const data = [
       "director": "Bishal Dutta"
      },
      {
-      "id": 152,
+      "id": 160,
       "title": "Insecticide",
       "web_calification": 0,
       "year": 2023,
@@ -2086,7 +2126,7 @@ export const data = [
       "director": "Bryan M. Ferguson"
      },
      {
-      "id": 153,
+      "id": 161,
       "title": "Insidious",
       "optional_title": "La Noche del Demonio",
       "web_calification": 7.52,
@@ -2099,7 +2139,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 154,
+      "id": 162,
       "title": "Insidious Chapter 2",
       "optional_title": "La Noche del Demonio 2",
       "web_calification": 7.32,
@@ -2112,7 +2152,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 155,
+      "id": 163,
       "title": "Insidious Chapter 3",
       "optional_title": "La Noche del Demonio 3",
       "web_calification": 6.59,
@@ -2125,7 +2165,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 156,
+      "id": 164,
       "title": "Insidious Chapter 4: The Last Key",
       "optional_title": "La Noche del Demonio 4: La Última Llave",
       "web_calification": 5.79,
@@ -2138,7 +2178,7 @@ export const data = [
       "universe": "Insidious"
      },
      {
-      "id": 157,
+      "id": 165,
       "title": "It",
       "optional_title": "Eso",
       "web_calification": 7.65,
@@ -2150,7 +2190,7 @@ export const data = [
       "universe": "It"
      },
      {
-      "id": 158,
+      "id": 166,
       "title": "It",
       "optional_title": "Eso",
       "web_calification": 7.95,
@@ -2161,7 +2201,7 @@ export const data = [
       "universe": "It"
      },
      {
-      "id": 159,
+      "id": 167,
       "title": "It: Chapter Two",
       "optional_title": "It: Capítulo 2",
       "web_calification": 6.71,
@@ -2174,7 +2214,7 @@ export const data = [
       "director": "Andy Muschietti"
      },
      {
-      "id": 160,
+      "id": 168,
       "title": "It: Remake",
       "optional_title": "Eso: Remake",
       "web_calification": 7.81,
@@ -2187,7 +2227,21 @@ export const data = [
       "director": "Andy Muschietti"
      },
      {
-      "id": 161,
+      "id": 169,
+      "title": "Jason Goes to Hell: The Final Friday",
+      "optional_title": "Viernes 13 Parte 9",
+      "web_calification": 4.1,
+      "year": 1993,
+      "trailer": "https:\/\/www.youtube.com\/embed\/R-_G5JD8E1c?si=U6ntw6jaHVrUROg5",
+      "clasification": "movie",
+      "gender": "slasher",
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/15800\/15816\/001.jpg",
+      "sinopsis": "Jason Voorhees, the living, breathing essence of evil, is back for one fierce, final fling. Tracked down and blown to bits by a special FBI task force, everyone now assumes that he's finally dead. But everyone assumes wrong. Jason has been reborn with the bone-chilling ability to assume the identity of anyone he touches. The terrifying truth is he could be anywhere. Or anybody. In this shocking, blood-soaked finale to Jason's carnage-ridden of terror, the horrible secret of his unstoppable killing instinct is finally revealed.",
+      "universe": "Friday the 13th",
+      "director": "Adam Marcus"
+     },
+     {
+      "id": 170,
       "title": "Jason X ",
       "web_calification": 5.31,
       "year": 2001,
@@ -2200,7 +2254,7 @@ export const data = [
       "director": "James Isaac"
      },
      {
-      "id": 162,
+      "id": 171,
       "title": "Jeepers Creepers",
       "optional_title": "El Demonio",
       "web_calification": 7.4,
@@ -2214,7 +2268,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 163,
+      "id": 172,
       "title": "Jeepers Creepers 2",
       "optional_title": "El Demonio 2",
       "web_calification": 6.78,
@@ -2228,7 +2282,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 164,
+      "id": 173,
       "title": "Jeepers Creepers 3",
       "optional_title": "El Regreso del Demonio",
       "web_calification": 4.63,
@@ -2242,7 +2296,7 @@ export const data = [
       "director": "Victor Salva"
      },
      {
-      "id": 165,
+      "id": 174,
       "title": "Jennifer's Body",
       "optional_title": "Diabolica Tentación",
       "web_calification": 5.72,
@@ -2256,7 +2310,7 @@ export const data = [
       "director": "Karyn Kusama"
      },
      {
-      "id": 166,
+      "id": 175,
       "title": "Jessabelle",
       "optional_title": "Jessabelle",
       "web_calification": 5.64,
@@ -2270,7 +2324,7 @@ export const data = [
       "director": "Kevin Greutert"
      },
      {
-      "id": 167,
+      "id": 176,
       "title": "Jinn",
       "optional_title": "Jinn",
       "web_calification": 4.82,
@@ -2283,7 +2337,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 168,
+      "id": 177,
       "title": "Ju-on: White Ghost",
       "optional_title": "The Grudge 4: The Old White Lady  \/ El Grito 4",
       "web_calification": 6.43,
@@ -2297,7 +2351,7 @@ export const data = [
       "director": "Mari Asato"
      },
      {
-      "id": 169,
+      "id": 178,
       "title": "Juego Siniestro",
       "optional_title": "Cementerio General 2 \/ Sinister Circle",
       "web_calification": 4.5,
@@ -2309,7 +2363,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 170,
+      "id": 179,
       "title": "Krampus",
       "optional_title": "Krampus: Maldita Navidad",
       "web_calification": 6.53,
@@ -2323,7 +2377,19 @@ export const data = [
       "director": "Michael Dougherty"
      },
      {
-      "id": 171,
+      "id": 180,
+      "title": "La Noria",
+      "optional_title": "La Noria",
+      "web_calification": 7.4,
+      "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/omsgfpbUrmA?si=XeAbJ9QQGTzuYG12",
+      "clasification": "corto",
+      "sinopsis": "A young boy who loves to draw and build ferris wheels encounters strange creatures that turn his life upside down.",
+      "universe": "None",
+      "director": "Carlos Baena"
+     },
+     {
+      "id": 181,
       "title": "La Torre Oscura I: el pistolero",
       "optional_title": "La Torre Oscura I: el pistolero",
       "web_calification": 7,
@@ -2333,7 +2399,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 172,
+      "id": 182,
       "title": "La Torre Oscura II: la llegada de los tres",
       "optional_title": "La Torre Oscura II: la llegada de los tres",
       "web_calification": 7.84,
@@ -2343,7 +2409,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 173,
+      "id": 183,
       "title": "La torre oscura III: las tierras baldías",
       "optional_title": "La torre oscura III: las tierras baldías",
       "web_calification": 7.76,
@@ -2353,7 +2419,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 174,
+      "id": 184,
       "title": "La Torre Oscura IV: mago y cristal",
       "optional_title": "La Torre Oscura IV: mago y cristal",
       "web_calification": 7.88,
@@ -2363,7 +2429,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 175,
+      "id": 185,
       "title": "La Torre Oscura V: lobos del Calla",
       "optional_title": "La Torre Oscura V: lobos del Calla",
       "web_calification": 7.75,
@@ -2373,7 +2439,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 176,
+      "id": 186,
       "title": "La Torre Oscura VI: canción de Susannah",
       "optional_title": "La Torre Oscura VI: canción de Susannah",
       "web_calification": 7.33,
@@ -2383,7 +2449,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 178,
+      "id": 187,
       "title": "La Ultima Puerta",
       "optional_title": "The Ninth Gate \/ La Novena Puerta",
       "web_calification": 6.57,
@@ -2395,7 +2461,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 179,
+      "id": 188,
       "title": "Lady in the Water ",
       "optional_title": "La Dama en el Agua",
       "web_calification": 5.6,
@@ -2408,7 +2474,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 180,
+      "id": 189,
       "title": "Legado en los Huesos",
       "optional_title": "The Legacy of the Bones",
       "web_calification": 6.46,
@@ -2420,7 +2486,7 @@ export const data = [
       "director": "Fernando González Molina"
      },
      {
-      "id": 181,
+      "id": 190,
       "title": "Lights Out ",
       "optional_title": "Nunca Apagues la Luz ",
       "web_calification": 6.62,
@@ -2431,7 +2497,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 182,
+      "id": 191,
       "title": "Los Ojos de Julia",
       "optional_title": "Julia's Eyes",
       "web_calification": 7.05,
@@ -2445,7 +2511,7 @@ export const data = [
       "director": "Guillem Morales"
      },
      {
-      "id": 183,
+      "id": 192,
       "title": "Madhouse",
       "optional_title": "La Casa Maldita",
       "web_calification": 5.91,
@@ -2456,7 +2522,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 184,
+      "id": 193,
       "title": "Maggie",
       "web_calification": 5.41,
       "year": 2015,
@@ -2468,7 +2534,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 185,
+      "id": 194,
       "title": "Malasaña 32",
       "optional_title": "Malasaña 32",
       "web_calification": 6.13,
@@ -2481,7 +2547,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 186,
+      "id": 195,
       "title": "Malignant ",
       "optional_title": "Maligno",
       "web_calification": 6.85,
@@ -2494,7 +2560,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 187,
+      "id": 196,
       "title": "Mama",
       "optional_title": "Mamá",
       "web_calification": 6.65,
@@ -2505,7 +2571,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 188,
+      "id": 197,
       "title": "Marianne",
       "optional_title": "Marianne",
       "web_calification": 7.52,
@@ -2517,7 +2583,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 189,
+      "id": 198,
       "title": "Maximum Overdrive ",
       "optional_title": "La Rebelion de las Maquinas ",
       "web_calification": 6.35,
@@ -2531,7 +2597,21 @@ export const data = [
       "director": "Stephen King"
      },
      {
-      "id": 190,
+      "id": 199,
+      "title": "Megan",
+      "optional_title": "Megan",
+      "web_calification": 6.4,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/BRb4U99OU80?si=RRYqvIl1kNDRoym-",
+      "clasification": "movie",
+      "gender": "toys",
+      "cover": "https:\/\/image.enjoymovie.net\/hN9pRXH2hc9RmQlzfHgbAw1DmqU=\/600x800\/smart\/core\/p\/oZW1XVB4p8.jpg",
+      "sinopsis": "When Gemma suddenly becomes the caretaker of her orphaned 8-year-old niece, Cady, Gemma's unsure and unprepared to be a parent. Under intense pressure at work, Gemma decides to pair her M3GAN prototype with Cady in an attempt to resolve both problems-a decision that will have unimaginable consequences.",
+      "universe": "None",
+      "director": "Gerard Johnstone"
+     },
+     {
+      "id": 200,
       "title": "Mercy Black",
       "optional_title": "La posesión de Mercy Black",
       "web_calification": 5.64,
@@ -2542,7 +2622,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 191,
+      "id": 201,
       "title": "Midnight Mass",
       "optional_title": "Misa de Medianoche",
       "web_calification": 7.44,
@@ -2555,7 +2635,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 192,
+      "id": 202,
       "title": "Mirrors",
       "optional_title": "Reflejos",
       "web_calification": 6.86,
@@ -2568,7 +2648,7 @@ export const data = [
       "director": "Alexandre Aja"
      },
      {
-      "id": 193,
+      "id": 203,
       "title": "Mr. Harrigan's Phone",
       "optional_title": "El Teléfono del Señor Harrigan",
       "web_calification": 5.35,
@@ -2582,7 +2662,7 @@ export const data = [
       "director": "John Lee Hancock"
      },
      {
-      "id": 194,
+      "id": 204,
       "title": "Neverlake",
       "web_calification": 4.9,
       "year": 2013,
@@ -2592,7 +2672,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 195,
+      "id": 205,
       "title": "Nothing Left to Fear",
       "optional_title": "El Llanto del Diablo",
       "web_calification": 4.51,
@@ -2605,7 +2685,7 @@ export const data = [
       "director": "Anthony Leonardi III"
      },
      {
-      "id": 196,
+      "id": 206,
       "title": "Oculus",
       "optional_title": "Oculus el Espejo del Mal",
       "web_calification": 6.73,
@@ -2618,7 +2698,7 @@ export const data = [
       "director": "Mike Flanagan"
      },
      {
-      "id": 197,
+      "id": 207,
       "title": "Ouija",
       "web_calification": 5.27,
       "year": 2014,
@@ -2631,7 +2711,7 @@ export const data = [
       "director": "Stiles White"
      },
      {
-      "id": 198,
+      "id": 208,
       "title": "Ouija: Origin of Evil",
       "optional_title": "Ouija: El comienzo",
       "web_calification": 6.2,
@@ -2646,7 +2726,7 @@ export const data = [
       "director": "Mike Flanagan"
      },
      {
-      "id": 199,
+      "id": 209,
       "title": "Paranormal Activity",
       "optional_title": "Actividad Paranormal",
       "web_calification": 6.24,
@@ -2659,7 +2739,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 200,
+      "id": 210,
       "title": "Paranormal Activity (Final Alternativo)",
       "optional_title": "Actividad Paranomal (Final Alternativo)",
       "year": 2007,
@@ -2669,7 +2749,7 @@ export const data = [
       "universe": "Paranormal Activity"
      },
      {
-      "id": 201,
+      "id": 211,
       "title": "Paranormal Activity 2",
       "optional_title": "Actividad Paranormal 2",
       "web_calification": 6.08,
@@ -2683,7 +2763,7 @@ export const data = [
       "director": "Tod Williams"
      },
      {
-      "id": 202,
+      "id": 212,
       "title": "Paranormal Activity 3",
       "optional_title": "Actividad Paranormal 3",
       "web_calification": 6.27,
@@ -2697,7 +2777,7 @@ export const data = [
       "director": "Henry Joost - Ariel Schulman"
      },
      {
-      "id": 203,
+      "id": 213,
       "title": "Paranormal Activity 4",
       "optional_title": "Actividad Paramormal 4",
       "web_calification": 5.13,
@@ -2711,7 +2791,7 @@ export const data = [
       "director": "Henry Joost - Ariel Schulman"
      },
      {
-      "id": 204,
+      "id": 214,
       "title": "Paranormal Activity 5: The Ghost Dimension",
       "optional_title": "Actividad Paranormal 5: Dimensión Fantasma",
       "web_calification": 5.23,
@@ -2725,7 +2805,7 @@ export const data = [
       "director": "Gregory Plotkin"
      },
      {
-      "id": 205,
+      "id": 215,
       "title": "Paranormal Activity 7: Next of Kin\"",
       "optional_title": "Actividad Paranormal: Vínculos Familiares",
       "web_calification": 5.71,
@@ -2739,7 +2819,7 @@ export const data = [
       "director": "William Eubank"
      },
      {
-      "id": 206,
+      "id": 216,
       "title": "Pay the Ghost",
       "optional_title": "La Maldición de Charlie",
       "web_calification": 5.91,
@@ -2753,7 +2833,7 @@ export const data = [
       "director": "Uli Edel"
      },
      {
-      "id": 208,
+      "id": 217,
       "title": "Pet Sematary",
       "optional_title": "Cementerio de Animales ",
       "web_calification": 7.61,
@@ -2767,7 +2847,7 @@ export const data = [
       "director": "Mary Lambert"
      },
      {
-      "id": 209,
+      "id": 218,
       "title": "Pet Sematary (Remake)",
       "optional_title": "Cementerio de Animales",
       "web_calification": 6.16,
@@ -2780,7 +2860,7 @@ export const data = [
       "universe": "Pet Sematary"
      },
      {
-      "id": 210,
+      "id": 219,
       "title": "Pet Sematary 2",
       "optional_title": "Cementerio de Animales 2 ",
       "web_calification": 6.14,
@@ -2794,7 +2874,7 @@ export const data = [
       "director": "Mary Lambert"
      },
      {
-      "id": 212,
+      "id": 220,
       "title": "Playback",
       "optional_title": "Posesiones",
       "web_calification": 4.21,
@@ -2806,7 +2886,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 213,
+      "id": 221,
       "title": "POD",
       "web_calification": 5.12,
       "year": 2015,
@@ -2817,7 +2897,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 214,
+      "id": 222,
       "title": "Polaroid",
       "web_calification": 0,
       "year": 2017,
@@ -2829,7 +2909,7 @@ export const data = [
       "director": "Joey Greene"
      },
      {
-      "id": 215,
+      "id": 223,
       "title": "Poltergeist ",
       "web_calification": 8,
       "year": 1982,
@@ -2842,7 +2922,7 @@ export const data = [
       "director": "Tobe Hooper"
      },
      {
-      "id": 216,
+      "id": 224,
       "title": "Poltergeist (Remake)",
       "web_calification": 5.02,
       "year": 2015,
@@ -2855,7 +2935,7 @@ export const data = [
       "director": "Gil Kenan"
      },
      {
-      "id": 217,
+      "id": 225,
       "title": "Poltergeist 2: The Other Side",
       "optional_title": "Polstergeist 2: La Otra Puerta",
       "web_calification": 6.68,
@@ -2869,7 +2949,7 @@ export const data = [
       "director": "Brian Gibson"
      },
      {
-      "id": 218,
+      "id": 226,
       "title": "Poltergeist 3",
       "web_calification": 6.17,
       "year": 1988,
@@ -2882,7 +2962,7 @@ export const data = [
       "director": "Gary Sherman"
      },
      {
-      "id": 219,
+      "id": 227,
       "title": "Posesión",
       "optional_title": "Posesión",
       "web_calification": 6.64,
@@ -2893,7 +2973,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 220,
+      "id": 228,
       "title": "Predator",
       "optional_title": "Depredador",
       "web_calification": 8.14,
@@ -2907,7 +2987,7 @@ export const data = [
       "director": "John McTiernan"
      },
      {
-      "id": 221,
+      "id": 229,
       "title": "Predator 2",
       "optional_title": "Depredador 2 ",
       "web_calification": 6.9,
@@ -2921,7 +3001,7 @@ export const data = [
       "director": "Stephen Hopkins"
      },
      {
-      "id": 222,
+      "id": 230,
       "title": "Predators",
       "optional_title": "Depredadores \/ Predators 3 ",
       "web_calification": 6.65,
@@ -2935,7 +3015,7 @@ export const data = [
       "director": "Nimród Antal"
      },
      {
-      "id": 223,
+      "id": 231,
       "title": "Premonition",
       "optional_title": "Yogen",
       "web_calification": 6.31,
@@ -2947,7 +3027,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 224,
+      "id": 232,
       "title": "Prey",
       "optional_title": "Depredador: La Presa",
       "web_calification": 7.09,
@@ -2961,7 +3041,7 @@ export const data = [
       "director": "Dan Trachtenberg"
      },
      {
-      "id": 225,
+      "id": 233,
       "title": "Prey for the Devil",
       "optional_title": "La Luz del Diablo",
       "web_calification": 5.3,
@@ -2976,7 +3056,7 @@ export const data = [
       "director": "Daniel Stamm"
      },
      {
-      "id": 226,
+      "id": 234,
       "title": "Prom Night",
       "optional_title": "Noche de Graduacion Sangrienta",
       "web_calification": 5.28,
@@ -2988,7 +3068,21 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 227,
+      "id": 235,
+      "title": "Prometheus",
+      "optional_title": "Prometeo",
+      "web_calification": 7,
+      "year": 2012,
+      "trailer": "https:\/\/www.youtube.com\/embed\/yA6OKoW30Pk?si=5jh1-a4TcxCMCNQ_",
+      "clasification": "movie",
+      "gender": "monsters",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.db083949912c08a8eef94df8b21e5731?rik=58h3BMCYcaG%2foA&pid=ImgRaw&r=0",
+      "sinopsis": "Following a faint trail of clues, the accomplished archaeologist, Doctor Elizabeth Shaw, and her partner, Charlie Holloway, along with a seventeen-man crew, embark on an ambitious, deep-space scientific expedition. Aboard the revolutionary space-exploration starship, USCSS Prometheus, the team sets foot on the rocky terrain of the desolate exomoon, LV-223, in 2093, to investigate the existence of the superior extraterrestrial species known as the \"Engineers\". But, there, inside a mysterious, complex structure of cavernous dark chambers and an intricate underground system of tunnels, more enigmas await. Now, a terrifying discovery threatens not only the outcome of the bold outer-space mission but also the very future of humankind. Is the world prepared for the answers to the fundamental questions of human existence?",
+      "universe": "Alien",
+      "director": "Ridley Scott"
+     },
+     {
+      "id": 236,
       "title": "Quarentine",
       "optional_title": "Aullidos",
       "web_calification": 5.71,
@@ -3001,7 +3095,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 228,
+      "id": 237,
       "title": "Quarentine 2:Terminal",
       "optional_title": "Cuarentena 2: Terminal",
       "web_calification": 5.34,
@@ -3013,7 +3107,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 229,
+      "id": 238,
       "title": "Realms",
       "optional_title": "Dominios Oscuros",
       "web_calification": 4.54,
@@ -3025,7 +3119,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 230,
+      "id": 239,
       "title": "REC",
       "optional_title": "REC",
       "web_calification": 8.01,
@@ -3038,7 +3132,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 231,
+      "id": 240,
       "title": "REC 2",
       "optional_title": "REC 2",
       "web_calification": 6.89,
@@ -3051,7 +3145,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 232,
+      "id": 241,
       "title": "Resident Evil",
       "optional_title": "Residen Evil 1",
       "web_calification": 7.45,
@@ -3065,7 +3159,7 @@ export const data = [
       "director": "Paul W.S. Anderson"
      },
      {
-      "id": 233,
+      "id": 242,
       "title": "Resident Evil: Afterlife",
       "optional_title": "Resident Evil 4: La resurreción",
       "web_calification": 6.82,
@@ -3079,7 +3173,7 @@ export const data = [
       "director": "Paul W.S. Anderson"
      },
      {
-      "id": 234,
+      "id": 243,
       "title": "Resident Evil: Apocalipsis",
       "optional_title": "Resident Evil 2: Apocalipsis",
       "web_calification": 7.2,
@@ -3093,7 +3187,7 @@ export const data = [
       "director": "Alexander Witt"
      },
      {
-      "id": 235,
+      "id": 244,
       "title": "Resident Evil: Extinction",
       "optional_title": "Resident Evil 3: Extinción",
       "web_calification": 6.81,
@@ -3107,7 +3201,7 @@ export const data = [
       "director": "Russell Mulcahy"
      },
      {
-      "id": 236,
+      "id": 245,
       "title": "Rings",
       "optional_title": "Rings \/ El aro 3",
       "web_calification": 5.11,
@@ -3121,7 +3215,7 @@ export const data = [
       "director": "F. Javier Gutiérrez"
      },
      {
-      "id": 237,
+      "id": 246,
       "title": "Sam Was Here",
       "optional_title": "Sam Estuvo Aquí",
       "web_calification": 5.14,
@@ -3134,7 +3228,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 238,
+      "id": 247,
       "title": "Saw",
       "optional_title": "El juego del Miedo",
       "web_calification": 8.13,
@@ -3148,7 +3242,7 @@ export const data = [
       "director": "James Wan"
      },
      {
-      "id": 239,
+      "id": 248,
       "title": "Saw 2",
       "optional_title": "El juego del Miedo 2",
       "web_calification": 7.58,
@@ -3162,7 +3256,7 @@ export const data = [
       "director": "Darren Lynn Bousman"
      },
      {
-      "id": 240,
+      "id": 249,
       "title": "Saw 3",
       "optional_title": "El juego del Miedo 3",
       "web_calification": 7.38,
@@ -3176,7 +3270,7 @@ export const data = [
       "director": "Darren Lynn Bousman"
      },
      {
-      "id": 241,
+      "id": 250,
       "title": "Saw 4",
       "optional_title": "El juego del Miedo 4",
       "web_calification": 7.04,
@@ -3190,7 +3284,7 @@ export const data = [
       "director": "Darren Lynn Bousman"
      },
      {
-      "id": 242,
+      "id": 251,
       "title": "Saw 5",
       "optional_title": "El juego del Miedo 5",
       "web_calification": 6.99,
@@ -3204,7 +3298,7 @@ export const data = [
       "director": "David Hackl"
      },
      {
-      "id": 243,
+      "id": 252,
       "title": "Scream 1",
       "optional_title": "La Máscara de la Muerte",
       "web_calification": 7.79,
@@ -3218,7 +3312,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 244,
+      "id": 253,
       "title": "Scream 2",
       "optional_title": "La Máscara de la Muerte 2",
       "web_calification": 7.16,
@@ -3232,7 +3326,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 245,
+      "id": 254,
       "title": "Scream 3",
       "optional_title": "La Máscara de la Muerte 3",
       "web_calification": 6.78,
@@ -3246,7 +3340,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 246,
+      "id": 255,
       "title": "Scream 4",
       "optional_title": "La Máscara de la Muerte 4",
       "web_calification": 7.26,
@@ -3260,7 +3354,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 247,
+      "id": 256,
       "title": "Shutter",
       "web_calification": 0,
       "year": 2022,
@@ -3271,7 +3365,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 248,
+      "id": 257,
       "title": "Silent Hill",
       "optional_title": "Terror en Silent Hill",
       "web_calification": 7.51,
@@ -3284,7 +3378,7 @@ export const data = [
       "universe": "Silent Hill"
      },
      {
-      "id": 249,
+      "id": 258,
       "title": "Silent Hill 2: Revelations",
       "optional_title": "Terror en Silent Hill 2: Revelaciones",
       "web_calification": 6.69,
@@ -3297,7 +3391,7 @@ export const data = [
       "universe": "Silent Hill"
      },
      {
-      "id": 250,
+      "id": 259,
       "title": "Silent House",
       "optional_title": "La Casa Muda, La Casa Silenciosa",
       "web_calification": 6.06,
@@ -3309,7 +3403,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 251,
+      "id": 260,
       "title": "Sings",
       "optional_title": "Señales ",
       "web_calification": 6.84,
@@ -3323,7 +3417,7 @@ export const data = [
       "director": "M. Night Shyamalan"
      },
      {
-      "id": 252,
+      "id": 261,
       "title": "Sinister",
       "optional_title": "Siniestro",
       "web_calification": 7.48,
@@ -3335,7 +3429,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 253,
+      "id": 262,
       "title": "Sinister 2",
       "optional_title": "Sinister 2",
       "web_calification": 5.3,
@@ -3350,7 +3444,7 @@ export const data = [
       "director": "Ciarán Foy"
      },
      {
-      "id": 254,
+      "id": 263,
       "title": "Sleepy Hollow",
       "optional_title": "La leyenda del jinete sin cabeza ",
       "web_calification": 7.74,
@@ -3363,7 +3457,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 255,
+      "id": 264,
       "title": "Slender Man",
       "optional_title": "Slender Man",
       "web_calification": 4.65,
@@ -3376,7 +3470,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 256,
+      "id": 265,
       "title": "Smile",
       "optional_title": "Sonríe",
       "web_calification": 6.68,
@@ -3388,7 +3482,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 257,
+      "id": 266,
       "title": "Solstice",
       "optional_title": "Solticio",
       "web_calification": 6.17,
@@ -3400,7 +3494,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 258,
+      "id": 267,
       "title": "Stigmata",
       "optional_title": "Estigma",
       "web_calification": 6.75,
@@ -3414,7 +3508,7 @@ export const data = [
       "director": "Rupert Wainwright"
      },
      {
-      "id": 259,
+      "id": 268,
       "title": "Stir Of Echoes",
       "optional_title": "Ecos Mortales \/ El Último Escalón",
       "web_calification": 7.08,
@@ -3428,7 +3522,7 @@ export const data = [
       "director": "David Koepp"
      },
      {
-      "id": 260,
+      "id": 269,
       "title": "Stir Of Echoes 2",
       "optional_title": "Ecos Mortales 2 \/ El último Escalón 2",
       "web_calification": 6.05,
@@ -3442,7 +3536,7 @@ export const data = [
       "director": "Ernie Barbarash"
      },
      {
-      "id": 261,
+      "id": 270,
       "title": "Stranger Things",
       "optional_title": "Montauk",
       "web_calification": 8.12,
@@ -3455,7 +3549,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 262,
+      "id": 271,
       "title": "Tanatria",
       "web_calification": 0,
       "year": 2013,
@@ -3467,7 +3561,7 @@ export const data = [
       "director": "Sergio Sánchez"
      },
      {
-      "id": 263,
+      "id": 272,
       "title": "Temple",
       "optional_title": "Temple",
       "web_calification": 4.96,
@@ -3478,7 +3572,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 264,
+      "id": 273,
       "title": "Terrifier",
       "optional_title": "Terrifier",
       "web_calification": 7.08,
@@ -3492,7 +3586,7 @@ export const data = [
       "director": "Damien Leone"
      },
      {
-      "id": 265,
+      "id": 274,
       "title": "Terrifier 2",
       "optional_title": "Terrifier 2",
       "web_calification": 6.91,
@@ -3506,7 +3600,7 @@ export const data = [
       "director": "Damien Leone"
      },
      {
-      "id": 266,
+      "id": 275,
       "title": "The Amityville Horror: Remake",
       "optional_title": "Terror en Amityville ",
       "web_calification": 7.04,
@@ -3520,7 +3614,7 @@ export const data = [
       "director": "Andrew Douglas"
      },
      {
-      "id": 39,
+      "id": 276,
       "title": "The Bell Witch Haunting",
       "optional_title": "The Bell Witch Hunting",
       "web_calification": 4.71,
@@ -3534,7 +3628,7 @@ export const data = [
       "director": "Glenn Miller"
      },
      {
-      "id": 267,
+      "id": 277,
       "title": "The Boy",
       "optional_title": "El Niño ",
       "web_calification": 6.64,
@@ -3548,7 +3642,7 @@ export const data = [
       "director": "William Brent Bell"
      },
      {
-      "id": 268,
+      "id": 278,
       "title": "The Boy II: Brahms",
       "optional_title": "El Niño 2: La Maldición de Brahms",
       "web_calification": 5.41,
@@ -3562,7 +3656,7 @@ export const data = [
       "director": "William Brent Bell"
      },
      {
-      "id": 269,
+      "id": 279,
       "title": "The Cabin in the Woods",
       "optional_title": "La Cabaña del Terror \/ La Cabaña en el Bosque",
       "web_calification": 7.46,
@@ -3576,7 +3670,7 @@ export const data = [
       "director": "Drew Goddard"
      },
      {
-      "id": 270,
+      "id": 280,
       "title": "The Cell",
       "optional_title": "La Célula",
       "web_calification": 6.21,
@@ -3590,7 +3684,7 @@ export const data = [
       "director": "Tarsem Singh"
      },
      {
-      "id": 271,
+      "id": 281,
       "title": "The Conjuring",
       "optional_title": "El Conjuro \/ The Warrren Files  \/ Expediente Warren",
       "web_calification": 7.98,
@@ -3604,7 +3698,7 @@ export const data = [
       "director": "James Wan"
      },
      {
-      "id": 272,
+      "id": 282,
       "title": "The Conjuring II",
       "optional_title": "El Conjuro II \/ Expediente Warren: El Caso Enfield",
       "web_calification": 7.86,
@@ -3618,7 +3712,7 @@ export const data = [
       "director": "James Wan"
      },
      {
-      "id": 273,
+      "id": 283,
       "title": "The Conjuring III: The Devil Made me Do it",
       "optional_title": "Expediente Warren: obligado por el demonio",
       "web_calification": 6.44,
@@ -3632,7 +3726,21 @@ export const data = [
       "director": "Michael Chaves"
      },
      {
-      "id": 274,
+      "id": 284,
+      "title": "The Curse of La Llorona",
+      "optional_title": "La Maldición de la Llorona",
+      "web_calification": 5.2,
+      "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/uOV-xMYQ7sk?si=G3nTLwc_rStvFWnL",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OLMmgEixkgI6EFHmQA_D0gHaLG?pid=ImgDet&rs=1",
+      "sinopsis": "Ignoring the eerie warning of a troubled mother suspected of child endangerment, a social worker and her own small kids are soon drawn into a frightening supernatural realm. Their only hope to survive La Llorona's deadly wrath may be a disillusioned priest and the mysticism he practices to keep evil at bay, on the fringes where fear and faith collide.",
+      "universe": "The Conjuring",
+      "director": "Michael Chaves"
+     },
+     {
+      "id": 285,
       "title": "The Darkness",
       "optional_title": "6 Miranda Drive \/ Maldicion Ancestral",
       "web_calification": 4.75,
@@ -3646,7 +3754,7 @@ export const data = [
       "director": "Greg McLean"
      },
      {
-      "id": 275,
+      "id": 286,
       "title": "The Descent",
       "optional_title": "El descenso",
       "web_calification": 7.7,
@@ -3658,7 +3766,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 276,
+      "id": 287,
       "title": "The Devi's Tomb",
       "optional_title": "La Tumba del Diablo",
       "web_calification": 4.75,
@@ -3671,7 +3779,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 277,
+      "id": 288,
       "title": "The Devil Inside",
       "optional_title": "Con el Diablo Dentro",
       "web_calification": 5.21,
@@ -3684,7 +3792,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 278,
+      "id": 289,
       "title": "The Devil's Rejects",
       "optional_title": "Los Renegados del Diablo ",
       "web_calification": 7.33,
@@ -3698,7 +3806,7 @@ export const data = [
       "director": "Rob Zombie"
      },
      {
-      "id": 279,
+      "id": 290,
       "title": "The Devil's tail",
       "optional_title": "La cola del diablo",
       "web_calification": 3.6,
@@ -3711,7 +3819,7 @@ export const data = [
       "director": "Nicole Goode - Carlota Pereda - Taz Pereyra - Erica Scoggins - Samantha Timms -Laurel Vail"
      },
      {
-      "id": 280,
+      "id": 291,
       "title": "The Disappoinments Room",
       "optional_title": "La Casa del Pánico \/ El Ático ",
       "web_calification": 5.09,
@@ -3724,7 +3832,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 281,
+      "id": 292,
       "title": "The Echo: Remake",
       "optional_title": "El eco",
       "web_calification": 5.95,
@@ -3736,7 +3844,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 282,
+      "id": 293,
       "title": "The Empty Man",
       "optional_title": "The Empty Man: El Mensajero del último Día",
       "web_calification": 5.87,
@@ -3749,7 +3857,7 @@ export const data = [
       "director": "David Prior"
      },
      {
-      "id": 283,
+      "id": 294,
       "title": "The Exorcism of Emily Rose",
       "optional_title": "El Exorcismo de Emily Rose",
       "web_calification": 6.91,
@@ -3762,7 +3870,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 284,
+      "id": 295,
       "title": "The Exorcist",
       "optional_title": "El Exorcista ",
       "web_calification": 8.64,
@@ -3776,7 +3884,7 @@ export const data = [
       "director": "William Friedkin"
      },
      {
-      "id": 285,
+      "id": 296,
       "title": "The Exorcist ",
       "optional_title": "El Exorcista",
       "web_calification": 7.74,
@@ -3788,7 +3896,7 @@ export const data = [
       "universe": "The Exorcist"
      },
      {
-      "id": 100,
+      "id": 297,
       "title": "The Exorcist 2: The Heretic",
       "optional_title": "El Exorcista 2: El Hereje ",
       "web_calification": 4.77,
@@ -3802,7 +3910,7 @@ export const data = [
       "director": "John Boorman - Rospo Pallenberg"
      },
      {
-      "id": 286,
+      "id": 298,
       "title": "The Exorcist 3",
       "optional_title": "El Exorcista 3 ",
       "web_calification": 6.23,
@@ -3816,7 +3924,7 @@ export const data = [
       "director": "William Peter Blatty"
      },
      {
-      "id": 287,
+      "id": 299,
       "title": "The Exorcist Director's Cut",
       "optional_title": "El Exorcista Montaje del Director ",
       "year": 2000,
@@ -3826,7 +3934,7 @@ export const data = [
       "universe": "The Exorcist"
      },
      {
-      "id": 99,
+      "id": 300,
       "title": "The Exorcist: The Beginning",
       "optional_title": "El Exorcista: El Comienzo ",
       "web_calification": 5.1,
@@ -3840,7 +3948,7 @@ export const data = [
       "director": "Renny Harlin"
      },
      {
-      "id": 288,
+      "id": 301,
       "title": "The Eye",
       "optional_title": "El Ojo ",
       "web_calification": 7.39,
@@ -3853,7 +3961,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 289,
+      "id": 302,
       "title": "The Fly",
       "optional_title": "La Mosca ",
       "web_calification": 7.91,
@@ -3866,7 +3974,7 @@ export const data = [
       "director": "David Cronenberg"
      },
      {
-      "id": 290,
+      "id": 303,
       "title": "The Fog",
       "optional_title": "Terror en la Niebla",
       "web_calification": 4.74,
@@ -3877,7 +3985,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 291,
+      "id": 304,
       "title": "The Forgotten Ones",
       "optional_title": "La Isla de los Caníbales \/ The Tribe \/ La Tribu",
       "web_calification": 5.45,
@@ -3889,7 +3997,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 292,
+      "id": 305,
       "title": "The Fourth Kind (The 4th Kind)",
       "optional_title": "Contactos de Cuarto Tipo \/ El Cuarto Contacto",
       "web_calification": 6.69,
@@ -3902,7 +4010,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 293,
+      "id": 306,
       "title": "The Gallows",
       "optional_title": "La Horca ",
       "web_calification": 5.65,
@@ -3916,7 +4024,7 @@ export const data = [
       "director": "Travis Cluff - Chris Lofing"
      },
      {
-      "id": 294,
+      "id": 307,
       "title": "The Gathering",
       "optional_title": "Los Testigos",
       "web_calification": 6.59,
@@ -3930,7 +4038,7 @@ export const data = [
       "director": "Brian Gilbert"
      },
      {
-      "id": 295,
+      "id": 308,
       "title": "The Grudge",
       "optional_title": "El Grito ",
       "web_calification": 6.95,
@@ -3944,7 +4052,7 @@ export const data = [
       "director": "Takashi Shimizu"
      },
      {
-      "id": 296,
+      "id": 309,
       "title": "The Grudge 2",
       "optional_title": "El Grito 2",
       "web_calification": 6.49,
@@ -3958,7 +4066,7 @@ export const data = [
       "director": "Takashi Shimizu"
      },
      {
-      "id": 297,
+      "id": 310,
       "title": "The Hallow",
       "optional_title": "Los Hijos del Diablo",
       "web_calification": 5.7,
@@ -3973,7 +4081,7 @@ export const data = [
       "director": "Corin Hardy"
      },
      {
-      "id": 298,
+      "id": 311,
       "title": "The Haunting ",
       "optional_title": "La Maldición \/ La Guarida",
       "web_calification": 6.23,
@@ -3985,7 +4093,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 299,
+      "id": 312,
       "title": "The Haunting in Connecticut",
       "optional_title": "Exorcismo en Connecticut",
       "web_calification": 6.72,
@@ -3997,7 +4105,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 300,
+      "id": 313,
       "title": "The Haunting of Bly Manor ",
       "optional_title": "La Maldición de Bly Manor",
       "web_calification": 7.72,
@@ -4010,7 +4118,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 301,
+      "id": 314,
       "title": "The Haunting of Hill House ",
       "optional_title": "La Maldición de Hill House",
       "web_calification": 8.12,
@@ -4023,7 +4131,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 302,
+      "id": 315,
       "title": "The Hills Have Eyes 2",
       "optional_title": "Las Colinas Tienen Ojos 2 ",
       "web_calification": 5.1,
@@ -4037,7 +4145,7 @@ export const data = [
       "director": "Martin Weisz"
      },
      {
-      "id": 303,
+      "id": 316,
       "title": "The Hills Have Eyes: Remake",
       "optional_title": "Las Colinas Tienen Ojos",
       "web_calification": 6.4,
@@ -4051,7 +4159,7 @@ export const data = [
       "director": "Alexandre Aja"
      },
      {
-      "id": 304,
+      "id": 317,
       "title": "The House of Wax",
       "optional_title": "La Casa de Cera",
       "web_calification": 7.05,
@@ -4064,7 +4172,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 305,
+      "id": 318,
       "title": "The Houses That October Built",
       "web_calification": 4.64,
       "year": 2014,
@@ -4076,7 +4184,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 306,
+      "id": 319,
       "title": "The Invisible Man",
       "optional_title": "El Hombre Invisible",
       "web_calification": 6.81,
@@ -4088,7 +4196,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 307,
+      "id": 320,
       "title": "The Invitation",
       "optional_title": "La Invitación",
       "web_calification": 6.8,
@@ -4102,7 +4210,7 @@ export const data = [
       "director": "Karyn Kusama"
      },
      {
-      "id": 308,
+      "id": 321,
       "title": "The Island of Dr. Moreau ",
       "optional_title": "La Isla del Doctor Moreau ",
       "web_calification": 5.35,
@@ -4115,7 +4223,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 309,
+      "id": 322,
       "title": "The Last Exorcism",
       "optional_title": "El ultimo exoscirmo",
       "web_calification": 5.87,
@@ -4129,7 +4237,7 @@ export const data = [
       "director": "Daniel Stamm"
      },
      {
-      "id": 310,
+      "id": 323,
       "title": "The last of us",
       "optional_title": "The last of us",
       "web_calification": 8.02,
@@ -4143,7 +4251,7 @@ export const data = [
       "director": "Neil Druckmann - Craig Mazin"
      },
      {
-      "id": 311,
+      "id": 324,
       "title": "The Manor",
       "optional_title": "The Manor",
       "web_calification": 6.04,
@@ -4155,7 +4263,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 312,
+      "id": 325,
       "title": "The Maus",
       "optional_title": "Maus",
       "web_calification": 4.36,
@@ -4168,7 +4276,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 313,
+      "id": 326,
       "title": "The Medium",
       "optional_title": "The Medium",
       "web_calification": 6.2,
@@ -4180,7 +4288,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 314,
+      "id": 327,
       "title": "The Messengers",
       "optional_title": "Los Mensajeros ",
       "web_calification": 6.44,
@@ -4193,7 +4301,7 @@ export const data = [
       "director": "Danny Pang - Oxide Chun Pang"
      },
      {
-      "id": 315,
+      "id": 328,
       "title": "The Monster",
       "web_calification": 5.9,
       "year": 2016,
@@ -4204,7 +4312,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 316,
+      "id": 329,
       "title": "The Mothman Prophecies",
       "optional_title": "El Mensajero De La Oscuridad",
       "web_calification": 6.38,
@@ -4218,7 +4326,7 @@ export const data = [
       "director": "Mark Pellington"
      },
      {
-      "id": 317,
+      "id": 330,
       "title": "The Neon Demon",
       "optional_title": "El Demonio de Neón",
       "web_calification": 5.93,
@@ -4230,7 +4338,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 177,
+      "id": 331,
       "title": "The Night Chronicles: Devil ",
       "optional_title": "La Trampa del Mal \/ La Reunión del Diablo",
       "web_calification": 6.74,
@@ -4241,7 +4349,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 318,
+      "id": 332,
       "title": "The Nun",
       "optional_title": "La Monja",
       "web_calification": 6.02,
@@ -4254,7 +4362,21 @@ export const data = [
       "universe": "The Conjuring"
      },
      {
-      "id": 319,
+      "id": 333,
+      "title": "The Nun II",
+      "optional_title": "La Monja 2",
+      "web_calification": 5.9,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/QF-oyCwaArU?si=DWm3UFqlUHF1iuBO",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.nFNkd7xPTvd1kBmV28g89QHaLF?pid=ImgDet&rs=1",
+      "sinopsis": "A follow-up to the enigmatic gothic horror about a strong evil that haunts and causes supernatural harm to everybody it comes into contact with. After the events of the first film, the said powerful evil now begins to spread in 1956 throughout a town in France as word gets out that a priest has been violently murdered. A finished contemplative in her novitiate, Sister Irene, begins to investigate the murder, only to find a demon behind it -- the same evil that terrorized her in the original film as a nun -- Valak, whom she once again soon comes to encounter.",
+      "universe": "The Conjuring",
+      "director": "Michael Chaves"
+     },
+     {
+      "id": 334,
       "title": "The Open House",
       "optional_title": "Puertas Abiertas",
       "web_calification": 3.3,
@@ -4268,7 +4390,7 @@ export const data = [
       "director": "Matt Angel - Suzanne Coote"
      },
      {
-      "id": 320,
+      "id": 335,
       "title": "The Orphan",
       "optional_title": "La Huérfana",
       "web_calification": 7.57,
@@ -4281,7 +4403,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 321,
+      "id": 336,
       "title": "The Other Side of the Door ",
       "optional_title": "El Otro Lado de la Puerta ",
       "web_calification": 5.64,
@@ -4295,7 +4417,7 @@ export const data = [
       "director": "Johannes Roberts"
      },
      {
-      "id": 322,
+      "id": 337,
       "title": "The Others",
       "optional_title": "Los Otros ",
       "web_calification": 7.84,
@@ -4309,7 +4431,21 @@ export const data = [
       "director": "Alejandro Amenábar"
      },
      {
-      "id": 323,
+      "id": 338,
+      "title": "The Pope's Exorcist",
+      "optional_title": "El Exorcista del Papa",
+      "web_calification": 6.1,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/YJXqvnT_rsk?si=wA_-HK3Gzwgm7FDk",
+      "clasification": "movie",
+      "gender": "possessions",
+      "cover": "https:\/\/www.ecartelera.com\/carteles\/17700\/17750\/001_m.jpg",
+      "sinopsis": "Rome, 1987. Having performed hundreds of successful exorcisms throughout his decades-long career, Father Gabriele Amorth, the Vatican's chief exorcist, travels to Spain to shed light on the peculiar case of troubled Henry, a boy reportedly possessed by a powerful unholy spirit. But as the child's condition deteriorates, the grizzled priest joins forces with local cleric Father Tomas Esquibel to cast out the demonic legions from possessed Henry. However, the exorcism is just the tip of the iceberg. Can guilt, sin, and a well-hidden, centuries-old conspiracy threaten the soul of the Pope's exorcist?",
+      "universe": "None",
+      "director": "Julius Avery"
+     },
+     {
+      "id": 339,
       "title": "The Posession",
       "optional_title": "The Posession: El Origen del Mal \/ Posesión Satánica",
       "web_calification": 6.44,
@@ -4323,7 +4459,7 @@ export const data = [
       "director": "Ole Bornedal"
      },
      {
-      "id": 324,
+      "id": 340,
       "title": "The Predator",
       "optional_title": "Depredador 4: Predator ",
       "web_calification": 5.17,
@@ -4337,7 +4473,7 @@ export const data = [
       "director": "Shane Black"
      },
      {
-      "id": 325,
+      "id": 341,
       "title": "The Quiet Ones",
       "optional_title": "It's Always the Quiet Ones (Hush)",
       "web_calification": 5.4,
@@ -4349,7 +4485,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 326,
+      "id": 342,
       "title": "The Raven",
       "optional_title": " El Cuervo \/ El Enigma del Cuervo",
       "web_calification": 6.99,
@@ -4363,7 +4499,7 @@ export const data = [
       "director": "James McTeigue"
      },
      {
-      "id": 327,
+      "id": 343,
       "title": "The Relic",
       "web_calification": 6.34,
       "year": 1995,
@@ -4376,7 +4512,7 @@ export const data = [
       "director": "Peter Hyams"
      },
      {
-      "id": 328,
+      "id": 344,
       "title": "The Ring",
       "optional_title": "La Llamada \/ La Señal \/ El Aro",
       "web_calification": 7.69,
@@ -4390,7 +4526,7 @@ export const data = [
       "director": "Gore Verbinski"
      },
      {
-      "id": 329,
+      "id": 345,
       "title": "The Ring 2 ",
       "optional_title": "La Llamada 2 \/ La Señal \/ El Aro 2",
       "web_calification": 6.72,
@@ -4404,7 +4540,7 @@ export const data = [
       "director": "Hideo Nakata"
      },
      {
-      "id": 330,
+      "id": 346,
       "title": "The Rite",
       "optional_title": "El Rito",
       "web_calification": 6.43,
@@ -4418,7 +4554,7 @@ export const data = [
       "director": "Mikael Håfström"
      },
      {
-      "id": 331,
+      "id": 347,
       "title": "The Ruins",
       "optional_title": "Las Ruinas",
       "web_calification": 6.67,
@@ -4429,7 +4565,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 332,
+      "id": 348,
       "title": "The Shining",
       "optional_title": "El Resplandor ",
       "web_calification": 8.45,
@@ -4443,7 +4579,7 @@ export const data = [
       "director": "Stanley Kubrick"
      },
      {
-      "id": 333,
+      "id": 349,
       "title": "The Silent House",
       "optional_title": "La Casa Muda ",
       "web_calification": 5.75,
@@ -4457,7 +4593,7 @@ export const data = [
       "director": "Chris Kentis - Laura Lau"
      },
      {
-      "id": 334,
+      "id": 350,
       "title": "The Sixth Sense",
       "optional_title": "Sexto Sentido ",
       "web_calification": 8.04,
@@ -4471,7 +4607,7 @@ export const data = [
       "director": "M. Night Shyamalan"
      },
      {
-      "id": 335,
+      "id": 351,
       "title": "The Skeleton Key",
       "optional_title": "La Llave del Mal ",
       "web_calification": 7.01,
@@ -4484,7 +4620,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 336,
+      "id": 352,
       "title": "The Sphere",
       "optional_title": "Esfera",
       "web_calification": 6.45,
@@ -4498,7 +4634,7 @@ export const data = [
       "director": "Barry Levinson"
      },
      {
-      "id": 337,
+      "id": 353,
       "title": "The Strangers",
       "optional_title": "Los Extraños",
       "web_calification": 6.49,
@@ -4512,7 +4648,7 @@ export const data = [
       "director": "Bryan Bertino"
      },
      {
-      "id": 338,
+      "id": 354,
       "title": "The Tag-Along",
       "web_calification": 5.49,
       "year": 2015,
@@ -4523,7 +4659,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 339,
+      "id": 355,
       "title": "The Texas Chainsaw Massacre: 3D",
       "optional_title": "La Masacre de Texas 3D ",
       "web_calification": 6.08,
@@ -4536,7 +4672,7 @@ export const data = [
       "universe": "The Texas Chainsaw Massacre"
      },
      {
-      "id": 340,
+      "id": 356,
       "title": "The Texas Chainsaw Massacre: Remake ",
       "optional_title": "La Masacre de Texas Remake",
       "web_calification": 7.5,
@@ -4549,7 +4685,7 @@ export const data = [
       "universe": "The Texas Chainsaw Massacre"
      },
      {
-      "id": 341,
+      "id": 357,
       "title": "The Texas Chainsaw Massacre: The Beginning ",
       "optional_title": "La Masacre de Texas: El Inicio ",
       "web_calification": 7.44,
@@ -4562,7 +4698,7 @@ export const data = [
       "universe": "The Texas Chainsaw Massacre"
      },
      {
-      "id": 342,
+      "id": 358,
       "title": "The Trunk",
       "web_calification": 0,
       "year": 2023,
@@ -4574,7 +4710,7 @@ export const data = [
       "director": "Travis Laidlaw"
      },
      {
-      "id": 343,
+      "id": 359,
       "title": "The Turning",
       "optional_title": "Otra Vuelta de Tuerca \/ Presencias del Mal",
       "web_calification": 4.31,
@@ -4586,7 +4722,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 344,
+      "id": 360,
       "title": "The Unborn",
       "optional_title": " La profecía del no nacido  \/ La Semilla del Mal",
       "web_calification": 5.6,
@@ -4600,7 +4736,7 @@ export const data = [
       "director": "David S. Goyer"
      },
      {
-      "id": 345,
+      "id": 361,
       "title": "The Uninvited",
       "optional_title": "La Maldición de las Hermanas \/ Presencias Extrañas",
       "web_calification": 6.86,
@@ -4613,7 +4749,7 @@ export const data = [
       "director": "Charles Guard - Thomas Guard"
      },
      {
-      "id": 346,
+      "id": 362,
       "title": "The Veil",
       "optional_title": "El Velo",
       "web_calification": 5.66,
@@ -4625,7 +4761,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 347,
+      "id": 363,
       "title": "The Village",
       "optional_title": "La Aldea ",
       "web_calification": 6.49,
@@ -4639,7 +4775,7 @@ export const data = [
       "director": "M. Night Shyamalan"
      },
      {
-      "id": 348,
+      "id": 364,
       "title": "The Visit",
       "optional_title": "La Visita \/ Los Huéspedes",
       "web_calification": 6.38,
@@ -4653,7 +4789,7 @@ export const data = [
       "director": "M. Night Shyamalan"
      },
      {
-      "id": 349,
+      "id": 365,
       "title": "The Wicker Man (Remake)",
       "optional_title": "Culto Siniestro \/ El Hombre de Mimbre",
       "web_calification": 5.25,
@@ -4666,7 +4802,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 350,
+      "id": 366,
       "title": "The Wishmaster",
       "web_calification": 6.81,
       "year": 1997,
@@ -4678,7 +4814,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 351,
+      "id": 367,
       "title": "The Wishmaster 2: Evil Never Dies",
       "optional_title": "Wishmaster 2: El Mal Nunca Muere",
       "web_calification": 5.62,
@@ -4690,7 +4826,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 352,
+      "id": 368,
       "title": "The Woman in Black",
       "optional_title": "La Dama de Negro",
       "web_calification": 6.83,
@@ -4703,7 +4839,7 @@ export const data = [
       "universe": "The Woman in Black"
      },
      {
-      "id": 353,
+      "id": 369,
       "title": "The Woman in Black 2: Angels to Death",
       "optional_title": "La Dama de Negro 2: Angel de la Muerte",
       "web_calification": 4.98,
@@ -4716,7 +4852,7 @@ export const data = [
       "universe": "The Woman in Black"
      },
      {
-      "id": 354,
+      "id": 370,
       "title": "There's Someone Inside Your House",
       "optional_title": "Hay Alguien en tu Casa ",
       "web_calification": 5.03,
@@ -4728,7 +4864,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 355,
+      "id": 371,
       "title": "Thirteen Ghosts",
       "optional_title": "13 Fantasmas",
       "web_calification": 6.72,
@@ -4742,7 +4878,7 @@ export const data = [
       "director": "Steve Beck"
      },
      {
-      "id": 356,
+      "id": 372,
       "title": "Tremors",
       "optional_title": "Temblores",
       "web_calification": 7.49,
@@ -4755,7 +4891,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 357,
+      "id": 373,
       "title": "Una Llamada Perdida (Remake)",
       "optional_title": "One Miss Call (Remake)",
       "web_calification": 5.62,
@@ -4768,7 +4904,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 358,
+      "id": 374,
       "title": "Unfriended",
       "optional_title": "Eliminado \/ Eliminar Amigo \/ Cybernatural",
       "web_calification": 5.85,
@@ -4780,7 +4916,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 359,
+      "id": 375,
       "title": "Unrest",
       "optional_title": "Sin Descanso",
       "web_calification": 4.78,
@@ -4792,7 +4928,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 360,
+      "id": 376,
       "title": "Urban Leyend",
       "optional_title": "Leyendas Urbanas",
       "web_calification": 6.93,
@@ -4804,7 +4940,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 361,
+      "id": 377,
       "title": "Urban Leyend 2",
       "optional_title": "Leyendas Urbanas 2",
       "web_calification": 5.69,
@@ -4816,7 +4952,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 362,
+      "id": 378,
       "title": "V\/H\/S",
       "optional_title": "Las Crónicas del miedo",
       "web_calification": 6.27,
@@ -4829,7 +4965,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 363,
+      "id": 379,
       "title": "V\/H\/S 2",
       "optional_title": "Las Crónicas del miedo 2",
       "web_calification": 6.82,
@@ -4842,7 +4978,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 364,
+      "id": 380,
       "title": "Vacancy",
       "optional_title": "Hotel sin Salida ",
       "web_calification": 7.12,
@@ -4855,7 +4991,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 365,
+      "id": 381,
       "title": "Vacancy 2: The First Cut",
       "optional_title": "Hotel sin Salida 2: El Comienzo ",
       "web_calification": 5.73,
@@ -4868,7 +5004,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 366,
+      "id": 382,
       "title": "Valentine",
       "optional_title": "Un San Valentín de muerte",
       "web_calification": 6.25,
@@ -4880,7 +5016,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 367,
+      "id": 383,
       "title": "Vampires",
       "optional_title": "Vampiros",
       "web_calification": 6.88,
@@ -4893,7 +5029,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 368,
+      "id": 384,
       "title": "Van Helsing",
       "web_calification": 6.68,
       "year": 2004,
@@ -4904,7 +5040,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 369,
+      "id": 385,
       "title": "Vanishing on 7th street",
       "optional_title": "La Oscuridad",
       "web_calification": 5.53,
@@ -4916,7 +5052,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 370,
+      "id": 386,
       "title": "Verónica",
       "optional_title": "Verónica",
       "web_calification": 6.9,
@@ -4928,7 +5064,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 371,
+      "id": 387,
       "title": "Viaje a las Tinieblas",
       "optional_title": "Riding the Bullet",
       "web_calification": 6.24,
@@ -4940,7 +5076,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 372,
+      "id": 388,
       "title": "Vicious",
       "web_calification": 0,
       "year": 2019,
@@ -4951,7 +5087,7 @@ export const data = [
       "universe": "None"
      },
      {
-      "id": 373,
+      "id": 389,
       "title": "Wes Craven's New Nightmare",
       "optional_title": "Pesadilla 7 La Ultima Pesadilla ",
       "web_calification": 6.37,
@@ -4964,7 +5100,7 @@ export const data = [
       "director": "Wes Craven"
      },
      {
-      "id": 374,
+      "id": 390,
       "title": "What Lies Beneath",
       "optional_title": "Revelaciones ",
       "web_calification": 6.67,
@@ -4978,7 +5114,7 @@ export const data = [
       "director": "Robert Zemeckis"
      },
      {
-      "id": 375,
+      "id": 391,
       "title": "White Noise",
       "optional_title": "Voces del más allá",
       "web_calification": 6.06,
@@ -4991,7 +5127,7 @@ export const data = [
       "director": "Geoffrey Sax"
      },
      {
-      "id": 376,
+      "id": 392,
       "title": "White Noise 2",
       "optional_title": "Voces del más allá 2",
       "web_calification": 6.21,
@@ -5004,7 +5140,7 @@ export const data = [
       "director": "Patrick Lussier"
      },
      {
-      "id": 377,
+      "id": 393,
       "title": "Winchester: The House that Ghosts Built ",
       "optional_title": "Winchester: La Casa que Construyeron los Espíritus",
       "web_calification": 5.3,
@@ -5017,7 +5153,7 @@ export const data = [
       "director": "Michael Spierig - Peter Spierig"
      },
      {
-      "id": 378,
+      "id": 394,
       "title": "Wrong Turn 3 - Left for Dead",
       "optional_title": "Camino Sangirneto 3 \/ Camino hacia el Terror 3",
       "web_calification": 6.21,
@@ -5030,7 +5166,7 @@ export const data = [
       "director": "Declan O'Brien"
      },
      {
-      "id": 379,
+      "id": 395,
       "title": "X",
       "optional_title": "X",
       "web_calification": 6.66,

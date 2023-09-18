@@ -16,15 +16,18 @@ createApp({
           }
      },
      created() {
-          this.movies = data
-          console.log(this.movies);
-          this.dataObject = {
-               movies: this.movies.filter(movie => movie.clasification === "movie"),
-               series: this.movies.filter(movie => movie.clasification === "serie"),
-               books: this.movies.filter(movie => movie.clasification === "book")
-          }
-          this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
+          const url = "./js/data.json"
+          fetch(url)
+          .then(response => response.json())
+          .then(data => {
+               console.log(data);
+               this.movies = data
+               console.log(this.movies);
 
+               this.lengthClasificationCalculator();
+
+               this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
+          })
           this.Toast = Swal.mixin({
                toast: true,
                position: 'top-end',
@@ -54,6 +57,16 @@ createApp({
                     })
                }else{
                     this.initializer = false
+               }
+          },
+          lengthClasificationCalculator(){
+               const noRepeatClasification = [...new Set(this.movies.map(movie => movie.clasification))]
+               const arrayOfClasification = noRepeatClasification.map( clasification => this.movies.filter( movie => movie.clasification == clasification) )
+               this.dataObject = {
+                    movies: arrayOfClasification[0].length,
+                    series: arrayOfClasification[1].length,
+                    books: arrayOfClasification[2].length,
+                    cortos: arrayOfClasification[3].length
                }
           }
      },
