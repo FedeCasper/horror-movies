@@ -1,12 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,700;0,900;1,200;1,300;1,400;1,500;1,700;1,900&display=swap');
-*{
+
+* {
      margin: 0;
      padding: 0;
      box-sizing: border-box;
      font-family: 'Lato', sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
      font-family: 'Raleway', sans-serif !important;
 }
 
@@ -14,58 +20,69 @@ h1,h2,h3,h4,h5,h6{
      display: none;
 }
 
-a{
+a {
      text-decoration: none;
      color: white;
      cursor: pointer;
 }
 
-#app{
+#app {
      min-height: 100vh;
 }
-.navTop{
+
+.navTop {
      min-height: 5vh;
 }
-.navBottom{
+
+.navBottom {
      min-height: 5vh;
 }
-section{
+
+section {
      min-height: 90vh;
      padding-bottom: 10vh;
 }
-.cover{
+
+.cover {
      height: 19rem !important;
 }
-.returnArrow{
+
+.returnArrow {
      /* position: fixed; */
      bottom: 60px;
      transition: all 0.2s ease-in-out;
 }
-.returnArrow:hover{
+
+.returnArrow:hover {
      transform: scale(1.07);
 }
-.notFoundImg{
+
+.notFoundImg {
      height: 40px;
      object-fit: contain;
 }
-.video{
+
+.video {
      min-height: 35vh;
 }
-.cardHover{
+
+.cardHover {
      position: relative;
      transition: all 0.2s ease-in-out;
 }
-.cardHover:hover{
+
+.cardHover:hover {
      opacity: 40%;
      transform: scale(0.8);
 }
 
-.cardHover > div:hover{
+.cardHover>div:hover {
      filter: grayscale(100%) brightness(120%);
      color: red;
      font-weight: bolder;
 }
 
-.recent{
+.recent {
      font-size: 9pt;
 }
+
