@@ -1,0 +1,100 @@
+/* Buttons with amount of stories */
+.Btn {
+     width: 140px;
+     height: 30px;
+     display: flex;
+     align-items: center;
+     justify-content: flex-start;
+     border: none;
+     border-radius: 5px;
+     overflow: hidden;
+     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.325);
+     cursor: pointer;
+     background-color: transparent;
+}
+
+
+
+.leftContainer {
+     width: 60%;
+     height: 100%;
+     background-color: #dc3545;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 8px;
+     transition: all 0.3s ease-in-out;
+}
+
+.leftContainer .like {
+     color: #212529;
+     font-weight: 600;
+     transition: all 0.3s ease-in-out;
+}
+
+.leftContainer:hover .like {
+     color: #dc3545;
+}
+
+.likeCount {
+     width: 40%;
+     height: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: #dc3545;
+     font-weight: 600;
+     position: relative;
+     background-color: #212529;
+     transition: all 0.3s ease-in-out;
+}
+
+.likeCount::before {
+     height: 8px;
+     width: 8px;
+     position: absolute;
+     content: "";
+     background-color: #212529;
+     transform: rotate(45deg);
+     left: -4px;
+     transition: all 0.3s ease-in-out;
+}
+
+.Btn:hover .leftContainer {
+     background-color: #212529;
+}
+
+.Btn:active .leftContainer {
+     background-color: rgb(201, 0, 0);
+}
+
+.Btn:hover {
+     width: 140px;
+     height: 30px;
+     display: flex;
+     align-items: center;
+     justify-content: flex-start;
+     border: none;
+     border-radius: 5px;
+     overflow: hidden;
+     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.325);
+     cursor: pointer;
+     background-color: transparent;
+
+     .leftContainer{
+          background-color: #212529;
+          color: #dc3545;
+     }
+
+     .likeCount {
+          background-color:  #dc3545;
+          color: #212529;
+     }
+
+     .likeCount::before {
+          background-color: #212529;
+     }
+
+}
+
+/* ---------------------------------------------------- */

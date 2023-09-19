@@ -9,6 +9,7 @@
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+     <link rel="stylesheet" href="index.css">
      <link rel="stylesheet" href="style.css">
      <title>Casper's Horror Site</title>
 </head>
@@ -19,8 +20,9 @@
 
           <span>{{filter}}</span>
 
-     <!-- Nav TOP section -->
-          <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top d-none d-sm-flex" data-bs-theme="dark">
+          <!-- Nav TOP section -->
+          <nav class="navbar navbar-expand-lg bg-dark border-bottom border-bottom-dark sticky-top d-none d-sm-flex"
+               data-bs-theme="dark">
                <div class="container-fluid">
                     <a class="navbar-brand text-light fw-bold" href="#"><img src="./assets/ghost2.png" alt="skull">
                          Casper's <span class="text-danger">Horror Site</span></a>
@@ -52,59 +54,101 @@
                          </ul>
                          <!-- Input Search -->
                          <div class="d-flex" role="search">
-                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                                   v-model="inputValue">
                          </div>
                     </div>
                </div>
           </nav>
 
-     <!-- Counters & Input section -->
-          <section v-if="initializer === true" class="d-flex flex-column justify-content-center align-items-center w-75 mx-auto">
+          <!-- Counters & Input section -->
+          <section v-if="initializer === true"
+               class="d-flex flex-column justify-content-center align-items-center col-10 col-sm-8 col-md-4 mx-auto">
                <h4 class="d-flex mb-4 text-light text-center">What scary story are you looking for?</h4>
                <div class="d-flex w-100" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
-                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger" v-on:click="preventNullInputText" title="click to search"></i></button>
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"
+                         v-model="inputValue">
+                    <button class="btn btn-outline-danger" type="submit"><i class="bi bi-search text-danger"
+                              v-on:click="preventNullInputText" title="click to search"></i></button>
                </div>
-               <h6 class="d-flex text-light pt-3">
-                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.movies}}</span> movies,</div>
-                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.series}}</span> series,</div>
-                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.cortos}}</span> cortos,</div>
-                    <div v-cloak class="text-center"><span class="text-danger px-2">{{dataObject.books}}</span> books.</div>
+               <h6 class="d-flex flex-column flex-md-row text-light pt-5 gap-3">
+                    <a v-cloak class="Btn" href="./movies.html">
+                         <span class="leftContainer">
+                              <span class="like">Movies</span>
+                         </span>
+                         <span class="likeCount">
+                              {{dataObject.movies}}
+                         </span>
+                    </a>
+                    <a v-cloak class="Btn" href="./series.html">
+                         <span class="leftContainer">
+                              <span class="like">Series</span>
+                         </span>
+                         <span class="likeCount">
+                              {{dataObject.series}}
+                         </span>
+                    </a>
+                    <a v-cloak class="Btn" href="./cortos.html">
+                         <span class="leftContainer">
+                              <span class="like">Cortos</span>
+                         </span>
+                         <span class="likeCount">
+                              {{dataObject.cortos}}
+                         </span>
+                    </a>
+                    <a v-cloak class="Btn" href="./books.html">
+                         <span class="leftContainer">
+                              <span class="like">Books</span>
+                         </span>
+                         <span class="likeCount">
+                              {{dataObject.books}}
+                         </span>
+                    </a>
                </h6>
           </section>
 
-     <!-- Cards container section -->
-          <section v-if="initializer === false" :class="filteredMovies.length <= 3 ? 'row justify-content-center align-items-center pt-4 px-2 w-100 mx-0' : 'row justify-content-center pt-4 px-2 w-100 mx-0'">
+          <!-- Cards container section -->
+          <section v-if="initializer === false"
+               :class="filteredMovies.length <= 3 ? 'row justify-content-center align-items-center pt-4 px-2 w-100 mx-0' : 'row justify-content-center pt-4 px-2 w-100 mx-0'">
                <!-- Card individual model -->
-               <div v-cloak v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredMovies">
-                    <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
+               <div v-cloak v-if="filteredMovies.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1"
+                    v-for="movie of filteredMovies">
+                    <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''"
+                         target="_blank">
                          <div class="card h-100">
-                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1 object-fit-cover" alt="...">
+                              <img :src="movie.cover ? movie.cover : './assets/no-image.png' "
+                                   class="card-img-top cover p-1 object-fit-cover" alt="...">
                               <div class="card-body border-bottom border-bottom-dark">
                                    <h6 class="card-title">{{movie.title}}</h6>
-                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
+                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ?
+                                        movie.optional_title : "unknown"}}</h6>
                               </div>
                               <div>
                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
-                                             <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
-                                             <span class="d-flex align-items-center"> 
+                                        <li
+                                             class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
+                                             <span class="d-flex align-items-center">{{movie.year ? movie.year :
+                                                  "unknown"}}</span>
+                                             <span class="d-flex align-items-center">
                                                   <span class=" text-danger fw-bold pe-1">
                                                        {{ movie.web_calification ? movie.web_calification :"unknown"}}
-                                                  </span> 
-                                                  / 10 
+                                                  </span>
+                                                  / 10
                                              </span>
                                         </li>
                                    </ul>
                                    <div class="card-footer py-1">
-                                        <p class="card-text text-small fst-italic recent">{{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update ${movie.add_date}` }}</p>
+                                        <p class="card-text text-small fst-italic recent">
+                                             {{checkNewMovies(movie.add_date) ? 'Recently updated' : `Las update
+                                             ${movie.add_date}` }}</p>
                                    </div>
                               </div>
                          </div>
                     </a>
                </div>
                <!-- Not found card container -->
-               <div class="d-flex flex-column justify-content-start h3 text-center gap-3" v-else-if="filteredMovies.length == 0">
+               <div class="d-flex flex-column justify-content-start h3 text-center gap-3"
+                    v-else-if="filteredMovies.length == 0">
                     <span class="text-light fst-italic">There is no movie with taht name</span>
                     <img class="notFoundImg justify-content-center" src="./assets/skull.png" alt="ghost icon">
                     <span class="text-danger">" {{inputValue}} "</span>
@@ -113,8 +157,9 @@
 
           </section>
 
-     <!-- Nav BOTTOM section -->
-          <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary shadow" data-bs-theme="dark">
+          <!-- Nav BOTTOM section -->
+          <nav class="navbar navBottom bg-dark border-top border-top-dark d-sm-none py-3 fixed-bottom text-secondary shadow"
+               data-bs-theme="dark">
                <div class="container-fluid">
                     <div class="d-flex justify-content-evenly gap-3 w-100 align-items-center">
                          <div class="d-flex flex-column align-items-center">
@@ -135,9 +180,14 @@
                          <div class="d-flex flex-column align-items-center">
                               <a class="nav-link" href="./top.html">Top</a>
                          </div>
-                         <i v-if="initializer === false" :class="arrowDirection == false ? 'bi bi-arrow-bar-down text-dark' : 'bi bi-arrow-bar-up text-danger'"  title="Back to the top" @click="moveTo"></i>
+                         <i v-if="initializer === false"
+                              :class="arrowDirection == false ? 'bi bi-arrow-bar-down text-dark' : 'bi bi-arrow-bar-up text-danger'"
+                              title="Back to the top" @click="moveTo"></i>
                          <div v-cloak v-if="initializer === false" class="d-flex gap-3 align-items-center">
-                              <button v-if="initializer === false" class="navbar-toggler p-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                              <button v-if="initializer === false" class="navbar-toggler p-2" type="button"
+                                   data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2"
+                                   aria-controls="navbarSupportedContent2" aria-expanded="false"
+                                   aria-label="Toggle navigation">
                                    <span v-if="initializer === false" class="bi bi-search"></span>
                               </button>
                          </div>
@@ -145,7 +195,8 @@
                     <div class="collapse navbar-collapse mt-4" id="navbarSupportedContent2">
                          <!-- Input Search -->
                          <div v-if="initializer === false" class="d-flex mt-3" role="search">
-                              <input v-if="initializer === false" class="form-control me-2" type="search" placeholder="Search" aria-label="Search" v-model="inputValue">
+                              <input v-if="initializer === false" class="form-control me-2" type="search"
+                                   placeholder="Search" aria-label="Search" v-model="inputValue">
                          </div>
                     </div>
                </div>
