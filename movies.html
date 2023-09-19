@@ -73,13 +73,13 @@
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1 object-fit-cover" :alt="movie.title">
-                              <div class="card-body border-bottom border-bottom-dark">
+                              <div class="card-body border-bottom border-bottom-dark px-3 py-2">
                                    <h6 class="card-title">{{movie.title}}</h6>
-                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
+                                   <h6 class="fw-lighter fst-italic m-0 small"> {{movie.gender}}</h6>
                               </div>
                               <div>
                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
+                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark px-3 py-2">
                                              <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
                                              <span class="d-flex align-items-center"> 
                                                   <span class=" text-danger fw-bold pe-1">
