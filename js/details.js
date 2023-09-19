@@ -32,18 +32,20 @@ createApp({
                     series: this.findMovieGlobalIndex("serie"),
                     books: this.findMovieGlobalIndex("book")
                }
+
+               this.universeStories = this.getStoryUniverse()
+               console.log(this.universeStories);
+     
+               this.relatedStories = this.getStoryGenre()
+               console.log(this.relatedStories);
           })
 
           let params = new URLSearchParams (location.search)
-          // console.log(params);
+          console.log(params);
           this.captureId = params.get("id")
-          // console.log(this.captureId);
+          console.log(this.captureId);
 
-          this.universeStories = this.getStoryUniverse()
-          console.log(this.universeStories);
 
-          this.relatedStories = this.getStoryGenre()
-          console.log(this.relatedStories);
           
      },
 
