@@ -72,54 +72,38 @@
                               v-on:click="preventNullInputText" title="click to search"></i></button>
                </div>
                <h6 class="d-flex flex-column flex-md-row text-light pt-5 gap-3">
-                    <!-- <div v-cloak class="text-center">
-                         <span class="text-danger px-2">{{dataObject.movies}}</span>
-                         <a href="./movies.html">movies,</a>
-                    </div>
-                    <div v-cloak class="text-center">
-                         <span class="text-danger px-2">{{dataObject.series}}</span>
-                         <a href="./series.html">series,</a>
-                    </div>
-                    <div v-cloak class="text-center">
-                         <span class="text-danger px-2">{{dataObject.cortos}}</span>
-                         <a href="./cortos.html">cortos,</a>
-                    </div>
-                    <div v-cloak class="text-center">
-                         <span class="text-danger px-2">{{dataObject.books}}</span>
-                         <a href="./books.html">books.</a>
-                    </div> -->
-                    <button class="Btn">
+                    <a class="Btn" href="./movies.html">
                          <span class="leftContainer">
                               <span class="like">Movies</span>
                          </span>
                          <span class="likeCount">
                               {{dataObject.movies}}
                          </span>
-                    </button>
-                    <button class="Btn">
+                    </a>
+                    <a class="Btn" href="./series.html">
                          <span class="leftContainer">
                               <span class="like">Series</span>
                          </span>
                          <span class="likeCount">
                               {{dataObject.series}}
                          </span>
-                    </button>
-                    <button class="Btn">
+                    </a>
+                    <a class="Btn" href="./cortos.html">
                          <span class="leftContainer">
                               <span class="like">Cortos</span>
                          </span>
                          <span class="likeCount">
                               {{dataObject.cortos}}
                          </span>
-                    </button>
-                    <button class="Btn">
+                    </a>
+                    <a class="Btn" href="./books.html">
                          <span class="leftContainer">
                               <span class="like">Books</span>
                          </span>
                          <span class="likeCount">
                               {{dataObject.books}}
                          </span>
-                    </button>
+                    </a>
                </h6>
           </section>
 
