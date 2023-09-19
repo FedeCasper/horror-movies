@@ -45,6 +45,7 @@ section {
 
 .cover {
      height: 16rem !important;
+     border-radius: 10px;
 }
 
 .returnArrow {
