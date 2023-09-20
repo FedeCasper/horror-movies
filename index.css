@@ -1,4 +1,5 @@
 /* Buttons with amount of stories */
+
 .Btn {
      width: 140px;
      height: 30px;
@@ -12,8 +13,6 @@
      cursor: pointer;
      background-color: transparent;
 }
-
-
 
 .leftContainer {
      width: 60%;
@@ -81,13 +80,13 @@
      cursor: pointer;
      background-color: transparent;
 
-     .leftContainer{
+     .leftContainer {
           background-color: #212529;
           color: #dc3545;
      }
 
      .likeCount {
-          background-color:  #dc3545;
+          background-color: #dc3545;
           color: #212529;
      }
 

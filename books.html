@@ -37,7 +37,7 @@
                data-bs-theme="dark">
                <div class="container-fluid">
                     <a class="navbar-brand text-light fw-bold" href="./index.html">
-                         <img src="./assets/ghost2.png" alt="skull">
+                         <img src="./assets/skull.png" alt="skull">
                          Casper's
                          <span class="text-danger">Horror Movies</span>
                     </a>
@@ -79,15 +79,20 @@
           <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
 
                <div v-cloak v-if="filteredOnlyBooks.length != 0"
-                    :class="filteredOnlyBooks.length == 1 ? 'col-6 col-sm-5 col-lg-3 col-xxl-2 p-1 d-flex align-items-start' : 'col-12 col-sm-5 col-lg-4 col-xxl-4 p-1'"
+                    :class="filteredOnlyBooks.length == 1 ?
+                    'col-6 col-sm-5 col-lg-3 col-xxl-2 p-2 d-flex align-items-start' :
+                    'col-12 col-sm-5 col-lg-4 col-xxl-4 p-2'"
                     v-for="book of filteredOnlyBooks">
                     <a role="button" :href=`./details.html?id=${book.id}` :class="book.details ? 'cardHover' : ''"
                          target="_blank">
 
-                         <div class="card bg-dark mb-3 border-0" style="max-width: 540px;">
+                         <div class="card bg-dark mb-3 border-0 px-0" style="max-width: 540px;">
                               <div class="d-flex">
                                    <div class="col-4">
-                                        <img :src="book.cover ? book.cover : './assets/no-image.png' " class="img-fluid rounded bg-black object-fit-scale h-100 p-1" alt="...">
+                                        <img 
+                                             :src="book.cover ? book.cover : './assets/no-image.png'"
+                                             class="img-fluid rounded bg-black object-fit-scale h-100 p-1"
+                                             alt="...">
                                    </div>
                                    <div class="col-md-8">
                                         <div class="card-body">

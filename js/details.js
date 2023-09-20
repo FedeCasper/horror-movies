@@ -44,8 +44,6 @@ createApp({
           console.log(params);
           this.captureId = params.get("id")
           console.log(this.captureId);
-
-
           
      },
 

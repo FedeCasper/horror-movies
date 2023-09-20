@@ -22,9 +22,7 @@ createApp({
                console.log(data);
                this.movies = data
                console.log(this.movies);
-
                this.dataObject = this.lengthClasificationCalculator();
-
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
           })
           this.Toast = Swal.mixin({
@@ -61,11 +59,12 @@ createApp({
           lengthClasificationCalculator(){
                const noRepeatClasification = [...new Set(this.movies.map(movie => movie.clasification))]
                const arrayOfClasification = noRepeatClasification.map( clasification => this.movies.filter( movie => movie.clasification == clasification) )
+               console.log(arrayOfClasification);
                return {
                     movies: arrayOfClasification[0].length,
-                    series: arrayOfClasification[1].length,
-                    books: arrayOfClasification[2].length,
-                    cortos: arrayOfClasification[3].length
+                    series: arrayOfClasification[2].length,
+                    books: arrayOfClasification[3].length,
+                    cortos: arrayOfClasification[1].length
                }
           }
      },

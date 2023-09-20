@@ -31,7 +31,7 @@
           <nav class="navbar navTop sticky-sm-top navbar-expand-lg bg-dark border-bottom border-bottom-dark d-none d-sm-flex" data-bs-theme="dark">
                <div class="container-fluid">
                     <a class="navbar-brand text-light fw-bold" href="./index.html">
-                         <img src="./assets/ghost2.png" alt="skull">
+                         <img src="./assets/skull.png" alt="skull">
                          Casper's 
                          <span class="text-danger">Horror Movies</span>
                     </a>
@@ -69,17 +69,17 @@
 
           <section class="row justify-content-center pt-4 px-2 w-100 mx-0">
                <!-- Card individual model -->
-               <div v-cloak v-if="filteredOnlySeries.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-1" v-for="movie of filteredOnlySeries">
+               <div v-cloak v-if="filteredOnlySeries.length != 0" class="col-6 col-sm-5 col-lg-3 col-xxl-2 p-2" v-for="movie of filteredOnlySeries">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''" target="_blank">
                          <div class="card h-100">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' " class="card-img-top cover p-1" alt="...">
-                              <div class="card-body border-bottom border-bottom-dark">
+                              <div class="card-body">
                                    <h6 class="card-title">{{movie.title}}</h6>
                                    <h6 class="fw-lighter fst-italic m-0 small"> {{movie.optional_title ? movie.optional_title : "unknown"}}</h6>
                               </div>
                               <div>
                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item d-flex justify-content-between border-bottom border-bottom-dark p-3">
+                                        <li class="list-group-item d-flex justify-content-between p-3">
                                              <span class="d-flex align-items-center">{{movie.year ? movie.year : "unknown"}}</span>
                                              <span class="d-flex align-items-center"> 
                                                   <span class=" text-danger fw-bold pe-1">
