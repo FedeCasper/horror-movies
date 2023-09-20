@@ -30,6 +30,21 @@ a {
      min-height: 100vh;
 }
 
+.card {
+     color: rgb(202, 202, 202);
+     background-color: rgba(41, 41, 41, 0.621);
+     box-shadow:  11px 11px 19px #161616,
+     -11px -11px 19px #1e1e1e;
+     padding: 0 5px;
+}
+
+.list-group-item {
+     color: rgb(202, 202, 202);
+     background-color: rgba(41, 41, 41, 0.621);
+     border-top: 1px solid #4b4b4b5b !important;
+     border-bottom: 1px solid #4b4b4b5b !important;
+}
+
 .navTop {
      min-height: 5vh;
 }
@@ -67,23 +82,6 @@ section {
      min-height: 35vh;
 }
 
-.cardHover {
-     position: relative;
-     transition: all 0.2s ease-in-out;
-}
-
-.cardHover:hover {
-     opacity: 40%;
-     transform: scale(0.8);
-}
-
-.cardHover>div:hover {
-     filter: grayscale(100%) brightness(120%);
-     color: red;
-     font-weight: bolder;
-}
-
 .recent {
      font-size: 9pt;
 }
-

@@ -70,11 +70,11 @@
      <!-- Container section -->
           <section v-if="filteredMovies.length !== 0" class="row justify-content-center pt-4 px-2 w-100 mx-0">
                <!-- Container of Categories section --> 
-               <div  class="list-group-item d-flex flex-column gap-2">
+               <div class="d-flex flex-column gap-2">
                     <div class="w-100 d-flex flex-column" v-for="(object, index) in arrayOfObjectCategories" >
                          <h4 v-cloak class="text-light mb-3"><span  class="fw-bold text-danger me-2">|</span>{{(object[0].gender).toUpperCase()}}</h4>
                          <!-- Container of Cards section --> 
-                         <div class="d-flex overflow-x-auto gap-3 mb-5">
+                         <div class="d-flex overflow-x-auto gap-3 mb-4">
                               <div v-for="movie of object" class="text-light ">
                                    <a :href=`./details.html?id=${movie.id}` class="text-danger">
                                         <img class="object-fit-cover rounded shadow" :src="movie.cover" :alt="movie.title" :title="movie.title" style="height: 15rem;">
