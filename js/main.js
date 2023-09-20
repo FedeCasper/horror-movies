@@ -22,9 +22,7 @@ createApp({
                console.log(data);
                this.movies = data
                console.log(this.movies);
-
                this.dataObject = this.lengthClasificationCalculator();
-
                this.movies.forEach(movie => movie.optional_title == undefined ? movie.optional_title = "no-title" : movie.optional_title)
           })
           this.Toast = Swal.mixin({
