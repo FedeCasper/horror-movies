@@ -33,8 +33,7 @@ a {
 .card {
      color: rgb(202, 202, 202);
      background-color: rgba(53, 53, 53, 0.621);
-     box-shadow:  11px 11px 19px #131313,
-     -11px -11px 19px #191919;
+     box-shadow: 6px 5px 19px #131313, 4px 4px 19px #191919;
      padding: 0 5px;
 }
 
