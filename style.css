@@ -32,15 +32,15 @@ a {
 
 .card {
      color: rgb(202, 202, 202);
-     background-color: rgba(41, 41, 41, 0.621);
-     box-shadow:  11px 11px 19px #161616,
-     -11px -11px 19px #1e1e1e;
+     background-color: rgba(53, 53, 53, 0.621);
+     box-shadow:  11px 11px 19px #131313,
+     -11px -11px 19px #191919;
      padding: 0 5px;
 }
 
 .list-group-item {
      color: rgb(202, 202, 202);
-     background-color: rgba(41, 41, 41, 0.621);
+     background-color: rgba(47, 47, 47, 0.621);
      border-top: 1px solid #4b4b4b5b !important;
      border-bottom: 1px solid #4b4b4b5b !important;
 }

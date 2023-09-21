@@ -158,7 +158,7 @@
       "trailer": "https:\/\/www.youtube.com\/embed\/8KK3E1CiHQQ",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_9_52.jpg",
+      "cover": "https:\/\/i.pinimg.com\/originals\/d2\/f0\/a4\/d2f0a47c04309fbd6b66b93dd6f38142.jpg",
       "sinopsis": "Picking up where the original Nightmare left off, Nancy has grown up and become a psychiatrist specializing in dream therapy. She meets a group of children at a local hospital facing Freddy Krueger, the same demon she once encountered in her sleep. One of them is Kristen, who has the power to draw other people into her dreams. Working with a male doctor assigned to the case, Nancy helps the kids realize their special abilities within the nightmare world. When Freddy captures one of her charges, she leads a rescue attempt into Krueger's domain, in hopes of putting his spirit to rest once and for all.",
       "add_date": "2023-07-10",
       "universe": "Freddy",
@@ -173,7 +173,7 @@
       "trailer": "https:\/\/www.youtube.com\/embed\/QaMf3J0IU0U",
       "clasification": "movie",
       "gender": "slasher",
-      "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_10_90.jpg",
+      "cover": "https:\/\/iblogalot3.files.wordpress.com\/2014\/08\/4.jpg?w=580",
       "sinopsis": "Following up the previous Nightmare film, the dream demon Freddy Krueger is resurrected from his apparent demise, and rapidly tracks down and kills all three of the surviving Elm Street kids. However, Kristen Parker (who has the ability to draw others into her dreams) wills her special ability to her new best friend Alice Johnson before her demise. Afterwards, she soon realizes that Freddy is taking advantage of that unknown power she now wields to pull a new group of teenage children into his foul domain. Can Alice embrace her new power to finally defeat Freddy or is it already too late?",
       "add_date": "2023-07-10",
       "universe": "Freddy",
@@ -537,7 +537,8 @@
       "gender": "mistery",
       "cover": "https:\/\/tv-fanatic-res.cloudinary.com\/iu\/s--rDyamIX4--\/t_full\/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420\/v1641399762\/archive-81-poster-on-netflix.webp",
       "sinopsis": "Archive 81 es una serie de terror sobrenatural basada en el podcast homónimo. La trama sigue a Dan Turner, un archivista de video que acepta un trabajo misterioso para restaurar unas cintas dañadas que documentan un incendio en un edificio de apartamentos en 1994. Mientras trabaja en las cintas, Dan se obsesiona con la historia de Melody Pendras, una joven que vivía en el edificio y que se vio involucrada en una secta oculta. Dan descubre que las cintas contienen secretos oscuros y peligrosos que amenazan su vida y su cordura.",
-      "universe": "None"
+      "universe": "None",
+      "season": 1
      },
      {
       "id": 38,
@@ -1774,7 +1775,8 @@
       "cover": "https:\/\/pics.filmaffinity.com\/El_gabinete_de_curiosidades_de_Guillermo_del_Toro_Serie_de_TV-614447953-large.jpg",
       "sinopsis": "Guillermo del Toro's Netflix horror anthology series \"Cabinet of Curiosities\" (originally titled \"Guillermo del Toro Presents 10 After Midnight\") has added F. Murray Abraham, Ben Barnes, Elpidia Carrillo, Essie Davis, Hannah Galway, Crispin Glover, Demetrius Grosse, David Hewlett, Andrew Lincoln, Tim Blake Nelson, Luke Roberts, Sebastian Roché, Glynn Turman and Peter Weller to its cast. The prolific Academy-Award-winning Mexican filmmaker behind \"Pan's Labyrinth,\" \"Hellboy,\" \"The Shape of Water\" and \"Pacific Rim\" will executive produce, co-showrun and direct the series - described as a curation of eight unprecedented and genre-defining sinister narratives meant to challenge traditional notions of horror, ranging from the macabre to magical, gothic to grotesque or classically creepy. Two of the eight tales are original works by del Toro.",
       "universe": "None",
-      "director": "Cabinet of Curiosities"
+      "director": "Cabinet of Curiosities",
+      "season": 1
      },
      {
       "id": 132,
@@ -2612,7 +2614,8 @@
       "clasification": "serie",
       "gender": "possessions",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3862_15.jpg",
-      "universe": "None"
+      "universe": "None",
+      "season": 1
      },
      {
       "id": 198,
@@ -2665,7 +2668,8 @@
       "gender": "vampires",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/dbs\/foto\/dbs_3841_93.jpg",
       "sinopsis": "The tale of a small, isolated island community whose existing divisions are amplified by the return of a disgraced young man and the arrival of a charismatic priest. When Father Paul's appearance on Crockett Island coincides with unexplained and seemingly miraculous events, a renewed religious fervor takes hold of the community - but do these miracles come at a price?",
-      "universe": "None"
+      "universe": "None",
+      "season": 1
      },
      {
       "id": 202,
@@ -3601,12 +3605,14 @@
       "optional_title": "Montauk",
       "web_calification": 8.12,
       "year": 2016,
-      "trailer": "https:\/\/www.youtube.com\/embed\/-RcPZdihrp4",
+      "trailer": "https:\/\/www.youtube.com\/embed\/b9EkMc79ZSU",
       "clasification": "serie",
       "gender": "science_ficton",
       "cover": "https:\/\/m.media-amazon.com\/images\/I\/A17sLQDQurL.jpg",
       "sinopsis": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
-      "universe": "None"
+      "add_date": "2023-07-08",
+      "universe": "Stranger Things",
+      "season": 1
      },
      {
       "id": 271,
@@ -3956,7 +3962,8 @@
       "clasification": "serie",
       "gender": "possessions",
       "cover": "https:\/\/pics.filmaffinity.com\/The_Exorcist_Serie_de_TV-137148694-large.jpg",
-      "universe": "The Exorcist"
+      "universe": "The Exorcist",
+      "season": 1
      },
      {
       "id": 297,
@@ -4180,7 +4187,8 @@
       "gender": "mistery",
       "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BZGJkMDRiOWUtZTMzZC00YzYzLWI1NDAtODc4ZGFiN2Q2MmJlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
       "sinopsis": "A young woman gets a job as a nanny to care for two young children at a manor. There, she discovers that things there are not as she thought and start to uncover a grim past and she must do all she can to save the ones she loves most before it's too late.",
-      "universe": "None"
+      "universe": "None",
+      "season": 1
      },
      {
       "id": 314,
@@ -4314,7 +4322,8 @@
       "cover": "https:\/\/pics.filmaffinity.com\/The_Last_of_Us_Serie_de_TV-364516053-large.jpg",
       "sinopsis": "20 years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal heartbreaking journey as they both must traverse the U.S. and depend on each other for survival.",
       "universe": "None",
-      "director": "Neil Druckmann - Craig Mazin"
+      "director": "Neil Druckmann - Craig Mazin",
+      "season": 1
      },
      {
       "id": 324,
@@ -5273,7 +5282,7 @@
       "director": "Ti West"
      },
      {
-      "id": 395,
+      "id": 396,
       "title": "American Horror Story: Murder House",
       "optional_title": "American Horror Story: Murder House",
       "web_calification": 8,
@@ -5281,9 +5290,69 @@
       "trailer": "https:\/\/www.youtube.com\/embed\/reP8VFF3KHU",
       "clasification": "serie",
       "gender": "none",
-      "cover": "https:\/\/i.pinimg.com\/originals\/e8\/8a\/88\/e88a88d32393005f8ab573d2c334aa06.jpg",
+      "cover": "https:\/\/fr.web.img6.acsta.net\/pictures\/18\/10\/30\/17\/07\/0996605.jpg",
       "sinopsis": "Physical and psychological horrors affect a decomposing family, workers and residents of an insane asylum, a coven of witches, a cast of circus freaks, the employees and guests at a struggling hotel, a family who moved into a mysterious farmhouse, the members of a small suburb in Michigan, the surviving members of the Apocalypse and the counselors of a creepy summer camp in this haunting anthology series, focusing on the themes of infidelity, sanity, oppression, discrimination, addiction and exploitation.",
       "add_date": "2023-09-19",
-      "universe": "None"
+      "universe": "AHS"
+     },
+     {
+      "id": 397,
+      "title": "Stranger Things",
+      "optional_title": "Montauk",
+      "web_calification": 8.12,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/R1ZXOOLMJ8s",
+      "clasification": "serie",
+      "gender": "science_ficton",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.77839226aaa5840640888ee11e4caacd?rik=FVlJ9ziRoXo4YA&pid=ImgRaw&r=0",
+      "sinopsis": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
+      "add_date": "2023-09-21",
+      "universe": "Stranger Things",
+      "season": 2
+     },
+     {
+      "id": 398,
+      "title": "Stranger Things",
+      "optional_title": "Montauk",
+      "web_calification": 8.12,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Ml8JuxprNv4",
+      "clasification": "serie",
+      "gender": "science_ficton",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.44e700549a0def22b03fa8d55bff0c41?rik=P%2bdw%2f2vH%2bKNq1A&pid=ImgRaw&r=0",
+      "sinopsis": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
+      "add_date": "2023-09-21",
+      "universe": "Stranger Things",
+      "season": 3
+     },
+     {
+      "id": 399,
+      "title": "American Horror Story: Asylum",
+      "optional_title": "American Horror Story: Asylum",
+      "web_calification": 8,
+      "year": 2011,
+      "trailer": "https:\/\/www.youtube.com\/embed\/syiJDMKu3wI",
+      "clasification": "serie",
+      "gender": "none",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.ZKL8tKz0pgIzyvA-9AwMSgHaLH?pid=ImgDet&rs=1",
+      "sinopsis": "\"American Horror Story is giving 'Asylum' to a few intrepid AHS fans. We will test your sanity as you undergo a series of psychological test at the dead of night. The experiments will be conducted at an old asylum in the rural northeast. The Asylum has stood for a long time - it's sordid history relegated to the cemetery in the woods nearby.",
+      "add_date": "2023-09-21",
+      "universe": "AHS",
+      "season": 2
+     },
+     {
+      "id": 400,
+      "title": "Stranger Things",
+      "optional_title": "Montauk",
+      "web_calification": 8.12,
+      "year": 2016,
+      "trailer": "https:\/\/www.youtube.com\/embed\/oB2GYwbIAlM",
+      "clasification": "serie",
+      "gender": "science_ficton",
+      "cover": "https:\/\/i.pinimg.com\/originals\/80\/34\/2b\/80342b51dd3f3b507df3aed04bcc7e2d.jpg",
+      "sinopsis": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
+      "add_date": "2023-09-21",
+      "universe": "Stranger Things",
+      "season": 4
      }
     ]

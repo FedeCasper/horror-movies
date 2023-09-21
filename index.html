@@ -118,7 +118,7 @@
                     v-for="movie of filteredMovies">
                     <a role="button" :href=`./details.html?id=${movie.id}` :class="movie.details ? 'cardHover' : ''"
                          target="_blank">
-                         <div class="card h-100">
+                         <div class="card h-100 pt-1">
                               <img :src="movie.cover ? movie.cover : './assets/no-image.png' "
                                    class="card-img-top cover p-1 object-fit-cover" alt="...">
                               <div class="card-body border-bottom border-bottom-dark">
