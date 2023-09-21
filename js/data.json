@@ -3957,7 +3957,7 @@
       "title": "The Exorcist ",
       "optional_title": "El Exorcista",
       "web_calification": 7.74,
-      "year": "2016 - 2018",
+      "year": 2016,
       "trailer": "https:\/\/www.youtube.com\/embed\/9wj62u817FA",
       "clasification": "serie",
       "gender": "possessions",
@@ -4201,7 +4201,8 @@
       "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/La_maldiciaon_de_Hill_House_Serie_de_TV-172762742-large.jpg",
       "sinopsis": "Explores a group of siblings who, as children, grew up in what would go on to become the most famous haunted house in the country. Now adults, and forced back together in the face of tragedy, the family must finally confront the ghosts of their past, some of which still lurk in their minds while others might actually be stalking the shadows of Hill House.",
-      "universe": "None"
+      "universe": "None",
+      "season": 1
      },
      {
       "id": 315,
@@ -5293,7 +5294,8 @@
       "cover": "https:\/\/fr.web.img6.acsta.net\/pictures\/18\/10\/30\/17\/07\/0996605.jpg",
       "sinopsis": "Physical and psychological horrors affect a decomposing family, workers and residents of an insane asylum, a coven of witches, a cast of circus freaks, the employees and guests at a struggling hotel, a family who moved into a mysterious farmhouse, the members of a small suburb in Michigan, the surviving members of the Apocalypse and the counselors of a creepy summer camp in this haunting anthology series, focusing on the themes of infidelity, sanity, oppression, discrimination, addiction and exploitation.",
       "add_date": "2023-09-19",
-      "universe": "AHS"
+      "universe": "AHS",
+      "season": 1
      },
      {
       "id": 397,
@@ -5354,5 +5356,18 @@
       "add_date": "2023-09-21",
       "universe": "Stranger Things",
       "season": 4
+     },
+     {
+      "id": 296,
+      "title": "The Exorcist ",
+      "optional_title": "El Exorcista",
+      "web_calification": 7.74,
+      "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/XCKLGUJwEww",
+      "clasification": "serie",
+      "gender": "possessions",
+      "cover": "https:\/\/th.bing.com\/th\/id\/R.475997c217cff68efc9768aee84bdb03?rik=CuAvEuDz9TZjRw&riu=http%3a%2f%2fwww.hollywoodchicago.com%2fsites%2fdefault%2ffiles%2ftheexorcist.jpg&ehk=IzsFCtYzuLwpZ2aCnLTbSKERKLHgr%2bLkkje1m3nppNs%3d&risl=&pid=ImgRaw&r=0",
+      "universe": "The Exorcist",
+      "season": 2
      }
     ]
