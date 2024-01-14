@@ -5045,7 +5045,7 @@
       "gender": "found_footage",
       "cover": "https:\/\/www.themoviedb.org\/t\/p\/original\/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
       "sinopsis": "This is an anthology of horror episodes that are tied together with one main story. It's about a group of guys who go round filming their crimes on tape. They are hired to do a \"job\" for an unknown accomplice. They have to break in to a house and steal a V\/H\/S tape with something on it, but they aren't told what it is. While in the said house they find way more than just one tape, so they grab as many as they can and they start watching them while in the house. But what they see on these tapes is more than they can handle, and it's also hard to believe. But will it cost them more than they bargained for?",
-      "universe": "None"
+      "universe": "VHS"
      },
      {
       "id": 379,
@@ -5058,7 +5058,7 @@
       "gender": "found_footage",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.9bjNmWxajyTHX8-hmuon2AAAAA?pid=ImgDet&rs=1",
       "sinopsis": "Continuing the saga of POV madness, dread, and gore documented in V\/H\/S (2012), this new found-footage horror anthology delves deeper into terrifying uncharted territories. Starting with \"Tape 49\", a team of private investigators breaks into the house of a missing student, only to discover a mountain of VHS tapes brimming with disturbing raw footage. Then, in \"Phase I Clinical Trials\", a state-of-the-art optical implant bestows poor Herman with unwanted supernatural-detecting abilities, and in \"A Ride in the Park\", an extreme biking enthusiast finds himself confronted with an all-out zombie apocalypse. Next, in \"Safe Haven\", a four-member film crew infiltrates a secret Indonesian cult and unearths horrific, reality-defying revelations. Finally, in \"Slumber Party Alien Abduction\", a sleepover at a lakeside house goes awry when malevolent extraterrestrials crash the party.",
-      "universe": "None"
+      "universe": "VHS"
      },
      {
       "id": 380,
@@ -5382,6 +5382,7 @@
       "cover": "https:\/\/dx35vtwkllhj9.cloudfront.net\/ifcfilms\/skinamarink\/images\/regions\/us\/updates\/onesheet.jpg",
       "sinopsis": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished. To cope with the strange situation, the two bring pillows and blankets to the living room and settle into a quiet slumber party. They play well worn videotapes of cartoons to fill the silence of the house and distract from the frightening and inexplicable situation. All the while in the hopes that eventually some grown-ups will come to rescue them. However, after a while it becomes clear that something is watching over them.",
       "add_date": "2024-01-14",
+      "universe": "None",
       "director": "Kyle Edward Ball"
      },
      {
@@ -5396,6 +5397,7 @@
       "cover": "https:\/\/th.bing.com\/th\/id\/R.52a1cd43aaec43890d2689872664781c?rik=vsDh4Obx559itQ&pid=ImgRaw&r=0",
       "sinopsis": "While staying at an isolated island resort, James (Alexander Skarsgård) and Em (Cleopatra Coleman) are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi (Mia Goth), they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror.",
       "add_date": "2024-01-14",
+      "universe": "None",
       "director": "Brandon Cronenberg"
      },
      {
@@ -5410,6 +5412,37 @@
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.OPxaGgKbn0ernHDCzE7qFwHaLH?rs=1&pid=ImgDetMain",
       "sinopsis": "An incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.",
       "add_date": "2024-01-14",
+      "universe": "None",
       "director": "Zu Quirke"
+     },
+     {
+      "id": 405,
+      "title": "V\/H\/S\/94",
+      "optional_title": "V\/H\/S\/94 \/ Las Crónicas del Miedo 4",
+      "web_calification": 5.5,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/opnSln8Ue2U",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.4JXWobfxTz8JX5RjPneTaAHaKz?rs=1&pid=ImgDetMain",
+      "sinopsis": "Five new chapters expand the VHS saga, featuring a new set of horror filmmakers. Starting with \"Holy Hell\", an armed-to-the-teeth SWAT team storms into a dilapidated warehouse complex and unearths disturbing scenes of sacrifice and the evildoing of an underground snuff\/fetish film cult. Then, in \"Storm Drain\", intrigued by an urban legend, an ambitious TV news reporter and her cameraman enter the city's labyrinthine sewer system looking for a mysterious creature living in the shadows. Next, in \"The Empty Wake\", a young funeral home attendant oversees an overnight wake for a man who met a horrible end, and strange things happen. Following, in \"The Subject\", a demented prosthetics genius performing unethical experiments on living tissue attempts to perfect his biomechanical magnum opus. Finally, in \"Terror\", members of the First Patriots Movement Militia plan to carry out a terrorist attack in Detroit, Michigan, using an incendiary secret weapon of pure evil.",
+      "add_date": "2024-01-14",
+      "universe": "VHS",
+      "director": "Simon Barrett - Steven Kostanski - Chloe Okuno"
+     },
+     {
+      "id": 406,
+      "title": "Underwater",
+      "optional_title": "Amenaza en lo Profundo",
+      "web_calification": 5.9,
+      "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/jCFWEzIVILc",
+      "clasification": "movie",
+      "gender": "sci-fi",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.jAFEH36xrDDDXESCG5_SCAHaK9?rs=1&pid=ImgDetMain",
+      "sinopsis": "An unknown, massive earthquake happens in a drilling station in the bottom of the Marianna Trench. A scientific crew must find their way across the ocean floor into another station under the threats of deep pressure, dark water, dangerous deep-sea creatures, and a constant lack of oxygen.",
+      "add_date": "2024-01-14",
+      "universe": "None",
+      "director": "William Eubank"
      }
     ]
