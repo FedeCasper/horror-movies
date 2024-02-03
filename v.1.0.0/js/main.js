@@ -37,11 +37,6 @@ createApp({
                }
           })
 
-          fetch("https://mindhub-xj03.onrender.com/api/petshop")
-          .then(res => res.json())
-          .then(data => {
-               console.log(data);
-          })
      },
 
      methods: {
