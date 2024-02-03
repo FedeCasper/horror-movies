@@ -8,7 +8,7 @@ const Layout = () => {
          <header className="bg-red-100-800 p-4">
             <Navbar />
          </header>
-         <main className="bg-stone-200 p-4 grow">
+         <main className="bg-neutral-800 grow">
             <Outlet />
          </main>
          <footer className="bg-blue-300 p-4 h-[10vh]">footer</footer>

@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import CompleteCatalogScreen from "../pages/CompleteCatalogScreen/CompleteCatalogScreen.jsx";
+import FullCatalogScreen from "../pages/FullCatalogScreen/FullCatalogScreen.jsx";
 import MoviesScreen from "../pages/MoviesScreen/MoviesScreen.jsx";
 import SeriesScreen from "../pages/SeriesScreen/SeriesScreen.jsx";
 import BookScreen from "../pages/BooksScreen/BookScreen.jsx";
@@ -15,7 +15,7 @@ const router = createBrowserRouter(
          children: [
             {
                path: "/",
-               element: <CompleteCatalogScreen />
+               element: <FullCatalogScreen />
             },
             {
                path: "/movies",
