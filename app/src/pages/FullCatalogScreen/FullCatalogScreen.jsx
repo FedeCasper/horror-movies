@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import FullCatalogCover from '../../components/FullCatalogCover/FullCatalogCover'
 import FullCatalogCoverContainer from '../../components/FullCatalogCoverContainer/FullCatalogCoverContainer'
+import SectionHeader from '../../components/SectionHeader/SectionHeader'
 
 const FullCatalogScreen = () => {
 
@@ -44,14 +45,7 @@ const FullCatalogScreen = () => {
   return (
     <section>
 
-      <header
-        className="w-full bg-neutral-800 border-b-2 border-b-red-700 p-3 flex items-center justify-between sticky">
-        <div className="flex items-center">
-          <img src="src/assets/ghost2.png" alt="skull" />
-          <h4 className="m-0 text-red-700 ps-2">Complete Catalog</h4>
-        </div>
-        <div className="text-white">Found xxx stories!</div>
-      </header>
+      <SectionHeader title="Full Catalog" />
       
       {
         Object.keys(arrayOfCategories).map( (category, index) => {

@@ -4,9 +4,9 @@ import { Routes, Route, Outlet } from 'react-router-dom'
 
 const Layout = () => {
    return (
-      <div className="flex flex-col w-full h-[100vh]">
-         <header className="bg-red-100-800 p-4">
-            <Navbar />
+      <div className="relative flex flex-col w-full h-[100vh]">
+         <Navbar />
+         <header className="shadow-md border-b-2 border-b-indigo-950">
          </header>
          <main className="bg-neutral-800 grow">
             <Outlet />
