@@ -247,6 +247,7 @@
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/17Nc08TiVQo",
       "clasification": "movie",
+      "gender": "suspense",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_42042_4.jpg",
       "sinopsis": "Mudanza mortal es una película de terror y suspense que se estrenó en Netflix en 2021. La trama sigue a una pareja que se muda a una casa donde ocurrió un crimen pasional. Pronto empiezan a sufrir fenómenos extraños que ponen en peligro su relación y sus vidas. La película está basada en hechos reales y explora temas como la infidelidad, el perdón y el abuso doméstico.",
       "add_date": "2023-07-08",
@@ -668,6 +669,7 @@
       "year": 2001,
       "trailer": "https:\/\/www.youtube.com\/embed\/tmnAVbpbLIA",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.7a888e5f6f1260ef6a3de877782a2e4a?rik=ciWUmEwpvGFPcg&riu=http%3a%2f%2fes.web.img3.acsta.net%2fr_1280_720%2fmedias%2fnmedia%2f18%2f90%2f03%2f58%2f20077987.jpg&ehk=DX1fgo%2fuOxR5N73oSogV%2bAv9KCUsWrUjpG0v8aQfVEo%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "The time is 1979. Jimmy Bones is respected and loved as the neighborhood protector. When he is betrayed and brutally murdered by a corrupt cop, Bones' elegant brownstone becomes his tomb, Twenty-two years later, the neighborhood has become a ghetto, and his home has turned into a Gothic ruin. Four teens renovate it as an after hours nightclub, unknowingly releasing Jimmy's tortured spirit. Its thrills and chills when blood spills when Jimmy's ghost sets about its frightful revenge, his killers unaware of the gruesome fate that awaits them. With each new victim, the terror mounts, and Bones' vengeance spins out of control, threatening everyone in his path, including his former lover, Pearl. Get ready for Bones!!!",
       "universe": "None",
@@ -707,6 +709,7 @@
       "year": 2007,
       "trailer": "https:\/\/www.youtube.com\/embed\/YUPVvPlzqbE",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/pics.filmaffinity.com\/buried_alive-925257683-large.jpg",
       "sinopsis": "Tobin Bell (Saw) stars in this terrifying story about a group of lustful college friends on a road trip to a remote desert cabin. As a night of extreme truth-or-dare and wild partying gives way to sheer fright. Directed by legendary make-up effects wizard Robert Kurtzman of From Dusk Till Dawn fame, Buried Alive is a chilling, retro fright-fest packed with sex, shocks and supernatural horror.",
       "universe": "None"
@@ -841,6 +844,7 @@
       "year": 2009,
       "trailer": "https:\/\/www.youtube.com\/embed\/sv9lOK0kc9I",
       "clasification": "movie",
+      "gender": "slasher",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.1c1ecbdbb5d59aa0c87ffadab1a99f3a?rik=Sm3ifeWsPpI12A&riu=http%3a%2f%2f2.bp.blogspot.com%2f-Avv18aamIo4%2fUlHxjDadbjI%2fAAAAAAAAMis%2fsnuWsgl3JuE%2fs1600%2fchildren-of-the-corn-2009-poster.png&ehk=3KAhbE6QfZixSl9CwKnBa2SlGIIdIKZuZsMioCD4Zuc%3d&risl=&pid=ImgRaw&r=0",
       "sinopsis": "Children of the Corn is a 2020 American supernatural slasher film directed by Kurt Wimmer. The movie is about a psychopathic twelve-year-old girl in a small town in Nebraska who recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won’t go along with the plan is the town’s only hope of survival",
       "universe": "None",
@@ -854,7 +858,7 @@
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/5dTuL8clUHs",
       "clasification": "movie",
-      "gender": "none",
+      "gender": "psicologic",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_33840_13.jpg",
       "sinopsis": "Clinical is a 2017 American horror film directed by Alistair Legrand. The movie stars Vinessa Shaw, Kevin Rahm, India Eisley, and Aaron Stanford. The plot follows Dr. Jane Mathis who is a psychiatrist and an expert at confrontational therapy. Two years prior, she had a patient, Nora Green, who attacked her and attempted suicide in her office. As a result, Dr. Mathis developed PTSD and sleep paralysis, which led her to seek help from Dr. Terry Drummond. She is then assigned to treat Alex, a patient who was horribly disfigured in an accident.",
       "universe": "None"
@@ -881,6 +885,7 @@
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/PNtZu-3di38",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_16088_100.jpg",
       "sinopsis": "Clown is a 2014 American horror movie directed by Jon Watts. The movie stars Andy Powers, Laura Allen, and Peter Stormare. The plot follows a loving father who dons a clown outfit and makeup to perform at his son’s sixth birthday, only to later discover that the costume - red nose and wig included- will not come off and his own personality changes in a horrific fashion.",
       "universe": "None",
@@ -908,8 +913,9 @@
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/D-BwFr3luqg",
       "clasification": "movie",
+      "gender": "suspense",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_39237_94.jpg",
-      "sinopsis": "Countdown is a 2019 American supernatural horror film directed and written by Justin Dec. The movie stars Elizabeth Lail, Jordan Calloway, Talitha Bateman, Tichina Arnold, P.J. Byrne, Peter Facinelli, Anne Winters, and Tom Segura. The plot follows a group of people who discover a mobile app that correctly tells its users when they are going to die. The app tells them they have only three days left to live. ",
+      "sinopsis": "At a teenage party, a group of friends download the app Countdown that predicts when the user will die. Courtney sees that she has just a couple of hours to live and does not accept a ride with her drunken boyfriend Evan. She walks home but is killed by a supernatural creature when the timer in her cellphone reaches zero. At the same time she dies, Evan crashes his car and he goes to a hospital where nurse Quinn Harris works. Evan discloses that he is afraid to go into surgery since the app Countdown predicts that he will die at the same time of the surgery. The doctors and nurses of the hospital decide to download the app and Quinn learns that she has only three days of life. When Evan mysterious dies in an accident at the hospital, Quinn buys a new cellphone and finds that the app is also installed. When she meets Matt Monroe in the store's parking lot, she learns that his death is predicted for a couple of hours before hers and they team up to look for a way to break the curse.",
       "universe": "None"
      },
      {
@@ -920,9 +926,11 @@
       "year": 2004,
       "trailer": "https:\/\/www.youtube.com\/embed\/ioFvsUtiON8",
       "clasification": "movie",
+      "gender": "mistery",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_2152_34.jpg",
       "sinopsis": "Creep is a 2014 American found footage psychological horror film directed by Patrick Brice. The movie stars Mark Duplass and Brice. The plot follows a videographer who answers a Craigslist ad placed by a man who wants to make a film about himself. The man has terminal brain cancer and wants to leave a video behind for his unborn son. The videographer travels to the man’s cabin in the woods where he discovers that the man is not what he seems.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Christopher Smith"
      },
      {
       "id": 67,
@@ -1000,6 +1008,7 @@
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/K8iLp1xQtPQ",
       "clasification": "movie",
+      "gender": "aliens",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_21991_76.jpg",
       "sinopsis": "Dark Skies is a 2013 American science fiction horror film written and directed by Scott Stewart, produced by Jason Blum under his Blumhouse Productions banner, and starring Keri Russell, Josh Hamilton, Dakota Goyo and J. K. Simmons. The plot follows the Barrett family living in the suburbs as they witness an escalating series of disturbing events involving their family. They come to learn that a terrifying and deadly force is after them, one which may have arrived from beyond the stars.",
       "universe": "None"
@@ -1054,9 +1063,11 @@
       "year": 2017,
       "trailer": "https:\/\/www.youtube.com\/embed\/u2GX_z65k-s",
       "clasification": "movie",
+      "gender": "fantasy",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_11857_78.jpg",
       "sinopsis": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die. Intoxicated with his new godlike abilities, the young man begins to kill those he deems unworthy of life.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Adam Wingard"
      },
      {
       "id": 77,
@@ -1068,7 +1079,8 @@
       "clasification": "movie",
       "cover": "https:\/\/th.bing.com\/th\/id\/OIP.AD9nVu0djtfraLQ0OxmVlAHaKf?pid=ImgDet&rs=1",
       "sinopsis": "In 1917, in the Western front, a group of survivors of the British Company Y reach the most forward German trench in a foggy night. They capture a German soldier that advises that evil is in the trench, forcing the soldiers to kill each other, and asks them to leave the place. Only the private Charlie Shakespeare listens and helps the prisoner, while a supernatural force scares and makes the soldiers insane.",
-      "universe": "None"
+      "universe": "None",
+      "director": "M.J. Bassett"
      },
      {
       "id": 78,
@@ -1182,9 +1194,11 @@
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/M1JL4xhF_k8",
       "clasification": "movie",
+      "gender": "fantasy",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_20221_67.jpg",
       "sinopsis": "On highways across America, a tribe of people called The True Knot travel in search of sustenance. They look harmless: mostly old, lots of polyester, and married to their RVs. But as Dan Torrance knows, and tween Abra Stone learns, The True Knot are quasi-immortal, living off the \"steam\" that children with the \"shining\" produce when they are slowly tortured to death. Haunted by the inhabitants of the Overlook Hotel where he spent one horrific childhood year, Dan has been drifting for decades, desperate to shed his father's legacy of despair, alcoholism, and violence. Finally, he settles in a New Hampshire town, an AA community that sustains him, and a job at a nursing home where his remnant \"shining\" power provides the crucial final comfort to the dying. Aided by a prescient cat, he becomes \"Doctor Sleep.\" Then Dan meets the evanescent Abra Stone, and her spectacular gift, the brightest shining ever seen, reignites Dan's own demons and summons him to a battle for Abra's soul and survival.",
-      "universe": "None"
+      "universe": "None",
+      "director": "Mike Flanagan"
      },
      {
       "id": 87,
@@ -1348,8 +1362,11 @@
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/efJDWQtUhk8",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/th.bing.com\/th\/id\/R.fbd74e1dfe2725af858124f4993ff201?rik=GQhGCqqO8QQl0Q&pid=ImgRaw&r=0",
-      "universe": "None"
+      "sinopsis": "A young boy named Eli Miller suffers from a rare autoimmune disease that causes severe allergic reactions to the outdoors. His parents take him to a secluded medical facility run by Dr. Isabella Horn. Initially relieved to remove his protective gear, Eli soon experiences supernatural phenomena within the house. As he investigates, he discovers dark secrets, including a hidden room with religious symbols.",
+      "universe": "None",
+      "director": "Ciarán Foy"
      },
      {
       "id": 100,
@@ -2391,6 +2408,7 @@
       "year": 2015,
       "trailer": "https:\/\/www.youtube.com\/embed\/jz3X2h_5pPo",
       "clasification": "movie",
+      "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_31464_89.jpg",
       "sinopsis": "A skeptical psychologist returns to the stage where a collective tragedy took place when playing the ouija and her mother was involved. She and her son Julio will be involved in strange events taking starring an ancient ouija board and a band of sinister individuals who are determined to do anything to preserve the precious treasure, which will emerge one of the most powerful evil force.",
       "universe": "None"
@@ -2509,8 +2527,8 @@
      },
      {
       "id": 189,
-      "title": "Legado en los Huesos",
-      "optional_title": "The Legacy of the Bones",
+      "title": "The Legacy of the Bones ",
+      "optional_title": "Legado en los huesos",
       "web_calification": 6.46,
       "year": 2019,
       "trailer": "https:\/\/www.youtube.com\/embed\/jFdiGLktDME",
@@ -2705,8 +2723,11 @@
       "year": 2013,
       "trailer": "https:\/\/www.youtube.com\/embed\/tuLJrNqhlPc",
       "clasification": "movie",
+      "gender": "mistery",
       "cover": "https:\/\/fwcdn.pl\/fpo\/99\/95\/709995\/7706065.3.jpg",
-      "universe": "None"
+      "sinopsis": "While visiting her father in Italy, an American teenager (Daisy Keeping) encounters ancient Etruscan spirits, who ask her to help return their stolen artifacts.",
+      "universe": "None",
+      "director": "Riccardo Paoletti"
      },
      {
       "id": 205,
@@ -2718,6 +2739,7 @@
       "clasification": "movie",
       "gender": "paranormal",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_19860_93.jpg",
+      "sinopsis": "A pastor (James Tupper) his wife (Anne Heche) and their daughters encounter malevolent forces in a small Kansas town.",
       "universe": "None",
       "director": "Anthony Leonardi III"
      },
@@ -2729,6 +2751,7 @@
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/PaN0PV85URA",
       "clasification": "movie",
+      "gender": "horror",
       "cover": "https:\/\/s3-eu-west-1.amazonaws.com\/abandomedia\/db\/foto\/db_22215_74.jpg",
       "sinopsis": "The 21-year-old Timothy \"Tim\" Allen Russell is discharged from a mental institution by his psychiatrist, Dr. Shawn Graham, completely healed from a childhood trauma where his father purportedly tortured and killed his mother before being killed himself by Tim. His sister Kaylie welcomes him in the parking area and brings him home. Then she tells that they need to destroy an ancient mirror that she has found through working at an auction house. She then steals the mirror and the reluctant Tim follows his sister and has fragmented recollections from their childhood, going back to when his father Alan buys a mirror for the home office of their new family home. Kaylie and Tim see a woman with their father in his office and the behaviors of Alan and Marie change, ending in a family tragedy. Kaylie blames the mirror and now she wants to destroy it with Tim. Will they succeed?",
       "universe": "None",
@@ -2737,6 +2760,7 @@
      {
       "id": 207,
       "title": "Ouija",
+      "optional_title": "Ouija",
       "web_calification": 5.27,
       "year": 2014,
       "trailer": "https:\/\/www.youtube.com\/embed\/YopomjfMIEg",
@@ -3882,6 +3906,7 @@
       "year": 2021,
       "trailer": "https:\/\/www.youtube.com\/embed\/BeU_TQH-bCA",
       "clasification": "movie",
+      "gender": "anthology",
       "cover": "https:\/\/www.lavanguardia.com\/peliculas-series\/images\/movie\/poster\/2021\/12\/w1280\/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg",
       "sinopsis": "A young nurse begins her shift at an old city hospital. After a strange apparition, one of the oldest nurses tells her that a patient, Mr. Moore, entered the hospital a few years ago, with his body completely burned after a fire. Mr. Moore was operated on urgently by the doctors, but no one wanted to assist him. The pain and drugs had driven him mad - One night one of the nurses went to his room but his bed was empty. Nothing was heard from him anymore. A bell interrupts the story. The call comes from Mr. Moore's room.",
       "universe": "None",
@@ -4469,7 +4494,7 @@
      },
      {
       "id": 335,
-      "title": "The Orphan",
+      "title": "Orphan",
       "optional_title": "La Huérfana",
       "web_calification": 7.57,
       "year": 2009,
@@ -4641,6 +4666,7 @@
       "trailer": "https:\/\/www.youtube.com\/embed\/BpuHvtZjOBM",
       "clasification": "movie",
       "cover": "https:\/\/www.horrormovietalk.com\/wp-content\/uploads\/2019\/05\/The-Ruins-Movie-Poster.jpg",
+      "sinopsis": "Amy (Jena Malone), Stacy (Laura Ramsey), Jeff (Jonathan Tucker) and Eric (Shawn Ashmore) look for fun during a sunny holiday in Mexico, but they get much more than that after visiting an archaeological dig in the jungle. Carnivorous vines try to ensnare the friends in their tendrils, forcing the group to fight for survival.",
       "universe": "None"
      },
      {
@@ -5639,5 +5665,164 @@
       "add_date": "2024-01-30",
       "universe": "None",
       "director": "Lorcan Finnegan"
+     },
+     {
+      "id": 420,
+      "title": "Jeepers Creepers 4: Reborn",
+      "web_calification": 2.5,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/eNH2bRZ6gJw",
+      "clasification": "movie",
+      "gender": "b_serie",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.1y0EHTMPONJyqig2ssCxrgHaK9?rs=1&pid=ImgDetMain",
+      "sinopsis": "The film unfolds as the Horror Hound festival holds its first ever event in Louisiana, where it attracts hundreds of geeks, freaks and die-hard horror fans from far and wide. Among them is fanboy Chase and his girlfriend Laine, who is forced to come along for the ride. But as the event approaches, Laine begins to experience unexplained premonitions and disturbing visions associated with the town's past, and in particular, local legend\/urban myth The Creeper. As the festival arrives and the blood-soaked entertainment builds to a frenzy, Laine believes that something unearthly has been summoned and that she is at the center of it.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Timo Vuorensola"
+     },
+     {
+      "id": 421,
+      "title": "Hermana Muerte",
+      "optional_title": "Sister Death",
+      "web_calification": 5.7,
+      "year": 2023,
+      "trailer": "https:\/\/www.youtube.com\/embed\/84dvmHWpxxE",
+      "clasification": "movie",
+      "gender": "mistery",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.aEumNYvJA-IFn7fHXErwBwHaK6?rs=1&pid=ImgDetMain",
+      "sinopsis": "In post-war Spain, Narcisa (Aria Bedmar), a young novice with supernatural powers, arrives at a former convent, now a school for girls, to become a teacher. As the days go by, the strange events and increasingly disturbing situations that torment her will eventually lead her to unravel the terrible skein of secrets that surround the convent and haunt its inhabitants.",
+      "add_date": "2024-03-02",
+      "universe": "Veronica",
+      "director": "Paco Plaza"
+     },
+     {
+      "id": 422,
+      "title": "La Abuela",
+      "optional_title": "The Grandmother",
+      "web_calification": 5.9,
+      "year": 2021,
+      "trailer": "https:\/\/www.youtube.com\/embed\/NE6YrUzcKeA",
+      "clasification": "movie",
+      "gender": "drama",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.GGYeTsswhYfJM6iS-cl4fgHaK5?rs=1&pid=ImgDetMain",
+      "sinopsis": "A Paris model must return to Madrid where her grandmother, who had brought her up, just had a stroke. But spending just a few days with this relative turns into an unexpected nightmare.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Paco Plaza"
+     },
+     {
+      "id": 423,
+      "title": "Isabelle",
+      "web_calification": 4.2,
+      "year": 2018,
+      "trailer": "https:\/\/www.youtube.com\/embed\/0Mn70Xcvk0I",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.nPmK9YQg5QxQI8ZvRnmJ2wHaK_?w=550&h=816&rs=1&pid=ImgDetMain",
+      "sinopsis": "A young couple's dream of starting a family shatters as they descend into the depths of paranoia and must struggle to survive an evil presence that wants nothing more than their very own lives.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Robert Heydon"
+     },
+     {
+      "id": 424,
+      "title": "The Bye Bye Man",
+      "optional_title": "Nunca Digas Su Nombre",
+      "web_calification": 4.3,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/S2DwrJ9S3f4",
+      "clasification": "movie",
+      "gender": "paranormal",
+      "cover": "https:\/\/th.bing.com\/th\/id\/OIP.zNKWZnMIs-q-HJJthG48fQHaJ4?rs=1&pid=ImgDetMain",
+      "sinopsis": "When three college students move into an old house off campus, they unwittingly unleash a supernatural entity known as The Bye Bye Man, who comes to prey upon them once they discover its name. The friends must try to save each other, all the while keeping The Bye Bye Man's existence a secret to save others from the same deadly fate.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Stacy Title"
+     },
+     {
+      "id": 425,
+      "title": "The Rejected",
+      "web_calification": 3.7,
+      "year": 2017,
+      "trailer": "https:\/\/www.youtube.com\/embed\/pScxxjYz71o",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/canvas-bridge02.tubitv.com\/9WYRU1k5b9pazgVKlnBtwCligUo=\/400x574\/smart\/img.adrise.tv\/5b669745-a093-4031-bde5-560e8b9de402.jpg",
+      "sinopsis": "Recovered footage documenting a UFO sighting and possible abduction. This found footage film will test even those with the most open-minded beliefs. Is \"The Rejected\" actual proof of aliens on Earth or is this an elaborate hoax? We let you decide.",
+      "add_date": "2024-03-02",
+      "universe": "None"
+     },
+     {
+      "id": 426,
+      "title": "Black Box",
+      "web_calification": 6.2,
+      "year": 2020,
+      "trailer": "https:\/\/www.youtube.com\/embed\/Rkpv7tcZLaI",
+      "clasification": "movie",
+      "gender": "psicologic",
+      "cover": "https:\/\/bloghorror.com\/wp-content\/uploads\/2020\/10\/black-box-pelicula-de-terror-2020_3.jpg",
+      "sinopsis": "\"Black Box\" is about a man struggling to regain his memory after surviving a tragic car accident. Desperate to return to his former self while trying to raise his daughter, he receives an experimental treatment that helps him probe into a past which suddenly feels too dark to be his own.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Emmanuel Osei-Kuffour"
+     },
+     {
+      "id": 427,
+      "title": "Devil's Pass",
+      "optional_title": "El Paso del Diablo",
+      "web_calification": 5.7,
+      "year": 2013,
+      "trailer": "https:\/\/www.youtube.com\/embed\/CrkvuW5Mw4s",
+      "clasification": "movie",
+      "gender": "found_footage",
+      "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMjMzOTMxMTA3N15BMl5BanBnXkFtZTgwNDg4MDAwMDE@._V1_.jpg",
+      "sinopsis": "In the University of Oregon, the student Holly King is awarded with her research about the fate of nine Russian hikers known as The Dyatlov Pass Incident that mysteriously died in the Ural Mountains in Russia in 1959. She decides to make a movie following the steps of Dyatlov and his team and she invites the filmmaker Jenson Day; the audio technician Denise Evers; and the experienced guides JP Hauser Jr. and Andy Thatcher. They travel to Russia expecting to find the truth about the unsolved mystery; but they find death instead.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Renny Harlin"
+     },
+     {
+      "id": 428,
+      "title": "Orphan: First Kil",
+      "optional_title": "La Huérfana: El Origen",
+      "web_calification": 5.9,
+      "year": 2022,
+      "trailer": "https:\/\/www.youtube.com\/embed\/_uX6of3vBu0",
+      "clasification": "movie",
+      "gender": "thriller",
+      "cover": "https:\/\/www.filmofilia.com\/wp-content\/uploads\/2022\/07\/orphan-first-kill-poster-and-trailer-0_thumbnail.jpg",
+      "sinopsis": "Esther's terrifying saga continues in this thrilling prequel to the original and shocking horror hit, Orphan. After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family from the murderous \"child\" at any cost.",
+      "add_date": "2024-03-02",
+      "universe": "Orphan",
+      "director": "William Brent Bell"
+     },
+     {
+      "id": 429,
+      "title": "Suspiria",
+      "web_calification": 7.3,
+      "year": 1977,
+      "trailer": "https:\/\/www.youtube.com\/embed\/hPs2ExUL_bc",
+      "clasification": "movie",
+      "gender": "witches",
+      "cover": "https:\/\/i.pinimg.com\/736x\/56\/66\/c4\/5666c4e28bb038001d9a3e0ddb646e34.jpg",
+      "sinopsis": "Suzy Bannion travels to Germany to perfect her ballet skills. She arrives at the Tanz dance academy in the pouring rain and is refused admission after another woman is seen fleeing the school. She returns the next morning and this time is let in. She learns that the young woman she saw fleeing the previous evening, Pat Hingle, has been found dead. Strange things soon begin to occur. Suzy becomes ill and is put on a special diet; the school becomes infested with maggots; odd sounds abound; and Daniel, the pianist, is killed by his own dog. A bit of research indicates that the ballet school was once a witches' coven - and as Suzy learns, still is.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Dario Argento"
+     },
+     {
+      "id": 430,
+      "title": "A Night of Horror: Nightmare Radio",
+      "optional_title": "Radio Siniestra",
+      "web_calification": 5,
+      "year": 2019,
+      "trailer": "https:\/\/www.youtube.com\/embed\/VynRV1tBjcc",
+      "clasification": "movie",
+      "gender": "anthology",
+      "cover": "https:\/\/www.hdfilmcehennemi.life\/uploads\/poster\/a-night-of-horror-nightmare-radio-izle.jpg",
+      "sinopsis": "Rod, radio DJ, hosts a popular horror-themed show packed with tales of terror for eager listeners. When he receives alarming calls from a horrified child things start to feel off.",
+      "add_date": "2024-03-02",
+      "universe": "None",
+      "director": "Oliver Park - Jason Bognacki - A.J. Briones"
      }
     ]
