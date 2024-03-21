@@ -50,15 +50,7 @@ const FullCatalogScreen = () => {
       {
         Object.keys(arrayOfCategories).map( (category, index) => {
           return (
-            <FullCatalogCoverContainer key={index} category={category}>
-              {
-                arrayOfCategories[category].map( (movie, index) => {
-                  return (
-                    <FullCatalogCover key={index} movie={movie} />
-                  )
-                })
-              }
-            </FullCatalogCoverContainer>
+            <FullCatalogCoverContainer key={index} category={category} data={arrayOfCategories[category]} />
           )
         })
       }
