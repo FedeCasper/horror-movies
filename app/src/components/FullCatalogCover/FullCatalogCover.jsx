@@ -2,8 +2,6 @@ import React from 'react'
 
 const FullCatalogCover = ( {movie} ) => {
 
-   console.log(movie);
-
    return (
       <div className="font-light">
          <a href='' className="text-red-700">

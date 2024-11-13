@@ -1,46 +1,41 @@
-import { useState, useEffect } from 'react'
 import SectionHeader from '../../components/SectionHeader/SectionHeader'
-import MoviesSeriesCard from '../../components/CardMoviesSeries/CardMoviesSeries';
+import CardMoviesSeries from '../../components/CardMoviesSeries/CardMoviesSeries';
+import { useSelector } from 'react-redux';
+import { useMemo } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const MoviesScreen = () => {
 
-  const [ data, setData ] = useState([])
-  const [ arrayOfMovies, setarrayOfMovies ] = useState([])
+  let mainData = useSelector((state) => state.search.allItems.filter(item => item.clasification === "movie"));
+  let filteredData = useSelector((state) => state.search.filteredItems);
 
-  const url = "src/data/data.json"
-  const getData = async () => {
-    fetch(url)
-      .then(response => response.json())
-      .then(data => {
-        console.log(data)
-        setData(data)
-      })
-      .catch(error => console.log(error))
-  }
 
-  const createMoviesArray = () => {
-    let filteredMovies = data.filter(movie => movie.clasification === "movie")
-    setarrayOfMovies(filteredMovies)
-    console.log(arrayOfMovies);
-  }
+  const mainArray = useMemo(() => {
+    return filteredData !== null ? filteredData : mainData;
+  }, [filteredData, mainData]);
 
-  useEffect(() => {
-    getData()
-  }, [])
 
-  useEffect(() => {
-    createMoviesArray()
-  }, [data])
+  const navigate = useNavigate(); // Obtén la función navigate
+
+  const handleCardClick = (id) => {
+    console.log("ejecutado")
+    navigate(`/details/${id}`); // Redirige a la pantalla de detalles con el id del item
+  };
+  
 
   return (
     <section>
       <SectionHeader title="Movies" />
-      <div className=" w-full inline-grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 pt-4 px-2  mx-0">
+      <div className=" w-full inline-grid grid-col-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 pt-4 px-8  mx-0">
 
         {
-          arrayOfMovies.map(movie => {
+          mainArray.map( movie => {
             return(
-              <MoviesSeriesCard object={movie} />
+              <CardMoviesSeries 
+                key={movie.id}
+                object={movie} 
+                onClick={ () => handleCardClick(movie.id) }
+                />
             )
           })
         }

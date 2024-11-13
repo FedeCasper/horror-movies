@@ -42,6 +42,7 @@ const FullCatalogScreen = () => {
     createCategoryArray()
   }, [data])
 
+
   return (
     <section>
 
@@ -49,8 +50,14 @@ const FullCatalogScreen = () => {
       
       {
         Object.keys(arrayOfCategories).map( (category, index) => {
+
+
           return (
-            <FullCatalogCoverContainer key={index} category={category} data={arrayOfCategories[category]} />
+            <FullCatalogCoverContainer 
+              key={index} 
+              category={category} 
+              arrayOfMovies={arrayOfCategories[`${category}`]} 
+              />
           )
         })
       }

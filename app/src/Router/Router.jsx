@@ -6,6 +6,8 @@ import BookScreen from "../pages/BooksScreen/BookScreen.jsx";
 import ShortsScreen from "../pages/ShortsScreen/ShortsScreen.jsx";
 import TopsScreen from "../pages/TopsScreen/TopsScreen.jsx";
 import LayoutMain  from "../pages/Layout.jsx";
+import ItemDetailsScreen from "../pages/ItemDetailsScreen/ItemDetailsScreen.jsx";
+import HomeScreen from "../pages/HomeScreen/HomeScreen.jsx";
 
 const router = createBrowserRouter(
    [
@@ -15,27 +17,35 @@ const router = createBrowserRouter(
          children: [
             {
                path: "/",
+               element: <HomeScreen />
+            },
+            {
+               path: "/fullCatalog",
                element: <FullCatalogScreen />
             },
             {
-               path: "/movies",
+               path: "/movie",
                element: <MoviesScreen />
             },
             {
-               path: "/series",
+               path: "/serie",
                element: <SeriesScreen />
             },
             {
-               path: "/books",
+               path: "/book",
                element: <BookScreen />
             },
             {
-               path: "/shorts",
+               path: "/short",
                element: <ShortsScreen />
             },
             {
-               path: "/tops",
+               path: "/top",
                element: <TopsScreen />
+            },
+            {
+               path: "details/:id",
+               element: <ItemDetailsScreen />
             }
          ]
       }
