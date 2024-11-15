@@ -16,7 +16,7 @@ const SeriesScreen = () => {
   return (
     <>
       <SectionHeader title="Movies" />
-      <section className="inline-grid grid-cols-2 gap-2 pt-4 px-2 w-100 mx-0">
+      <section className="inline-grid grid-cols-1 gap-2 pt-4 px-2 w-100 mx-0">
         {
           mainArray.map( serie => {
             return(

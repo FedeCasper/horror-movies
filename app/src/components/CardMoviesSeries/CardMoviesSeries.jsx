@@ -1,5 +1,6 @@
 import StarHalfIcon from '@mui/icons-material/StarHalf';
 
+
 const CardMoviesSeries = ( { object, onClick } ) => {
    return (
       <>

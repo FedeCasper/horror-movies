@@ -3,13 +3,12 @@ import SearchBar from '../../components/SearchBar/SearchBar'
 import CardMoviesSeries from '../../components/CardMoviesSeries/CardMoviesSeries';
 import { useSelector } from 'react-redux';
 import { useMemo } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 function HomeScreen() {
 
     let mainData = useSelector((state) => state.search.allItems);
-    console.log(mainData);
     let filteredData = useSelector((state) => state.search.filteredItems);
-    console.log(filteredData);
   
     let copyArray = [...mainData].sort(() => Math.random() - 0.5);
   
@@ -17,7 +16,7 @@ function HomeScreen() {
       return filteredData !== null ? filteredData : copyArray;
     }, [filteredData, mainData]);
 
-    console.log(mainArray);
+    const navigate = useNavigate(); 
 
     return (
         <div>
@@ -29,6 +28,7 @@ function HomeScreen() {
                         <CardMoviesSeries 
                             key={movie.id}
                             object={movie} 
+                            onClick={ () => navigate(`/details/${movie.id}`) }
                             />
                     )
                 })

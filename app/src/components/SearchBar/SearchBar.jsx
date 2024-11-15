@@ -17,15 +17,15 @@ function SearchBar() {
 
   return (
     <>
-        <SearchIcon />
-        <input 
-            type="search"
-            name="search"
-            id="" 
-            placeholder="Search"
-            onChange={handleSearch}
-            className="w-72 bg-neutral-400 rounded py-1 px-2 border border-neutral-500 focus:outline-none  focus:border-red-500" 
-            />
+      <SearchIcon />
+      <input 
+        type="search"
+        name="search"
+        id="" 
+        placeholder="Search"
+        onChange={handleSearch}
+        className="w-72 bg-neutral-400 rounded py-1 px-2 border border-neutral-500 focus:outline-none  focus:border-red-500" 
+        />
     </>
   )
 }

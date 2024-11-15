@@ -3,25 +3,18 @@ import CardMoviesSeries from '../../components/CardMoviesSeries/CardMoviesSeries
 import { useSelector } from 'react-redux';
 import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { handleCardClick } from '../../utils/screenUtils';
 
 const MoviesScreen = () => {
 
   let mainData = useSelector((state) => state.search.allItems.filter(item => item.clasification === "movie"));
   let filteredData = useSelector((state) => state.search.filteredItems);
 
-
   const mainArray = useMemo(() => {
     return filteredData !== null ? filteredData : mainData;
   }, [filteredData, mainData]);
 
-
-  const navigate = useNavigate(); // Obtén la función navigate
-
-  const handleCardClick = (id) => {
-    console.log("ejecutado")
-    navigate(`/details/${id}`); // Redirige a la pantalla de detalles con el id del item
-  };
-  
+  const navigate = useNavigate(); 
 
   return (
     <section>
@@ -34,7 +27,7 @@ const MoviesScreen = () => {
               <CardMoviesSeries 
                 key={movie.id}
                 object={movie} 
-                onClick={ () => handleCardClick(movie.id) }
+                onClick={ () => navigate(`/details/${movie.id}`) }
                 />
             )
           })

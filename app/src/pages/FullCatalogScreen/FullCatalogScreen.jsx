@@ -44,7 +44,7 @@ const FullCatalogScreen = () => {
 
 
   return (
-    <section>
+    <section className='w-full'>
 
       <SectionHeader title="Full Catalog" />
       
