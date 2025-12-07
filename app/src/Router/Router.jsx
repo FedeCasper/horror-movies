@@ -49,7 +49,10 @@ const router = createBrowserRouter(
             }
          ]
       }
-   ]
+   ],
+   {
+      basename: import.meta.env.PROD ? "/horror-movies" : ""
+   }
 )
 
 export default router

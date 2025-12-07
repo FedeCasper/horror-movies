@@ -11,7 +11,7 @@ const SectionHeader = ( { title } ) => {
          <div className="w-full flex flex-col items-center">
             <div className="w-full flex flex-row align-items-center justify-around border-b border-b-red-700 pb-2">
                <div className="flex align-items-center">
-                  <img src="src/assets/ghost2.png" alt="skull" />
+                  <img src="/ghost2.png" alt="ghost" />
                   <h4 className="m-0 text-red-700 ps-2">{title}</h4>
                </div>
                <div className="text-white">Found xxx stories!</div>
