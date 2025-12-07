@@ -1,0 +1,9 @@
+.navbar-fixed-bottom{
+   position: fixed;
+   bottom: 0;
+}
+
+.navbar-fixed-top{
+   position: fixed;
+   top: 0;
+}
