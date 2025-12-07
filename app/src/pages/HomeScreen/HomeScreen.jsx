@@ -19,7 +19,8 @@ const PREAD_SHEET_ID = "1pdh1qYBuJ6eCf630sQqFEXrt0MprQRBC_5lT7X0qYj4";
 const SHEET_NAME = "movies";
 const SHEET_URL = `https://opensheet.elk.sh/${PREAD_SHEET_ID}/${SHEET_NAME}`;
 
-const WORKER_URL = "http://127.0.0.1:8787";
+// Usar Worker en desarrollo, Google Sheets en producción
+const WORKER_URL = import.meta.env.DEV ? "http://127.0.0.1:8787" : SHEET_URL;
 
 async function fetchMovies() {
    const res = await fetch(WORKER_URL);
