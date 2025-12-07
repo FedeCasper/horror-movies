@@ -51,7 +51,6 @@ const FullCatalogScreen = () => {
       {
         Object.keys(arrayOfCategories).map( (category, index) => {
 
-
           return (
             <FullCatalogCoverContainer 
               key={index} 

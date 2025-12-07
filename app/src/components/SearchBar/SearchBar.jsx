@@ -4,6 +4,8 @@ import { useDispatch } from 'react-redux';
 import { setSearchQuery } from '../../store/actions/searchActions';
 import { useLocation } from "react-router-dom";
 
+import s from './SearchBar.module.css'
+
 function SearchBar() {
 
     const location = useLocation();
@@ -17,6 +19,9 @@ function SearchBar() {
 
   return (
     <>
+      <div className="flex items-center gap-2 p-3">
+
+
       <SearchIcon />
       <input 
         type="search"
@@ -24,8 +29,9 @@ function SearchBar() {
         id="" 
         placeholder="Search"
         onChange={handleSearch}
-        className="w-72 bg-neutral-400 rounded py-1 px-2 border border-neutral-500 focus:outline-none  focus:border-red-500" 
+        className="w-full relative bg-neutral-400 rounded py-1 px-2 border border-neutral-500 focus:outline-none  focus:border-red-500" 
         />
+        </div>
     </>
   )
 }

@@ -1,0 +1,6 @@
+.search-bar-container{
+    background-color: lightgreen;
+    padding: 1rem;
+    height: 100%;
+    max-height: 5rem;
+}

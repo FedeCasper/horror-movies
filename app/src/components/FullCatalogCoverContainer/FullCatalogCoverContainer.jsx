@@ -1,11 +1,12 @@
 import React from 'react'
 import FullCatalogCover from '../FullCatalogCover/FullCatalogCover'
+import CardMoviesSeries from '../CardMoviesSeries/CardMoviesSeries'
 
 const FullCatalogCoverContainer = ( {category, arrayOfMovies} ) => {
 
    return (
       <>
-         <div className="w-full flex flex-col pt-4 px-2 border border-yellow-500">
+         <div className="w-full flex flex-col pt-4 px-2">
             <h4 className="text-white mb-3">
                <span className="font-bold text-red-700 me-2">
                   |
@@ -16,7 +17,12 @@ const FullCatalogCoverContainer = ( {category, arrayOfMovies} ) => {
                {
                   arrayOfMovies.map( (movie) => {
                      return (
-                        <FullCatalogCover key={movie.id} movie={movie} />
+                        // <FullCatalogCover key={movie.id} movie={movie} />
+                                       <CardMoviesSeries
+                  key={movie.id}
+                  object={movie}
+                  onClick={() => navigate(`/details/${item.id}`)}
+               />
                      )
                   })
                }
