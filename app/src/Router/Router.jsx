@@ -15,13 +15,15 @@ const routes = [
     element: <LayoutMain />,
     children: [
       { path: "/", element: <HomeScreen /> },
-      { path: "/fullCatalog", element: <FullCatalogScreen /> },
-      { path: "/movie", element: <MoviesScreen /> },
-      { path: "/serie", element: <SeriesScreen /> },
-      { path: "/book", element: <BookScreen /> },
-      { path: "/short", element: <ShortsScreen /> },
-      { path: "/top", element: <TopsScreen /> },
+      { path: "fullCatalog", element: <FullCatalogScreen /> },
+      { path: "movie", element: <MoviesScreen /> },
+      { path: "serie", element: <SeriesScreen /> },
+      { path: "book", element: <BookScreen /> },
+      { path: "short", element: <ShortsScreen /> },
+      { path: "top", element: <TopsScreen /> },
       { path: "details/:id", element: <ItemDetailsScreen /> },
+      // Catch-all route para errores
+      { path: "*", element: <HomeScreen /> }
     ],
   },
 ];
