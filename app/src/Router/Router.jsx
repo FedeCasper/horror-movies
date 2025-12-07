@@ -9,12 +9,15 @@ import LayoutMain  from "../pages/Layout.jsx";
 import ItemDetailsScreen from "../pages/ItemDetailsScreen/ItemDetailsScreen.jsx";
 import HomeScreen from "../pages/HomeScreen/HomeScreen.jsx";
 
+const ErrorElement = () => <div style={{ color: 'white', padding: '20px' }}>Página no encontrada. <a href="#/">Volver al inicio</a></div>;
+
 const routes = [
   {
     path: "/",
     element: <LayoutMain />,
+    errorElement: <ErrorElement />,
     children: [
-      { path: "/", element: <HomeScreen /> },
+      { path: "", element: <HomeScreen /> },
       { path: "fullCatalog", element: <FullCatalogScreen /> },
       { path: "movie", element: <MoviesScreen /> },
       { path: "serie", element: <SeriesScreen /> },
@@ -22,13 +25,14 @@ const routes = [
       { path: "short", element: <ShortsScreen /> },
       { path: "top", element: <TopsScreen /> },
       { path: "details/:id", element: <ItemDetailsScreen /> },
-      // Catch-all route para errores
-      { path: "*", element: <HomeScreen /> }
     ],
   },
+  {
+    path: "*",
+    element: <HomeScreen />,
+  }
 ];
 
-// Usar HashRouter (rutas con #) - funciona perfectamente en GitHub Pages
 const router = createHashRouter(routes);
 
 export default router;
