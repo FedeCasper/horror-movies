@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Redirecting...</title>
   <script>
-    // Redirigir cualquier 404 al index.html manteniendo la ruta
-    const path = window.location.pathname.replace('/horror-movies', '');
-    window.location.href = '/horror-movies/#' + path;
+    // GitHub Pages 404 redirect para SPA con HashRouter
+    window.location.replace('/horror-movies/');
   </script>
 </head>
 <body>

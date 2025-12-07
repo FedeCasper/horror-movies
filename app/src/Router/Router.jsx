@@ -1,4 +1,4 @@
-import { createBrowserRouter, createHashRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import FullCatalogScreen from "../pages/FullCatalogScreen/FullCatalogScreen.jsx";
 import MoviesScreen from "../pages/MoviesScreen/MoviesScreen.jsx";
 import SeriesScreen from "../pages/SeriesScreen/SeriesScreen.jsx";
@@ -8,12 +8,6 @@ import TopsScreen from "../pages/TopsScreen/TopsScreen.jsx";
 import LayoutMain  from "../pages/Layout.jsx";
 import ItemDetailsScreen from "../pages/ItemDetailsScreen/ItemDetailsScreen.jsx";
 import HomeScreen from "../pages/HomeScreen/HomeScreen.jsx";
-
-// Derivar el basename en este orden:
-// 1. `window.__BASENAME__` definido en el HTML (útil para GH Pages)
-// 2. Si es build de producción, usar "/horror-movies"
-// 3. Por defecto, cadena vacía
-const computedBasename = (typeof window !== 'undefined' && window.__BASENAME__) || (import.meta.env.PROD ? "/horror-movies" : "")
 
 const routes = [
   {
@@ -32,9 +26,7 @@ const routes = [
   },
 ];
 
-// Usar Hash Router en producción para evitar problemas de rutas estáticas en GitHub Pages
-const router = import.meta.env.PROD
-  ? createHashRouter(routes)
-  : createBrowserRouter(routes, { basename: computedBasename });
+// Usar HashRouter (rutas con #) - funciona perfectamente en GitHub Pages
+const router = createHashRouter(routes);
 
 export default router;
