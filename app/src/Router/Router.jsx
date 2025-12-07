@@ -9,6 +9,12 @@ import LayoutMain  from "../pages/Layout.jsx";
 import ItemDetailsScreen from "../pages/ItemDetailsScreen/ItemDetailsScreen.jsx";
 import HomeScreen from "../pages/HomeScreen/HomeScreen.jsx";
 
+// Derivar el basename en este orden:
+// 1. `window.__BASENAME__` definido en el HTML (útil para GH Pages)
+// 2. Si es build de producción, usar "/horror-movies"
+// 3. Por defecto, cadena vacía
+const computedBasename = (typeof window !== 'undefined' && window.__BASENAME__) || (import.meta.env.PROD ? "/horror-movies" : "")
+
 const router = createBrowserRouter(
    [
       {
