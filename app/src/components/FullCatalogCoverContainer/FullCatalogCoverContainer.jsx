@@ -1,8 +1,31 @@
 import React from 'react'
+import { useNavigate } from 'react-router-dom'
 import FullCatalogCover from '../FullCatalogCover/FullCatalogCover'
 import CardMoviesSeries from '../CardMoviesSeries/CardMoviesSeries'
 
-const FullCatalogCoverContainer = ( {category, arrayOfMovies} ) => {
+const FullCatalogCoverContainer = ({ category, arrayOfMovies }) => {
+const navigate = useNavigate()
+
+const handleMovieClick = async (movie) => {
+  try {
+    const response = await fetch(
+      `https://api.imdbapi.dev/search/titles?query=${encodeURIComponent(movie.title)}`,
+      {
+        headers: {
+          accept: "application/json",
+        },
+      }
+    );
+
+    const data = await response.json();
+
+    // Acá navegás y le pasás la data obtenida
+    navigate(`/details/${movie.id}`, { state: { movieData: data } });
+  } catch (err) {
+    console.error("Error calling IMDB API:", err);
+  }
+};
+
 
    return (
       <>
@@ -15,14 +38,13 @@ const FullCatalogCoverContainer = ( {category, arrayOfMovies} ) => {
             </h4>
             <div className="flex overflow-x-auto gap-3 mb-4 w-full border-2 border-red-500">
                {
-                  arrayOfMovies.map( (movie) => {
+                  arrayOfMovies.map((movie) => {
                      return (
-                        // <FullCatalogCover key={movie.id} movie={movie} />
-                                       <CardMoviesSeries
-                  key={movie.id}
-                  object={movie}
-                  onClick={() => navigate(`/details/${item.id}`)}
-               />
+                        <CardMoviesSeries
+                           key={movie.id}
+                           object={movie}
+                           onClick={() => handleMovieClick(movie)}
+                        />
                      )
                   })
                }
